@@ -1,0 +1,501 @@
+project_id,project_name,state_abbr,category_id,contractor_id,status,budget_million_usd,actual_cost_million_usd,cost_overrun_pct,planned_start_date,actual_start_date,planned_end_date,actual_end_date,federal_funding_pct,congressional_district,project_manager,created_at,last_updated
+1,Denver School District Renovation,SC,15,1,On Hold,990.65,N/A,,03/16/2022,2020/07/08,2022-04-26,,39.1,7,Patricia Wilson,2021-06-09,27/10/2022
+2,Bridge 736 Structural Repairs,WV,9,1,Active,,2266.48,25.7,09-12-2020,05-26-2024,2026-09-03,,31.2,,Maria Anderson,01/09/2019,19/05/2022
+3,Phoenix Flood Control Project,DE,8,21,completed ,,3836.35,-3.2,05/04/2020,29/06/2018,03/28/2024,27/03/2022,38.9,20,Thomas Moore,28/07/2021,01/17/2025
+4,Downtown Atlanta Transit Hub,KS,5,11,Completed,1287.63,1610.83,,12/10/2022,,,12-21-2023,46.8,,Jennifer Thomas,10/06/2019,07-17-2023
+5,Connecticut Broadband Expansion Phase 376,CT,13,3,Active,2728.33,2932.95,7.5,04-10-2019,2018-04-17,02-02-2024,,49.9,25,Thomas Williams,2018/06/21,06/18/2023
+6,Austin Stormwater System,NC,4,26,Completed,1549.74,2095.25,35.2,03/09/2024,06/16/2019,2028-11-11,2022/06/26,23.9,26,Patricia Taylor,2019/12/13,2024-04-21
+7,Portland Emergency Communications,IN,4,21,Completed,2580.79,2573.05,?,11-22-2019,21/08/2024,2028-07-06,11/12/2022,30.3,40,Patricia Thomas,11-23-2018,02-28-2025
+8,I-576 Safety Improvements,KY,3,25,Active,1015.68,1026.85,1.1,2023-01-16,2020/10/12,08/01/2023,,25.8,19,Michael Thomas,07/05/2019,2023-05-24
+9,Nashville Wastewater Treatment Plant,OH,7,5,Active,190.5,185.93,-2.4,2024/04/20,2020-03-08,,,53.2,5,Michael Anderson,07-12-2019,01-31-2025
+10,Regional Rail Corridor 520,NJ,7,20,Completed,2236.06,,30.4,12/05/2021,04/30/2023,,2024-01-25,39.9,8,Michael Thomas,2018/09/23,24/02/2022
+11,Alaska Broadband Expansion Phase 213,AK,12,2,Completed,4192.12,4984.43,18.9,03-24-2022,07-09-2021,2023/12/11,30/07/2024,74.7,22,Thomas Wilson,2020-10-16,2023-06-26
+12,New Orleans Wastewater Treatment Plant,SC,15,15,Active,2262.26,3205.62,41.7,17/01/2021,07/17/2019,03-24-2023,,56.9,,Sarah Davis,2017/04/14,2024-12-23
+13,Denver Flood Control Project,VA,7,29,Active,2080.86,2950.66,41.8,03/31/2021,,02-07-2022,,37.9,39,Maria Wilson,2018/08/06,19/07/2024
+14,Montana Broadband Expansion Phase 332,MT,2,6,ACTIVE,29.18,33.32,14.2,01-04-2023,12/29/2020,12/09/2025,,38.1,47,Karen Johnson,2018/06/20,01/07/2024
+15,Pittsburgh Water Main Upgrade,VT,4,22,On Hold,1519.82,2141.43,40.9,2019-04-05,09-10-2018,22/02/2028,,,13,Karen Anderson,2017-11-03,2022-12-03
+16,Route 419 Bridge Replacement,PA,15,16,Active,569.23,723.49,27.1,2022/09/18,14/03/2022,04/16/2026,,46.9,25,Michael Williams,,2025/01/09
+17,Wyoming Interstate 212 Reconstruction,WY,15,29,Planning,2494.77,,,01-03-2023,,2028/09/14,,60.3,4,Sarah Johnson,04/04/2019,2024-06-17
+18,South Carolina Electric Grid Hardening,SC,11,22,Completed,1714.98,1886.48,10.0,01/24/2020,,2027/04/24,2023-05-09,71.0,20,Patricia Brown,07-09-2021,2024-08-06
+19,Downtown New Orleans Transit Hub,AZ,15,7,Active,2538.68,2670.69,5.2,,03/11/2024,,,66.5,25,Lisa Anderson,2020/08/21,06/01/2024
+20,Portland Airport Terminal Expansion,NM,11,22,Completed,4059.35,,,07/03/2023,,11/21/2023,12-23-2023,30.2,47,Thomas Taylor,2018-01-12,
+21,New Mexico Interstate 740 Reconstruction,NM,7,1,Active,4105.42,3937.1,-4.1,2022-10-30,05/01/2020,15/03/2023,,,34,Robert Davis,01-29-2018,2024-12-14
+22,Port of Miami Modernization,MS,15,,Cancelled,3727.78,,,2023/05/02,15/01/2021,2022/07/10,,75.4,44,David Anderson,02-29-2020,
+23,Charlotte Water Main Upgrade,OK,4,27,Completed,4010.43,4603.97,14.8,08-29-2021,2018-05-02,,07-11-2024,49.4,,Thomas Moore,2019/06/04,16/01/2023
+24,I-96 Safety Improvements,OH,1,3,Completed,3294.75,4553.34,38.2,02/20/2018,10/04/2021,08/22/2026,03/05/2024,66.8,47,Thomas Davis,03-17-2020,03/12/2024
+25,Regional Rail Corridor 618,ME,10,5,Delayed,843.98,934.29,-,06/20/2022,07-31-2021,2025-04-08,,64.1,41,Lisa Thomas,05/21/2021,12/05/2023
+26,Baltimore Stormwater System,PA,8,20,On Hold,3865.69,5009.93,29.6,2024-02-05,,2026/01/12,,62.1,52,Thomas Thomas,2020/07/30,06/24/2022
+27,Downtown Memphis Transit Hub,SC,1,16,Delayed,361.05,493.19,36.6,08/04/2019,2021/11/27,2025/07/01,,40.6,51,Sarah Anderson,17/09/2019,
+28,US-399 Resurfacing Project,HI,15,7,N/A,902.54,,,02-14-2021,,09/14/2022,,54.6,52,Thomas Brown,2019/01/20,30/10/2023
+29,Seattle Emergency Communications,OK,3,16,Active,1213.46,1266.85,,01-22-2023,,01-10-2026,,77.1,32,Robert Davis,2021-07-28,2024/02/26
+30,Route 560 Bridge Replacement,AL,9,27,Active,1785.94,2353.87,31.8,2020-10-10,2021/05/04,2022/05/13,,47.0,23,Maria Taylor,2021-11-08,29/08/2022
+31,New York Broadband Expansion Phase 256,NY,5,28,Active,1353.15,1453.28,7.4,2022-05-28,28/06/2023,08-06-2023,,54.6,18,William Moore,02-08-2019,07-14-2024
+32,Charlotte Stormwater System,NM,10,5,Completed,203.79,203.79,-0.0,02/26/2023,2018-03-08,2023-05-24,2022-11-20,46.5,n/a,Michael Davis,11/11/2020,28/09/2022
+33,Boston Water Main Upgrade,PA,4,13,Active,3700.21,3770.51,1.9,30/06/2019,08/09/2019,2022-10-08,,51.8,1,Karen Brown,,12-21-2023
+34,Bridge 766 Structural Repairs,AZ,9,20,delayed,2714.09,3642.31,34.2,2020-09-07,2023-07-21,2026-04-30,,26.8,32,William Thomas,26/05/2017,2024-12-17
+35,New Hampshire Broadband Expansion Phase 86,NH,9,18,Active,2147.72,2259.4,5.2,09/29/2019,01/07/2024,08-31-2025,,43.4,41,William Williams,09-28-2018,2024-06-14
+36,Sacramento Airport Terminal Expansion,WY,15,1,On Hold,1104.76,,N/A,12/11/2018,07/26/2023,2027-02-08,,50.6,4,Lisa Thomas,12-08-2017,2024-01-24
+37,Bridge 184 Structural Repairs,NE,6,4,Active,2166.49,2107.99,-2.7,2022/07/01,10/10/2018,21/03/2027,,72.0,n/a,David Wilson,,02-06-2025
+38,Port of Sacramento Modernization,OH,4,17,Delayed,4084.76,4170.54,2.1,20/02/2021,01-17-2019,06-29-2022,,75.3,34,Michael Wilson,28/07/2019,23/06/2022
+39,Highway 316 Widening,GA,9,12,On Hold,3580.5,3562.6,-0.5,2021-05-31,06/15/2018,2024-05-30,,70.2,21,Robert Williams,2020-12-27,05-24-2023
+40,Highway 829 Widening,PA,1,3,Active,3801.37,5188.87,36.5,20/09/2021,2019/05/17,2022-06-24,,76.5,4,Robert Thomas,2019/06/07,19/03/2024
+41,New Orleans Emergency Communications,SD,6,16,Delayed,2110.3,2414.18,14.4,01/07/2020,17/04/2018,07/30/2025,,55.8,2,David Johnson,,2024/08/24
+42,Highway 556 Widening,NE,3,19,Active,2060.09,2049.79,-0.5,2020-08-10,15/06/2020,03-23-2022,,51.6,1,Jennifer Thomas,02-17-2018,2022/09/25
+43,I-682 Safety Improvements,DE,15,30,Completed,736.89,812.79,10.3,2021-04-21,06-06-2019,12-29-2023,2022-01-04,76.9,37,Michael Thomas,08/03/2017,08/01/2023
+44,I-385 Safety Improvements,IA,15,13,on hold,2014.12,2783.51,38.2,12/07/2020,10/29/2019,23/01/2027,,24.4,3,David Johnson,2018/10/15,06-19-2023
+45,Route 586 Bridge Replacement,WI,4,4,,2062.24,2014.81,-2.3,2018/01/16,10-18-2022,12-25-2022,2023-08-27,69.4,41,Karen Taylor,,2022-07-18
+46,Sacramento Emergency Communications,IL,11,12,Completed,955.94,936.82,-2.0,05/05/2022,11/11/2023,11/09/2026,,61.2,31,Karen Davis,09-03-2019,2023-09-05
+47,Illinois Electric Grid Hardening,IL,7,18,Cancelled,2182.93,,,20/02/2018,03/08/2024,,,66.9,n/a,Michael Brown,2017-10-31,03-06-2025
+48,Regional Rail Corridor 288,AL,1,11,N/A,3604.66,,,2019/02/07,2020/07/22,2023-07-05,,38.0,,Lisa Wilson,,
+49,Nashville Wastewater Treatment Plant,AL,12,7,On Hold,1667.46,2354.45,41.2,05/06/2018,09-17-2020,2026/03/06,,49.3,,Robert Taylor,04/16/2020,2025-02-03
+50,Regional Rail Corridor 434,MA,5,20,,3576.74,4216.98,17.9,06-12-2020,03-27-2023,05-22-2025,,60.6,,Karen Moore,2020/04/12,07-29-2022
+51,Rhode Island Interstate 303 Reconstruction,RI,3,24,Active,1758.27,2011.46,14.4,2018/05/25,07/16/2024,06-01-2028,,69.0,22,Patricia Davis,11-06-2020,12-30-2024
+52,Denver Stormwater System,UT,14,4,Completed,2437.52,3071.28,26.0,04-19-2023,03/07/2020,2027-08-12,,72.0,25,Thomas Miller,2019-04-27,21/04/2022
+53,New Orleans School District Renovation,NH,7,13,Planning,2242.12,,,2022/03/09,,02/27/2022,,73.5,49,Thomas Davis,06/02/2017,
+54,Highway 604 Widening,MA,12,5,ACTIVE,517.72,676.14,30.6,2018/06/03,2022/03/17,13/11/2024,,66.3,40,James Thomas,04/09/2017,08-10-2022
+55,Memphis School District Renovation,MS,4,12,Planning,2084.94,,,2020-04-30,,05-23-2027,,39.8,1,James Williams,2017-08-15,03/21/2025
+56,US-900 Resurfacing Project,MN,6,29,Completed,1565.33,1754.73,12.1,04/12/2019,06-30-2022,06/28/2026,23/07/2024,36.3,,Patricia Taylor,06-27-2021,
+57,Port of Charlotte Modernization,RI,9,,On Hold,2942.59,2936.7,-0.2,10-15-2020,2023-05-28,2025/11/17,,59.8,42,Michael Brown,15/09/2021,2025-02-17
+58,Iowa Interstate 414 Reconstruction,IA,12,21,Active,2340.17,2223.16,-5.0,2019-01-08,06-01-2021,09-14-2027,,,42,William Taylor,30/11/2018,2024/01/15
+59,Washington Electric Grid Hardening,WA,4,4,planning,800.84,896.14,11.9,2022-08-25,2018/07/10,08-08-2028,10/09/2022,66.3,29,Lisa Thomas,10-30-2019,03/10/2022
+60,Bridge 864 Structural Repairs,NC,3,14,Completed,3615.04,4721.24,30.6,17/03/2024,2020/06/09,02/04/2024,2023/03/06,57.5,,William Wilson,,09/29/2022
+61,Maryland Broadband Expansion Phase 708,MD,11,9,Completed,857.2,1046.64,22.1,2022-01-09,,2023/02/24,15/06/2025,72.1,48,Thomas Davis,2021/03/01,02/23/2025
+62,Regional Rail Corridor 182,WY,12,7,Under Review,313.23,448.23,43.1,06/10/2023,2019/05/04,03-26-2026,,22.4,18,Thomas Miller,24/09/2017,11/26/2022
+63,Nashville Airport Terminal Expansion,AZ,11,11,Active,3161.28,3840.96,21.5,2024/04/18,2018-02-06,04/15/2023,,60.1,29,Sarah Thomas,2020-06-26,05/15/2023
+64,Downtown Miami Transit Hub,RI,7,27,Completed,3690.34,4874.94,32.1,2022-11-18,2018/10/23,,2022-02-18,47.6,22,James Williams,05-31-2017,04-22-2022
+65,Vermont Electric Grid Hardening,VT,15,15,Completed,1991.01,2423.06,21.7,2019/07/13,05/21/2022,02-14-2028,08/28/2023,77.6,,David Wilson,2017/01/23,2025/02/07
+66,Portland Water Main Upgrade,PA,5,22,Active,2438.71,3477.6,,01/02/2022,10/06/2019,08-18-2024,,26.0,40,Maria Davis,2018/10/13,2024/09/22
+67,Illinois Broadband Expansion Phase 202,IL,14,9,Cancelled,3722.67,3678.0,-1.2,05/11/2018,2018-03-18,2027/09/09,,57.9,53,Karen Thomas,04/10/2019,04/23/2025
+68,Nebraska Broadband Expansion Phase 962,NE,10,n/a,Active,919.43,1097.8,19.4,15/09/2018,12-18-2020,2026-02-22,,34.0,43,Sarah Anderson,09/06/2021,2024/01/10
+69,California Broadband Expansion Phase 170,CA,9,29,Active,2161.32,,,09/08/2019,2020/02/05,,,41.7,46,Maria Davis,2019/04/30,11-08-2023
+70,New Orleans Stormwater System,IL,4,?,Active,1725.52,1761.76,2.1,2020-01-15,2023/09/24,2024-12-19,,30.1,-,Jennifer Taylor,05-06-2020,2025/04/24
+71,Baltimore Stormwater System,OK,4,26,Completed,3113.98,,33.1,02-05-2019,09/10/2022,07-03-2023,2023/06/06,48.6,15,Maria Miller,10/05/2020,2025/01/18
+72,Salt Lake City Emergency Communications,NV,3,12,Active,1288.29,1445.46,12.2,2022/06/19,2019-07-20,05-03-2023,,,29,Patricia Brown,2017/07/25,2023/03/16
+73,New Orleans Flood Control Project,NY,13,27,Planning,3572.46,,,2023-10-24,,,,31.7,51,Karen Anderson,11-23-2019,04/20/2023
+74,Utah Interstate 180 Reconstruction,UT,15,13,Active,447.6,441.33,,2021-04-20,10/24/2021,04/25/2023,,68.2,17,Thomas Thomas,05-28-2018,06-25-2024
+75,New Orleans Flood Control Project,PA,9,30,Active,3756.18,4075.46,,2020-02-18,08-06-2023,28/03/2024,,34.1,16,David Davis,2018/04/15,02/20/2023
+76,Route 819 Bridge Replacement,VT,10,5,completed ,3946.58,3812.4,-3.4,11/23/2021,06/01/2022,12-17-2023,,47.4,8,Patricia Anderson,2019-08-01,10/09/2023
+77,New Mexico Electric Grid Hardening,NM,7,28,Completed,3102.01,,18.6,09/02/2018,12-25-2019,2026/09/23,10-20-2024,28.1,41,Thomas Anderson,2021/01/15,2023/10/09
+78,I-690 Safety Improvements,VA,13,10,On Hold,3254.04,3816.99,17.3,18/11/2018,04-10-2022,2028/11/18,,37.2,,Robert Brown,08-04-2020,2023-11-22
+79,Downtown Boston Transit Hub,AZ,3,13,Delayed,1987.64,,-2.3,15/06/2022,2023/11/17,2022/12/07,,26.2,40,Robert Williams,2020/09/03,2024/03/09
+80,Salt Lake City Stormwater System,WI,15,12,Completed,1856.09,2102.95,13.3,2020/11/30,09/30/2019,28/05/2025,01/22/2022,20.0,53,Robert Wilson,08-11-2018,2024/08/18
+81,Seattle Water Main Upgrade,MO,7,7,Active,,TBD,25.9,01-19-2021,2023-07-09,02/09/2024,,39.2,10,James Anderson,15/02/2017,2023-01-16
+82,Wyoming Electric Grid Hardening,WY,12,8,Completed,141.23,,18.0,20/01/2019,11/05/2023,2024/05/03,08/26/2024,,,Jennifer Brown,12/07/2020,03/28/2022
+83,Port of Seattle Modernization,AL,13,3,Planning,2598.5,,,2018-09-03,,09-02-2022,,41.3,10,Patricia Anderson,2021/06/09,2022/08/08
+84,New Jersey Broadband Expansion Phase 303,NJ,2,17,Completed,2274.97,2677.64,17.7,2023-09-04,,01/30/2024,02/08/2022,57.2,,Karen Davis,19/10/2018,2022/05/10
+85,Denver Wastewater Treatment Plant,HI,12,19,Active,3015.09,2885.44,-4.3,05/04/2020,07/06/2023,11/24/2022,,48.1,41,James Wilson,2020/02/17,01/05/2024
+86,Downtown Seattle Transit Hub,DE,11,14,Active,1686.84,1887.57,11.9,10/10/2019,,,,,23,Jennifer Anderson,,02/01/2024
+87,Salt Lake City Wastewater Treatment Plant,CO,1,25,Under review,3888.91,3993.91,2.7,2018-06-04,03-01-2023,,16/11/2022,28.3,24,Karen Davis,23/04/2018,2023-06-09
+88,Wyoming Interstate 56 Reconstruction,WY,4,24,Under review,173.44,211.6,22.0,09/05/2019,31/08/2021,20/08/2027,,61.9,10,James Moore,07-02-2019,05-03-2025
+89,Boston Water Main Upgrade,RI,15,19,Active,1534.44,1603.49,4.5,11/12/2021,08-29-2024,,,66.2,,Jennifer Thomas,2021/08/10,2024/06/24
+90,New Orleans Emergency Communications,MS,13,9,Completed,,771.72,29.9,2018-03-17,23/03/2022,15/07/2028,2025-09-20,51.6,17,Robert Johnson,05/08/2018,2023-02-16
+91,Bridge 342 Structural Repairs,FL,4,?,On Hold,3126.57,2998.38,-4.1,2021/12/12,12/26/2021,2025/05/23,,34.2,33,David Johnson,07/05/2020,06/12/2023
+92,Bridge 441 Structural Repairs,NC,5,,Under Review,4098.28,4192.54,2.3,05-02-2024,10/10/2019,07/24/2025,,24.1,35,Patricia Williams,01/13/2018,10-13-2023
+93,Phoenix Stormwater System,IL,12,25,Cancelled,1969.07,,,2022/03/12,01-24-2020,05/07/2026,,49.5,9,Robert Davis,2018/04/09,2022/03/08
+94,Route 112 Bridge Replacement,ME,15,23,On Hold,3473.53,3372.8,-2.9,10/03/2020,26/10/2023,2028/01/13,,43.7,48,James Anderson,05/03/2019,
+95,Highway 93 Widening,UT,10,29,Active,2905.37,,40.4,11/03/2019,05/22/2019,2023-01-09,,26.8,29,William Wilson,06/24/2017,2024-12-08
+96,Hawaii Interstate 510 Reconstruction,HI,13,9,Cancelled,2282.93,,,,2023/07/15,09-01-2024,,33.0,43,Lisa Taylor,2019/04/20,2024/06/23
+97,I-96 Safety Improvements,VA,8,24,Completed,1356.19,1897.31,39.9,10-05-2018,10-17-2022,2028/03/04,05-13-2022,37.6,9,Maria Miller,11/06/2018,12/15/2024
+98,South Dakota Interstate 25 Reconstruction,SD,5,7,On Hold,3346.38,4413.88,31.9,04/29/2020,08-26-2022,23/08/2026,,22.7,23,Thomas Davis,2017/01/24,17/02/2023
+99,Route 307 Bridge Replacement,OR,15,24,Completed,2848.59,3498.07,22.8,2018-03-18,2020-05-03,06/23/2028,11-04-2025,39.9,51,Jennifer Williams,2017-11-02,2023-07-29
+100,Nevada Broadband Expansion Phase 349,NV,15,N/A,Delayed,3076.39,3728.58,,09-02-2021,,02/07/2023,,69.3,34,William Brown,02/25/2018,2022-03-16
+101,Bridge 212 Structural Repairs,CA,10,18,Completed,2307.56,2506.01,8.6,2021/03/06,06-09-2024,2024/09/29,,24.3,40,Jennifer Anderson,28/06/2019,04-14-2022
+102,US-238 Resurfacing Project,RI,11,23,,604.06,844.48,39.8,2020-11-22,2022-01-28,2026/05/25,,31.0,43,Jennifer Wilson,2019-07-18,2024/09/25
+103,Salt Lake City Airport Terminal Expansion,OK,13,14,Active,2783.14,2752.53,-1.1,2023/06/17,2019-04-14,08/22/2028,,55.8,21,Thomas Williams,08-11-2021,06-30-2024
+104,I-597 Safety Improvements,OK,12,30,Planning,4142.98,,,2022/07/14,,06/07/2023,,71.2,4,Jennifer Anderson,04/19/2017,2022-01-02
+105,Sacramento Stormwater System,ME,1,5,Under Review,356.04,452.53,27.1,08-31-2022,,,,75.8,40,Robert Taylor,2019/11/10,05-18-2024
+106,Bridge 252 Structural Repairs,UT,9,3,On Hold,3115.21,4454.75,,11-16-2018,2024/01/18,02/07/2028,,38.7,4,Jennifer Anderson,,01/23/2022
+107,Portland Wastewater Treatment Plant,AR,2,28,Completed,1156.27,1246.46,7.8,04/02/2019,12/17/2019,08-20-2028,,59.5,,Robert Miller,22/05/2021,2023/04/29
+108,Massachusetts Electric Grid Hardening,MA,7,22,Active,3655.23,3494.4,-4.4,2023/01/13,2022/04/14,07/17/2025,,,,James Williams,,2023/12/26
+109,I-743 Safety Improvements,OH,11,15,Active,811.34,780.51,-3.8,2019-01-12,08-21-2018,08-30-2028,,59.4,,Karen Williams,2020-12-21,09-03-2022
+110,Miami Stormwater System,VA,8,3,Active,2711.21,2722.05,0.4,24/01/2024,2022/11/02,13/06/2024,,56.8,7,Lisa Miller,31/07/2017,13/03/2022
+111,I-699 Safety Improvements,GA,10,18,Active,232.29,336.59,44.9,01/07/2019,02/05/2022,,,71.2,22,Maria Taylor,07/04/2021,2023-08-17
+112,Denver Airport Terminal Expansion,FL,6,2,planning,,4352.67,28.4,2023/02/21,,2023-09-03,,64.5,15,Maria Johnson,15/02/2021,2022/10/17
+113,Highway 608 Widening,KS,3,11,Active,,TBD,8.7,08-28-2022,20/11/2019,02/24/2026,,53.2,29,Sarah Thomas,2017/03/25,01/10/2022
+114,Regional Rail Corridor 429,HI,2,21,Planning,990.07,,,2019-04-27,,12/12/2027,,78.6,40,Jennifer Anderson,,03/26/2023
+115,Downtown Atlanta Transit Hub,TX,8,17,Active,1868.53,2316.98,24.0,09/13/2022,03/25/2020,08-27-2025,,33.8,,Jennifer Davis,20/07/2017,05/01/2023
+116,Regional Rail Corridor 809,VT,6,8,Completed,4001.62,5614.27,40.3,,2020-07-29,2022/12/21,,71.4,32,Sarah Thomas,08/28/2019,2024-08-05
+117,Highway 368 Widening,DE,12,14,Active,2720.27,N/A,-0.5,05-20-2023,06-02-2021,2023/10/25,,62.2,,Patricia Thomas,2017-02-19,07-20-2024
+118,I-634 Safety Improvements,NY,2,13,Planning,1539.34,,,07/04/2024,,,,53.6,50,Sarah Brown,2018/11/17,04/05/2023
+119,Miami Water Main Upgrade,HI,6,26,Delayed,367.15,420.39,14.5,2020-01-03,,2022/11/12,,26.6,18,Maria Brown,2019/10/14,05/11/2022
+120,Utah Broadband Expansion Phase 176,UT,5,19,Completed,952.87,1082.46,13.6,03/26/2021,2018-07-13,08-31-2023,25/12/2023,37.1,11,Karen Brown,28/12/2020,01/01/2025
+121,Pittsburgh Emergency Communications,CO,3,1,completed ,1241.69,1735.88,39.8,,04/05/2024,2026-12-16,25/11/2023,61.3,47,Lisa Johnson,10-13-2017,02/02/2025
+122,Alabama Interstate 354 Reconstruction,AL,7,12,Active,4105.61,5694.48,38.7,25/12/2018,02/06/2020,12-25-2026,,64.5,27,Lisa Miller,02/12/2017,18/05/2024
+123,Regional Rail Corridor 506,FL,14,27,Completed,1946.77,1874.74,-3.7,01-11-2018,23/09/2019,2024-12-11,2023/09/07,,41,Lisa Williams,01/09/2020,08/13/2023
+124,Nashville Wastewater Treatment Plant,SC,3,2,Completed,4011.68,3907.38,-2.6,,12-10-2023,11/11/2022,11/18/2024,31.6,41,Robert Williams,2020/05/11,2022/12/09
+125,Downtown Sacramento Transit Hub,KS,12,18,Delayed,490.02,497.86,1.6,2018-03-13,2023-05-19,,,38.7,24,Robert Taylor,2021-12-28,05-08-2025
+126,Florida Interstate 802 Reconstruction,FL,2,10,Active,2527.73,3144.5,24.4,03/30/2020,2020/01/27,,,21.8,10,Patricia Miller,04/02/2020,2023-12-14
+127,Virginia Electric Grid Hardening,VA,14,12,delayed,1712.12,2278.83,33.1,11/07/2021,2019-05-22,24/03/2027,,-,9,Lisa Wilson,2020-12-14,14/08/2023
+128,Downtown Seattle Transit Hub,KY,12,19,Active,836.56,878.39,5.0,2022-07-14,18/05/2019,08/11/2024,,70.3,TBD,Lisa Miller,04-16-2021,2025/04/06
+129,Pittsburgh Water Main Upgrade,HI,2,25,On Hold,1957.56,,9.7,08/02/2023,07/02/2023,30/08/2027,,35.7,22,Thomas Anderson,06/02/2017,03/06/2022
+130,New Orleans Wastewater Treatment Plant,AR,1,13,,2591.34,2917.85,12.6,2021/03/11,2021-08-05,2022-09-09,,,3,Robert Wilson,2018/12/16,10/04/2025
+131,Austin Stormwater System,MO,1,23,Active,1639.57,2026.51,,24/06/2023,2019/02/14,2024-04-23,,40.2,33,William Wilson,08/12/2017,2023-09-06
+132,Bridge 444 Structural Repairs,ME,14,10,Completed,1316.43,1523.11,15.7,2020-10-26,10-12-2023,01/31/2027,10-07-2025,65.8,12,James Anderson,02/11/2021,01-18-2023
+133,Port of Baltimore Modernization,ME,3,9,Cancelled,806.45,N/A,7.3,,03-17-2023,2027-06-12,,53.6,28,Michael Johnson,2018-02-18,2022/11/23
+134,New Orleans Wastewater Treatment Plant,WY,15,17,Planning,2519.45,,,07/07/2021,,09/10/2025,,69.9,,Michael Davis,2019/05/17,
+135,Route 260 Bridge Replacement,AK,11,26,Completed,1299.27,1856.66,42.9,,15/05/2019,31/12/2027,04-30-2023,71.5,25,James Moore,2018/06/08,
+136,Charlotte Emergency Communications,OR,10,24,Completed,3200.42,4067.73,27.1,01/23/2020,2022/12/22,07-12-2023,07/01/2022,44.0,41,David Wilson,2020-03-25,2022/06/18
+137,Port of Atlanta Modernization,ME,10,21,TBD,1099.86,1513.41,37.6,07-23-2018,01/07/2022,12/06/2028,,45.7,17,Robert Williams,01/24/2019,
+138,US-379 Resurfacing Project,IN,4,20,Completed,2718.57,2699.54,-0.7,2023-04-05,,17/08/2025,20/11/2025,43.9,14,Patricia Moore,12/21/2020,05-16-2024
+139,Pittsburgh Airport Terminal Expansion,UT,3,3,Active,491.18,477.43,-2.8,2019-06-08,2023-08-07,02/24/2025,,64.9,28,David Miller,2020/06/09,25/06/2023
+140,Georgia Broadband Expansion Phase 358,GA,14,,Planning,3646.39,,,01-10-2020,,21/11/2023,,65.0,-,David Thomas,30/12/2021,04-14-2025
+141,Denver Airport Terminal Expansion,WV,11,1,Completed,1903.3,TBD,42.4,05/20/2024,14/06/2019,05-15-2024,2022/04/10,68.1,19,Jennifer Johnson,04/03/2021,2022/05/25
+142,Nashville School District Renovation,WV,7,3,Active,2649.07,2638.47,-0.4,10-04-2023,2021/10/31,,,60.6,,William Brown,2019/10/12,12-15-2024
+143,Bridge 117 Structural Repairs,IN,10,3,Completed,1944.36,2611.28,34.3,29/05/2022,2018-07-05,2022-12-08,02/05/2024,72.6,20,Jennifer Thomas,01-22-2021,2024/07/20
+144,Alabama Electric Grid Hardening,AL,12,22,Active,,59.12,0.6,07/03/2018,02/10/2020,20/04/2022,,,42,Robert Davis,12/06/2019,2025/01/08
+145,Route 410 Bridge Replacement,ND,9,10,On Hold,2482.57,3118.11,25.6,22/06/2023,08/07/2020,09-06-2022,,51.7,28,Karen Wilson,08/02/2020,05-11-2022
+146,Miami Flood Control Project,NV,13,28,planning,362.46,431.69,19.1,12/11/2019,03/28/2020,10-03-2023,2025-05-25,49.5,51,Michael Taylor,2018/09/14,2023-04-26
+147,Downtown Boston Transit Hub,CT,13,15,Completed,3285.17,4678.08,42.4,2024-04-22,21/06/2018,2027/09/09,08-04-2022,30.0,8,Sarah Wilson,2017/11/18,08/22/2023
+148,Sacramento School District Renovation,NC,13,14,On Hold,TBD,4822.41,34.7,2022/01/21,02/05/2018,2026/12/18,,28.7,1,Patricia Anderson,2017/05/23,23/06/2022
+149,Kansas City Emergency Communications,CT,11,7,TBD,?,4344.06,27.4,2020-03-19,05-20-2021,2022/12/12,,,22,Michael Brown,2019-12-02,01/12/2025
+150,Detroit Emergency Communications,AK,10,19,Active,2801.24,,35.8,07-28-2019,27/03/2022,2027/10/30,,64.3,7,Jennifer Anderson,07/04/2020,30/01/2023
+151,New Jersey Broadband Expansion Phase 729,NJ,3,17,Under review,4065.75,4907.36,20.7,,2019/04/29,05-20-2024,,47.3,3,Patricia Brown,2020-02-19,2024/01/27
+152,Baltimore Airport Terminal Expansion,WI,10,15,Cancelled,3501.55,,,2019-06-28,2019-07-22,08-30-2027,,58.2,49,Lisa Taylor,2017-11-02,2023/10/29
+153,Bridge 124 Structural Repairs,WA,13,16,Completed,,3196.91,43.1,2021-01-31,2020/04/22,10/01/2024,2025-12-16,70.3,38,Lisa Williams,07/11/2021,
+154,Downtown Charlotte Transit Hub,NY,5,13,Active,1362.05,1550.01,13.8,2019/05/11,08/01/2018,04/09/2024,,34.4,39,Karen Davis,10-07-2019,11/07/2024
+155,Kansas City Emergency Communications,TN,9,14,Planning,1951.81,,,2021/03/30,,11/17/2023,,20.0,31,David Thomas,29/05/2018,02-18-2024
+156,Austin Airport Terminal Expansion,MN,4,15,Completed,,2582.19,-4.9,2023/05/06,01/18/2018,2022-02-09,10-09-2025,30.4,n/a,Patricia Taylor,04-11-2021,2024/03/15
+157,Port of Detroit Modernization,NH,5,26,Delayed,155.02,185.4,19.6,2020/05/06,2018/01/30,03-14-2024,,79.1,41,Michael Williams,2021/11/17,2023-07-23
+158,Route 443 Bridge Replacement,OK,11,22,Cancelled,1709.18,,,05/14/2019,10-24-2023,2027-03-27,,n/a,34,James Davis,04-07-2017,07-24-2023
+159,Kansas City Water Main Upgrade,MS,13,8,N/A,1875.39,,,27/05/2019,,12/17/2022,,78.5,3,Michael Wilson,2021/12/28,05-14-2022
+160,Maine Interstate 530 Reconstruction,ME,11,26,Active,808.83,809.64,0.1,2018/10/04,08/25/2024,2024/03/04,,?,9,William Anderson,2018/06/09,29/12/2023
+161,Highway 350 Widening,SC,4,7,Active,TBD,2589.81,29.6,03-30-2023,18/09/2021,06/27/2028,,,,Karen Miller,2019/05/08,11-05-2023
+162,I-999 Safety Improvements,CT,4,21,Planning,831.27,,,15/12/2019,,06/15/2024,,73.1,47,Robert Wilson,,02/09/2025
+163,Washington Electric Grid Hardening,WA,4,18,Completed,4103.33,4398.77,,2018/07/09,2024/08/02,02-14-2024,2025/01/01,37.7,10,Jennifer Davis,2017/04/20,07/28/2023
+164,US-406 Resurfacing Project,MA,15,7,Active,1785.38,2033.55,13.9,10/06/2019,2022-03-13,2024-11-08,,53.0,,Maria Miller,06/30/2019,2024-11-28
+165,Highway 202 Widening,AL,1,18,Completed,1050.47,?,32.3,01/29/2021,02/20/2020,2028/10/10,2022/10/10,79.9,49,Patricia Anderson,06/19/2018,18/01/2022
+166,Austin Emergency Communications,AZ,8,TBD,Active,3669.81,4047.8,10.3,09/02/2018,10/08/2023,,,40.4,27,Michael Moore,04/12/2021,2025/01/06
+167,Austin Stormwater System,VA,1,27,,3827.69,4375.05,14.3,04/23/2020,08/12/2020,07/04/2025,,59.6,5,Lisa Johnson,01/25/2019,
+168,Michigan Electric Grid Hardening,MI,8,3,Active,2390.98,2857.22,19.5,2023-03-11,06/17/2024,2022/06/10,,64.2,19,William Taylor,2018/12/12,09-02-2023
+169,Bridge 420 Structural Repairs,PA,13,N/A,On Hold,1061.99,1277.57,20.3,09/03/2023,04-20-2018,10/27/2022,,58.3,44,Patricia Taylor,2019-02-20,12/05/2023
+170,Highway 915 Widening,CT,6,6,Completed,908.29,1178.96,29.8,2023-11-12,02/26/2019,2026-05-19,2025-11-14,38.5,4,Karen Johnson,10/04/2017,2024-02-12
+171,I-178 Safety Improvements,MA,4,4,Planning,2746.94,,,2018-02-19,,14/05/2026,,32.8,15,Maria Miller,08-24-2020,26/01/2024
+172,US-524 Resurfacing Project,PA,6,1,Completed,976.57,?,24.4,02/24/2018,2020-08-10,28/03/2022,06-16-2025,65.5,8,David Davis,2021-02-20,05/27/2024
+173,Port of Baltimore Modernization,RI,12,24,Active,1858.19,1770.86,-4.7,07-07-2023,10/14/2018,28/02/2024,,23.1,10,Sarah Brown,07/07/2017,22/12/2022
+174,Atlanta School District Renovation,TX,13,13,on hold,?,1537.55,21.9,03-14-2024,12-21-2019,2024/11/19,,42.8,20,Lisa Miller,08/02/2019,02-25-2025
+175,I-667 Safety Improvements,AR,12,16,Active,1781.26,,7.3,11/05/2023,2018-05-22,01/20/2026,,57.9,44,James Brown,20/06/2018,24/05/2025
+176,Boston Water Main Upgrade,VT,15,30,Completed,3349.74,4545.6,35.7,2021/01/06,05/08/2020,06/19/2026,12/02/2025,38.5,11,Lisa Johnson,07/18/2017,
+177,Atlanta Wastewater Treatment Plant,IL,7,,Planning,986.46,,,06-11-2023,,02-17-2023,,20.6,18,James Thomas,06-05-2021,2022-03-27
+178,Utah Electric Grid Hardening,UT,14,23,,3649.89,3978.38,9.0,15/10/2020,2022/02/18,01-26-2027,20/06/2025,61.2,31,Thomas Moore,09/14/2020,2023/01/20
+179,Bridge 131 Structural Repairs,NE,13,28,On Hold,366.23,500.27,36.6,02-26-2024,2023-03-28,2023/11/20,,73.8,8,Lisa Anderson,2018/05/09,
+180,Minnesota Electric Grid Hardening,MN,7,30,Cancelled,3395.58,N/A,,04/07/2020,11-27-2020,04/19/2023,,37.5,8,Maria Wilson,02/25/2021,04-27-2025
+181,US-616 Resurfacing Project,MA,8,22,Active,3137.78,4314.45,37.5,2018-05-21,08/04/2021,19/06/2025,,50.1,-,Maria Miller,03/10/2021,21/03/2025
+182,Regional Rail Corridor 714,KY,2,17,Delayed,2944.81,3604.45,22.4,02/03/2019,21/06/2019,08/17/2025,,65.1,38,James Miller,07-27-2019,12/02/2022
+183,Port of Denver Modernization,NH,12,13,Active,2052.48,,29.4,2019-12-08,03/18/2022,03/01/2023,,66.7,53,William Moore,18/07/2018,2024-06-30
+184,Pittsburgh Emergency Communications,KY,9,27,N/A,3516.09,,N/A,01-17-2024,,2023-05-24,,,14,William Williams,2018/01/06,2025/05/11
+185,Bridge 621 Structural Repairs,IA,12,11,Completed,881.72,881.72,-0.0,07/03/2018,2020-08-29,05-31-2022,01/21/2023,28.5,14,Robert Thomas,02/05/2020,19/03/2023
+186,Port of Atlanta Modernization,LA,1,20,completed ,462.4,565.98,22.4,2018/09/28,2021/09/11,2022-12-31,,41.8,22,David Brown,2021/11/15,08/04/2023
+187,Austin Wastewater Treatment Plant,NV,10,5,On Hold,653.49,661.99,1.3,04/01/2022,2024-05-13,31/12/2024,,23.2,,William Wilson,2020-12-19,2023-05-26
+188,New Orleans Emergency Communications,IL,12,10,Cancelled,4041.12,,,2022/10/03,2023-09-15,07/13/2023,,48.8,33,William Anderson,2020/11/30,2022-09-13
+189,Nashville Flood Control Project,OK,8,13,Active,3839.03,4126.96,7.5,,04-28-2019,2025-04-03,,38.0,,David Davis,01/05/2017,2025/03/10
+190,Austin Stormwater System,MI,7,4,Completed,1050.94,1245.36,18.5,03/14/2022,10/05/2021,02-01-2026,27/05/2024,73.5,35,David Williams,18/06/2019,18/06/2024
+191,North Carolina Interstate 160 Reconstruction,NC,2,4,Under review,57.82,74.7,29.2,08/02/2018,2021-11-02,2026/10/26,,78.6,48,James Moore,11/09/2019,
+192,Austin School District Renovation,WA,15,5,Active,3630.34,4138.59,,,06/09/2021,08-05-2024,,33.3,28,Lisa Johnson,2019-11-11,2024/05/24
+193,Nashville Airport Terminal Expansion,WY,14,5,Completed,3120.44,3881.83,24.4,03/03/2022,09/02/2020,,2023/03/07,55.1,6,Maria Brown,07-13-2020,17/05/2025
+194,Atlanta School District Renovation,NH,12,4,Active,3911.63,4701.78,20.2,31/03/2018,11/15/2019,09/20/2028,,?,9,David Johnson,03-05-2020,05-05-2022
+195,Downtown Seattle Transit Hub,SD,5,18,Planning,,,,2018/06/10,,2023/08/30,,76.5,,Robert Miller,11-24-2021,2022-04-16
+196,Downtown Baltimore Transit Hub,KS,11,28,Completed,3654.17,4629.83,26.7,03-06-2024,,12/17/2026,2023/03/28,39.5,14,Karen Moore,15/11/2017,2024/07/02
+197,North Carolina Interstate 387 Reconstruction,NC,12,25,delayed,462.59,442.7,-4.3,2018/06/29,2019/06/26,2024-10-14,,66.2,18,Robert Thomas,2017-01-28,20/01/2022
+198,Regional Rail Corridor 944,MI,6,21,ACTIVE,1616.23,,,04-06-2019,2023-07-08,26/11/2023,,79.4,15,Maria Miller,,06/06/2022
+199,Phoenix Airport Terminal Expansion,WY,11,5,Active,3346.87,4812.8,43.8,10/03/2018,2019/04/09,2028/06/24,,45.6,,David Brown,2017/07/05,10/24/2023
+200,I-209 Safety Improvements,DE,2,8,Under Review,72.54,89.15,22.9,02/07/2019,2019-03-28,2022-09-02,,74.7,24,Robert Miller,2019-08-01,23/10/2022
+201,Phoenix Stormwater System,MI,13,6,Under review,3984.84,4722.04,18.5,2021-10-13,12/24/2022,24/02/2022,,37.2,10,James Johnson,22/05/2020,22/12/2022
+202,I-200 Safety Improvements,LA,3,2,,438.93,496.43,13.1,06/10/2021,,09-08-2024,,36.9,35,Maria Williams,03-10-2018,2025-05-07
+203,Bridge 515 Structural Repairs,MN,7,29,Completed,631.21,785.23,24.4,04-15-2022,05/08/2023,07-29-2028,18/03/2022,,10,William Taylor,2017/06/11,07/11/2022
+204,Downtown Austin Transit Hub,NE,11,16,on hold,1300.42,1799.78,38.4,24/12/2018,,21/01/2023,2024/07/20,38.8,19,Robert Williams,07-28-2018,26/03/2025
+205,Route 759 Bridge Replacement,AR,8,9,Completed,2939.08,3615.07,23.0,26/09/2019,03-08-2019,2025/04/05,09/02/2024,29.5,26,Maria Davis,03/07/2019,2024-08-04
+206,Route 809 Bridge Replacement,WV,13,13,Active,1988.58,1942.84,-2.3,04-04-2018,09-29-2022,10/01/2025,,35.1,12,Maria Brown,22/05/2017,2023/07/15
+207,West Virginia Broadband Expansion Phase 681,WV,4,3,Under Review,3943.7,5209.63,,07/20/2021,2018/02/28,2023/09/09,,73.8,10,Lisa Wilson,,2024-04-12
+208,Bridge 717 Structural Repairs,WI,15,10,On Hold,4196.0,4854.77,15.7,2021-12-11,2021-12-13,2028-01-31,,45.6,49,Jennifer Williams,27/12/2017,2024-07-28
+209,Miami School District Renovation,MT,5,28,Completed,2316.89,2333.11,,2023-04-08,,12-07-2025,2024/08/08,44.8,53,William Moore,01/16/2017,07/02/2024
+210,Washington Electric Grid Hardening,WA,10,21,Delayed,1802.52,2559.58,42.0,2022-05-19,2019/12/13,2026/07/10,,74.3,34,Robert Moore,19/04/2018,07-23-2022
+211,Port of Memphis Modernization,VA,4,21,ACTIVE,1030.45,1380.8,34.0,2022-03-29,02/12/2020,2022-07-31,18/07/2023,25.0,10,William Johnson,2020-07-31,2025/04/01
+212,Route 352 Bridge Replacement,NH,10,28,Under Review,2032.68,,25.7,02/17/2024,21/01/2018,2023-10-11,,51.3,17,Maria Davis,26/05/2020,03-02-2022
+213,Baltimore Wastewater Treatment Plant,VA,4,22,Completed,3219.2,?,10.6,2020/04/23,2023-06-22,11-11-2026,07/02/2024,45.4,48,David Wilson,2020-06-29,
+214,Miami Airport Terminal Expansion,DE,1,23,Completed,1350.9,1440.06,6.6,2018-09-29,29/04/2022,07/03/2025,05-17-2025,32.7,,Maria Anderson,,2025/05/29
+215,Regional Rail Corridor 862,CA,15,15,Delayed,155.92,189.75,21.7,2023-12-01,2018/06/10,10/13/2025,,,5,Lisa Williams,27/08/2021,2024-04-30
+216,I-6 Safety Improvements,WA,12,29,Delayed,3645.73,3937.39,8.0,2018-06-26,03/30/2019,16/07/2022,,76.8,5,David Wilson,2020-11-09,02/17/2024
+217,Highway 77 Widening,MT,11,24,Delayed,253.59,242.69,-4.3,04/06/2020,2023/04/02,27/04/2026,,31.3,7,Jennifer Davis,07/26/2021,2025-04-24
+218,Alaska Interstate 192 Reconstruction,AK,2,8,Active,2000.47,2430.57,21.5,12-12-2021,23/12/2020,2023-04-30,,75.6,6,Jennifer Moore,,2022-11-05
+219,Port of Baltimore Modernization,KS,2,9,on hold,923.92,1258.38,36.2,03/01/2021,2023-07-22,22/04/2024,,30.3,,Jennifer Miller,2020-12-16,06/05/2025
+220,Port of New Orleans Modernization,ID,1,16,Planning,73.53,,,2021/04/05,,2024/07/24,,51.5,11,Robert Williams,07/24/2017,09/16/2023
+221,Port of Sacramento Modernization,SC,8,1,Active,375.41,529.33,41.0,2022-03-28,19/03/2019,01-26-2025,,72.6,44,Thomas Taylor,11-30-2021,12/15/2024
+222,Memphis Water Main Upgrade,WI,8,10,On Hold,913.16,1244.64,36.3,2019-05-21,2018-08-06,06-24-2027,,38.3,28,Jennifer Johnson,04-13-2017,05/30/2023
+223,Phoenix Airport Terminal Expansion,NE,7,22,Completed,1050.46,1216.43,15.8,28/03/2020,,03/06/2025,06/25/2022,37.8,41,Lisa Anderson,2018/01/11,02-09-2024
+224,New York Electric Grid Hardening,NY,13,28,Completed,1944.06,2587.54,33.1,23/10/2023,03/01/2023,08-11-2022,2022-06-23,23.3,42,Maria Wilson,2020-05-02,07/19/2022
+225,Arizona Interstate 455 Reconstruction,AZ,2,16,Active,3889.42,4278.36,10.0,06-05-2023,2020-01-24,20/08/2024,,70.5,35,David Thomas,10/27/2020,
+226,Utah Electric Grid Hardening,UT,2,19,Active,2709.64,3785.37,39.7,12-26-2022,06/24/2018,12-23-2025,,77.8,30,Patricia Taylor,07/22/2018,2022/01/19
+227,Phoenix Wastewater Treatment Plant,WY,11,17,Active,4011.84,4509.31,12.4,12/07/2022,2018-10-04,2022-07-04,,21.8,47,Robert Davis,,2022-08-06
+228,Delaware Broadband Expansion Phase 205,DE,8,13,Active,2062.89,2659.07,,2020/07/12,04/04/2020,26/10/2023,,46.0,34,Sarah Williams,07/04/2020,2022/02/19
+229,Bridge 104 Structural Repairs,IL,3,26,Active,968.79,1211.96,25.1,2021-09-17,04-03-2018,2024-07-06,,69.3,19,David Moore,12-11-2020,2024-01-03
+230,Route 73 Bridge Replacement,TN,8,3,Delayed,2512.42,3155.6,,11/27/2018,08/03/2024,2027-05-16,,76.8,18,Patricia Johnson,08/02/2017,2022-03-14
+231,I-352 Safety Improvements,HI,15,12,Active,243.75,259.84,6.6,11/02/2018,2020-07-19,2026-08-19,,64.8,52,Thomas Thomas,04/04/2017,01-31-2022
+232,Regional Rail Corridor 540,AL,13,18,Delayed,1339.55,1635.59,22.1,04/03/2019,2018-08-10,2025-11-20,,74.0,46,Karen Taylor,27/07/2018,10/06/2022
+233,Port of Miami Modernization,LA,8,2,Active,1810.84,1767.38,-2.4,03/06/2021,05-09-2018,2028/01/28,,65.8,2,Karen Wilson,08/24/2021,2023-06-22
+234,Atlanta Wastewater Treatment Plant,MO,13,22,Completed,N/A,1536.13,23.6,2018-06-08,2021-01-28,2026/01/21,2023-07-05,59.6,51,William Thomas,01/26/2017,09/12/2022
+235,Port of Boston Modernization,HI,11,2,delayed,2874.81,,,2022/12/09,,03/07/2028,,39.0,,Patricia Davis,05-05-2017,15/06/2023
+236,Regional Rail Corridor 165,ME,6,16,Active,1222.02,1252.57,2.5,2018/04/15,2019/03/12,30/10/2028,,32.7,21,Thomas Anderson,2021/05/24,04-05-2025
+237,Regional Rail Corridor 337,WA,14,19,Active,3224.22,3646.59,13.1,11/02/2023,07/13/2021,04-18-2023,,61.6,29,Patricia Moore,01/12/2019,13/06/2022
+238,Portland School District Renovation,CA,3,4,Completed,3906.56,5160.57,32.1,2019-06-02,,03/11/2026,19/02/2022,61.4,5,Robert Anderson,2021/11/11,2024/12/20
+239,Illinois Interstate 691 Reconstruction,IL,3,29,Completed,1593.68,1863.01,16.9,09/15/2023,08-05-2024,2025/02/18,07-18-2022,33.9,32,Jennifer Johnson,03-01-2020,11-26-2024
+240,Port of Portland Modernization,WV,13,TBD,,2319.31,,,2023-09-15,,11-23-2023,,21.6,3,Thomas Anderson,06/25/2021,02-04-2023
+241,Kansas City Wastewater Treatment Plant,NJ,9,11,Completed,,2786.21,-1.3,07/13/2021,06/07/2018,11-11-2026,2022-07-25,75.9,N/A,Thomas Wilson,2018/01/25,02/17/2025
+242,Baltimore Wastewater Treatment Plant,FL,7,23,Completed,2678.58,3192.87,19.2,01-08-2020,05-14-2021,08/07/2024,22/08/2023,60.1,32,William Moore,,01/02/2024
+243,Portland Airport Terminal Expansion,OR,1,18,Active,1644.09,1925.23,17.1,,03/12/2020,08-12-2022,,36.1,47,Sarah Wilson,07/27/2020,2022/04/04
+244,Port of Memphis Modernization,KY,14,23,Cancelled,1570.61,1817.2,15.7,03-14-2024,2020-10-15,,,22.2,,Thomas Williams,2019/10/25,2024-03-25
+245,Alaska Electric Grid Hardening,AK,10,26,Under review,1311.54,-,11.2,2023-09-30,2018/04/06,22/05/2025,16/07/2023,47.5,7,David Thomas,2019-08-24,02/11/2024
+246,Port of Atlanta Modernization,AZ,14,16,Under review,3519.98,4266.22,21.2,09/05/2024,2020-08-10,30/08/2022,,66.0,17,Michael Miller,25/02/2021,2023-11-23
+247,Seattle Stormwater System,FL,15,14,Completed,2046.47,2709.53,32.4,02-19-2024,09/09/2022,24/06/2026,,37.8,,David Miller,12-07-2019,10/23/2023
+248,US-97 Resurfacing Project,DE,2,18,Planning,1968.78,,,2019-10-03,,10/01/2022,,41.0,36,Sarah Wilson,07-11-2020,2022/01/29
+249,Miami Stormwater System,WV,5,26,Planning,974.07,,,05/06/2020,,01-10-2023,,75.8,40,Robert Brown,12-04-2017,31/08/2024
+250,Boston Wastewater Treatment Plant,NM,8,-,Delayed,2738.96,2845.78,3.9,2022-02-06,2023-03-25,18/11/2025,,63.7,14,Karen Anderson,2021-11-30,27/01/2023
+251,Seattle Stormwater System,WV,11,15,Completed,2719.88,3326.41,22.3,03-02-2019,06-06-2018,02/22/2026,2022/03/01,56.8,,Robert Brown,19/11/2021,2022-09-27
+252,Bridge 747 Structural Repairs,PA,4,27,Active,725.27,704.96,-2.8,2020-03-24,2023-09-02,08-04-2026,,30.4,48,James Miller,07/15/2018,02/22/2025
+253,Regional Rail Corridor 286,WI,1,13,Active,1325.61,?,6.3,11/02/2020,01-22-2021,2024/03/27,,30.6,19,David Taylor,06-26-2018,
+254,New Orleans Flood Control Project,GA,9,22,On Hold,1356.9,1671.7,23.2,19/05/2018,08/13/2021,03-05-2023,,57.8,,Robert Moore,09/01/2019,2023/11/17
+255,Baltimore Wastewater Treatment Plant,OH,7,14,Planning,2151.5,,TBD,05/16/2021,,09/10/2028,,77.9,34,Sarah Thomas,2021-03-20,10-13-2022
+256,Ohio Electric Grid Hardening,OH,8,18,On Hold,1580.74,1868.43,18.2,09/21/2020,01-28-2019,2026-05-07,,27.7,49,Robert Moore,05/03/2021,2023-11-01
+257,Sacramento Flood Control Project,MN,7,21,ACTIVE,1624.93,2211.53,-,2018-05-23,12-05-2020,2026-09-24,,30.8,26,William Anderson,2021/09/05,2022-08-06
+258,Virginia Electric Grid Hardening,VA,7,18,N/A,3982.47,,n/a,11-22-2020,,03-20-2024,,50.9,,Patricia Taylor,06/10/2019,2022/04/10
+259,Ohio Broadband Expansion Phase 442,OH,3,24,Delayed,1450.95,1710.67,17.9,09-26-2020,2023-11-15,19/05/2028,,47.5,5,Jennifer Wilson,03/20/2017,2022-10-28
+260,Highway 282 Widening,AL,10,16,Completed,3269.01,3556.68,8.8,2018/07/07,2022/06/21,2024/01/13,20/10/2025,37.1,1,Michael Davis,02/08/2017,28/04/2024
+261,Baltimore Flood Control Project,AZ,9,?,Active,2775.1,3430.02,23.6,18/11/2018,16/06/2023,04/18/2028,,79.1,6,Sarah Anderson,01-27-2019,09/15/2023
+262,Wyoming Electric Grid Hardening,WY,13,24,Active,914.95,1280.93,n/a,02/16/2021,2021-08-01,27/01/2026,,57.8,43,William Wilson,2019-10-26,01/01/2025
+263,Port of Seattle Modernization,TX,6,20,Completed,2874.48,4099.01,42.6,04/04/2018,2022/05/14,2028/03/11,11/13/2024,71.8,,Lisa Wilson,20/01/2021,06/05/2023
+264,Portland School District Renovation,LA,2,26,Completed,508.56,680.45,33.8,12/28/2023,04-08-2018,12/02/2026,09/11/2024,69.7,4,David Moore,08/24/2021,03-23-2022
+265,Kansas City Airport Terminal Expansion,MD,12,15,Active,1156.62,1119.61,-3.2,07-28-2019,2019-08-30,2027/11/08,,37.3,15,Jennifer Thomas,13/01/2019,08/20/2023
+266,Bridge 536 Structural Repairs,SC,11,5,Active,3634.78,4336.29,19.3,2019/11/24,11/22/2023,2027-05-29,,30.5,,James Williams,2018/12/03,2023/04/06
+267,US-254 Resurfacing Project,IL,13,2,Active,3348.63,3485.92,4.1,2020-09-30,2020-07-24,2027-02-12,,30.6,39,David Anderson,2018-07-23,2022-07-07
+268,Highway 1 Widening,ND,15,15,Active,1710.41,1855.79,8.5,12/25/2019,08/09/2021,2027-09-09,,49.0,19,William Miller,06/26/2018,2024/12/25
+269,Bridge 106 Structural Repairs,WI,6,25,Completed,3895.75,4110.02,5.5,09-26-2019,08-19-2021,10-03-2023,29/01/2023,66.0,,Robert Brown,2020-06-03,11-18-2022
+270,US-20 Resurfacing Project,ME,13,5,Completed,849.69,1088.45,28.1,2020-11-14,22/04/2021,10/03/2026,2022/02/18,39.3,,Michael Wilson,2020/02/17,02-20-2025
+271,Charlotte Water Main Upgrade,GA,8,5,Completed,3462.19,4802.06,38.7,05/09/2021,09/06/2024,03-30-2024,02-24-2025,25.3,,Jennifer Thomas,25/01/2020,18/06/2023
+272,Route 383 Bridge Replacement,NY,14,17,ACTIVE,1836.55,,,05/12/2018,,28/08/2027,,72.4,21,Thomas Taylor,08/02/2018,03-23-2025
+273,Austin School District Renovation,UT,9,25,Completed,27.18,37.07,36.4,2018-03-19,,2024-07-11,2023/10/23,45.6,17,Sarah Thomas,10/13/2020,31/10/2023
+274,Highway 28 Widening,MO,4,30,Active,3775.35,4417.16,17.0,17/03/2022,04-15-2018,12-24-2026,,72.1,48,Sarah Moore,11/04/2017,
+275,Louisiana Electric Grid Hardening,LA,13,14,Active,?,1280.13,-1.7,05-16-2021,28/07/2020,12/12/2022,,59.0,52,Michael Taylor,2017-02-02,2023-07-17
+276,Iowa Electric Grid Hardening,IA,4,10,Cancelled,2612.23,,,27/04/2018,2018/04/16,2025/09/20,,,31,James Brown,04-15-2019,04-06-2022
+277,Downtown New Orleans Transit Hub,HI,11,23,Completed,3578.34,3750.1,4.8,06-17-2020,10/10/2023,06-16-2023,2022/10/20,33.5,6,Patricia Williams,01/08/2021,2024-04-07
+278,Port of Seattle Modernization,MI,11,2,Active,2402.98,2864.35,19.2,2021-11-09,02-09-2020,06-22-2028,,44.3,14,Lisa Thomas,23/06/2018,2025-01-22
+279,New Mexico Broadband Expansion Phase 315,NM,12,10,On Hold,2324.08,3300.19,42.0,2023/08/30,01/18/2020,06/17/2026,,69.2,33,Sarah Brown,2021/09/17,03/31/2023
+280,Regional Rail Corridor 923,MO,1,13,On Hold,1769.6,2102.28,18.8,11/08/2021,12/07/2019,05/13/2025,,20.0,17,Patricia Anderson,2020/09/30,10/01/2023
+281,Charlotte Wastewater Treatment Plant,AZ,8,5,Completed,2186.84,2650.45,21.2,14/04/2023,08/09/2020,2026-12-01,2023/09/04,69.3,35,Patricia Thomas,20/07/2019,2022-11-11
+282,Portland Wastewater Treatment Plant,WY,5,27,On Hold,1762.8,2411.51,36.8,2021-12-31,2018/12/07,2022-02-22,,26.1,52,Lisa Davis,14/04/2020,2024-10-10
+283,US-588 Resurfacing Project,SC,11,26,Cancelled,157.04,,,,11-04-2022,04/16/2022,,33.0,12,James Wilson,07/22/2017,2023-08-22
+284,Detroit Emergency Communications,MN,6,20,Completed,425.9,558.35,31.1,2022/07/22,05/07/2021,2028-12-21,2024-10-15,58.4,49,Michael Davis,06-27-2018,21/09/2024
+285,Downtown Memphis Transit Hub,NC,15,13,Completed,,?,45.0,2022/12/18,06/17/2018,2024/10/04,2025/01/27,29.3,18,James Taylor,04-05-2018,03-25-2023
+286,I-982 Safety Improvements,TN,6,18,Completed,1351.32,1843.2,36.4,08/10/2020,14/01/2024,,2022-09-21,25.8,,Thomas Taylor,01/02/2020,
+287,Portland Wastewater Treatment Plant,SC,2,24,Delayed,116.31,145.27,,10-31-2022,2019-07-01,2026/06/12,,32.9,29,David Anderson,11/28/2020,
+288,Atlanta Airport Terminal Expansion,IA,12,4,Delayed,2411.03,3435.72,42.5,2022/05/06,2022/07/28,,,61.8,,Jennifer Brown,2017-07-16,
+289,I-979 Safety Improvements,LA,5,1,Active,2673.41,3205.42,19.9,2024-01-02,06-13-2020,2025-11-15,,25.8,44,Robert Thomas,2019/02/06,21/03/2025
+290,Montana Electric Grid Hardening,MT,9,27,Active,2328.96,2606.11,11.9,2022/02/06,2019/08/03,2024/09/07,,77.6,32,Sarah Moore,27/03/2017,2024-01-04
+291,Downtown Charlotte Transit Hub,IA,1,16,On Hold,,1958.33,19.9,22/03/2021,2018/08/14,2027/12/01,,69.9,,Maria Miller,04/18/2020,2025-03-15
+292,Highway 47 Widening,SD,4,16,Delayed,865.72,1121.11,29.5,04/04/2021,01-20-2018,2024-09-11,,59.6,22,Robert Moore,2021/08/20,
+293,US-679 Resurfacing Project,DE,7,2,Completed,296.67,298.75,0.7,2019/10/13,25/06/2023,2022-09-30,11/01/2023,52.2,11,Patricia Miller,26/10/2020,26/03/2024
+294,Bridge 787 Structural Repairs,WV,13,2,Active,1335.61,1648.14,23.4,2019/09/18,10/30/2021,10-24-2024,,75.3,23,Lisa Davis,08-12-2020,04/26/2022
+295,Ohio Interstate 4 Reconstruction,OH,11,8,Completed,3417.66,4559.16,33.4,2019/05/06,07/08/2020,05/25/2022,28/02/2025,52.7,n/a,William Taylor,16/03/2020,2024/03/01
+296,I-965 Safety Improvements,MA,7,5,Active,3711.27,4379.3,18.0,01-27-2023,12/24/2022,2026/05/11,,47.8,22,Jennifer Moore,,2024/12/21
+297,Bridge 185 Structural Repairs,NJ,11,13,Delayed,100.6,105.93,5.3,2024-05-13,2019-12-07,2025-01-24,,79.0,,Karen Brown,08-06-2020,04/03/2024
+298,Nashville Water Main Upgrade,AZ,5,27,Under review,2450.69,3342.74,36.4,30/04/2023,2021-10-18,19/12/2023,,37.4,7,Thomas Brown,09/12/2021,11/08/2022
+299,Nashville Stormwater System,CT,15,1,Active,357.5,?,13.5,12/27/2019,2019/07/07,2028-12-31,,38.0,26,Robert Williams,08/06/2021,02-08-2023
+300,US-341 Resurfacing Project,AK,13,22,Completed,549.16,790.24,43.9,02-13-2018,07/06/2024,2022-03-20,09-12-2023,42.8,,Michael Moore,2017-03-15,07/08/2023
+301,Port of Atlanta Modernization,AL,2,5,ACTIVE,3037.19,,,10/29/2021,,,,24.2,38,William Taylor,07/16/2020,2023/11/09
+302,Bridge 82 Structural Repairs,NY,8,6,Active,830.83,849.11,2.2,2024-01-30,06-14-2024,02/15/2024,,62.0,45,Maria Davis,2018-01-19,21/10/2023
+303,Charlotte Water Main Upgrade,CA,12,22,Completed,3840.84,4989.25,29.9,27/09/2018,20/05/2024,12/10/2024,16/10/2023,TBD,48,Lisa Wilson,10/21/2019,2023-09-07
+304,Phoenix Flood Control Project,OK,13,27,Delayed,911.77,873.48,-4.2,2023-04-19,,14/01/2025,,40.2,2,Lisa Moore,11-21-2017,09-14-2023
+305,Boston School District Renovation,NH,5,22,Active,1184.33,1553.84,31.2,06/09/2019,02-22-2022,2028/05/04,,78.2,5,James Taylor,28/01/2019,05-04-2024
+306,Arkansas Electric Grid Hardening,AR,15,,Active,2223.02,2625.39,18.1,2020/12/25,10/02/2018,2027/01/16,,43.4,13,David Brown,01/16/2019,01/05/2022
+307,Delaware Interstate 268 Reconstruction,DE,14,28,Active,1243.99,1199.21,-3.6,09-23-2022,11-19-2018,18/02/2026,,47.9,10,Lisa Moore,2020-02-12,11-18-2022
+308,Route 58 Bridge Replacement,NE,13,19,Completed,2997.53,3591.04,19.8,10/06/2018,2019-07-28,09-13-2023,2022-07-29,51.4,,Sarah Williams,03/26/2021,2024-01-08
+309,Massachusetts Broadband Expansion Phase 513,MA,13,8,Active,,2062.56,26.7,06/10/2022,2018-03-20,2027/09/21,,65.9,32,James Moore,02-01-2020,05-20-2022
+310,Regional Rail Corridor 30,KY,2,21,Active,4064.5,5226.95,28.6,07/20/2022,04-18-2020,,,26.8,25,Maria Davis,14/02/2018,03/13/2025
+311,Regional Rail Corridor 80,IA,8,18,Completed,3714.59,N/A,37.6,07/24/2018,2018-02-15,28/01/2025,2022-01-01,38.2,25,Patricia Thomas,11-23-2017,
+312,Nebraska Broadband Expansion Phase 67,NE,8,3,Active,1585.5,1536.35,-3.1,2022-11-07,23/03/2023,17/08/2026,,30.5,1,Karen Johnson,06/09/2020,05-10-2022
+313,Salt Lake City Emergency Communications,MT,15,12,Active,2685.3,3098.84,15.4,2022-07-04,03/05/2022,2027/03/30,,79.0,50,David Brown,26/07/2021,09/10/2024
+314,Route 107 Bridge Replacement,GA,9,18,Completed,1070.18,1310.97,22.5,2019-11-06,2020/07/17,03/10/2025,2024-09-28,27.0,47,Jennifer Anderson,2019-03-20,12/07/2024
+315,Regional Rail Corridor 213,TX,1,1,Active,3259.6,3213.97,n/a,11-04-2020,28/01/2023,2023-05-03,,45.3,23,William Moore,22/01/2017,
+316,New Orleans Water Main Upgrade,IA,13,29,Completed,,457.77,31.2,2019/01/21,02-06-2023,05/04/2026,2023/11/22,34.5,31,James Wilson,27/09/2018,02/05/2025
+317,Sacramento Airport Terminal Expansion,FL,5,20,Completed,4067.99,4019.17,-1.2,2023/05/29,15/06/2023,17/10/2024,,43.2,48,William Brown,05-02-2021,11/02/2024
+318,Nashville Wastewater Treatment Plant,PA,2,3,Active,3860.99,5416.97,40.3,2019-07-18,2019/05/11,2022-04-09,,29.7,37,Robert Davis,07/03/2019,01/23/2025
+319,New Orleans Stormwater System,WA,11,16,Planning,1629.31,,,2024-01-27,,2022-10-18,,28.8,9,Thomas Brown,10/30/2021,2022/05/20
+320,Detroit Flood Control Project,OR,11,28,On Hold,2088.21,2063.15,-1.2,2018/05/07,2022/09/06,2022/09/29,,53.7,46,Robert Johnson,2019-01-27,07-23-2023
+321,Bridge 321 Structural Repairs,MO,14,10,Delayed,1361.83,1457.16,7.0,02/23/2020,2021/11/28,2025-06-08,,31.5,22,Thomas Moore,07/25/2018,25/06/2023
+322,Portland Stormwater System,AL,4,13,Completed,2257.35,2309.27,2.3,23/10/2018,10-31-2020,05/25/2023,2024-02-11,,,James Williams,2018/01/22,2023-06-06
+323,Highway 913 Widening,AK,11,?,Completed,251.97,253.48,0.6,2021-02-09,2021/03/10,10-27-2026,2023-05-08,33.8,40,Karen Thomas,03/20/2021,07-01-2023
+324,Regional Rail Corridor 594,OH,1,8,Cancelled,3568.35,,,02/01/2023,24/05/2020,2024/08/09,,26.0,6,Michael Taylor,26/06/2019,11-04-2022
+325,Port of Memphis Modernization,SC,7,9,Active,2522.03,2988.61,18.5,04/10/2018,2024/04/26,2024/09/26,,-,5,Lisa Johnson,03/08/2019,2025/03/16
+326,Bridge 464 Structural Repairs,NY,5,3,Active,595.29,695.3,16.8,,2020/07/27,2026-08-05,,38.7,34,Maria Davis,11-21-2021,07/08/2022
+327,Port of Austin Modernization,KS,15,6,Cancelled,3218.79,,,2023/10/04,2018-03-26,08/14/2027,,50.3,4,Michael Brown,09/12/2017,10/04/2022
+328,Maine Electric Grid Hardening,ME,9,,Delayed,701.38,967.2,37.9,06/02/2019,05-30-2018,04/27/2024,,24.4,24,David Williams,05/22/2020,24/04/2024
+329,Downtown Memphis Transit Hub,NY,4,5,Planning,1953.64,N/A,,2022-05-03,,11-11-2026,,24.7,19,Jennifer Anderson,2020-02-04,2024/09/04
+330,Sacramento Stormwater System,GA,15,15,On Hold,2798.71,3425.62,,,04/09/2023,03/10/2022,,79.9,10,Michael Wilson,2020-09-14,2024-06-19
+331,Detroit Water Main Upgrade,IN,12,16,Delayed,695.95,894.99,28.6,04-13-2019,11/24/2018,2027-02-26,,68.7,22,Karen Wilson,2021-10-09,08-18-2024
+332,Indiana Broadband Expansion Phase 229,IN,2,27,Cancelled,919.99,,,15/10/2020,17/03/2023,09-20-2023,,75.6,45,Thomas Anderson,2019/01/14,25/04/2024
+333,Charlotte Flood Control Project,TN,5,8,on hold,2492.68,3432.42,37.7,02-17-2019,2018-12-03,2022-12-04,2022/01/18,,28,Lisa Williams,14/06/2021,2022/11/08
+334,Bridge 852 Structural Repairs,MD,10,27,Completed,582.62,688.07,18.1,11-30-2020,10/07/2019,10/10/2027,2022-07-16,49.8,15,Patricia Miller,03/07/2017,03-16-2024
+335,Detroit Airport Terminal Expansion,WY,6,23,On Hold,1721.79,2436.33,41.5,11/03/2024,08-04-2024,24/05/2025,,76.2,14,Lisa Johnson,01/16/2019,17/11/2022
+336,Phoenix Airport Terminal Expansion,IL,8,,Delayed,1008.48,1262.62,25.2,2021/02/12,08/04/2020,2024/01/10,,45.1,50,James Wilson,2020/12/27,2023/12/04
+337,Regional Rail Corridor 19,VT,8,2,Active,2633.77,3545.05,,04/28/2023,06/09/2022,2027-03-14,,74.8,39,Karen Davis,08/10/2018,
+338,Regional Rail Corridor 509,ND,13,25,Under review,TBD,1148.71,28.1,03/23/2021,04/20/2019,08-19-2024,,75.5,25,Thomas Wilson,,2025-01-21
+339,Seattle Wastewater Treatment Plant,CA,4,3,Completed,1417.96,1701.55,20.0,12-30-2023,2023/03/21,09-24-2027,,48.9,40,David Williams,31/12/2018,07/08/2022
+340,Detroit Water Main Upgrade,HI,11,16,delayed,3834.15,4589.48,19.7,2023-02-19,06/05/2022,2025/08/12,08-08-2025,42.1,3,James Taylor,2018/01/21,01-08-2022
+341,Route 681 Bridge Replacement,FL,14,n/a,Delayed,575.49,620.95,7.9,2022-04-04,09-19-2019,2025-02-23,,40.4,27,Maria Anderson,2019/01/16,2022-06-03
+342,Memphis Emergency Communications,SD,9,,Completed,1250.04,1747.56,39.8,06/16/2018,07/01/2021,2026/09/18,2022-07-10,TBD,18,Patricia Johnson,2017/10/08,21/05/2022
+343,Miami Wastewater Treatment Plant,CA,11,17,Completed,249.83,,5.6,05/11/2022,2020/02/28,12/02/2027,2023-08-23,40.7,,Karen Moore,,08/13/2023
+344,Missouri Interstate 735 Reconstruction,MO,2,19,Active,2924.29,3383.4,15.7,10/30/2021,04-25-2020,01-06-2027,,28.7,47,William Williams,11-15-2021,2024-01-26
+345,Seattle Wastewater Treatment Plant,MD,3,10,Completed,1987.85,2645.83,33.1,09/25/2018,07-30-2024,2027-02-05,2023/12/14,38.2,,Lisa Davis,2020-11-10,07-19-2023
+346,Pittsburgh Emergency Communications,IN,13,8,,2087.81,2534.6,21.4,2019/09/03,03-22-2018,02/09/2025,,66.1,50,Thomas Moore,2020/03/09,11/30/2023
+347,Boston Water Main Upgrade,OK,9,1,Delayed,971.86,1344.08,38.3,04/19/2020,03/29/2023,2026-08-17,,52.1,48,Maria Williams,,2025/01/28
+348,New Jersey Interstate 837 Reconstruction,NJ,11,25,Under Review,3342.14,4658.94,39.4,2019-02-14,12/30/2018,08/26/2027,,55.0,37,David Johnson,05/25/2019,12-16-2023
+349,Seattle Water Main Upgrade,RI,7,5,Active,720.19,697.14,-3.2,12-19-2019,09/18/2022,2023/03/21,,25.1,11,Sarah Williams,11-11-2017,2024/04/30
+350,Arizona Interstate 416 Reconstruction,AZ,15,24,N/A,3244.86,,18.2,01/08/2019,2024/07/09,2023/04/18,,67.8,9,James Davis,02-18-2021,12/28/2024
+351,Highway 823 Widening,FL,7,N/A,Completed,2935.01,2920.33,-0.5,2019/08/29,12/17/2022,2022-10-20,2024/05/14,63.3,35,Maria Wilson,,12-04-2022
+352,Downtown Pittsburgh Transit Hub,CO,7,22,on hold,1227.33,1264.15,?,,08/29/2019,09-25-2028,,60.1,35,Lisa Miller,03/10/2019,12-05-2024
+353,I-375 Safety Improvements,AR,4,11,Active,715.4,885.67,23.8,2018-06-21,2024-03-13,11/06/2022,,57.5,4,Michael Davis,05-08-2018,04/20/2024
+354,Port of Pittsburgh Modernization,NM,8,16,Active,3208.3,3894.88,21.4,09-20-2018,2022/06/26,2025-01-01,,34.5,44,Maria Brown,27/11/2020,03-30-2024
+355,Route 413 Bridge Replacement,VT,5,28,Completed,3028.86,TBD,13.5,2024/02/05,02-05-2020,04/18/2025,2023-01-28,77.6,47,James Williams,08-21-2019,02/12/2024
+356,I-849 Safety Improvements,AZ,13,27,On Hold,,3432.84,39.2,05/16/2019,06-05-2022,2024-06-27,,68.4,52,Maria Williams,2017/07/13,05-13-2025
+357,Bridge 798 Structural Repairs,LA,2,15,Completed,3628.93,5065.99,39.6,2018-02-13,28/01/2020,2024/05/04,24/02/2022,79.8,2,Karen Williams,2018-11-17,2024/04/29
+358,Regional Rail Corridor 553,NH,13,19,Active,972.05,1181.04,21.5,11-05-2021,2018/04/19,2028-07-30,,28.4,27,Sarah Brown,28/07/2021,2022-11-19
+359,Downtown Phoenix Transit Hub,MS,12,4,Completed,75.96,73.76,-2.9,2020/03/01,2018/08/15,01/11/2027,2023/02/21,41.7,26,Karen Williams,2021-08-03,02-25-2022
+360,Bridge 799 Structural Repairs,NM,1,26,Active,1253.8,1489.51,18.8,03/03/2024,06/12/2023,2023/07/14,,44.4,14,Sarah Wilson,2020/06/12,12/09/2022
+361,Kansas City Emergency Communications,WY,11,10,TBD,1241.65,1512.33,21.8,02/08/2022,06/30/2024,23/04/2026,,58.2,37,Sarah Brown,08/11/2018,2025-03-03
+362,Utah Interstate 179 Reconstruction,UT,13,14,Completed,,1848.96,,23/07/2020,2023-10-31,2028/10/21,03-28-2023,,43,Karen Wilson,08-24-2020,05/15/2023
+363,Salt Lake City Water Main Upgrade,OK,11,9,Completed,1448.14,1831.9,26.5,2020/06/06,2018-03-03,04/20/2028,09/13/2024,,7,William Brown,19/04/2021,
+364,New York Electric Grid Hardening,NY,2,27,Planning,2807.09,,,03/10/2021,,,,22.9,5,Michael Anderson,25/04/2017,26/07/2023
+365,Phoenix School District Renovation,NC,12,13,,82.23,110.93,34.9,07-09-2023,04/27/2023,24/04/2026,,75.4,,Karen Thomas,05/17/2017,2023-06-24
+366,West Virginia Electric Grid Hardening,WV,3,1,Completed,999.87,1206.84,,07-25-2021,2019-06-27,03-31-2027,10/12/2024,52.8,23,Michael Williams,01/25/2018,23/03/2023
+367,Atlanta Flood Control Project,MT,9,6,Cancelled,2684.24,,,2023/07/07,2024-08-09,01/06/2028,,69.6,7,William Davis,2018-06-19,2024/11/29
+368,Baltimore School District Renovation,KS,12,21,TBD,500.22,594.76,18.9,09-08-2018,,27/07/2027,,34.2,26,Thomas Brown,10/28/2021,
+369,Nebraska Electric Grid Hardening,NE,3,11,delayed,166.11,206.81,24.5,01-04-2021,08-21-2020,10-28-2026,2025/06/30,56.5,19,Thomas Johnson,2017/11/21,2022-09-17
+370,Nashville Water Main Upgrade,DE,11,15,Active,3759.88,4327.62,15.1,19/05/2022,05/11/2023,03/13/2024,,52.4,43,Robert Johnson,2020/06/14,
+371,Port of Nashville Modernization,ME,3,22,Completed,3708.74,4754.6,28.2,2022/01/16,05/18/2022,04/10/2026,2025/06/22,39.9,30,Karen Johnson,2017/03/04,2022/09/13
+372,Portland Flood Control Project,OH,6,13,Completed,3847.23,4012.66,4.3,15/10/2021,03/06/2023,2023/12/30,2023/12/05,43.3,37,Robert Moore,04/21/2020,2023/03/30
+373,Bridge 949 Structural Repairs,GA,15,22,delayed,3838.34,,,06/07/2023,07/11/2019,2022/07/12,,31.9,?,Jennifer Thomas,04/29/2018,2023-07-06
+374,Denver Water Main Upgrade,MD,13,26,,1918.13,2413.01,25.8,15/05/2019,08-20-2024,2027/11/16,,48.4,4,Karen Brown,01/04/2021,2024/09/05
+375,Salt Lake City Wastewater Treatment Plant,MN,12,29,planning,2471.15,3538.69,43.2,2021-07-23,03-25-2021,,,TBD,20,Karen Williams,2017-06-19,05-26-2024
+376,Mississippi Electric Grid Hardening,MS,9,20,Completed,3010.44,3076.67,2.2,2020-06-28,09/29/2022,01/14/2027,07/29/2025,67.3,47,David Moore,,2022-01-14
+377,New Orleans Wastewater Treatment Plant,MS,4,14,Active,2321.76,2607.34,12.3,2023/12/22,08/11/2019,2027/04/16,,44.2,46,Maria Taylor,29/12/2017,06/01/2023
+378,US-949 Resurfacing Project,RI,4,7,Completed,2446.94,2552.16,4.3,04-30-2018,08/27/2021,2024/01/15,2022/12/20,29.3,37,Karen Davis,26/02/2021,23/04/2024
+379,Portland Airport Terminal Expansion,MD,4,1,planning,3405.3,4552.89,33.7,04/23/2019,2020/01/10,2027/01/05,,56.2,38,Lisa Johnson,18/01/2018,2025-03-15
+380,Route 272 Bridge Replacement,NM,4,6,Completed,2053.83,2782.94,35.5,,10/26/2023,2027-08-25,2024/11/02,71.8,29,Jennifer Davis,2020/11/20,2024-02-02
+381,Nashville Flood Control Project,TX,13,5,Planning,1272.07,,,2023-05-12,,09/02/2025,,59.2,48,Thomas Davis,2017-04-27,07/02/2023
+382,Denver Flood Control Project,OH,3,30,Completed,134.54,136.96,1.8,11-05-2021,2023-12-08,2026/11/28,2023/05/25,31.9,,Patricia Davis,03/17/2017,08-25-2023
+383,Highway 991 Widening,LA,3,1,Active,1598.39,2149.83,34.5,2018-01-06,2020-05-29,05/19/2028,,55.8,9,Patricia Thomas,10/14/2019,02-04-2022
+384,Route 737 Bridge Replacement,NY,3,20,Completed,359.03,417.55,16.3,02/04/2018,2022/08/16,23/07/2024,09-24-2022,27.6,19,Thomas Williams,12-03-2018,10/17/2023
+385,Downtown Phoenix Transit Hub,TN,5,16,Completed,1939.6,1844.56,-4.9,,03-23-2024,09/01/2022,2022-08-31,67.8,33,Maria Johnson,,02/24/2022
+386,Port of Charlotte Modernization,NY,8,23,,3414.68,3735.66,9.4,,2021-02-02,07/09/2027,,38.0,52,Michael Brown,22/08/2017,02/07/2023
+387,Pittsburgh Water Main Upgrade,IL,6,19,Cancelled,2937.95,,,,2018/03/19,2022/05/12,,23.5,18,Michael Moore,2019-05-22,2022-07-25
+388,Route 626 Bridge Replacement,CO,13,6,Completed,159.65,198.76,24.5,2023-07-29,2022/06/06,10/18/2028,12-19-2024,79.4,41,Sarah Williams,02-11-2018,2024-08-06
+389,Hawaii Interstate 729 Reconstruction,HI,8,26,Completed,1109.65,1544.63,39.2,2019-07-26,2018/04/18,2024/05/27,2024/08/14,23.1,30,Thomas Brown,2017/08/05,2022/07/02
+390,Bridge 835 Structural Repairs,MD,15,22,Completed,297.02,363.26,,,01/12/2020,30/05/2025,12/31/2024,28.3,,Maria Taylor,2021-12-08,2023-12-31
+391,Portland Stormwater System,NJ,9,29,Active,2815.9,3463.56,23.0,08/30/2023,09-09-2019,2027/03/13,,63.6,26,Karen Taylor,23/09/2020,2022-04-13
+392,Regional Rail Corridor 393,WV,15,14,on hold,3025.63,4290.34,?,10/25/2022,15/04/2018,2024/12/24,2024-07-16,50.7,10,Maria Taylor,2017/01/24,2022/11/10
+393,Atlanta Water Main Upgrade,PA,7,1,Planning,4194.59,,,04/08/2019,,2028/07/30,,73.8,47,Sarah Wilson,09-16-2020,13/05/2025
+394,Downtown Sacramento Transit Hub,MI,5,4,Completed,3666.84,4763.23,29.9,2021/01/25,04-26-2018,,2024/05/02,44.1,5,Lisa Taylor,11/03/2021,05-14-2022
+395,Detroit Emergency Communications,KS,7,20,Delayed,1662.78,2093.44,25.9,12/09/2022,30/06/2021,2027-09-07,,42.9,20,Patricia Williams,2018/11/02,2023/11/28
+396,Detroit Airport Terminal Expansion,KY,4,14,Delayed,2720.17,2720.17,0.0,2020/11/30,04/09/2021,2026-03-06,,56.0,25,Lisa Johnson,04-11-2017,20/02/2022
+397,Minnesota Interstate 802 Reconstruction,MN,9,29,Delayed,3225.74,,43.2,02/27/2020,2023-09-06,28/10/2028,,21.7,9,Sarah Wilson,13/06/2018,08/04/2024
+398,Regional Rail Corridor 138,DE,11,16,Completed,?,,14.5,01/03/2019,11/20/2018,2023-12-26,2023/07/30,62.5,7,Maria Wilson,10-11-2021,27/10/2024
+399,Atlanta School District Renovation,IN,14,6,Completed,3862.03,3773.2,-2.3,12/06/2023,10-26-2020,07-26-2024,,40.5,28,Jennifer Thomas,02-03-2021,03/01/2024
+400,Highway 958 Widening,PA,2,5,Completed,1879.56,2509.21,33.5,2023-07-06,2018-12-14,2027-01-21,16/06/2024,74.1,26,Sarah Davis,22/09/2020,08/25/2023
+401,Bridge 274 Structural Repairs,CO,12,18,Completed,964.02,1324.56,37.4,2021-06-05,02/18/2018,05-27-2022,04/12/2025,67.3,48,Maria Anderson,,03-22-2024
+402,Downtown Phoenix Transit Hub,TN,11,20,On Hold,2110.07,2703.0,28.1,01-17-2024,2022-05-01,2028/12/23,,54.1,28,Karen Anderson,2019/11/20,2022/11/14
+403,Port of Detroit Modernization,CT,3,17,Completed,634.41,,0.6,2024-03-01,,04/05/2022,13/03/2024,75.2,11,Karen Davis,2017/12/20,24/11/2024
+404,South Dakota Interstate 86 Reconstruction,SD,7,4,Completed,795.68,908.67,14.2,01-16-2019,2021-03-28,,2023-04-27,73.9,n/a,Jennifer Davis,2020/08/06,2022-06-24
+405,Route 444 Bridge Replacement,MN,1,29,Delayed,-,3259.65,16.1,2019/01/12,2018/10/30,02-23-2022,,74.3,26,Jennifer Miller,2021/11/12,2022/06/27
+406,Hawaii Electric Grid Hardening,HI,7,6,Planning,983.52,,,11/11/2022,,04/04/2028,,53.3,41,Karen Williams,2019/08/26,12/19/2024
+407,Salt Lake City Water Main Upgrade,LA,1,10,Planning,3963.18,,,2024/05/30,,2026/02/18,,76.1,5,Lisa Wilson,2018/11/19,11/11/2024
+408,Nashville Wastewater Treatment Plant,NY,13,23,Delayed,442.44,N/A,,04-17-2021,2022-03-08,06/15/2027,,70.0,3,Jennifer Moore,2021/05/16,11-01-2024
+409,Pittsburgh Stormwater System,CA,1,3,,3430.77,3571.43,4.1,,28/01/2023,2024-09-11,,25.4,27,Maria Moore,,04/02/2024
+410,New York Broadband Expansion Phase 45,NY,14,19,Planning,298.16,,,10/29/2022,,08/28/2028,,38.8,1,James Taylor,2018/06/10,2022/06/27
+411,Regional Rail Corridor 85,MI,8,7,Cancelled,3236.27,4326.89,33.7,26/05/2018,22/11/2020,2025/09/23,,22.7,23,Thomas Thomas,04-06-2019,2023/03/31
+412,Regional Rail Corridor 326,AR,4,18,Completed,1607.33,2316.16,44.1,,,07-19-2023,11/01/2025,22.8,,James Taylor,2021-07-30,2024-06-28
+413,Bridge 98 Structural Repairs,IL,2,15,Completed,2884.2,2944.77,2.1,2021/04/23,2022-12-29,,2022-04-21,61.2,12,Robert Johnson,04-12-2019,2024/01/30
+414,Denver Airport Terminal Expansion,IN,8,21,Active,4014.64,4801.51,19.6,2022-12-20,2020/02/23,06-13-2023,,47.8,36,James Wilson,12-21-2020,
+415,Downtown Detroit Transit Hub,KS,5,21,Active,2584.76,,,2024/02/13,,18/11/2025,,,16,Jennifer Thomas,11-29-2018,10/28/2022
+416,Highway 315 Widening,SD,15,7,Completed,4045.38,4599.6,13.7,07/10/2020,03/26/2018,2022/01/12,03/15/2024,49.4,25,Robert Wilson,,2022/01/17
+417,Denver School District Renovation,FL,11,29,Active,2676.45,3827.32,43.0,2024/03/26,2022/08/23,2027/09/22,,35.2,1,Robert Williams,2017-07-01,02/26/2024
+418,Austin Flood Control Project,OR,11,26,delayed,TBD,2166.18,12.7,02/04/2020,,2024/11/13,2024/08/04,79.0,,Patricia Thomas,2017-09-16,2022-01-03
+419,Nashville Emergency Communications,AR,7,7,Completed,342.98,426.67,24.4,2021/07/05,2024/05/19,15/03/2027,2025/11/14,78.4,11,Patricia Williams,2019/02/21,12/02/2025
+420,Salt Lake City Flood Control Project,NJ,1,2,Completed,2254.18,2847.03,26.3,2020-07-25,07/09/2019,09-29-2023,05/02/2022,35.1,18,David Taylor,07/25/2018,2023-03-09
+421,Highway 921 Widening,TN,6,23,Completed,549.13,547.48,,,2018/07/12,2026-07-26,04/06/2023,43.8,1,William Johnson,12/07/2018,2025-05-03
+422,Portland Emergency Communications,IN,4,27,Completed,1646.21,1687.37,2.5,2018/11/29,11/04/2020,2023-05-01,05-09-2024,49.2,-,James Wilson,04/12/2019,2025/02/15
+423,Port of Sacramento Modernization,WY,4,23,Cancelled,2718.51,,,03/24/2022,,2023/11/17,,47.2,9,Robert Moore,2017/10/03,2024/06/07
+424,Port of Memphis Modernization,OR,3,21,Completed,355.93,444.91,25.0,04/07/2022,,06-22-2024,2023/02/16,n/a,52,Sarah Brown,2021/01/14,31/07/2023
+425,Minnesota Electric Grid Hardening,MN,13,15,Completed,3786.3,4801.03,,2020-03-27,2022/01/16,09-09-2024,06-13-2024,42.2,31,David Moore,03/03/2019,02/05/2025
+426,Port of Austin Modernization,VA,2,28,Cancelled,1160.33,,,09/08/2020,2022-02-16,07/08/2028,,79.2,18,Robert Moore,,2023-08-09
+427,I-146 Safety Improvements,IA,9,27,Delayed,333.94,439.13,31.5,01/04/2023,2019-01-14,31/03/2028,,36.9,11,Sarah Wilson,2021/07/29,07-27-2023
+428,US-115 Resurfacing Project,OR,4,7,planning,260.64,,36.4,01/02/2022,2019-09-17,12/05/2026,,75.9,5,James Wilson,2018-10-29,11/29/2024
+429,Highway 638 Widening,FL,4,4,Active,2978.73,3601.28,20.9,20/05/2022,2019/12/22,2022/04/20,,56.1,12,Karen Taylor,05/25/2021,05/20/2023
+430,Atlanta School District Renovation,NC,4,14,Active,,,14.9,2018/07/20,2024/03/07,02/24/2027,,22.7,12,Michael Thomas,10-17-2019,09-05-2022
+431,Highway 454 Widening,WY,7,16,Completed,550.74,581.03,5.5,06-06-2020,18/09/2019,2023/08/04,11-27-2022,75.2,33,James Williams,25/03/2021,05/29/2025
+432,Downtown Salt Lake City Transit Hub,PA,14,,Active,2871.59,3434.42,,05/03/2019,25/08/2020,26/01/2022,,49.1,,Sarah Anderson,2018/09/17,
+433,Nashville Water Main Upgrade,VA,15,21,Active,3025.74,TBD,,05/08/2024,2021-11-02,13/09/2025,,45.7,2,Karen Williams,26/03/2020,2024/02/09
+434,US-38 Resurfacing Project,KY,8,,Completed,2197.76,2325.23,5.8,11/07/2019,2022/10/13,07-03-2027,2024/09/17,33.9,52,Karen Brown,2017/09/28,06/15/2024
+435,Route 124 Bridge Replacement,MA,2,,Completed,1478.61,1422.42,-3.8,2021/11/30,15/06/2023,2026-03-29,07/12/2023,79.6,n/a,William Taylor,,08-05-2023
+436,Miami Stormwater System,CO,12,8,Completed,1622.01,1761.5,8.6,10/14/2022,02/03/2020,03-18-2027,2024/06/22,24.7,41,Karen Wilson,10-09-2017,11/03/2025
+437,Memphis Wastewater Treatment Plant,TN,5,11,Active,2978.1,3999.59,34.3,2021/06/04,05/12/2019,,,54.2,39,Karen Davis,2021/03/23,2025/05/29
+438,Boston Wastewater Treatment Plant,ID,14,30,Active,4062.84,5887.06,44.9,2024-05-27,2022-12-30,2023/06/13,,23.7,12,Maria Taylor,2021-04-09,03-30-2022
+439,Downtown Miami Transit Hub,OH,3,25,Cancelled,1400.27,,,05-31-2022,12-30-2021,12/06/2027,,62.4,26,Sarah Wilson,04/07/2020,22/11/2023
+440,New Jersey Broadband Expansion Phase 879,NJ,15,22,Active,1302.46,?,9.6,12/21/2020,07-24-2022,2024/05/01,,59.4,,David Davis,20/09/2020,07-12-2024
+441,Highway 310 Widening,PA,8,9,Active,1338.2,1375.67,2.8,01/07/2024,,2022/07/12,,29.8,53,Thomas Thomas,29/07/2018,2024-05-14
+442,US-956 Resurfacing Project,MT,15,14,on hold,1837.95,2137.54,16.3,05/14/2023,,15/07/2025,,73.9,4,Robert Miller,2020-08-07,01/29/2024
+443,New Jersey Broadband Expansion Phase 54,NJ,11,26,Delayed,246.13,334.0,35.7,22/08/2022,26/11/2020,02-17-2028,,47.8,50,Maria Taylor,08-08-2020,2024/10/11
+444,Bridge 970 Structural Repairs,MD,12,9,delayed,1046.61,,4.4,,03/02/2020,2023-02-13,,27.8,6,James Williams,12-24-2019,07/26/2024
+445,Downtown New Orleans Transit Hub,WV,6,24,Active,597.27,714.33,19.6,2022-05-08,11/08/2020,10-20-2024,,33.2,,Robert Brown,2017/02/13,2024/01/09
+446,Idaho Interstate 476 Reconstruction,ID,15,11,Planning,698.5,,,03/13/2022,,19/11/2028,,61.0,50,Thomas Wilson,27/05/2017,2023-10-04
+447,Michigan Broadband Expansion Phase 670,MI,13,20,Active,3045.67,3133.99,2.9,03-16-2021,04/25/2019,,,39.4,50,Michael Davis,2017-03-28,2022-11-07
+448,Route 280 Bridge Replacement,MA,11,18,Completed,3577.08,3798.86,6.2,2019/10/06,09-21-2018,2022/12/09,,71.0,7,Robert Williams,,08/30/2023
+449,Kansas City Stormwater System,NE,15,17,On Hold,1027.5,1137.44,10.7,,2022-05-08,2026/07/04,,36.9,26,Patricia Miller,2021/05/07,2022-09-01
+450,US-846 Resurfacing Project,IL,8,28,,2470.34,3080.51,,02/11/2021,2024/06/14,2027/11/28,2022-07-17,,33,Patricia Davis,08/16/2017,01/30/2025
+451,I-706 Safety Improvements,NM,12,1,Active,1755.6,2378.84,35.5,12/02/2019,01/05/2024,2028-11-09,,23.7,29,Michael Anderson,29/11/2020,04/06/2024
+452,Memphis Emergency Communications,OH,4,14,Completed,3.95,3.9,-1.3,2019-09-28,03/09/2023,2023-10-05,16/02/2023,74.0,46,Karen Brown,2017/07/23,01-12-2025
+453,Tennessee Broadband Expansion Phase 622,TN,13,3,Active,1721.25,2031.07,18.0,23/08/2023,03/30/2019,12-14-2025,,78.2,27,Karen Anderson,08/10/2020,05/21/2023
+454,Austin School District Renovation,WV,5,22,Active,N/A,1273.89,1.8,04-03-2018,2022/12/28,01-03-2025,,57.6,10,Karen Moore,17/05/2019,23/04/2025
+455,Highway 751 Widening,MS,11,11,Completed,3395.49,3405.68,0.3,09/04/2022,2021/04/14,2028-07-21,,21.7,19,Jennifer Johnson,06/11/2021,
+456,Highway 338 Widening,KS,10,18,On Hold,2800.55,,22.0,28/08/2020,2023/04/25,12/08/2024,,70.0,48,Maria Anderson,12/13/2018,2024/05/01
+457,Regional Rail Corridor 460,MT,14,29,Completed,2111.39,2512.55,19.0,03-21-2018,2019/04/30,15/12/2027,08-24-2024,29.7,42,James Johnson,08-20-2017,2023/02/22
+458,Phoenix Stormwater System,WV,7,28,Delayed,3226.21,3361.71,4.2,01/11/2020,05-27-2019,,,20.5,16,Sarah Miller,2019/06/20,
+459,Alaska Broadband Expansion Phase 970,AK,4,13,Planning,3649.54,,,04/19/2023,,08-28-2024,,75.4,41,Robert Taylor,2019-10-11,2022-11-18
+460,Route 316 Bridge Replacement,MS,14,21,Completed,1085.34,1277.45,17.7,2021/01/07,04-16-2023,2024/08/01,01/20/2024,58.3,23,Robert Miller,,2024/12/19
+461,Route 486 Bridge Replacement,WV,3,14,On Hold,3736.48,5066.67,35.6,03/30/2024,2018/10/07,,,67.7,31,Thomas Taylor,07/02/2018,20/01/2022
+462,Baltimore Flood Control Project,CT,12,N/A,Delayed,4145.14,4402.14,6.2,06-11-2022,2019-07-14,04/08/2028,,56.3,17,Michael Moore,2018/06/21,12-01-2023
+463,US-449 Resurfacing Project,HI,13,29,on hold,3825.57,4342.02,13.5,2023/07/02,2021/09/07,27/05/2028,,40.9,34,Robert Anderson,02-28-2021,2022-08-16
+464,Highway 509 Widening,MO,13,30,Completed,671.9,972.24,,11-14-2023,2019-03-06,2022/12/06,2023/01/09,63.6,41,James Davis,,2024/10/26
+465,Highway 843 Widening,OK,15,,Completed,376.06,513.32,,2021/07/06,2023/08/29,01-15-2028,02-12-2022,65.3,30,Patricia Johnson,04-24-2021,2023-10-15
+466,Route 336 Bridge Replacement,AR,12,4,Planning,570.07,,,2020-05-19,,04/03/2027,,32.4,5,Jennifer Anderson,14/10/2019,02/26/2023
+467,Nashville Flood Control Project,ID,8,19,Completed,486.34,,14.0,05/10/2020,05-29-2022,,29/03/2022,59.6,33,Sarah Taylor,09-23-2019,01/08/2023
+468,Regional Rail Corridor 849,MN,9,28,Active,4096.33,5865.94,43.2,2018/06/03,02/13/2020,2028/04/13,,52.8,9,Lisa Davis,2017/01/17,2023-06-25
+469,Bridge 782 Structural Repairs,NE,3,6,Cancelled,3941.67,,,2023/09/17,2023-02-04,09/01/2025,,72.3,n/a,Jennifer Williams,2021/10/19,2023/05/01
+470,Highway 482 Widening,PA,9,16,Active,3139.26,4492.28,43.1,06/30/2020,08-16-2020,05/28/2024,,44.3,49,Lisa Taylor,2017-01-29,05-30-2023
+471,Connecticut Interstate 777 Reconstruction,CT,8,5,Active,83.15,108.43,30.4,2023/07/20,2024/08/20,19/01/2025,,26.0,14,Robert Miller,,05-07-2023
+472,Michigan Interstate 853 Reconstruction,MI,3,10,Delayed,2712.06,2866.65,5.7,2022-09-14,,03/18/2023,,52.0,,James Johnson,30/01/2018,2023/09/18
+473,US-620 Resurfacing Project,TX,1,11,Active,252.19,301.87,,2019-07-14,28/09/2021,2028-04-25,,77.9,2,Lisa Davis,2020-06-14,2024-08-03
+474,New Orleans Water Main Upgrade,NE,3,n/a,Planning,1079.08,,,2020-09-30,,26/07/2026,,23.2,10,Sarah Miller,08-24-2018,09/27/2022
+475,Kansas City Water Main Upgrade,NC,8,14,ACTIVE,3024.98,2910.03,-3.8,2019/07/03,12/01/2021,2025/11/13,2025/11/18,41.5,35,Jennifer Williams,2019/02/22,03-17-2022
+476,Bridge 449 Structural Repairs,UT,5,1,TBD,2341.68,2327.63,-0.6,05/01/2024,03-25-2019,05-31-2028,2022-03-08,49.4,40,Karen Brown,25/06/2017,2024-06-14
+477,Highway 703 Widening,NJ,2,6,Delayed,623.64,?,-4.3,2021-09-08,2018-01-07,2024-05-02,,65.7,1,James Johnson,02/07/2017,28/01/2025
+478,Kansas City Emergency Communications,WA,15,15,TBD,188.34,179.68,-4.6,2021-10-11,2021/05/14,02-04-2028,06-18-2022,76.6,36,Michael Taylor,06/13/2018,2024-03-06
+479,Detroit Airport Terminal Expansion,PA,6,7,TBD,126.36,140.39,11.1,10/22/2020,2021/03/06,07-11-2028,,73.4,18,Michael Moore,2019-06-24,10-31-2022
+480,I-422 Safety Improvements,NC,8,8,Active,3994.37,4238.03,6.1,,13/03/2018,2022-02-04,,37.7,11,Karen Williams,,02/20/2025
+481,Austin Water Main Upgrade,MS,3,15,,3131.81,3250.82,3.8,2019-06-05,05-14-2024,10/16/2026,21/05/2022,41.1,9,James Miller,,02-06-2024
+482,Miami Stormwater System,TN,1,12,Completed,2065.89,2115.47,2.4,08-20-2020,03/12/2021,04/05/2028,2024-05-13,25.0,27,Thomas Brown,01/12/2017,10-13-2023
+483,US-679 Resurfacing Project,HI,5,16,Active,252.85,266.5,5.4,03/03/2018,05/30/2018,18/08/2026,,78.5,7,Thomas Miller,2019-10-23,03-04-2025
+484,Boston Water Main Upgrade,MD,11,27,Completed,2572.52,3439.46,33.7,18/02/2024,2024-03-04,2022-11-25,2024-12-23,28.8,16,James Moore,04-24-2018,09/21/2023
+485,Downtown Baltimore Transit Hub,TN,14,1,Active,3124.82,3793.53,21.4,01-18-2018,,,,28.5,46,Patricia Anderson,2019-02-28,19/04/2022
+486,Denver School District Renovation,VT,11,18,Completed,N/A,4937.89,32.9,2019-09-30,,2028/12/01,15/04/2022,TBD,17,Maria Thomas,,2023-08-07
+487,Oregon Interstate 707 Reconstruction,OR,2,14,On Hold,3272.74,3878.2,n/a,2019/09/26,06-16-2019,2024/04/10,,60.6,49,Karen Moore,05/30/2018,09/12/2024
+488,New Jersey Electric Grid Hardening,NJ,14,4,Under Review,2530.55,3370.69,33.2,03-08-2024,,11/02/2027,,35.6,,Lisa Johnson,03/08/2019,2024-06-25
+489,Seattle Wastewater Treatment Plant,ME,9,25,ACTIVE,2951.98,,,,01-14-2024,2024/06/28,,54.7,19,Thomas Miller,2019/10/28,05/16/2022
+490,Austin Water Main Upgrade,WI,9,3,Planning,498.11,,,05/02/2021,,08/05/2027,,45.2,,Robert Taylor,11/02/2019,2025-04-13
+491,US-233 Resurfacing Project,VT,11,26,N/A,79.71,87.52,9.8,13/04/2021,2022-11-18,23/02/2026,07/28/2023,45.4,30,Lisa Brown,,01-04-2024
+492,Baltimore Flood Control Project,SD,8,22,Active,726.0,784.08,8.0,06-04-2022,2023/12/04,08/07/2026,,78.9,29,Robert Anderson,2019/11/24,2023/09/07
+493,New York Interstate 530 Reconstruction,NY,7,29,TBD,2198.16,2521.29,14.7,08-15-2020,12-24-2019,08-24-2022,,61.6,50,Jennifer Davis,06-16-2018,13/01/2022
+494,Pennsylvania Interstate 852 Reconstruction,PA,10,23,Completed,1090.99,1497.93,37.3,08/05/2023,05-10-2020,2026/07/07,09-24-2022,47.3,14,Robert Johnson,2020-12-17,2022/12/27
+495,Seattle Flood Control Project,CA,4,,TBD,3137.01,TBD,44.7,18/05/2024,2024-03-01,2022-02-26,,25.7,18,Robert Moore,07-05-2018,10/11/2024
+496,US-577 Resurfacing Project,GA,14,26,Active,1863.4,2681.43,43.9,03/24/2024,22/01/2018,2028-01-21,,33.3,37,James Moore,2021/03/29,2023-10-28
+497,Kansas City School District Renovation,NC,14,,Completed,3461.15,4073.77,17.7,2019-11-12,2024/03/14,,2023-12-30,78.6,38,Lisa Miller,2020-06-30,04-15-2025
+498,Portland Wastewater Treatment Plant,TN,10,2,Completed,145.78,154.96,6.3,2019-10-05,28/11/2021,2024/02/28,05-22-2023,32.4,1,Robert Davis,01/03/2019,05/18/2022
+499,Phoenix School District Renovation,KY,15,6,delayed,112.43,138.51,23.2,01/15/2024,,2023/05/17,09/16/2022,TBD,51,David Miller,2017/07/05,28/11/2022
+500,Downtown Phoenix Transit Hub,MN,10,26,Active,319.72,?,6.5,2023-05-27,,2024/08/08,,63.4,,Michael Miller,2019-08-28,

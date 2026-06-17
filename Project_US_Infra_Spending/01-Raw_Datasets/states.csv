@@ -1,0 +1,51 @@
+state_id,state_abbr,state_name,region,population_2020,gdp_million_usd,poverty_rate_pct,unemployment_rate_pct,infrastructure_grade,notes
+1,CA,California,west,N/A,3598103,,3.9,B,High flood risk
+2,TX,Texas,South,29145505,2004543,13.8,3.9,B-,
+3,FL,Florida,South,21538187,1111570,17.5,5.2,A,Drought concerns
+4,NY,New York,Northeast,20201249,2053180,12.9,4.8,B,Major highway expansion
+5,PA,Pennsylvania,West ,13002700,804800,10.9,4.1,D+,
+6,IL,Illinois,Midwest,12812508,900600,11.4,3.7,B+,Hurricane exposure
+7,OH,Ohio,Midwest,11799448,701400,18.3,4.6,B+,
+8,GA,Georgia,,10711908,659600,9.5,4.7,C+,Seismic zone
+9,NC,North Carolina,South,10439388,630900,10.0,6.3,B-,Hurricane exposure
+10,MI,Michigan,Midwest,10077331,541300,9.1,4.9,B,
+11,NJ,New Jersey,Northeast,9288994,691000,17.3,4.5,B-,Major highway expansion
+12,VA,Virginia,South,8631393,620900,19.2,2.9,A,High flood risk
+13,WA,Washington,West,7705281,755300,13.5,4.8,C+,
+14,AZ,Arizona,West,N/A,447800,19.4,2.9,B-,Hurricane exposure
+15,MA,Massachusetts,Northeast,7029917,617000,8.0,4.5,C-,Seismic zone
+16,TN,Tennessee,South,6910840,411200,8.7,5.4,C+,Hurricane exposure
+17,IN,Indiana,Midwest,6785528,388500,16.1,4.6,A,
+18,MO,Missouri,Midwest,6154913,343900,14.0,7.5,A,
+19,MD,Maryland,WEST,6177224,430300,8.1,6.6,D+,Aging bridge stock
+20,WI,Wisconsin,Midwest,TBD,353700,14.4,N/A,D+,
+21,CO,Colorado,West,,432700,n/a,6.7,B+,
+22,MN,Minnesota,Midwest,5706494,421100,19.5,4.5,D+,
+23,SC,South Carolina,west coast,5118425,270500,11.5,,B-,
+24,AL,Alabama,South,5024279,n/a,11.6,2.8,C+,Aging bridge stock
+25,LA,Louisiana,South,4657757,,13.7,7.4,C+,
+26,KY,Kentucky,South,4505836,226100,13.6,7.2,C+,Major highway expansion
+27,OR,Oregon,West,4237256,277800,16.8,7.0,C-,
+28,OK,Oklahoma,South,3959353,208700,,3.9,B+,
+29,CT,Connecticut,Northeast,3605944,N/A,13.9,6.9,B,
+30,UT,Utah,West,3271616,231300,11.2,6.7,D+,Seismic zone
+31,NV,Nevada,West,3104614,214800,19.7,6.2,D,Seismic zone
+32,IA,Iowa,Midwest,3190369,210600,9.0,3.3,D+,Drought concerns
+33,AR,Arkansas,South,3011524,145700,14.2,7.2,,Aging bridge stock
+34,MS,Mississippi,South,2961279,120200,16.7,6.5,C+,
+35,KS,Kansas,Midwest,2937880,181200,12.9,3.6,C,Major highway expansion
+36,NM,New Mexico,West,,103400,18.2,5.8,B,
+37,NE,Nebraska,Midwest,1961504,146700,15.9,7.3,B+,
+38,ID,Idaho,West,1839106,93400,9.3,,B-,
+39,WV,West Virginia,South,1793716,79700,9.4,7.3,D,Seismic zone
+40,HI,Hawaii,West,1455271,,18.8,2.9,B-,Seismic zone
+41,NH,New Hampshire,Northeast,1377529,94200,15.2,5.1,C,High flood risk
+42,ME,Maine,Northeast,1362359,72800,16.6,4.3,C,Hurricane exposure
+43,MT,Montana,West,1084225,58700,10.5,,B+,Aging bridge stock
+44,RI,Rhode Island,Northeast,1097379,68900,8.6,2.8,C,Aging bridge stock
+45,DE,Delaware,Northeast,989948,83100,9.5,2.8,D,Seismic zone
+46,SD,South Dakota,Midwest,886667,60200,18.1,4.4,B-,Seismic zone
+47,ND,North Dakota,Midwest,n/a,64300,10.3,2.9,B-,
+48,AK,Alaska,West,733391,55800,13.5,5.2,B-,
+49,VT,Vermont,Northeast,643077,,14.5,5.0,,
+50,WY,Wyoming,West,576851,41900,15.5,6.3,C,

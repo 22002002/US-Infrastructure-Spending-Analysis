@@ -1,0 +1,2092 @@
+timeline_id,project_id,milestone_name,planned_date,actual_date,days_delayed,delay_reason,responsible_party,status,notes
+1,443,Final Inspection,12-22-2026,,,,Engineer,In progress,
+2,443,Bid Award,16/10/2024,,,,Owner,Skipped,
+3,443,Project Closeout,07/02/2018,,,,Contractor,Delayed,Permit dependent
+4,443,Design Complete,2025/06/30,,,,Contractor,Delayed,Permit dependent
+5,443,50% Complete,2024-05-28,2025-03-09,285,Weather,Regulator,complete,Permit dependent
+6,443,Ground Breaking,01/04/2023,,,,Third Party,Not Started,Permit dependent
+7,102,Ground Breaking,03/12/2022,,,,Regulator,Complete,Float available
+8,102,Design Complete,30/08/2021,,,,Owner,Complete,On critical path
+9,102,50% Complete,2025-05-01,12/06/2023,-512,,Third Party,Delayed,
+10,102,Environmental Review,09-18-2022,08/24/2019,-1121,,Owner,Delayed,
+11,102,Project Closeout,20/08/2021,,2036,Funding gap,Owner,Complete,Permit dependent
+12,102,Final Inspection,05-12-2023,2021/10/18,-571,,Regulator,Not Started,
+13,479,Bid Award,07-04-2024,,-220,,Engineer,Delayed,Float available
+14,479,Environmental Review,08-08-2022,2019/01/07,-1309,,Third Party,Skipped,On critical path
+15,479,Design Complete,09/13/2021,10/16/2023,763,Contractor issues,Owner,Complete,
+16,479,Project Closeout,16/03/2021,05/15/2021,60,Permitting,Regulator,Complete,Float available
+17,479,50% Complete,2027-10-28,14/09/2022,-1870,,Regulator,Not Started,Float available
+18,479,Ground Breaking,2023-05-10,,981,Contractor issues,Engineer,Delayed,Float available
+19,85,Design Complete,07-01-2020,,2125,Supply chain delays,Owner,Complete,
+20,85,50% Complete,02/01/2026,2019-09-08,-2338,,Owner,Delayed,Float available
+21,447,Substantial Completion,2026/06/12,08-14-2025,-302,,Regulator,Skipped,On critical path
+22,447,Environmental Review,2023/08/19,2026/04/09,964,Utility conflicts,Contractor,Delayed,Float available
+23,447,50% Complete,01-07-2025,2026/05/11,489,Weather,Third Party,In Progress,
+24,447,Bid Award,27/11/2019,2026/12/16,2576,Contractor issues,Regulator,,
+25,447,Ground Breaking,2020-07-07,09/26/2022,811,Funding gap,Third Party,NOT STARTED,Float available
+26,447,Project Closeout,2022/08/10,11-17-2027,1925,Permitting,Owner,In Progress,Permit dependent
+27,447,Design Complete,2023/02/05,2026/02/22,1113,Permitting,Utility,Complete,Float available
+28,202,Project Closeout,12/02/2023,08-22-2022,-467,,Contractor,In Progress,
+29,202,Ground Breaking,04-11-2022,2026/09/22,1625,Labor shortage,Third Party,Skipped,
+30,202,Environmental Review,2020/05/31,12-24-2018,,,Utility,Complete,On critical path
+31,202,Design Complete,07-31-2019,01/04/2026,2349,Contractor issues,Owner,Complete,
+32,202,Final Inspection,2020/02/01,27/11/2021,665,Permitting,Third Party,Not Started,Float available
+33,202,50% Complete,2025/03/16,2027-12-27,1016,,Third Party,Not Started,
+34,415,Substantial Completion,2023/10/19,2027-01-05,1174,Funding gap,Third Party,Complete,On critical path
+35,415,Environmental Review,12-29-2024,13/10/2022,-808,,Utility,Complete,Float available
+36,228,Final Inspection,29/03/2020,15/10/2027,2756,Labor shortage,Utility,Delayed,
+37,228,Project Closeout,07/10/2025,,-207,,Regulator,COMPLETE,
+38,228,50% Complete,05-02-2023,2024/11/21,569,Right-of-way,Third Party,In Progress,
+39,228,Ground Breaking,2020-11-15,03-19-2025,1585,Environmental review,Utility,Delayed,Permit dependent
+40,214,Final Inspection,08-27-2025,08/18/2026,?,Design changes,Third Party,Skipped,Float available
+41,214,50% Complete,13/01/2024,11/09/2023,-124,,Third Party,Complete,
+42,378,Substantial Completion,,10/17/2026,1993,Right-of-way,Owner,Not Started,On critical path
+43,378,Design Complete,04/08/2019,12-18-2019,n/a,Weather,Regulator,Delayed,
+44,378,Environmental Review,2025/09/01,22/08/2025,-10,,Owner,Delayed,Float available
+45,378,50% Complete,2018-06-10,2020-09-03,,Environmental review,Third Party,In Progress,
+46,378,Final Inspection,2024/05/03,2026/01/02,609,Right-of-way,Contractor,Not Started,
+47,116,Ground Breaking,2020/08/10,2026/07/16,2166,Labor shortage,Regulator,Skipped,On critical path
+48,116,Design Complete,01/03/2024,2019-10-16,-1598,,Owner,Delayed,On critical path
+49,116,50% Complete,10/31/2018,03/12/2023,1859,,Third Party,Skipped,Permit dependent
+50,356,Final Inspection,,,,,Regulator,Skipped,Permit dependent
+51,356,50% Complete,07/17/2026,25/06/2024,-752,,Regulator,Delayed,Float available
+52,329,Project Closeout,2026/04/12,,,,Utility,Complete,Float available
+53,329,Final Inspection,2024-01-14,,,,Utility,Skipped,
+54,329,50% Complete,04/15/2021,2019/09/24,-569,,Third Party,In progress,Permit dependent
+55,329,Ground Breaking,08/29/2019,,TBD,,Regulator,Delayed,
+56,329,Substantial Completion,05/19/2021,2027/12/06,TBD,Labor shortage,Utility,Skipped,On critical path
+57,329,Bid Award,2027-11-15,,-799,,Utility,Not Started,
+58,329,Environmental Review,04-07-2026,,,,Third Party,Not Started,
+59,52,Project Closeout,07-01-2026,03-23-2025,-465,,Engineer,Delayed,
+60,52,Substantial Completion,2026/06/10,07/02/2019,-2680,,Regulator,Delayed,Float available
+61,52,Design Complete,08/09/2026,2025-12-25,-,,Engineer,Complete,Float available
+62,52,Bid Award,11/11/2027,02/13/2023,-1732,,Regulator,In progress,
+63,45,Final Inspection,2026-12-15,,-2966,,Engineer,In progress,On critical path
+64,45,Substantial Completion,05/09/2024,04-19-2022,-751,,Owner,Skipped,
+65,45,50% Complete,2019/11/03,2019-06-28,-128,,Third Party,Not Started,
+66,45,Environmental Review,2023-06-06,2022-12-03,-185,,Utility,complete,On critical path
+67,45,Project Closeout,2026-09-09,,-322,,Utility,complete,
+68,45,Design Complete,2024/03/26,2027-12-19,1363,Contractor issues,Contractor,,Float available
+69,45,Ground Breaking,11-23-2024,2027/04/30,888,Utility conflicts,Utility,In Progress,Permit dependent
+70,45,Bid Award,10/01/2024,,-690,,Utility,In Progress,Permit dependent
+71,159,Environmental Review,09/09/2024,,,,Utility,Complete,
+72,159,Bid Award,2024/05/03,,,,Engineer,Not Started,
+73,159,Ground Breaking,01-28-2025,,,,Regulator,Skipped,
+74,159,Project Closeout,2026/02/14,,,,Utility,Not Started,
+75,127,Substantial Completion,2018-06-28,,,,Engineer,Not Started,
+76,127,Ground Breaking,02-23-2027,,,,Contractor,Not Started,On critical path
+77,41,Substantial Completion,25/08/2018,,,,Third Party,Not Started,Float available
+78,41,50% Complete,2024/11/02,,,,Utility,In Progress,Permit dependent
+79,383,Ground Breaking,15/02/2020,2019-05-05,-,,Third Party,Skipped,Float available
+80,383,Bid Award,03/19/2019,2026-12-26,,Design changes,Engineer,NOT STARTED,
+81,32,Bid Award,07/04/2025,,-329,,Owner,Complete,
+82,32,Design Complete,03/20/2021,12/02/2023,987,Environmental review,Owner,Complete,On critical path
+83,32,Ground Breaking,,08-10-2024,610,Right-of-way,Utility,Delayed,Permit dependent
+84,32,Substantial Completion,14/11/2024,2025-10-15,335,Funding gap,Utility,In Progress,
+85,32,Final Inspection,2026-10-13,10/06/2027,240,Funding gap,Utility,Delayed,
+86,235,50% Complete,2024-03-29,,,,Engineer,Complete,
+87,235,Project Closeout,,27/08/2019,-1980,,Contractor,Delayed,Float available
+88,174,Substantial Completion,2026/02/04,12-30-2023,-767,,Regulator,Delayed,
+89,174,Bid Award,01/10/2021,,,,Contractor,Skipped,Permit dependent
+90,174,Final Inspection,08/29/2025,09/06/2025,8,Right-of-way,Engineer,In progress,
+91,174,Project Closeout,08/31/2020,2022-06-17,655,Permitting,Contractor,In Progress,Permit dependent
+92,174,Design Complete,29/08/2021,09/29/2021,31,Design changes,Utility,NOT STARTED,
+93,174,50% Complete,04/04/2025,,,,Utility,Delayed,On critical path
+94,118,Ground Breaking,05/01/2024,06/05/2023,-331,,Contractor,Not Started,On critical path
+95,118,Environmental Review,05/05/2023,10-28-2024,542,Supply chain delays,Contractor,Delayed,On critical path
+96,118,Design Complete,02/27/2022,22/12/2024,1029,,Engineer,,Float available
+97,118,Bid Award,21/11/2027,,,,Contractor,Delayed,
+98,118,Project Closeout,,,,,Owner,Not Started,
+99,118,Substantial Completion,22/08/2019,2021/10/06,776,Permitting,Regulator,Not Started,
+100,118,Final Inspection,,,,,Utility,Complete,
+101,441,Substantial Completion,06-08-2022,07/10/2019,-1064,,Utility,NOT STARTED,
+102,441,Environmental Review,,2022-11-01,-822,,Third Party,Delayed,Float available
+103,441,Bid Award,12/09/2027,06/24/2024,?,,Utility,Not Started,
+104,441,50% Complete,2027-04-01,2021-11-28,n/a,,Engineer,Delayed,Permit dependent
+105,306,Environmental Review,12/10/2020,01/03/2019,-648,,Owner,Complete,
+106,306,50% Complete,,03/14/2023,-1663,,Engineer,Skipped,On critical path
+107,306,Project Closeout,08/15/2023,01-13-2021,-944,,Owner,Not Started,On critical path
+108,306,Final Inspection,2020-10-04,09-24-2024,1451,Contractor issues,Engineer,In Progress,
+109,306,Ground Breaking,03/09/2022,08-27-2027,1819,Supply chain delays,Utility,Complete,
+110,306,Substantial Completion,2019/09/12,2027-12-22,3023,Right-of-way,Contractor,Not Started,
+111,258,Bid Award,01/16/2023,11/08/2026,1392,,Third Party,Skipped,
+112,258,Substantial Completion,2025/02/08,11/03/2024,-97,,Engineer,Not Started,
+113,258,Project Closeout,02-07-2025,2023/05/29,-620,,Engineer,Delayed,On critical path
+114,258,Final Inspection,04-20-2023,2020-07-10,-1014,,Regulator,Delayed,
+115,258,Design Complete,03/02/2021,12-09-2026,2108,,Regulator,Skipped,On critical path
+116,258,Ground Breaking,2021/08/25,,,,Regulator,Not Started,
+117,258,Environmental Review,09-18-2024,,,,Owner,Not Started,
+118,258,50% Complete,11-20-2026,18/02/2019,-,,Contractor,Not Started,
+119,500,Bid Award,,,TBD,Funding gap,Contractor,Delayed,
+120,500,Substantial Completion,06-10-2026,2019-12-25,-2359,,Utility,In Progress,
+121,500,Project Closeout,08/23/2024,25/05/2022,-821,,Contractor,Not Started,
+122,500,Ground Breaking,2019-09-10,2021-09-21,742,Design changes,Owner,Not Started,Float available
+123,500,Environmental Review,12-14-2023,2024-08-02,232,Environmental review,Contractor,Complete,
+124,500,Design Complete,05-02-2026,2026-02-09,-82,,Owner,Delayed,
+125,437,Environmental Review,03/29/2022,2023-05-26,423,Permitting,Regulator,Skipped,Permit dependent
+126,437,Final Inspection,06/08/2026,,-1066,,Third Party,COMPLETE,
+127,451,Final Inspection,26/10/2023,2026/03/21,877,Environmental review,Regulator,Delayed,
+128,451,50% Complete,19/10/2019,2025-06-14,2065,Utility conflicts,Utility,Not Started,
+129,451,Project Closeout,26/10/2018,01-03-2020,434,Design changes,Engineer,Complete,Float available
+130,451,Environmental Review,2020-10-11,2022/02/24,501,Labor shortage,Owner,In Progress,Permit dependent
+131,451,Bid Award,,2027-07-15,,Environmental review,Owner,Not Started,
+132,451,Substantial Completion,2021/10/31,04-10-2026,1622,Utility conflicts,Regulator,In progress,Float available
+133,477,Design Complete,2025-10-30,,,,Engineer,Delayed,Permit dependent
+134,477,Substantial Completion,2022/09/16,,,,Owner,In progress,On critical path
+135,477,Environmental Review,2020/04/15,,,,Engineer,In Progress,Permit dependent
+136,477,Project Closeout,2024/02/27,11-30-2018,-1915,,Contractor,Not Started,On critical path
+137,477,Final Inspection,,04-29-2022,-1797,,Third Party,Complete,Float available
+138,244,Final Inspection,06-18-2020,05/04/2020,-45,,Engineer,Delayed,Permit dependent
+139,244,Bid Award,2026-07-14,2022-11-16,-1336,,Engineer,Complete,
+140,244,Environmental Review,10/26/2024,04/04/2026,525,,Utility,Delayed,Permit dependent
+141,483,Bid Award,11/08/2021,2027/03/14,,Right-of-way,Contractor,complete,Permit dependent
+142,483,Design Complete,,11/10/2027,329,Contractor issues,Third Party,Skipped,Permit dependent
+143,142,Design Complete,03/31/2022,09-11-2025,1260,Labor shortage,Contractor,NOT STARTED,
+144,142,Ground Breaking,2021/11/15,09-02-2025,1387,Labor shortage,Regulator,Delayed,On critical path
+145,56,Ground Breaking,01/07/2018,08-26-2020,787,Weather,Regulator,Not Started,
+146,56,Design Complete,2022/06/01,2019/06/10,-1087,,Regulator,Skipped,Float available
+147,56,Environmental Review,2020-08-17,2019/05/22,,,Engineer,Not Started,On critical path
+148,137,Design Complete,08/11/2020,,,,Regulator,Delayed,
+149,137,Project Closeout,10/16/2026,,,,Owner,Not Started,Permit dependent
+150,137,Environmental Review,2025/10/25,07-05-2020,-1938,,Regulator,Skipped,Permit dependent
+151,137,Bid Award,2021/02/07,,,,Engineer,NOT STARTED,On critical path
+152,137,Ground Breaking,05/28/2019,05/03/2026,-,,Engineer,NOT STARTED,
+153,137,50% Complete,2020-01-02,2018-08-25,-495,,Third Party,In Progress,
+154,137,Final Inspection,08/16/2027,,,,Owner,Not Started,On critical path
+155,436,Substantial Completion,08/04/2025,04/11/2023,-728,,Third Party,complete,
+156,436,Bid Award,2021/01/08,2020/09/22,-108,,Owner,NOT STARTED,
+157,436,Design Complete,11-04-2023,10-08-2019,-1488,,Utility,Skipped,Float available
+158,436,Ground Breaking,,02-25-2023,278,Permitting,Third Party,Delayed,Float available
+159,436,50% Complete,03-12-2024,2020-06-23,-1358,,Utility,,Float available
+160,436,Project Closeout,09/14/2022,03-14-2019,-1280,,Utility,Not Started,Permit dependent
+161,436,Final Inspection,,,1891,Supply chain delays,Utility,Delayed,Float available
+162,96,Design Complete,09-09-2018,,,,Owner,In Progress,
+163,96,Environmental Review,02/13/2026,06/08/2025,-250,,Contractor,In Progress,Permit dependent
+164,96,Project Closeout,05/03/2025,,,,Contractor,Complete,Float available
+165,96,Final Inspection,2027/05/02,26/08/2027,116,,Utility,Delayed,
+166,96,Substantial Completion,14/07/2025,,,,Owner,Not Started,On critical path
+167,96,Ground Breaking,04-13-2021,,,,Regulator,complete,On critical path
+168,96,50% Complete,2025/12/29,,,,Third Party,Skipped,
+169,222,Design Complete,07/12/2018,,,,Engineer,Skipped,Permit dependent
+170,222,Environmental Review,19/09/2019,,,,Third Party,Complete,
+171,222,Project Closeout,2023-07-06,,,,Utility,Not Started,
+172,370,Bid Award,2026/12/17,31/08/2019,-2665,,Contractor,Delayed,On critical path
+173,370,50% Complete,2019/09/13,03/10/2025,,,Owner,Delayed,
+174,370,Final Inspection,13/11/2025,09/18/2021,-1517,,Contractor,Complete,On critical path
+175,370,Environmental Review,09/11/2019,15/06/2022,949,Environmental review,Utility,In Progress,On critical path
+176,370,Design Complete,05/06/2026,04/12/2023,-1150,,Utility,Delayed,
+177,370,Project Closeout,05-29-2020,2027-09-30,2680,Utility conflicts,Engineer,Complete,
+178,370,Ground Breaking,06-20-2019,08-12-2021,784,Right-of-way,Owner,Complete,Permit dependent
+179,370,Substantial Completion,07/31/2018,07-04-2019,338,Design changes,Utility,Complete,Float available
+180,459,Bid Award,2019/06/25,14/12/2024,1999,Weather,Utility,complete,Permit dependent
+181,459,Ground Breaking,23/08/2020,,,,Owner,Skipped,
+182,150,50% Complete,2019/06/22,2020-10-30,496,Permitting,Third Party,Complete,On critical path
+183,150,Ground Breaking,11-18-2021,09-11-2022,297,Utility conflicts,Utility,Delayed,
+184,150,Design Complete,2026/12/11,2018/08/27,-3028,,Utility,,On critical path
+185,150,Environmental Review,2019-07-31,08/05/2025,2108,Funding gap,Third Party,complete,Float available
+186,150,Project Closeout,05/02/2026,2026/07/11,156,Right-of-way,Third Party,NOT STARTED,
+187,150,Final Inspection,2024/05/14,19/11/2021,-907,,Contractor,Skipped,
+188,150,Bid Award,28/01/2022,07/25/2022,178,Contractor issues,Engineer,In Progress,
+189,69,Design Complete,2018-07-02,10/29/2025,2676,Design changes,Third Party,complete,
+190,69,Ground Breaking,05/29/2027,10/16/2022,,,Utility,Delayed,Permit dependent
+191,304,Ground Breaking,06-26-2026,,,,Engineer,Complete,Float available
+192,304,Final Inspection,12-23-2021,20/04/2022,118,Right-of-way,Contractor,Not Started,
+193,304,Bid Award,2027-08-20,2018/11/07,-3208,,Contractor,Delayed,
+194,304,50% Complete,01-10-2025,,,,Owner,COMPLETE,
+195,304,Substantial Completion,04-23-2022,,,,Third Party,Skipped,
+196,304,Project Closeout,2026-12-08,,,,Third Party,Skipped,Permit dependent
+197,114,Project Closeout,2026-05-26,12-13-2024,,,Utility,Skipped,Float available
+198,114,50% Complete,2022-04-12,,,,Third Party,Skipped,
+199,114,Bid Award,2020/01/28,,,,Utility,NOT STARTED,
+200,114,Design Complete,2025/03/01,,,,Regulator,Not Started,Permit dependent
+201,114,Final Inspection,2026/12/29,04/06/2024,-997,,Engineer,Delayed,
+202,114,Environmental Review,10/10/2022,,,,Contractor,Delayed,
+203,114,Substantial Completion,2021-10-08,,,,Third Party,In Progress,Permit dependent
+204,114,Ground Breaking,07-08-2024,,,,Contractor,Not Started,
+205,16,Environmental Review,03-15-2022,2022/03/16,,Supply chain delays,Regulator,Not Started,
+206,16,Final Inspection,03/07/2026,2024/06/07,-756,,Third Party,Skipped,
+207,16,50% Complete,,2020-08-31,-1541,,Regulator,Skipped,Permit dependent
+208,16,Ground Breaking,07/24/2027,2025-10-10,-652,,Engineer,Skipped,Float available
+209,407,Final Inspection,11/08/2026,,n/a,,Regulator,In Progress,Float available
+210,407,Substantial Completion,2025-10-06,,,,Owner,In Progress,Permit dependent
+211,407,Project Closeout,09/02/2023,2023-07-31,172,,Contractor,In Progress,
+212,407,Design Complete,07/07/2025,,,,Engineer,,Permit dependent
+213,407,Bid Award,03/08/2022,11/07/2026,1557,Supply chain delays,Third Party,complete,
+214,407,50% Complete,2024-04-27,,,,Third Party,Skipped,On critical path
+215,193,Final Inspection,07/27/2026,06/13/2023,,,Regulator,In Progress,Permit dependent
+216,193,Substantial Completion,06-02-2020,2027-08-21,,Environmental review,Utility,In Progress,Float available
+217,193,Design Complete,,09/21/2026,157,Supply chain delays,Owner,Delayed,
+218,193,Environmental Review,18/12/2020,09-06-2025,1723,Contractor issues,Engineer,Delayed,
+219,193,Bid Award,10/07/2021,2019/09/22,-657,,Utility,Not Started,Float available
+220,344,Project Closeout,26/04/2023,23/04/2027,1458,Funding gap,Engineer,Skipped,On critical path
+221,344,Final Inspection,12/16/2019,2023/06/11,1273,Utility conflicts,Engineer,In Progress,
+222,344,Substantial Completion,2025-11-23,05/04/2024,-597,,Owner,In progress,Permit dependent
+223,344,Bid Award,12/10/2023,2025/11/15,765,Contractor issues,Engineer,Delayed,
+224,411,Project Closeout,12/02/2027,13/08/2027,182,Weather,Regulator,Delayed,
+225,411,Final Inspection,2026-06-05,03-12-2027,280,Design changes,Contractor,In Progress,
+226,132,Ground Breaking,2024-05-16,07-03-2026,778,Right-of-way,Contractor,Not Started,
+227,132,Bid Award,,16/01/2024,-467,,Utility,Delayed,On critical path
+228,132,Project Closeout,04-24-2023,2027/10/24,n/a,Right-of-way,Contractor,Complete,
+229,132,Final Inspection,05/10/2022,11-14-2021,-325,,Third Party,Complete,
+230,132,Environmental Review,2023/11/13,2024-09-15,307,Contractor issues,Engineer,In Progress,
+231,375,Ground Breaking,04-27-2019,2024-01-10,,Supply chain delays,Owner,Complete,Float available
+232,375,Substantial Completion,07/02/2026,12/12/2021,-1518,,Engineer,COMPLETE,
+233,196,Design Complete,2025-05-29,20/03/2024,-435,,Engineer,In Progress,Float available
+234,196,50% Complete,2021-12-14,02/20/2024,798,Design changes,Regulator,Not Started,Permit dependent
+235,196,Substantial Completion,2024/04/21,2021/07/08,,,Utility,Not Started,Permit dependent
+236,196,Project Closeout,09/29/2021,28/08/2023,698,Environmental review,Contractor,In Progress,Permit dependent
+237,196,Ground Breaking,01-12-2025,14/08/2024,-151,,Owner,Delayed,
+238,196,Final Inspection,22/07/2021,05/08/2027,2116,Weather,Utility,complete,
+239,196,Bid Award,2019-12-19,2018/11/03,-411,,Contractor,In progress,
+240,58,Final Inspection,2018-06-06,2027-01-04,3134,Environmental review,Regulator,COMPLETE,On critical path
+241,58,Substantial Completion,12/09/2026,08-15-2023,-1212,,Third Party,Skipped,
+242,58,Bid Award,02/14/2027,02-09-2019,-2927,,Owner,In Progress,Float available
+243,58,Design Complete,01/23/2021,,-742,,Utility,Not Started,Permit dependent
+244,58,50% Complete,02/13/2023,2024-07-13,516,Weather,Engineer,In Progress,Permit dependent
+245,58,Ground Breaking,2024-03-29,2020-08-09,-1328,,Owner,Skipped,
+246,58,Environmental Review,2025/11/06,01/15/2023,-1026,,Contractor,Delayed,On critical path
+247,145,Project Closeout,2020/12/31,,,,Third Party,Not Started,
+248,145,Bid Award,03/10/2022,,,,Utility,Not Started,On critical path
+249,145,Substantial Completion,2022-07-30,,,,Contractor,Complete,Float available
+250,145,50% Complete,,2026-01-20,2237,Weather,Engineer,Delayed,
+251,145,Ground Breaking,2021/01/19,,,,Owner,Delayed,Float available
+252,145,Environmental Review,2026-09-07,,,,Utility,Not Started,
+253,145,Final Inspection,07-31-2026,,,,Utility,Complete,
+254,499,Substantial Completion,2020/05/06,2019-03-27,-406,,Contractor,Complete,
+255,499,Final Inspection,2022/06/10,2021/01/21,-505,,Third Party,In Progress,Permit dependent
+256,499,Environmental Review,2018-10-03,2021-09-06,1069,Right-of-way,Contractor,Delayed,Float available
+257,260,Substantial Completion,,2022/10/24,-1632,,Engineer,Delayed,
+258,260,50% Complete,,08-18-2023,,Labor shortage,Regulator,Complete,On critical path
+259,260,Final Inspection,2018-08-03,10-31-2022,1550,Labor shortage,Third Party,In Progress,Float available
+260,260,Environmental Review,28/03/2025,16/07/2027,840,Design changes,Regulator,Not Started,On critical path
+261,260,Project Closeout,01-12-2023,,,Permitting,Owner,complete,
+262,260,Design Complete,12-09-2026,2023-05-22,,,Owner,Not Started,
+263,260,Ground Breaking,2020/07/20,06/09/2020,-41,,Engineer,In Progress,
+264,260,Bid Award,,2026-06-30,2095,Labor shortage,Engineer,Not Started,Float available
+265,376,Environmental Review,2025/09/20,2018-12-24,-2462,,Contractor,Complete,Permit dependent
+266,376,Substantial Completion,11/06/2026,2021/02/02,-2103,,Owner,Skipped,Permit dependent
+267,104,Final Inspection,30/12/2025,,,,Utility,Complete,
+268,104,Design Complete,02/14/2024,,,,Third Party,In Progress,On critical path
+269,104,Environmental Review,2021/04/15,2025/07/28,1565,Funding gap,Contractor,Complete,Permit dependent
+270,104,Bid Award,11-16-2021,2020-12-11,-340,,Regulator,In Progress,
+271,104,50% Complete,,,,,Contractor,Complete,Permit dependent
+272,104,Ground Breaking,,,-55,,Owner,Skipped,On critical path
+273,104,Project Closeout,2023-02-08,,N/A,,Utility,Skipped,Float available
+274,427,Substantial Completion,2022/12/07,,,,Contractor,Complete,Float available
+275,427,Ground Breaking,12/04/2021,,,,Owner,Not Started,
+276,373,Final Inspection,27/11/2024,02/09/2026,439,Right-of-way,Third Party,Complete,Float available
+277,373,Design Complete,,,,,Owner,In Progress,
+278,373,Environmental Review,,,,,Owner,Skipped,
+279,373,Bid Award,08/08/2024,,,,Regulator,Not Started,
+280,373,Project Closeout,2024/02/06,,,,Engineer,In Progress,
+281,373,50% Complete,10/05/2023,,,,Regulator,In Progress,
+282,373,Ground Breaking,,,,,Utility,In Progress,Float available
+283,445,Design Complete,26/11/2018,15/05/2020,536,Supply chain delays,Owner,Delayed,Permit dependent
+284,445,Environmental Review,2021-06-19,2025-07-30,1502,Environmental review,Contractor,Complete,
+285,445,Final Inspection,2019-09-25,,650,Environmental review,Contractor,Skipped,Permit dependent
+286,445,Project Closeout,2020-03-24,21/08/2019,-216,,Third Party,Not Started,Float available
+287,445,Bid Award,2026/05/20,02-17-2023,-1188,,Engineer,Not Started,
+288,382,Ground Breaking,18/11/2023,2018-11-30,-1814,,Contractor,COMPLETE,
+289,382,Design Complete,2024/04/08,2019/11/20,-1601,,Engineer,Delayed,
+290,382,Project Closeout,2025/05/02,12/02/2024,-151,,Regulator,Complete,
+291,382,Bid Award,10-26-2027,01-18-2024,-1377,,Third Party,Delayed,Float available
+292,382,Substantial Completion,09/11/2025,2021/12/31,,,Regulator,Skipped,
+293,382,Final Inspection,07/22/2027,01/11/2023,-1653,,Owner,Skipped,On critical path
+294,33,Design Complete,2027/07/26,03-15-2022,-1959,,Contractor,Delayed,
+295,33,Substantial Completion,2019-04-30,2023/07/28,1550,Labor shortage,Contractor,In Progress,Permit dependent
+296,33,Final Inspection,04/21/2024,08-01-2018,-2090,,Third Party,In Progress,
+297,33,Project Closeout,2019-01-12,2024/02/27,1872,Environmental review,Owner,Skipped,
+298,33,Ground Breaking,2023-02-04,11-04-2019,-1188,,Third Party,In Progress,Float available
+299,33,50% Complete,11-22-2021,12/12/2027,2211,Contractor issues,Third Party,Complete,On critical path
+300,33,Bid Award,04-02-2025,05-04-2024,-333,,Utility,Not Started,On critical path
+301,212,Final Inspection,2025-06-29,,,,Regulator,Delayed,
+302,212,Design Complete,2026-05-31,,549,Permitting,Regulator,Not Started,
+303,255,Substantial Completion,2027/05/30,,,,Regulator,COMPLETE,
+304,255,Project Closeout,02/17/2021,22/08/2024,,Utility conflicts,Contractor,COMPLETE,On critical path
+305,255,50% Complete,2019-06-04,,,,Third Party,Delayed,
+306,255,Final Inspection,06-17-2027,,,,Owner,In Progress,
+307,154,Design Complete,05/09/2018,2026/02/26,-,Labor shortage,Owner,Delayed,On critical path
+308,154,Bid Award,2020-06-04,06/05/2027,2557,Funding gap,Contractor,Complete,Permit dependent
+309,154,Substantial Completion,2023-03-16,11/18/2027,1708,,Regulator,Delayed,On critical path
+310,154,Ground Breaking,,04/10/2023,N/A,,Utility,Not Started,On critical path
+311,154,50% Complete,,11/26/2026,90,Permitting,Engineer,Skipped,On critical path
+312,154,Environmental Review,2019-07-08,2027/02/27,,Labor shortage,Regulator,In Progress,On critical path
+313,363,Ground Breaking,2025-09-02,08/10/2018,-2580,,Contractor,Not Started,Float available
+314,363,50% Complete,03/11/2019,2021-12-23,,Utility conflicts,Owner,In Progress,
+315,363,Bid Award,2026/05/11,09/13/2021,,,Third Party,,
+316,363,Project Closeout,2021/02/03,12-01-2026,,Environmental review,Utility,NOT STARTED,Float available
+317,363,Environmental Review,,2026-01-23,,,Regulator,Skipped,
+318,363,Substantial Completion,01/27/2021,2020-12-22,-36,,Utility,Not Started,Permit dependent
+319,363,Final Inspection,2023-07-30,2026-06-26,1062,Weather,Engineer,Not Started,
+320,363,Design Complete,2026/11/22,2027-10-02,314,Right-of-way,Owner,Skipped,
+321,371,Ground Breaking,17/06/2018,10/16/2020,852,Environmental review,Third Party,Delayed,On critical path
+322,371,Project Closeout,12/03/2020,2023-04-08,1122,Labor shortage,Utility,Delayed,Permit dependent
+323,371,Design Complete,2027/02/20,,-1199,,Engineer,Skipped,
+324,371,50% Complete,2021/06/23,2021-06-06,-17,,Contractor,Complete,Permit dependent
+325,371,Final Inspection,2021/03/07,07-02-2025,1578,Weather,Engineer,Not Started,
+326,461,Project Closeout,2025-11-30,19/03/2023,-987,,Owner,Delayed,Float available
+327,461,Ground Breaking,2023/05/22,,,,Utility,Not Started,
+328,461,Bid Award,03/26/2023,,-1055,,Third Party,Skipped,Permit dependent
+329,461,Substantial Completion,2018/12/10,,,,Third Party,Complete,
+330,461,Final Inspection,2024-12-02,,,,Owner,Not Started,
+331,461,Environmental Review,2022-04-16,,,,Utility,Delayed,Permit dependent
+332,461,50% Complete,07/17/2018,2019/05/22,309,Supply chain delays,Third Party,Complete,Permit dependent
+333,461,Design Complete,2027/09/14,,,,Owner,Skipped,Float available
+334,354,Environmental Review,2023/09/22,2025-08-11,689,Supply chain delays,Owner,Complete,On critical path
+335,354,Design Complete,2022/09/09,07-26-2018,-1506,,Utility,Skipped,
+336,354,Final Inspection,2022/06/06,12/05/2019,?,,Owner,In Progress,
+337,354,Substantial Completion,2021-08-30,2024/11/22,1180,Design changes,Contractor,Complete,
+338,354,Bid Award,2023/11/22,2021-03-13,-984,,Owner,Delayed,On critical path
+339,354,Project Closeout,2024/04/04,23/02/2026,690,Labor shortage,Owner,In progress,
+340,354,Ground Breaking,06-24-2020,2027/06/29,2561,,Third Party,Skipped,On critical path
+341,354,50% Complete,,2025/12/11,951,,Contractor,Delayed,
+342,277,Ground Breaking,05/01/2022,2025-05-31,1126,Weather,Third Party,Complete,
+343,277,Design Complete,2024-07-04,08-27-2025,419,Right-of-way,Owner,In progress,On critical path
+344,277,Project Closeout,2020/01/19,09-18-2019,-123,,Third Party,Complete,
+345,277,Final Inspection,2026-05-18,09/30/2022,-1326,,Third Party,COMPLETE,
+346,372,Project Closeout,2026/12/27,,,,Third Party,Complete,
+347,372,Bid Award,08/22/2024,04-05-2020,-1600,,Engineer,In Progress,
+348,372,Environmental Review,2025-11-19,05/03/2024,-624,,Third Party,NOT STARTED,Permit dependent
+349,305,Substantial Completion,02/01/2021,2022/11/28,665,Utility conflicts,Contractor,In progress,Permit dependent
+350,305,Bid Award,2021-06-22,,,,Contractor,Skipped,Permit dependent
+351,442,Ground Breaking,07/20/2020,18/05/2019,-429,,Regulator,Delayed,
+352,442,Design Complete,2023/06/05,22/04/2022,-409,,Engineer,Complete,
+353,161,Design Complete,2018-08-12,06-09-2027,3223,Funding gap,Owner,Skipped,On critical path
+354,161,Ground Breaking,2026/05/29,23/05/2024,-736,,Utility,In Progress,
+355,161,50% Complete,13/04/2021,2023/08/07,?,Environmental review,Owner,Complete,
+356,161,Final Inspection,12/06/2025,,?,Labor shortage,Contractor,In Progress,
+357,161,Bid Award,2021/03/19,2026/06/21,1920,Weather,Engineer,Not Started,On critical path
+358,161,Environmental Review,2027/12/17,06-26-2019,-3096,,Contractor,Skipped,
+359,160,50% Complete,19/10/2025,2019-12-22,-2128,,Utility,Not Started,Float available
+360,160,Final Inspection,10-14-2024,2025/11/13,,Funding gap,Utility,Complete,
+361,27,50% Complete,08-24-2025,2024-10-27,-301,,Owner,Delayed,
+362,27,Environmental Review,06/11/2020,,,,Regulator,Complete,
+363,27,Substantial Completion,2021/10/01,14/11/2027,2235,Labor shortage,Engineer,COMPLETE,On critical path
+364,27,Project Closeout,20/07/2022,,,,Regulator,Delayed,Permit dependent
+365,27,Final Inspection,17/12/2018,,,,Owner,Skipped,
+366,27,Design Complete,2025-03-23,,,,Owner,Not Started,
+367,27,Bid Award,01/02/2023,01-29-2024,362,Permitting,Owner,In Progress,
+368,183,Bid Award,09/06/2020,,1818,Weather,Contractor,Complete,
+369,183,Design Complete,03-04-2027,2023-07-01,-1342,,Utility,Complete,On critical path
+370,273,Final Inspection,02/15/2027,02-15-2024,-1096,,Utility,Not Started,Permit dependent
+371,273,Design Complete,2023-01-25,04/03/2021,-662,,Utility,Not Started,
+372,273,Substantial Completion,2019-06-29,2023-04-13,1384,Environmental review,Contractor,Skipped,Float available
+373,273,50% Complete,05-12-2021,2027-07-11,2251,,Owner,Complete,
+374,273,Ground Breaking,2025/09/20,04-16-2019,-2349,,Utility,Delayed,Float available
+375,273,Project Closeout,09-05-2026,08/10/2022,-1428,,Third Party,Skipped,
+376,273,Environmental Review,01/11/2021,07-12-2022,253,,Third Party,Delayed,
+377,273,Bid Award,11/12/2018,17/11/2019,341,Weather,Owner,Not Started,
+378,146,Design Complete,,2023/06/24,-691,,Contractor,,Permit dependent
+379,146,Final Inspection,,25/11/2024,-422,,Third Party,In Progress,
+380,146,50% Complete,07/29/2026,,,Permitting,Third Party,In progress,Float available
+381,146,Substantial Completion,10-25-2018,14/12/2018,50,Funding gap,Third Party,In Progress,
+382,337,Substantial Completion,2026/02/07,2025/07/06,-216,,Owner,,On critical path
+383,337,Design Complete,2027/04/07,2020-10-26,-2354,,Engineer,In Progress,Float available
+384,337,Ground Breaking,2022/06/01,2023/08/09,434,Contractor issues,Engineer,Delayed,
+385,243,50% Complete,2021-01-24,27/04/2021,,Contractor issues,Utility,Not Started,Float available
+386,243,Bid Award,07/07/2024,01-18-2026,560,Permitting,Owner,Skipped,
+387,243,Substantial Completion,07/05/2027,10-20-2021,-2025,,Engineer,Skipped,
+388,133,Project Closeout,,,670,Weather,Third Party,Delayed,
+389,133,Design Complete,05/11/2023,2022/12/08,-154,,Third Party,Not Started,
+390,133,50% Complete,2022-03-04,16/07/2026,1595,Utility conflicts,Owner,Complete,
+391,133,Substantial Completion,08/01/2023,2024/09/17,413,Supply chain delays,Utility,In Progress,
+392,484,Design Complete,03/09/2020,03-18-2024,,,Contractor,Skipped,Permit dependent
+393,484,Final Inspection,29/07/2025,01-09-2022,,,Contractor,Not Started,Float available
+394,484,50% Complete,2024-01-18,26/02/2022,-691,,Third Party,Delayed,
+395,484,Environmental Review,08-03-2027,01-31-2024,,,Engineer,Complete,Permit dependent
+396,484,Project Closeout,,05/04/2022,-448,,Third Party,In Progress,On critical path
+397,484,Bid Award,05/20/2027,,-3262,,Owner,Complete,On critical path
+398,286,Design Complete,2025/03/20,2021-02-28,-1481,,Utility,Complete,
+399,286,Project Closeout,10/11/2018,2020/04/06,513,,Contractor,Not Started,Permit dependent
+400,286,Environmental Review,02/09/2020,2026-03-24,N/A,Environmental review,Utility,In Progress,Float available
+401,286,Final Inspection,2023/11/19,11/23/2020,-1091,,Third Party,complete,
+402,286,Substantial Completion,,11/07/2020,519,Funding gap,Owner,Not Started,Float available
+403,286,50% Complete,12-07-2024,11-28-2020,-1470,,Contractor,Delayed,
+404,405,Design Complete,,05-30-2027,307,Funding gap,Owner,Delayed,
+405,405,50% Complete,09-06-2026,,,,Engineer,Skipped,On critical path
+406,299,Substantial Completion,07/27/2027,2020/10/02,-2489,,Contractor,Delayed,
+407,299,50% Complete,24/04/2027,2026/08/03,N/A,,Third Party,Skipped,
+408,460,Substantial Completion,08/25/2026,10/08/2020,,,Engineer,Complete,
+409,460,Bid Award,04/06/2023,09-17-2027,1625,Labor shortage,Contractor,Delayed,
+410,460,Final Inspection,12-30-2027,2022-05-02,-2068,,Owner,Complete,Float available
+411,251,Design Complete,,07-16-2019,-1989,,Utility,Not Started,On critical path
+412,251,Environmental Review,06/07/2025,11-28-2018,,,Contractor,Not Started,Permit dependent
+413,251,Bid Award,10/08/2023,11/20/2023,102,Utility conflicts,Contractor,Not Started,Permit dependent
+414,251,50% Complete,2018-10-17,18/06/2025,2436,Permitting,Utility,Delayed,
+415,251,Substantial Completion,12-09-2024,11-21-2021,-1114,,Third Party,Delayed,Permit dependent
+416,173,Bid Award,08/17/2027,11-08-2027,83,Contractor issues,Contractor,Not Started,On critical path
+417,173,Ground Breaking,10/09/2027,11/02/2023,,,Third Party,NOT STARTED,Permit dependent
+418,173,Final Inspection,,02/01/2025,896,Funding gap,Engineer,In Progress,
+419,173,Substantial Completion,2021-03-12,2021-06-22,,,Owner,In Progress,Permit dependent
+420,432,Ground Breaking,2019-04-10,05/01/2019,-95,,Contractor,In progress,
+421,432,Substantial Completion,09-28-2023,10/16/2024,384,Right-of-way,Utility,Complete,On critical path
+422,432,Environmental Review,05/06/2027,2026/03/11,-451,,Owner,Skipped,Permit dependent
+423,432,Bid Award,19/08/2025,03/27/2027,585,Funding gap,Engineer,Delayed,
+424,432,Final Inspection,29/09/2022,06/02/2025,TBD,Permitting,Third Party,Not Started,
+425,432,Design Complete,2026-04-10,19/09/2019,-2395,,Third Party,Skipped,
+426,408,Substantial Completion,2022-06-14,,,,Utility,Complete,
+427,408,Design Complete,2025-02-01,,,,Utility,In Progress,
+428,408,50% Complete,10-21-2025,18/06/2026,240,Design changes,Engineer,COMPLETE,Float available
+429,408,Ground Breaking,,,?,,Third Party,Delayed,
+430,261,Bid Award,28/01/2025,2023/09/18,-498,,Contractor,Skipped,
+431,261,Environmental Review,2025-04-01,2020/01/25,,,Owner,In Progress,On critical path
+432,261,Substantial Completion,08/10/2027,06/06/2024,-1160,,Owner,NOT STARTED,
+433,261,Final Inspection,2024-03-13,2020/10/25,-1235,,Utility,Skipped,
+434,261,50% Complete,04-03-2020,27/10/2020,,,Owner,In Progress,
+435,261,Project Closeout,2024-02-12,05/06/2026,814,Permitting,Regulator,Skipped,
+436,261,Ground Breaking,04-27-2019,02/25/2027,N/A,Design changes,Third Party,Not Started,Permit dependent
+437,302,Project Closeout,04-17-2025,01-27-2026,285,Contractor issues,Contractor,In Progress,On critical path
+438,302,Final Inspection,,2020-11-27,?,,Third Party,In Progress,Float available
+439,302,Bid Award,18/11/2023,2021/02/21,-1000,,Third Party,Delayed,
+440,302,Substantial Completion,08-22-2026,2026/08/28,6,Funding gap,Owner,COMPLETE,Permit dependent
+441,302,Design Complete,,10-21-2026,102,Utility conflicts,Third Party,Not Started,
+442,302,Environmental Review,2023-08-11,11/09/2026,1127,Environmental review,Owner,Complete,On critical path
+443,302,Ground Breaking,2020-03-10,03/16/2020,6,Design changes,Regulator,In Progress,
+444,248,Environmental Review,23/02/2022,,,,Regulator,Delayed,On critical path
+445,248,Project Closeout,29/09/2021,13/03/2025,1261,Utility conflicts,Utility,Skipped,Permit dependent
+446,248,Final Inspection,01/01/2019,2027-07-02,TBD,Weather,Utility,Not Started,Permit dependent
+447,248,Ground Breaking,2023-10-18,,,,Engineer,COMPLETE,Permit dependent
+448,248,Bid Award,07/11/2018,07/22/2022,,Design changes,Contractor,In Progress,
+449,248,50% Complete,2018/09/27,,,,Utility,Not Started,On critical path
+450,248,Design Complete,10/01/2024,,,,Regulator,Skipped,Permit dependent
+451,83,Bid Award,,07/11/2018,-2208,,Owner,Delayed,Permit dependent
+452,83,50% Complete,02-16-2019,,,,Contractor,Skipped,Permit dependent
+453,83,Design Complete,2024/06/11,,,,Engineer,complete,On critical path
+454,83,Final Inspection,12/05/2021,,,,Owner,Delayed,Permit dependent
+455,83,Ground Breaking,,21/01/2024,36,Design changes,Owner,In Progress,On critical path
+456,83,Environmental Review,03/10/2020,2022-04-09,760,Weather,Third Party,Delayed,
+457,334,Bid Award,2023/05/04,11-23-2019,-1258,,Regulator,Delayed,Float available
+458,334,Ground Breaking,2026-08-11,2022/02/17,-1636,,Engineer,Delayed,
+459,334,Final Inspection,02-03-2025,25/01/2024,-375,,Contractor,Delayed,Float available
+460,334,Substantial Completion,2026/11/05,,-2289,,Contractor,Delayed,
+461,334,Project Closeout,2018-10-09,2023/10/27,1844,,Utility,Delayed,On critical path
+462,334,50% Complete,03/17/2019,12/29/2024,2114,Environmental review,Third Party,Delayed,Permit dependent
+463,157,Bid Award,10/24/2025,,,,Engineer,Not Started,On critical path
+464,157,Design Complete,2021-08-01,,,,Contractor,Delayed,Permit dependent
+465,157,Ground Breaking,11/10/2026,2018/06/24,-3031,,Contractor,Delayed,
+466,157,Project Closeout,2021/12/21,,,,Owner,complete,
+467,157,50% Complete,10/01/2024,,,,Contractor,In Progress,
+468,157,Final Inspection,06/07/2022,04-04-2019,-1189,,Owner,Complete,Float available
+469,157,Substantial Completion,17/11/2019,,,,Engineer,Skipped,On critical path
+470,171,Design Complete,04/18/2020,,2168,Weather,Contractor,Complete,
+471,171,Final Inspection,07/09/2021,2025-05-05,1336,Right-of-way,Regulator,Delayed,
+472,311,Ground Breaking,2023-01-29,24/01/2026,1091,Environmental review,Utility,In progress,On critical path
+473,311,Project Closeout,03-07-2019,29/05/2025,2275,Weather,Utility,Complete,On critical path
+474,311,Bid Award,11-08-2018,2022/08/07,1368,Right-of-way,Engineer,Skipped,
+475,311,Environmental Review,2027/10/14,08/05/2023,-1531,,Owner,Not Started,
+476,311,Design Complete,05-05-2026,2022-01-05,-1581,,Owner,Complete,On critical path
+477,311,Final Inspection,2021-06-07,2021-08-13,67,,Engineer,Skipped,Float available
+478,480,Project Closeout,15/05/2023,2025-11-22,922,Contractor issues,Owner,Skipped,Float available
+479,480,Design Complete,2025-05-20,07/10/2021,-1321,,Utility,NOT STARTED,On critical path
+480,480,Final Inspection,,08-01-2018,TBD,,Regulator,In Progress,Permit dependent
+481,480,50% Complete,2022/06/23,09-14-2022,,Funding gap,Third Party,Complete,
+482,480,Ground Breaking,06/11/2024,2020/12/04,-1285,,Third Party,Not Started,On critical path
+483,289,Final Inspection,2026-08-29,12-07-2018,-2822,,Utility,Not Started,
+484,289,Design Complete,2019-04-26,04-28-2023,1463,Weather,Contractor,Delayed,On critical path
+485,289,Ground Breaking,05/06/2023,2026/01/24,964,Utility conflicts,Contractor,Delayed,Permit dependent
+486,289,50% Complete,19/07/2027,2022/01/01,-2025,,Regulator,In Progress,Permit dependent
+487,289,Project Closeout,2022/12/14,02-11-2022,-306,,Contractor,Complete,Float available
+488,289,Bid Award,06/08/2025,28/06/2023,-770,,Engineer,Skipped,
+489,285,Substantial Completion,08-05-2021,2026-11-09,1922,,Owner,In Progress,
+490,285,Project Closeout,2019/05/12,2025-08-14,2286,Funding gap,Owner,Delayed,Permit dependent
+491,285,Bid Award,03/02/2020,2018-09-17,-504,,Utility,Complete,Float available
+492,285,50% Complete,11/08/2018,11/24/2022,1477,,Third Party,Delayed,Permit dependent
+493,285,Design Complete,2020/09/03,07/21/2026,2147,Labor shortage,Third Party,In Progress,
+494,285,Ground Breaking,,26/05/2027,1227,,Third Party,In Progress,
+495,285,Final Inspection,,2019/05/26,N/A,,Utility,Complete,Float available
+496,285,Environmental Review,,02/01/2023,41,Permitting,Utility,Delayed,
+497,455,Bid Award,04-16-2022,06/15/2018,-1401,,Third Party,In Progress,Permit dependent
+498,455,Ground Breaking,2019/09/20,06/20/2022,1004,Labor shortage,Owner,Not Started,
+499,455,Substantial Completion,2022/11/02,09/20/2019,N/A,,Owner,Delayed,
+500,455,Final Inspection,2018-11-30,09-17-2019,291,Contractor issues,Engineer,In progress,
+501,455,50% Complete,07/11/2023,07-21-2024,376,Labor shortage,Owner,Complete,
+502,279,Project Closeout,04/10/2021,2021/07/22,-74,,Third Party,Skipped,
+503,279,Bid Award,2020-07-29,,,,Regulator,In Progress,Float available
+504,279,Environmental Review,2020-10-30,,,,Engineer,Not Started,Permit dependent
+505,279,Substantial Completion,06/27/2027,01-01-2026,-542,,Third Party,,Permit dependent
+506,279,Design Complete,2022/10/05,10-18-2024,744,,Contractor,Delayed,
+507,279,Ground Breaking,,,,,Owner,NOT STARTED,
+508,279,Final Inspection,03/08/2021,,,,Contractor,complete,
+509,279,50% Complete,2021-08-16,2023/11/09,815,Utility conflicts,Engineer,Delayed,On critical path
+510,92,Final Inspection,2025-05-03,2026-10-14,529,,Engineer,Not Started,
+511,92,Substantial Completion,14/05/2025,24/06/2027,771,,Utility,Delayed,On critical path
+512,92,50% Complete,2026/12/03,,,,Utility,In Progress,On critical path
+513,92,Ground Breaking,,10/28/2021,-1358,,Regulator,Delayed,
+514,92,Design Complete,04-27-2020,10/21/2020,177,Environmental review,Regulator,In Progress,
+515,92,Environmental Review,03/13/2022,03/18/2027,1831,Labor shortage,Utility,,On critical path
+516,92,Bid Award,2023/01/08,10-30-2023,295,Funding gap,Owner,Complete,
+517,464,Project Closeout,,2021/06/12,-1988,,Owner,In Progress,On critical path
+518,464,Environmental Review,,09/11/2025,2550,Utility conflicts,Third Party,Delayed,On critical path
+519,464,Final Inspection,01/31/2022,05/04/2024,795,,Owner,Not Started,On critical path
+520,464,Substantial Completion,11-28-2021,,-697,,Owner,Skipped,Float available
+521,464,50% Complete,11/30/2021,02/04/2025,,Design changes,Owner,In Progress,
+522,464,Design Complete,2024-02-15,04/19/2027,1159,Permitting,Utility,Not Started,Float available
+523,148,Project Closeout,04/04/2021,01/09/2025,1376,Labor shortage,Regulator,Skipped,
+524,148,50% Complete,13/08/2026,01/07/2025,-408,,Regulator,Not Started,Float available
+525,148,Design Complete,2022-05-29,2027/07/04,1862,,Utility,,
+526,148,Environmental Review,05-28-2026,02-19-2024,-829,,Utility,Not Started,
+527,148,Substantial Completion,29/12/2022,,,,Contractor,Delayed,On critical path
+528,175,Substantial Completion,2027-05-02,2026/11/19,-164,,Regulator,Skipped,
+529,175,Bid Award,22/01/2025,2023-07-13,-559,,Contractor,Complete,
+530,175,Environmental Review,2022-10-16,16/12/2018,-1400,,Third Party,In progress,
+531,175,Project Closeout,2022-02-26,12-24-2026,1762,Weather,Utility,Delayed,
+532,175,Ground Breaking,09/03/2021,05/10/2020,-303,,Third Party,Delayed,
+533,175,Design Complete,2021/02/08,2027-07-08,2341,Supply chain delays,Engineer,In Progress,
+534,175,50% Complete,,16/12/2019,-1250,,Third Party,Complete,Float available
+535,175,Final Inspection,2026/12/16,2026/08/09,-129,,Contractor,,On critical path
+536,177,50% Complete,08-22-2019,,?,,Contractor,In Progress,
+537,177,Bid Award,22/01/2021,28/11/2027,2501,Supply chain delays,Engineer,Not Started,
+538,177,Project Closeout,2022/09/23,,,,Engineer,Skipped,
+539,177,Design Complete,,,,,Third Party,,Float available
+540,355,50% Complete,25/05/2020,11/24/2019,,,Regulator,In Progress,Float available
+541,355,Substantial Completion,11/08/2023,11-01-2019,-1468,,Owner,Not Started,Permit dependent
+542,355,Bid Award,2018-11-04,2022-12-18,1505,Contractor issues,Engineer,Delayed,
+543,355,Project Closeout,,09-22-2021,76,Labor shortage,Contractor,Delayed,On critical path
+544,355,Final Inspection,06-28-2020,06/07/2027,2564,Labor shortage,Owner,Delayed,Permit dependent
+545,355,Design Complete,10-29-2027,09/17/2025,-772,,Owner,In Progress,Float available
+546,355,Ground Breaking,2021/05/07,2025-09-18,1595,Right-of-way,Contractor,,Permit dependent
+547,355,Environmental Review,12/15/2023,2026-02-11,789,,Third Party,Delayed,
+548,152,50% Complete,2025/07/10,11/01/2025,114,Design changes,Contractor,In Progress,
+549,152,Environmental Review,04/26/2027,03/07/2019,-2854,,Third Party,Not Started,On critical path
+550,14,Final Inspection,11-19-2024,03-16-2026,482,Funding gap,Owner,Complete,Float available
+551,14,Substantial Completion,2020-07-17,2021/12/13,514,Utility conflicts,Owner,Not Started,
+552,14,50% Complete,2021/02/23,,,,Utility,In Progress,Float available
+553,14,Bid Award,02-21-2024,2025-03-16,,Contractor issues,Contractor,Delayed,
+554,14,Environmental Review,03/22/2023,12/06/2021,-648,,Regulator,Delayed,Permit dependent
+555,14,Project Closeout,08/11/2018,06-04-2027,3219,Labor shortage,Contractor,Not Started,Permit dependent
+556,471,Final Inspection,03/02/2022,2026/03/07,1466,Environmental review,Owner,In Progress,Float available
+557,471,Project Closeout,2023-06-07,2022/12/29,-160,,Third Party,Not Started,On critical path
+558,471,Bid Award,2019/07/05,12/01/2021,880,Right-of-way,Utility,Delayed,
+559,471,Environmental Review,06/21/2027,08/16/2021,-2135,,Owner,Skipped,
+560,404,Final Inspection,2027/09/05,05/15/2021,-2304,,Utility,Delayed,Float available
+561,404,Substantial Completion,05/02/2025,2021/04/03,-1490,,Contractor,Not Started,Float available
+562,404,Project Closeout,2026/02/10,19/01/2019,-2579,,Engineer,Complete,Permit dependent
+563,404,50% Complete,2019/02/20,12-13-2024,2123,Utility conflicts,Engineer,Skipped,
+564,404,Ground Breaking,17/10/2022,04-24-2019,-1272,,Owner,Not Started,On critical path
+565,404,Design Complete,12/21/2027,2027-11-11,-40,,Utility,Skipped,On critical path
+566,404,Bid Award,2020-12-03,,-559,,Utility,Skipped,
+567,144,Bid Award,2022/11/26,,1534,Labor shortage,Third Party,Complete,
+568,144,50% Complete,04/02/2027,11/12/2019,-2641,,Engineer,Skipped,
+569,144,Substantial Completion,10-11-2026,2025/09/27,-379,,Owner,Skipped,Permit dependent
+570,144,Project Closeout,11-05-2025,2019/04/19,-2392,,Third Party,COMPLETE,On critical path
+571,144,Final Inspection,10/19/2024,2022-09-02,-778,,Engineer,Complete,Float available
+572,144,Ground Breaking,2021/06/12,2026/05/26,1809,Labor shortage,Contractor,Delayed,Float available
+573,144,Design Complete,03-24-2020,2027/10/22,2768,Utility conflicts,Engineer,Skipped,On critical path
+574,144,Environmental Review,01-12-2023,2019/09/26,-1204,,Regulator,NOT STARTED,Float available
+575,78,Substantial Completion,03-07-2025,2026/08/21,532,Weather,Utility,COMPLETE,
+576,78,50% Complete,27/08/2022,,,,Utility,In Progress,On critical path
+577,78,Ground Breaking,25/11/2019,,TBD,,Regulator,In Progress,Permit dependent
+578,78,Project Closeout,2023-04-10,2024-07-09,456,Supply chain delays,Engineer,Delayed,Float available
+579,78,Final Inspection,2022/10/14,2022-09-26,-18,,Regulator,In Progress,
+580,78,Bid Award,10/11/2020,,,,Owner,Not Started,
+581,63,50% Complete,09/06/2024,2023-06-01,-374,,Third Party,Skipped,Permit dependent
+582,63,Substantial Completion,09/07/2027,10-07-2026,-275,,Third Party,In Progress,
+583,11,Bid Award,10-04-2020,2023/05/24,962,Supply chain delays,Engineer,Not Started,On critical path
+584,11,50% Complete,2025/03/01,29/07/2025,150,Permitting,Owner,Complete,
+585,11,Design Complete,2027/01/31,,,,Owner,Skipped,Permit dependent
+586,11,Environmental Review,08/18/2020,24/09/2027,,Labor shortage,Third Party,NOT STARTED,
+587,11,Final Inspection,21/01/2023,04-10-2019,-1382,,Engineer,In progress,
+588,11,Ground Breaking,2020-02-10,16/05/2027,2652,Utility conflicts,Owner,In Progress,
+589,5,Ground Breaking,2027-04-29,06/11/2018,-3096,,Utility,Skipped,
+590,5,Substantial Completion,07/30/2027,2023-12-30,-1308,,Third Party,COMPLETE,On critical path
+591,5,Final Inspection,15/12/2026,06-08-2021,-2016,,Owner,Not Started,Permit dependent
+592,5,Design Complete,2021/05/12,09/30/2023,,,Contractor,Delayed,
+593,5,Environmental Review,2025/02/10,2019/06/19,-2063,,Engineer,Complete,
+594,5,Project Closeout,2018-09-24,03/12/2025,2627,,Engineer,In Progress,Permit dependent
+595,448,50% Complete,2027/04/24,2027-03-17,-38,,Regulator,Delayed,
+596,448,Environmental Review,09-23-2024,2023/02/03,-598,,Third Party,complete,
+597,448,Project Closeout,,02/15/2019,-1005,,Third Party,In progress,
+598,448,Ground Breaking,09-18-2019,10-13-2023,1486,Right-of-way,Owner,Skipped,
+599,435,Final Inspection,2023/02/10,2024-09-26,594,Supply chain delays,Contractor,Not Started,
+600,435,Environmental Review,2026/12/07,2021/08/02,-1953,,Owner,Delayed,
+601,435,Bid Award,04/08/2020,10-22-2026,2388,Environmental review,Engineer,Not Started,
+602,435,Substantial Completion,,10/20/2023,1084,,Contractor,Delayed,
+603,326,Bid Award,2023/09/21,2019-01-05,-1720,,Utility,Skipped,On critical path
+604,326,Ground Breaking,2020/11/17,06-26-2027,2412,,Utility,Not Started,Float available
+605,326,Project Closeout,2025-06-08,2021-09-21,-1356,,Owner,In Progress,
+606,326,Environmental Review,2022/03/20,07/21/2024,854,Permitting,Contractor,Skipped,On critical path
+607,326,Substantial Completion,2027/10/25,2024-06-01,-1241,,Third Party,Complete,Float available
+608,303,Ground Breaking,05-22-2020,2027/07/19,2614,Utility conflicts,Third Party,In Progress,
+609,303,Design Complete,07-29-2025,2024/05/16,-439,,Engineer,COMPLETE,
+610,303,Environmental Review,07-21-2021,2022/11/09,,Funding gap,Utility,Complete,
+611,313,50% Complete,08-03-2026,,-1128,,Utility,Skipped,Float available
+612,313,Environmental Review,,02/01/2019,-2340,,Third Party,Complete,Permit dependent
+613,205,Final Inspection,09-16-2025,13/12/2026,453,Labor shortage,Regulator,Skipped,Float available
+614,205,Design Complete,2019-07-15,,2850,Weather,Engineer,In Progress,Permit dependent
+615,205,Project Closeout,05/09/2019,23/05/2024,1841,Labor shortage,Contractor,Not Started,Float available
+616,205,Environmental Review,08/02/2022,08-25-2025,,Contractor issues,Third Party,Skipped,
+617,205,Bid Award,10-08-2027,2020/03/17,-2761,,Engineer,Delayed,
+618,205,Substantial Completion,07/15/2021,2021/08/13,29,Contractor issues,Third Party,Delayed,Permit dependent
+619,205,50% Complete,2025-12-12,08-09-2027,605,Weather,Engineer,Complete,
+620,61,Ground Breaking,2020/11/14,2021/03/21,127,Utility conflicts,Utility,Not Started,
+621,61,Environmental Review,2021-02-04,2025-12-17,?,Contractor issues,Contractor,In Progress,
+622,61,Bid Award,2020-11-26,03-23-2025,1578,Permitting,Contractor,Complete,Float available
+623,57,50% Complete,09-15-2026,,,,Owner,Not Started,Float available
+624,57,Project Closeout,03/10/2022,,,,Utility,NOT STARTED,
+625,57,Bid Award,2021/01/10,,,,Utility,Complete,
+626,419,Design Complete,2022/04/06,09/18/2021,-200,,Utility,In Progress,Float available
+627,419,Bid Award,05/26/2020,01/02/2019,-510,,Owner,In Progress,
+628,419,Ground Breaking,10-06-2023,2026/03/15,891,Design changes,Owner,Complete,
+629,419,Project Closeout,2026/07/25,03-12-2021,-1961,,Contractor,Complete,
+630,419,Final Inspection,02/04/2021,01-21-2021,-71,,Utility,Skipped,Float available
+631,229,Design Complete,2020-09-04,08/09/2027,,Weather,Contractor,Not Started,
+632,229,Substantial Completion,,07-13-2026,-297,,Regulator,In Progress,On critical path
+633,270,Design Complete,09/03/2024,01/18/2019,-2055,,Engineer,Delayed,On critical path
+634,270,Bid Award,2026/04/18,08/05/2019,-2448,,Contractor,Not Started,On critical path
+635,270,Environmental Review,01/11/2023,2022-04-30,-256,,Third Party,Skipped,
+636,270,Final Inspection,05/13/2027,12/31/2020,-2324,,Engineer,Delayed,Float available
+637,270,Ground Breaking,2019-02-01,2025/09/09,2412,Supply chain delays,Engineer,COMPLETE,Float available
+638,270,Project Closeout,06-10-2022,17/02/2026,1348,Funding gap,Engineer,complete,Permit dependent
+639,270,Substantial Completion,03-09-2021,2021/10/03,208,Supply chain delays,Utility,In Progress,Permit dependent
+640,165,Final Inspection,05-18-2025,21/05/2026,368,Funding gap,Owner,Delayed,Permit dependent
+641,165,Bid Award,2025-03-06,11/09/2027,,,Regulator,In Progress,
+642,165,Ground Breaking,03/07/2020,19/04/2027,2481,Weather,Third Party,Complete,Float available
+643,165,50% Complete,10/15/2023,05/09/2026,1056,Weather,Engineer,Complete,
+644,165,Design Complete,03-21-2026,18/04/2023,-1068,,Regulator,NOT STARTED,Permit dependent
+645,165,Substantial Completion,2024/05/13,2020-05-09,-1465,,Third Party,In Progress,Float available
+646,165,Environmental Review,22/11/2020,2025-05-23,1643,Weather,Contractor,Complete,Permit dependent
+647,385,Project Closeout,05-17-2022,21/11/2027,2014,,Regulator,,Permit dependent
+648,385,Design Complete,2021/09/17,06/11/2023,632,Utility conflicts,Regulator,Not Started,
+649,385,Bid Award,2022/10/07,01/11/2023,96,Weather,Contractor,Skipped,Float available
+650,385,Environmental Review,17/08/2026,10-06-2026,50,Contractor issues,Regulator,,Float available
+651,385,50% Complete,06-19-2022,07/16/2022,27,Supply chain delays,Contractor,complete,Float available
+652,191,Bid Award,,2027/07/04,3302,,Utility,Delayed,Permit dependent
+653,191,Final Inspection,2020-05-14,2022/08/09,817,Right-of-way,Regulator,COMPLETE,
+654,191,50% Complete,12/01/2026,15/10/2021,-1550,,Regulator,Not Started,
+655,191,Design Complete,12-09-2027,2022/12/09,-1826,,Regulator,Not Started,
+656,107,50% Complete,2025/02/16,15/04/2019,-2134,,Regulator,Delayed,On critical path
+657,107,Environmental Review,13/10/2024,,-62,,Contractor,COMPLETE,Float available
+658,107,Project Closeout,02/06/2021,2027/12/04,2376,Right-of-way,Owner,Not Started,
+659,107,Substantial Completion,,2023-03-25,-1115,,Utility,Delayed,Permit dependent
+660,107,Final Inspection,2023-09-12,,TBD,,Regulator,Delayed,
+661,107,Ground Breaking,11/06/2020,2024/02/25,1206,Weather,Owner,In Progress,
+662,107,Design Complete,2022-12-01,07-01-2020,-883,,Owner,,On critical path
+663,290,Design Complete,10-18-2024,2027-03-29,892,Right-of-way,Engineer,Not Started,
+664,290,Project Closeout,,10/24/2021,-486,,Engineer,Skipped,
+665,333,Bid Award,08/18/2021,2026/03/07,1662,Labor shortage,Regulator,Complete,Float available
+666,333,Environmental Review,2018/11/08,2025/02/20,,,Contractor,Skipped,Float available
+667,333,Substantial Completion,20/03/2019,2019-02-01,-47,,Engineer,Not Started,
+668,333,Design Complete,2022/09/24,05/19/2026,1333,Environmental review,Regulator,Skipped,Float available
+669,333,Final Inspection,2025/05/05,04-01-2027,,Supply chain delays,Owner,Not Started,Permit dependent
+670,17,Ground Breaking,20/10/2027,,,,Owner,Complete,
+671,17,Substantial Completion,04/10/2018,2019/06/06,245,Design changes,Owner,In progress,
+672,17,Bid Award,2020/09/18,,,,Contractor,Complete,
+673,17,Design Complete,2020-07-18,,,,Utility,In progress,Float available
+674,178,50% Complete,2026-04-14,19/12/2021,,,Third Party,Complete,
+675,178,Ground Breaking,21/07/2021,12/13/2020,-220,,Contractor,In Progress,
+676,178,Final Inspection,08/08/2023,2021-06-26,-773,,Owner,Complete,Float available
+677,178,Bid Award,01/03/2020,11-26-2023,,Labor shortage,Contractor,Not Started,
+678,178,Substantial Completion,06-21-2026,2026/05/17,-35,,Third Party,Complete,
+679,178,Environmental Review,12/01/2018,2025-01-13,2235,Weather,Contractor,In Progress,Permit dependent
+680,178,Project Closeout,01/03/2023,,-1612,,Owner,Delayed,
+681,226,Substantial Completion,2026/02/01,2020/01/19,-2205,,Third Party,COMPLETE,Float available
+682,226,Final Inspection,2024/03/02,08/03/2023,-360,,Third Party,In Progress,
+683,226,Environmental Review,11-28-2019,05/10/2024,1625,Supply chain delays,Utility,Delayed,On critical path
+684,226,50% Complete,16/10/2020,2019/04/20,-545,,Contractor,Delayed,
+685,226,Ground Breaking,2019/09/08,,2932,Weather,Owner,Skipped,
+686,226,Bid Award,06-11-2020,04-04-2021,,Contractor issues,Regulator,Skipped,Permit dependent
+687,318,Substantial Completion,2018/12/24,2021/11/05,1047,Labor shortage,Utility,Skipped,On critical path
+688,318,50% Complete,,2021/07/21,n/a,,Regulator,COMPLETE,
+689,318,Final Inspection,,26/04/2024,-161,,Utility,Skipped,
+690,318,Environmental Review,02/10/2022,28/12/2020,-409,,Owner,Complete,Float available
+691,318,Ground Breaking,2024-11-24,12/12/2019,-1809,,Owner,COMPLETE,
+692,318,Bid Award,2022/08/09,2020/11/19,-628,,Owner,In Progress,On critical path
+693,280,Design Complete,11-10-2019,,,,Contractor,Complete,On critical path
+694,280,Ground Breaking,2018-08-03,2021/10/06,,Right-of-way,Contractor,,
+695,280,Project Closeout,07/03/2021,,,,Third Party,Delayed,
+696,280,Final Inspection,29/04/2026,04-05-2027,,Right-of-way,Regulator,Complete,On critical path
+697,280,Bid Award,07-08-2018,08/23/2018,46,Permitting,Contractor,In progress,On critical path
+698,280,Environmental Review,2027-08-28,2020/03/02,-2735,,Contractor,Skipped,On critical path
+699,280,50% Complete,09/18/2022,,929,Environmental review,Regulator,In Progress,
+700,280,Substantial Completion,2019/05/16,,,,Third Party,,On critical path
+701,195,Design Complete,04/10/2023,,,,Utility,In Progress,Float available
+702,195,50% Complete,07/22/2021,01-25-2027,2013,Supply chain delays,Utility,Skipped,
+703,195,Ground Breaking,07/08/2026,06/22/2026,-16,,Third Party,Delayed,
+704,195,Environmental Review,2025-03-11,2019-05-22,-2120,,Owner,In Progress,On critical path
+705,195,Project Closeout,11-09-2022,,,,Regulator,In Progress,Permit dependent
+706,197,Bid Award,09/04/2026,2024/12/13,-630,,Owner,Complete,
+707,197,Ground Breaking,06-29-2020,2022-01-01,551,Right-of-way,Contractor,In Progress,On critical path
+708,197,Environmental Review,21/01/2020,,2239,,Engineer,complete,Float available
+709,197,Final Inspection,2020-03-18,11-03-2021,595,Contractor issues,Regulator,Delayed,Float available
+710,66,Ground Breaking,09/17/2023,07/30/2026,1047,Contractor issues,Engineer,In Progress,Permit dependent
+711,66,Project Closeout,2025/11/23,2023-12-05,-719,,Contractor,Delayed,Permit dependent
+712,66,Bid Award,08-04-2023,2023/06/11,,,Utility,Skipped,Float available
+713,66,Final Inspection,05-05-2026,2024-08-06,-637,,Owner,,Float available
+714,66,50% Complete,17/09/2023,10-05-2027,TBD,Labor shortage,Engineer,NOT STARTED,On critical path
+715,66,Design Complete,10-22-2022,,917,Labor shortage,Third Party,Skipped,Permit dependent
+716,66,Environmental Review,09-16-2018,04/08/2026,,Contractor issues,Regulator,Skipped,
+717,66,Substantial Completion,07/08/2018,08/10/2026,2984,Weather,Owner,In Progress,Float available
+718,221,Substantial Completion,09/19/2021,2020-12-12,-281,,Third Party,Not Started,
+719,221,Ground Breaking,2024-08-06,2022-05-21,,,Engineer,Skipped,
+720,221,Project Closeout,29/04/2027,,-3165,,Third Party,Delayed,On critical path
+721,221,Design Complete,2020/10/12,11/28/2024,1508,,Contractor,complete,
+722,221,50% Complete,2023-01-12,2024/07/02,537,,Regulator,Delayed,
+723,221,Final Inspection,19/04/2021,2025/04/22,1464,Environmental review,Regulator,Skipped,On critical path
+724,428,Ground Breaking,16/12/2021,02-13-2021,-306,,Owner,Skipped,
+725,428,Project Closeout,09/01/2021,09-19-2021,253,,Regulator,In Progress,
+726,428,Environmental Review,2019-08-21,2027-01-08,2697,Funding gap,Regulator,Not Started,Permit dependent
+727,428,Substantial Completion,2023-12-12,2027/12/09,1458,Right-of-way,Contractor,In progress,
+728,91,Project Closeout,2020-02-03,2023/12/31,1427,,Regulator,In Progress,On critical path
+729,91,Design Complete,05-01-2027,,,,Contractor,In Progress,Permit dependent
+730,91,Environmental Review,05/27/2021,2024-08-13,1174,Right-of-way,Engineer,Skipped,On critical path
+731,91,Ground Breaking,23/08/2023,,,,Engineer,Not Started,Float available
+732,91,Bid Award,2024-11-23,,,,Third Party,COMPLETE,
+733,91,50% Complete,13/03/2027,2022/12/06,-1558,,Utility,In Progress,Permit dependent
+734,91,Substantial Completion,21/06/2023,13/08/2023,,,Engineer,NOT STARTED,On critical path
+735,111,50% Complete,04-06-2023,16/08/2019,-1329,,Third Party,Skipped,On critical path
+736,111,Environmental Review,,15/01/2023,1450,Supply chain delays,Contractor,In Progress,Float available
+737,111,Project Closeout,10/20/2023,03/27/2020,-1302,,Utility,NOT STARTED,Permit dependent
+738,122,50% Complete,2024-12-08,2024/01/09,-334,,Owner,Complete,On critical path
+739,122,Design Complete,2023-02-23,,667,Permitting,Third Party,Not Started,Permit dependent
+740,122,Ground Breaking,,01-14-2027,85,Design changes,Engineer,NOT STARTED,
+741,291,Final Inspection,10-08-2018,08/12/2022,1404,Contractor issues,Regulator,NOT STARTED,On critical path
+742,291,Bid Award,2026-07-02,,,,Third Party,Delayed,
+743,291,Design Complete,2020/10/11,,,,Contractor,In Progress,On critical path
+744,291,50% Complete,2027-10-10,,,,Utility,Delayed,Float available
+745,291,Project Closeout,04/06/2025,10-23-2019,-1992,,Regulator,Complete,On critical path
+746,291,Environmental Review,2025-03-09,,,,Third Party,Complete,
+747,291,Ground Breaking,02/23/2023,,,,Owner,,Float available
+748,498,Design Complete,09/09/2018,10-25-2024,2238,Right-of-way,Utility,COMPLETE,On critical path
+749,498,Substantial Completion,22/03/2026,05-24-2023,-1033,,Contractor,NOT STARTED,On critical path
+750,498,Environmental Review,2022-08-21,03/25/2023,216,Right-of-way,Utility,NOT STARTED,Float available
+751,498,Project Closeout,03/05/2019,2018/11/11,-173,,Owner,In Progress,Float available
+752,498,Final Inspection,,10/17/2018,-2641,,Third Party,complete,On critical path
+753,498,Ground Breaking,31/03/2022,2025/06/10,1167,Environmental review,Regulator,Complete,
+754,498,Bid Award,05/25/2019,2024-09-16,,Funding gap,Contractor,Skipped,On critical path
+755,498,50% Complete,2023/01/09,12-04-2023,329,Weather,Engineer,In Progress,
+756,124,Design Complete,10/09/2024,05-20-2022,-873,,Utility,Skipped,On critical path
+757,124,Substantial Completion,2018-09-21,2026/06/16,2825,,Regulator,Delayed,Float available
+758,381,Final Inspection,04-28-2022,,,,Third Party,Not Started,
+759,381,Substantial Completion,2021-07-19,2026-09-01,1870,Supply chain delays,Contractor,Not Started,
+760,381,Project Closeout,2024/04/25,29/08/2019,-1701,,Engineer,In Progress,
+761,381,Bid Award,06-06-2022,10-15-2026,1592,Labor shortage,Engineer,Delayed,
+762,381,Ground Breaking,28/09/2026,,,,Contractor,Skipped,
+763,381,Environmental Review,09/28/2027,04/28/2023,-1614,,Contractor,NOT STARTED,
+764,381,50% Complete,2027-07-31,09/02/2020,TBD,,Third Party,,
+765,381,Design Complete,10/09/2027,2026/12/26,-287,,Contractor,Skipped,On critical path
+766,434,Ground Breaking,08/20/2027,2021/01/03,-2420,,Owner,Complete,
+767,434,Environmental Review,2026/10/21,15/11/2018,?,,Owner,,
+768,434,Substantial Completion,11/05/2023,15/07/2027,1348,,Utility,Delayed,
+769,434,Final Inspection,08/07/2022,03-04-2021,-521,,Utility,Skipped,Float available
+770,434,Design Complete,06-12-2025,2025-09-08,88,Design changes,Utility,Not Started,
+771,434,50% Complete,2020/09/18,05-01-2021,225,Design changes,Owner,,Permit dependent
+772,434,Bid Award,2025-03-19,14/02/2020,-1860,,Regulator,Complete,
+773,434,Project Closeout,25/03/2027,2027/03/26,1,,Regulator,Skipped,Float available
+774,453,Project Closeout,08/06/2024,2020-12-07,,,Owner,Not Started,Float available
+775,453,Ground Breaking,10/02/2020,09-11-2019,-152,,Utility,Skipped,
+776,453,Bid Award,30/05/2019,2027-06-17,N/A,,Third Party,Not Started,On critical path
+777,453,Design Complete,09/19/2019,2025-02-18,1979,,Engineer,Delayed,Permit dependent
+778,453,Environmental Review,07-27-2018,09-13-2019,413,Contractor issues,Utility,Not Started,
+779,453,Substantial Completion,02-19-2025,09/11/2020,-1563,,Regulator,,Permit dependent
+780,453,50% Complete,2023/10/16,05/15/2022,-519,,Engineer,In Progress,
+781,453,Final Inspection,2027-09-02,19/06/2022,-1901,,Owner,Complete,
+782,322,Final Inspection,2022/05/29,19/10/2019,-953,,Utility,Delayed,On critical path
+783,322,50% Complete,12-29-2020,2024-09-21,1362,Contractor issues,Utility,Complete,On critical path
+784,322,Design Complete,2022-06-12,08-23-2026,1533,Labor shortage,Owner,Skipped,
+785,322,Bid Award,2021/05/27,11-15-2027,2363,Design changes,Regulator,Complete,
+786,489,Environmental Review,07/07/2019,,,,Regulator,Skipped,
+787,489,Project Closeout,16/03/2026,05/20/2022,-1396,,Third Party,Delayed,
+788,336,Final Inspection,2024-12-08,2027/12/22,1109,Labor shortage,Third Party,Delayed,
+789,336,Environmental Review,27/02/2024,,N/A,,Engineer,Complete,Permit dependent
+790,362,50% Complete,04/06/2020,04/26/2024,1481,Funding gap,Regulator,COMPLETE,
+791,362,Environmental Review,03/06/2022,2020-01-23,,,Regulator,Complete,Permit dependent
+792,362,Ground Breaking,,2021/03/12,,Supply chain delays,Contractor,Not Started,On critical path
+793,362,Design Complete,,06/04/2025,677,Utility conflicts,Third Party,,On critical path
+794,362,Project Closeout,2023/07/23,11-18-2024,484,,Regulator,Delayed,On critical path
+795,180,Bid Award,2022-12-07,,,,Owner,Delayed,
+796,180,50% Complete,09/09/2022,,,,Owner,In Progress,
+797,180,Project Closeout,2025-07-08,,,,Utility,Complete,
+798,180,Substantial Completion,11-21-2023,,,,Contractor,Skipped,Float available
+799,101,Ground Breaking,01/07/2027,26/02/2026,-315,,Third Party,In Progress,On critical path
+800,101,Project Closeout,05/10/2022,09-26-2026,1600,Design changes,Third Party,NOT STARTED,On critical path
+801,101,Environmental Review,2027-03-10,13/02/2027,,,Contractor,Skipped,On critical path
+802,101,Final Inspection,07-20-2019,,804,Permitting,Engineer,Skipped,Float available
+803,101,Substantial Completion,07-02-2018,08-09-2024,2230,Design changes,Utility,Delayed,Float available
+804,101,Bid Award,2022-06-16,,,Right-of-way,Owner,Complete,Permit dependent
+805,101,Design Complete,,2021/09/16,1096,Supply chain delays,Engineer,,
+806,431,Design Complete,11/28/2020,2021-04-13,136,Weather,Contractor,In Progress,Permit dependent
+807,431,Ground Breaking,09/27/2023,10/12/2020,-1080,,Contractor,Not Started,
+808,431,Project Closeout,,10-16-2020,-1743,,Third Party,Delayed,
+809,431,Substantial Completion,01/26/2026,06-28-2022,-1308,,Engineer,In Progress,
+810,431,Environmental Review,2021/09/07,03-13-2021,-178,,Contractor,Delayed,Float available
+811,431,Bid Award,08-10-2026,10/12/2018,-2859,,Engineer,Delayed,
+812,431,50% Complete,11/09/2022,2024-11-27,,Labor shortage,Regulator,In Progress,Permit dependent
+813,172,Environmental Review,08/24/2021,2022/02/21,181,Design changes,Contractor,Not Started,On critical path
+814,172,Final Inspection,09-24-2023,09/01/2023,-258,,Contractor,COMPLETE,On critical path
+815,172,Ground Breaking,11-13-2021,2018-10-02,-1138,,Regulator,In Progress,
+816,172,Design Complete,2021/02/09,2025-06-23,1595,Labor shortage,Utility,,On critical path
+817,172,Bid Award,10-03-2021,07/11/2026,1861,Utility conflicts,Contractor,Skipped,Permit dependent
+818,172,Substantial Completion,2023-02-27,2023-01-08,-50,,Owner,Delayed,
+819,94,Environmental Review,01/31/2023,,,,Owner,complete,Permit dependent
+820,94,Bid Award,10/23/2019,2018/11/14,,,Utility,,Float available
+821,94,Final Inspection,2026/09/21,2024/09/06,-745,,Utility,,Float available
+822,94,Substantial Completion,09/27/2022,,,,Third Party,COMPLETE,
+823,94,50% Complete,2024/05/20,2020-06-06,-1444,,Owner,Delayed,Permit dependent
+824,94,Project Closeout,12/29/2020,05-21-2025,1604,Environmental review,Utility,Skipped,On critical path
+825,328,Environmental Review,10/26/2024,,,,Owner,Complete,Float available
+826,328,Project Closeout,10/10/2025,,,,Contractor,Delayed,
+827,328,Bid Award,2022-04-16,06/07/2024,812,Permitting,Third Party,Delayed,Float available
+828,328,Design Complete,2026-12-17,,,,Third Party,COMPLETE,
+829,328,Substantial Completion,10-27-2022,,,,Contractor,Skipped,Permit dependent
+830,328,Ground Breaking,10/06/2022,,,,Owner,Not Started,
+831,328,50% Complete,28/06/2018,01/01/2021,918,Contractor issues,Engineer,In Progress,Permit dependent
+832,190,Design Complete,21/04/2020,2021-03-24,337,Weather,Contractor,Complete,Permit dependent
+833,190,50% Complete,2022-07-27,2026/12/04,1591,Contractor issues,Regulator,Skipped,
+834,190,Environmental Review,2027/04/08,11-13-2023,-1242,,Third Party,Not Started,
+835,190,Substantial Completion,20/05/2019,09-07-2020,476,Right-of-way,Contractor,Delayed,Permit dependent
+836,190,Final Inspection,2025/02/18,08/18/2025,181,Permitting,Regulator,In Progress,On critical path
+837,190,Ground Breaking,2018-06-14,2025/01/13,2405,Contractor issues,Owner,In Progress,On critical path
+838,450,Bid Award,04-24-2025,01/06/2023,-693,,Engineer,In Progress,On critical path
+839,450,50% Complete,2024-10-18,2023-04-11,-556,,Utility,Not Started,
+840,450,Final Inspection,2024/05/15,06/18/2019,-1793,,Utility,Not Started,Float available
+841,450,Project Closeout,10/14/2018,2024-02-11,,,Owner,Skipped,
+842,450,Design Complete,05-08-2020,2022-01-12,614,,Utility,complete,
+843,450,Ground Breaking,,2027-09-24,2524,Weather,Regulator,Not Started,Float available
+844,450,Environmental Review,06-06-2022,2023-04-30,328,Design changes,Third Party,Not Started,
+845,450,Substantial Completion,2018/06/21,03-03-2019,255,Right-of-way,Third Party,Not Started,
+846,106,Final Inspection,2027-04-13,13/03/2027,,,Regulator,Skipped,On critical path
+847,106,Project Closeout,11/03/2023,,,,Owner,In Progress,
+848,106,Bid Award,07-10-2019,,,,Contractor,Not Started,On critical path
+849,106,Substantial Completion,2018-07-13,2022/01/22,1289,,Utility,In Progress,Permit dependent
+850,106,Environmental Review,,,,,Utility,Skipped,On critical path
+851,233,Design Complete,2024/03/28,2026-09-22,908,Permitting,Regulator,Not Started,Float available
+852,233,Project Closeout,2018/12/19,2025-12-27,2565,Utility conflicts,Regulator,,Permit dependent
+853,233,Environmental Review,19/09/2027,2022-07-15,,,Third Party,In Progress,On critical path
+854,233,Substantial Completion,2026/04/05,2019-05-08,,,Contractor,NOT STARTED,
+855,233,Ground Breaking,03-14-2027,2027-01-13,-60,,Utility,Delayed,Float available
+856,233,50% Complete,10/01/2023,06-29-2023,,Funding gap,Third Party,Delayed,
+857,233,Final Inspection,2026/12/12,16/08/2026,-118,,Owner,Not Started,
+858,250,Substantial Completion,2022-04-24,2020/01/19,-826,,Third Party,In Progress,
+859,250,Ground Breaking,2018-11-29,2019/09/16,291,Design changes,Regulator,Delayed,
+860,250,Environmental Review,2024/09/24,,,,Engineer,In Progress,
+861,250,Project Closeout,23/06/2018,,,,Engineer,NOT STARTED,Float available
+862,250,50% Complete,,,,,Third Party,Skipped,On critical path
+863,250,Design Complete,2025/11/19,2027/02/09,447,Design changes,Third Party,Not Started,On critical path
+864,250,Bid Award,15/03/2024,2023/05/16,-304,,Engineer,complete,Float available
+865,112,Ground Breaking,2020/01/20,06/07/2018,-592,,Third Party,In Progress,Float available
+866,112,Project Closeout,,,3130,Environmental review,Regulator,Delayed,On critical path
+867,112,Substantial Completion,08/05/2021,03/15/2021,-143,,Contractor,Complete,Float available
+868,112,50% Complete,09-27-2025,12-26-2027,?,Design changes,Contractor,complete,Permit dependent
+869,112,Environmental Review,2019-02-04,2021/01/27,723,Design changes,Contractor,In Progress,
+870,112,Final Inspection,11-10-2021,2022/04/15,156,Supply chain delays,Owner,Skipped,
+871,112,Design Complete,01-31-2025,12/12/2023,-416,,Utility,Not Started,Permit dependent
+872,112,Bid Award,,06/04/2021,,,Engineer,In Progress,
+873,55,Project Closeout,2022-12-25,,-1321,,Engineer,In Progress,
+874,55,Bid Award,12/12/2027,,,,Contractor,Skipped,
+875,55,Design Complete,12/19/2024,,,,Utility,Delayed,
+876,55,Ground Breaking,,2018-12-11,-2801,,Owner,Delayed,On critical path
+877,55,Final Inspection,16/10/2026,,,,Contractor,Not Started,Float available
+878,55,50% Complete,08/10/2026,12/05/2023,-1038,,Engineer,In Progress,Permit dependent
+879,55,Substantial Completion,2023-12-02,12-12-2018,-1816,,Engineer,Not Started,
+880,55,Environmental Review,2025-11-23,2023-10-06,,,Engineer,,
+881,90,Design Complete,02/11/2025,11/23/2019,-1907,,Contractor,Skipped,
+882,90,Final Inspection,27/07/2026,05-21-2021,-1893,,Engineer,In Progress,
+883,90,Project Closeout,2023-05-29,05-15-2027,1447,Permitting,Third Party,Delayed,
+884,90,Ground Breaking,05-15-2021,24/09/2019,-599,,Owner,Not Started,
+885,90,50% Complete,04/11/2027,06-04-2019,-3075,,Third Party,In Progress,Float available
+886,90,Substantial Completion,12/05/2025,23/06/2021,-1419,,Regulator,Skipped,Float available
+887,184,50% Complete,12-18-2024,,,,Contractor,Not Started,
+888,184,Project Closeout,05/17/2022,09/12/2019,,,Third Party,,Permit dependent
+889,184,Substantial Completion,2024-03-05,2025/05/18,439,Supply chain delays,Engineer,Complete,
+890,184,Environmental Review,12/01/2022,,,,Utility,Complete,
+891,184,Design Complete,,,893,Labor shortage,Contractor,COMPLETE,On critical path
+892,184,Ground Breaking,20/06/2021,,?,,Contractor,Not Started,
+893,184,Final Inspection,02-02-2020,,TBD,,Third Party,complete,On critical path
+894,184,Bid Award,03-11-2022,,,,Utility,Not Started,Float available
+895,81,Final Inspection,2022-03-16,2022-01-12,-63,,Regulator,In Progress,
+896,81,Ground Breaking,16/03/2021,,-400,,Owner,Not Started,Float available
+897,425,Bid Award,11-28-2021,09/10/2027,2141,Environmental review,Contractor,COMPLETE,Float available
+898,425,Final Inspection,07-30-2018,05/09/2020,649,Permitting,Owner,Not Started,
+899,425,Environmental Review,2019-05-27,08/23/2020,454,,Owner,Complete,Float available
+900,425,Ground Breaking,07/11/2019,2027-09-14,2868,Utility conflicts,Owner,Complete,Float available
+901,425,Project Closeout,06/10/2018,,305,Design changes,Third Party,Delayed,Float available
+902,425,Substantial Completion,2022-08-03,,-624,,Owner,Skipped,On critical path
+903,186,Ground Breaking,2023/03/22,,,Design changes,Regulator,Complete,Permit dependent
+904,186,Substantial Completion,2020/01/03,08/03/2022,,Funding gap,Utility,Not Started,On critical path
+905,186,Design Complete,,04/04/2024,-1008,,Utility,COMPLETE,Permit dependent
+906,272,Substantial Completion,12/03/2023,2020/08/02,-952,,Owner,Complete,Float available
+907,272,Ground Breaking,09-03-2018,04/22/2019,231,Weather,Engineer,Complete,
+908,272,Design Complete,2024-02-26,,,,Utility,In Progress,Float available
+909,272,Final Inspection,27/07/2018,20/05/2020,663,Environmental review,Engineer,Delayed,
+910,412,Bid Award,01/22/2022,02/06/2027,1841,Supply chain delays,Utility,Delayed,Permit dependent
+911,412,Project Closeout,12/10/2022,09/17/2018,-1486,,Third Party,Delayed,
+912,412,Substantial Completion,10-08-2026,18/01/2024,-994,,Engineer,,
+913,412,Final Inspection,09/11/2025,10/12/2019,-2220,,Regulator,Skipped,
+914,412,Design Complete,08-10-2027,06-29-2025,-772,,Utility,In Progress,Permit dependent
+915,412,Environmental Review,2026-08-21,2026/07/26,-26,,Utility,Not Started,
+916,346,Project Closeout,,01-19-2024,-163,,Engineer,Not Started,
+917,346,Design Complete,01/31/2026,2025/01/17,-379,,Contractor,Delayed,
+918,346,50% Complete,04-29-2020,2023-05-17,1113,Permitting,Contractor,Skipped,On critical path
+919,346,Environmental Review,09-18-2019,03-22-2020,186,Permitting,Engineer,Delayed,
+920,346,Substantial Completion,,01/24/2024,-1427,,Regulator,In Progress,On critical path
+921,482,Final Inspection,2024-02-17,06/28/2020,-1329,,Third Party,Complete,Permit dependent
+922,482,Project Closeout,2025/06/22,19/10/2025,119,Contractor issues,Third Party,Skipped,On critical path
+923,457,Project Closeout,2025/02/02,02-15-2019,-2179,,Third Party,Skipped,
+924,457,Design Complete,2020/06/15,07-04-2022,749,,Utility,Skipped,
+925,457,Final Inspection,2024/01/17,2026/07/19,914,Contractor issues,Utility,In Progress,
+926,457,Bid Award,01/21/2021,,902,Supply chain delays,Third Party,Delayed,On critical path
+927,49,Project Closeout,26/11/2019,,,,Third Party,Not Started,
+928,49,Final Inspection,12/01/2027,,,,Utility,Not Started,
+929,49,Ground Breaking,2023/01/21,2024-03-16,420,Right-of-way,Owner,Complete,
+930,49,Design Complete,02-26-2022,12/29/2026,1767,Permitting,Third Party,Skipped,Float available
+931,60,Project Closeout,01-24-2019,2018/07/13,-195,,Engineer,,
+932,60,Bid Award,08-06-2022,2019/05/30,-1164,,Contractor,Delayed,Permit dependent
+933,60,Ground Breaking,10-05-2023,,-1749,,Engineer,Delayed,
+934,438,Ground Breaking,08/10/2019,07-03-2019,-38,,Engineer,Not Started,
+935,438,Final Inspection,2026-07-27,2020-06-25,-2223,,Contractor,Complete,
+936,438,Bid Award,2019-08-30,04/02/2019,-150,,Third Party,Delayed,
+937,438,Project Closeout,28/09/2027,07/20/2027,-70,,Utility,Skipped,
+938,493,Environmental Review,05/24/2026,09-23-2018,,,Contractor,In progress,
+939,493,Ground Breaking,2021/07/23,05/15/2025,1392,Supply chain delays,Owner,Not Started,On critical path
+940,493,Project Closeout,2023-04-10,,968,Funding gap,Owner,In Progress,
+941,493,Final Inspection,12/19/2019,07/28/2024,1683,Utility conflicts,Regulator,In Progress,Permit dependent
+942,493,Substantial Completion,05/01/2023,,,,Engineer,Skipped,Permit dependent
+943,493,Design Complete,06/21/2025,,,,Contractor,Delayed,Float available
+944,493,50% Complete,02-13-2022,,,,Third Party,In Progress,Permit dependent
+945,340,Ground Breaking,2021-11-17,02/07/2022,82,Contractor issues,Engineer,Skipped,
+946,340,Environmental Review,2027-03-18,11/20/2021,N/A,,Engineer,Delayed,Float available
+947,340,Project Closeout,2022/12/30,2027/10/12,,Utility conflicts,Contractor,Complete,Permit dependent
+948,340,50% Complete,2019/01/12,09-04-2019,235,Permitting,Engineer,Complete,
+949,319,Bid Award,04-07-2019,,,,Contractor,Complete,Permit dependent
+950,319,Project Closeout,2025-08-03,,,,Regulator,Complete,
+951,319,Ground Breaking,29/06/2018,,,,Utility,Skipped,Float available
+952,319,Substantial Completion,29/05/2023,06/02/2020,,,Engineer,Skipped,On critical path
+953,319,Design Complete,,,,,Third Party,Complete,
+954,319,Environmental Review,,26/12/2025,-721,,Third Party,,
+955,319,Final Inspection,08-03-2027,,,,Regulator,In Progress,On critical path
+956,319,50% Complete,,,,,Third Party,Not Started,Float available
+957,252,Project Closeout,2024-04-19,2024-01-28,-82,,Contractor,In Progress,On critical path
+958,252,Design Complete,06-01-2024,18/10/2025,504,,Contractor,Delayed,
+959,252,Final Inspection,19/03/2021,,-486,,Engineer,,Permit dependent
+960,252,50% Complete,07/11/2025,09-06-2023,-674,,Regulator,In Progress,
+961,252,Ground Breaking,27/07/2027,07/25/2027,-2,,Owner,Delayed,
+962,252,Bid Award,06-23-2027,2021-05-23,-2222,,Regulator,In Progress,Permit dependent
+963,252,Environmental Review,04/28/2024,2024-11-08,194,Funding gap,Utility,Skipped,
+964,252,Substantial Completion,10-08-2018,07-13-2021,1009,Design changes,Contractor,In Progress,On critical path
+965,351,Environmental Review,02/10/2027,18/11/2021,-1910,,Contractor,complete,
+966,351,Bid Award,13/11/2020,05/10/2023,,Utility conflicts,Engineer,NOT STARTED,
+967,351,Final Inspection,08-14-2022,2025-12-22,1226,Environmental review,Third Party,NOT STARTED,
+968,351,Ground Breaking,01-12-2024,2024-02-06,25,Environmental review,Regulator,Complete,
+969,351,Design Complete,27/05/2023,06/08/2023,71,Weather,Regulator,In Progress,Permit dependent
+970,351,50% Complete,2026-03-23,,370,Right-of-way,Contractor,Complete,
+971,351,Project Closeout,05/09/2021,2026/02/24,1633,Right-of-way,Contractor,Not Started,On critical path
+972,332,Final Inspection,16/10/2019,,,,Contractor,Delayed,
+973,332,Environmental Review,09-19-2018,,,,Engineer,Delayed,On critical path
+974,332,Ground Breaking,2024-08-16,2024-12-22,128,,Owner,Delayed,
+975,187,Final Inspection,03-03-2021,,,,Third Party,Skipped,Float available
+976,187,50% Complete,08/04/2020,,,,Engineer,complete,Permit dependent
+977,187,Environmental Review,2022/04/24,,,,Regulator,Complete,
+978,187,Bid Award,2023-03-19,,,,Engineer,Complete,
+979,416,Project Closeout,22/03/2022,2019/02/24,-1122,,Owner,COMPLETE,
+980,416,Bid Award,02/28/2020,04/27/2019,,,Owner,COMPLETE,
+981,416,Substantial Completion,03-16-2020,07/29/2027,2691,Environmental review,Regulator,Skipped,
+982,416,Design Complete,2026/02/26,06-26-2025,TBD,,Third Party,Not Started,On critical path
+983,416,Ground Breaking,2026/10/05,2018-06-26,-3023,,Regulator,,Permit dependent
+984,416,Final Inspection,02/29/2024,04-08-2021,-1057,,Engineer,Not Started,
+985,416,Environmental Review,02/16/2024,03/29/2022,-689,,Engineer,Complete,
+986,416,50% Complete,01-19-2021,10/12/2020,,,Third Party,In Progress,
+987,339,Bid Award,2026-06-15,02-17-2026,-118,,Contractor,complete,
+988,339,Design Complete,2019-07-31,2024/03/16,1690,Utility conflicts,Utility,Complete,
+989,339,Substantial Completion,2020/07/11,15/03/2024,N/A,,Contractor,Skipped,Permit dependent
+990,339,Ground Breaking,2020/02/18,2024/09/18,,Utility conflicts,Third Party,Delayed,
+991,339,50% Complete,06/21/2027,03-28-2024,-1180,,Owner,Delayed,Float available
+992,211,Final Inspection,08-27-2024,12-19-2023,-252,,Contractor,Skipped,
+993,211,50% Complete,2025/07/09,04/07/2026,,Right-of-way,Utility,NOT STARTED,On critical path
+994,211,Environmental Review,2021/04/13,2020-01-15,-454,,Third Party,In Progress,
+995,211,Ground Breaking,2027-08-31,2022/12/02,-1733,,Third Party,In Progress,
+996,211,Project Closeout,08-11-2019,06-23-2021,682,Supply chain delays,Engineer,In Progress,
+997,73,Bid Award,01-25-2019,,,,Contractor,Complete,
+998,73,Ground Breaking,2021/09/06,,543,Right-of-way,Utility,Not Started,
+999,73,Design Complete,11/01/2023,09/20/2019,-1503,,Engineer,Complete,
+1000,73,Substantial Completion,08/23/2022,,,,Engineer,Skipped,
+1001,73,Project Closeout,02-03-2025,,,,Owner,Not Started,
+1002,73,50% Complete,01-10-2026,12-18-2026,342,Permitting,Contractor,Skipped,Float available
+1003,73,Final Inspection,,,,,Third Party,Complete,
+1004,151,Environmental Review,2023-03-02,24/03/2021,,,Owner,In Progress,
+1005,151,Design Complete,03-17-2026,,,,Owner,In Progress,Float available
+1006,151,Ground Breaking,19/07/2026,2026-02-01,-168,,Third Party,Delayed,
+1007,151,Bid Award,2022/10/20,,,,Contractor,Complete,
+1008,151,Project Closeout,2020/09/30,,,,Regulator,Complete,
+1009,151,Final Inspection,07/23/2024,,-1667,,Engineer,Complete,
+1010,151,50% Complete,,2020-12-16,-995,,Contractor,Not Started,
+1011,151,Substantial Completion,30/07/2024,,,,Third Party,Skipped,
+1012,399,Ground Breaking,2019/08/25,11/01/2025,1966,Design changes,Owner,Skipped,Float available
+1013,399,Final Inspection,2021/01/10,2022/07/30,566,Contractor issues,Utility,Complete,Float available
+1014,353,Substantial Completion,08/10/2027,03/06/2026,-581,,Owner,Delayed,Float available
+1015,353,Ground Breaking,2019-03-31,2019-11-07,221,Labor shortage,Regulator,In Progress,
+1016,353,Environmental Review,03/05/2023,2021-03-01,-793,,Third Party,Skipped,Permit dependent
+1017,353,Bid Award,05/24/2024,01-20-2023,-490,,Owner,Complete,
+1018,64,Project Closeout,2024-01-13,2021/08/15,-881,,Contractor,Complete,Float available
+1019,64,Ground Breaking,18/05/2026,19/06/2018,-2890,,Third Party,Complete,
+1020,64,Bid Award,2023-12-13,10/06/2024,180,,Regulator,In Progress,
+1021,64,Substantial Completion,2026-01-15,2024/05/25,-600,,Third Party,Skipped,
+1022,64,50% Complete,2018/07/24,2019-08-17,389,Labor shortage,Owner,Delayed,Float available
+1023,64,Final Inspection,05-04-2021,02/09/2027,2107,Right-of-way,Engineer,Delayed,
+1024,452,Environmental Review,2023/08/22,2026-09-04,1109,Environmental review,Third Party,Skipped,On critical path
+1025,452,Bid Award,2020/06/11,07/01/2018,-711,,Owner,Complete,
+1026,452,Final Inspection,2021/09/26,,-494,,Owner,Not Started,
+1027,452,Ground Breaking,2021-06-21,2025/03/24,1372,Weather,Utility,Skipped,
+1028,486,Ground Breaking,,08-21-2019,-3001,,Owner,NOT STARTED,
+1029,486,Substantial Completion,05/27/2020,2020-06-23,27,Weather,Regulator,Not Started,
+1030,486,Project Closeout,30/01/2019,10/08/2022,1347,Environmental review,Contractor,Not Started,On critical path
+1031,486,Bid Award,2018-11-09,,1636,,Owner,Skipped,On critical path
+1032,349,Design Complete,15/11/2027,,-3041,,Utility,Complete,Float available
+1033,349,Project Closeout,2021-06-27,07/09/2019,-719,,Contractor,Not Started,
+1034,349,Environmental Review,,11/19/2024,-640,,Contractor,Not Started,
+1035,349,Ground Breaking,2020/11/07,10-17-2024,1440,Utility conflicts,Third Party,In Progress,
+1036,220,50% Complete,02/26/2026,,?,,Utility,Skipped,
+1037,220,Final Inspection,04/12/2027,2025-11-02,-526,,Contractor,Skipped,Permit dependent
+1038,220,Project Closeout,2024-10-25,2025/03/19,145,Environmental review,Regulator,In progress,On critical path
+1039,220,Environmental Review,2027-05-29,,,,Regulator,Complete,
+1040,220,Ground Breaking,2021-10-18,,,,Utility,Skipped,
+1041,220,Substantial Completion,09/30/2018,,,,Utility,Skipped,
+1042,220,Bid Award,11-28-2025,,,,Utility,In Progress,
+1043,485,Final Inspection,2025-05-09,06/14/2026,401,Permitting,Regulator,Delayed,On critical path
+1044,485,Bid Award,,17/08/2018,-2811,,Owner,Complete,On critical path
+1045,485,Ground Breaking,28/01/2027,2025-06-24,-583,,Regulator,Skipped,Permit dependent
+1046,485,Substantial Completion,2027-11-01,04/25/2023,-1651,,Utility,Complete,On critical path
+1047,324,Bid Award,2026-10-30,16/10/2022,-1475,,Third Party,Skipped,Permit dependent
+1048,324,Ground Breaking,,,,,Regulator,Complete,Float available
+1049,113,Design Complete,2026-09-27,04/15/2023,-1261,,Utility,COMPLETE,
+1050,113,Bid Award,06/13/2021,,363,Labor shortage,Utility,In Progress,
+1051,113,Ground Breaking,2020-10-05,09/26/2019,,,Third Party,Complete,Permit dependent
+1052,113,Environmental Review,04-14-2024,07-10-2018,-2105,,Engineer,NOT STARTED,
+1053,113,Final Inspection,04-18-2021,04-02-2026,1810,Labor shortage,Engineer,Skipped,
+1054,113,Substantial Completion,,09-24-2024,-559,,Third Party,In Progress,
+1055,284,Design Complete,06-29-2023,03/25/2026,1000,Utility conflicts,Utility,Not Started,
+1056,284,Final Inspection,2024/01/12,25/07/2023,n/a,,Owner,Not Started,
+1057,254,Environmental Review,16/05/2024,,,,Third Party,Delayed,
+1058,254,50% Complete,07/25/2018,,,,Third Party,Not Started,Permit dependent
+1059,254,Bid Award,2026-07-30,,,,Owner,Delayed,On critical path
+1060,254,Ground Breaking,,06/20/2025,978,Right-of-way,Contractor,NOT STARTED,On critical path
+1061,281,Project Closeout,06-22-2025,07-05-2022,-1083,,Third Party,Not Started,On critical path
+1062,281,Substantial Completion,2025/05/10,01/18/2020,-1939,,Owner,Skipped,
+1063,470,Design Complete,2026-02-14,10/28/2022,-1205,,Regulator,Not Started,
+1064,470,Final Inspection,2019/01/15,02/25/2023,1502,Utility conflicts,Regulator,Delayed,On critical path
+1065,470,Ground Breaking,2021/08/04,2020-08-31,-338,,Utility,Delayed,Permit dependent
+1066,470,Bid Award,2027-01-18,08/09/2021,-1988,,Regulator,complete,Float available
+1067,470,Substantial Completion,2024-06-11,03-07-2023,-462,,Regulator,Delayed,
+1068,36,Design Complete,21/08/2019,,,,Regulator,Not Started,Float available
+1069,36,Ground Breaking,10/20/2022,05-18-2027,1671,Supply chain delays,Regulator,In Progress,
+1070,36,Substantial Completion,21/05/2025,,,,Contractor,In Progress,
+1071,36,Bid Award,23/03/2025,01/16/2026,299,Supply chain delays,Owner,Delayed,Float available
+1072,36,50% Complete,03-31-2026,,-1416,,Third Party,Delayed,
+1073,36,Final Inspection,08/02/2027,12-10-2024,-965,,Engineer,Not Started,
+1074,36,Environmental Review,02-26-2023,21/05/2027,1545,Environmental review,Contractor,Complete,
+1075,36,Project Closeout,2026-12-13,22/07/2018,TBD,,Third Party,In Progress,
+1076,400,Substantial Completion,2025-02-19,02/06/2024,-262,,Utility,In Progress,On critical path
+1077,400,Environmental Review,,2026/09/23,1330,Utility conflicts,Contractor,Complete,
+1078,288,Environmental Review,10/10/2022,12-19-2022,70,,Owner,complete,On critical path
+1079,288,Bid Award,2027-03-21,,,,Utility,Complete,
+1080,288,Project Closeout,12-12-2024,,,,Engineer,Delayed,
+1081,288,Final Inspection,01/15/2024,09/08/2027,1332,Labor shortage,Utility,Skipped,On critical path
+1082,288,50% Complete,2022/03/10,,,,Third Party,Skipped,
+1083,288,Substantial Completion,09/22/2025,10-25-2019,-2159,,Third Party,Skipped,On critical path
+1084,119,Final Inspection,25/10/2020,27/08/2019,-425,,Utility,In Progress,
+1085,119,Ground Breaking,15/08/2020,,,,Utility,In Progress,Float available
+1086,119,Design Complete,2018-11-10,,,,Contractor,Complete,Float available
+1087,119,Project Closeout,02/19/2020,,,,Third Party,In Progress,Float available
+1088,166,Bid Award,01/12/2022,18/11/2023,,Design changes,Owner,Skipped,Float available
+1089,166,Environmental Review,,11-28-2019,-2594,,Regulator,Skipped,
+1090,352,Environmental Review,,01/01/2027,3075,,Regulator,Skipped,Permit dependent
+1091,352,Ground Breaking,12/01/2027,12/12/2020,-2222,,Engineer,Not Started,
+1092,352,Final Inspection,28/10/2027,2023-03-10,,,Owner,COMPLETE,
+1093,352,50% Complete,,20/10/2020,202,Permitting,Owner,In Progress,
+1094,352,Project Closeout,07/01/2024,05/20/2019,-1869,,Utility,Delayed,Permit dependent
+1095,352,Design Complete,2026-06-24,04-04-2025,-446,,Third Party,Not Started,
+1096,352,Substantial Completion,04/11/2019,2025-10-22,2386,Right-of-way,Third Party,Skipped,Float available
+1097,179,Substantial Completion,20/01/2026,,,,Regulator,Delayed,
+1098,179,50% Complete,,,,,Regulator,In Progress,Float available
+1099,179,Ground Breaking,2027-12-08,,,,Utility,In Progress,On critical path
+1100,179,Design Complete,2021/05/24,,,,Engineer,Not Started,On critical path
+1101,179,Final Inspection,,07/12/2024,1677,Design changes,Utility,In Progress,Permit dependent
+1102,179,Bid Award,2024/02/23,,-1602,,Regulator,Skipped,Permit dependent
+1103,263,Substantial Completion,06-24-2023,2026-12-19,1274,Right-of-way,Contractor,Complete,On critical path
+1104,263,Final Inspection,09/07/2021,2026/09/04,n/a,Environmental review,Engineer,Skipped,
+1105,263,Ground Breaking,2021/03/28,,786,,Third Party,Complete,Permit dependent
+1106,43,Substantial Completion,02/05/2026,06-01-2027,481,,Engineer,Not Started,
+1107,43,Project Closeout,2024-09-04,2023/06/10,-452,,Engineer,,Permit dependent
+1108,29,Final Inspection,2027-06-02,04/09/2022,,,Utility,Complete,Permit dependent
+1109,29,Project Closeout,2025-12-28,28/06/2023,-914,,Third Party,Not Started,Float available
+1110,29,50% Complete,10/11/2020,09/10/2018,-763,,Engineer,In Progress,Float available
+1111,29,Ground Breaking,07/30/2023,2020-10-22,-1011,,Contractor,Delayed,
+1112,29,Bid Award,2022/06/06,06-30-2021,-341,,Utility,Delayed,
+1113,444,Final Inspection,2023/02/11,12/31/2019,?,,Utility,Skipped,
+1114,444,50% Complete,12/12/2020,26/02/2026,1902,Utility conflicts,Contractor,Skipped,Float available
+1115,444,Design Complete,12-14-2021,2024/06/22,921,,Contractor,In progress,
+1116,444,Substantial Completion,2019-10-01,2021-06-04,612,,Regulator,NOT STARTED,
+1117,444,Ground Breaking,2025-09-17,2026/08/31,,Contractor issues,Regulator,Skipped,
+1118,444,Bid Award,23/07/2021,2027-01-30,2017,,Contractor,Not Started,
+1119,143,Project Closeout,2021/11/02,2019-02-04,-1002,,Engineer,Skipped,
+1120,143,Bid Award,24/01/2024,12/21/2023,-34,,Regulator,In progress,
+1121,143,Substantial Completion,2020-10-18,11/18/2026,2222,Utility conflicts,Third Party,In Progress,Float available
+1122,143,Design Complete,10-20-2025,2021/10/24,-1457,,Utility,In progress,
+1123,143,Final Inspection,2027-05-06,08/29/2023,,,Engineer,In Progress,Float available
+1124,143,Ground Breaking,07/30/2027,19/04/2021,,,Third Party,Not Started,On critical path
+1125,276,Project Closeout,06/10/2019,,,,Owner,COMPLETE,
+1126,276,Environmental Review,05/15/2022,03/30/2021,-411,,Owner,Not Started,On critical path
+1127,276,Final Inspection,,,,,Regulator,complete,Permit dependent
+1128,327,Substantial Completion,09/02/2024,,,,Engineer,In Progress,Float available
+1129,327,Ground Breaking,02/09/2025,,,,Engineer,Skipped,Permit dependent
+1130,327,Bid Award,2019/04/28,,,,Engineer,NOT STARTED,
+1131,327,Design Complete,2021/01/22,,,,Utility,NOT STARTED,
+1132,170,Design Complete,2018/11/30,,,,Regulator,Not Started,Permit dependent
+1133,170,Environmental Review,2023/02/02,02/15/2019,-1448,,Regulator,Not Started,Permit dependent
+1134,170,Final Inspection,2020-08-04,06-02-2023,1032,,Owner,Delayed,
+1135,170,Substantial Completion,10/19/2026,07/26/2022,-1546,,Third Party,Delayed,
+1136,170,Bid Award,2019/06/20,06/01/2021,566,Design changes,Contractor,In Progress,
+1137,170,Project Closeout,,23/08/2019,-1609,,Utility,Complete,
+1138,170,50% Complete,09/18/2026,05-01-2022,-1601,,Owner,Skipped,
+1139,170,Ground Breaking,29/09/2021,02/16/2022,140,,Contractor,Skipped,
+1140,463,Bid Award,04/05/2026,12/11/2027,,Contractor issues,Engineer,Not Started,On critical path
+1141,463,Substantial Completion,09/19/2018,2027-05-10,3155,Funding gap,Regulator,NOT STARTED,
+1142,463,Design Complete,2027-05-07,2027-12-11,,Weather,Utility,NOT STARTED,Permit dependent
+1143,463,50% Complete,01/10/2024,2023-02-18,-591,,Engineer,Delayed,On critical path
+1144,463,Final Inspection,01/01/2024,20/03/2025,444,Design changes,Regulator,In Progress,On critical path
+1145,463,Project Closeout,01/09/2020,2023-06-22,1024,Weather,Engineer,Not Started,
+1146,82,Ground Breaking,2018/12/08,02-02-2019,56,Utility conflicts,Owner,Complete,Permit dependent
+1147,82,Project Closeout,2024/11/14,23/05/2022,TBD,,Utility,In Progress,Permit dependent
+1148,82,50% Complete,10/11/2024,23/10/2022,-749,,Utility,COMPLETE,
+1149,82,Design Complete,14/07/2024,2018-09-03,-2141,,Third Party,Not Started,
+1150,406,50% Complete,12/14/2026,2022-02-12,-1766,,Third Party,complete,Float available
+1151,406,Project Closeout,2027/06/15,14/05/2025,-762,,Owner,,Permit dependent
+1152,406,Environmental Review,09/01/2024,,,,Utility,In progress,On critical path
+1153,406,Ground Breaking,2026/10/20,2021/10/07,-1839,,Third Party,In Progress,
+1154,110,Project Closeout,12/06/2027,05/08/2019,-3045,,Utility,Skipped,Permit dependent
+1155,110,Bid Award,07/18/2024,,-356,,Third Party,In Progress,Permit dependent
+1156,218,Design Complete,2019/07/16,10/01/2026,2634,Labor shortage,Contractor,NOT STARTED,Float available
+1157,218,Ground Breaking,2020/05/05,2025-04-28,?,Environmental review,Regulator,In Progress,
+1158,218,Bid Award,2025-02-08,12-08-2022,-793,,Third Party,In Progress,Permit dependent
+1159,218,50% Complete,01/10/2019,01/01/2021,722,Permitting,Contractor,Not Started,Float available
+1160,218,Substantial Completion,05/16/2020,08/12/2024,1667,,Engineer,,
+1161,368,Bid Award,2019-12-19,11/14/2018,-400,,Third Party,Complete,Permit dependent
+1162,368,Final Inspection,10-14-2025,31/08/2027,686,Permitting,Owner,complete,Float available
+1163,368,Project Closeout,2027-06-01,,,,Owner,,Permit dependent
+1164,446,Design Complete,2025/06/18,,,,Engineer,Complete,On critical path
+1165,446,50% Complete,09/04/2018,,,,Contractor,COMPLETE,Permit dependent
+1166,474,Substantial Completion,,,,,Utility,In Progress,On critical path
+1167,474,Environmental Review,2025-03-14,,,,Contractor,Delayed,Permit dependent
+1168,474,50% Complete,15/01/2024,,,,Regulator,Complete,On critical path
+1169,474,Design Complete,,,,,Utility,Not Started,
+1170,474,Ground Breaking,2021-10-16,,,,Utility,Delayed,
+1171,300,50% Complete,05-29-2022,08-12-2026,1536,Right-of-way,Third Party,In progress,On critical path
+1172,300,Ground Breaking,19/06/2023,29/09/2023,102,Permitting,Contractor,Delayed,
+1173,300,Bid Award,01-25-2019,2027-12-16,3247,,Contractor,Delayed,
+1174,300,Environmental Review,2024-09-18,17/10/2022,-,,Owner,Skipped,Permit dependent
+1175,300,Project Closeout,,09-20-2019,-1097,,Utility,NOT STARTED,On critical path
+1176,300,Design Complete,04/19/2024,07-13-2019,-1742,,Engineer,Not Started,Float available
+1177,300,Final Inspection,2027/01/24,11/04/2020,-2272,,Engineer,Skipped,Permit dependent
+1178,390,50% Complete,08/06/2023,2023/08/02,-4,,Third Party,Delayed,Float available
+1179,390,Environmental Review,04/09/2018,2019-01-26,144,Permitting,Contractor,In Progress,
+1180,390,Bid Award,05/11/2026,,,,Owner,Skipped,
+1181,390,Substantial Completion,,2021/12/30,-2047,,Engineer,Skipped,
+1182,390,Design Complete,24/12/2024,,757,Design changes,Third Party,Delayed,
+1183,390,Project Closeout,2027/07/20,2022/06/28,-1848,,Third Party,complete,On critical path
+1184,390,Final Inspection,15/09/2019,2024-12-07,1910,Supply chain delays,Engineer,In Progress,
+1185,359,Ground Breaking,12/05/2020,2027/07/01,2399,Labor shortage,Contractor,,Permit dependent
+1186,359,Environmental Review,08/05/2022,09-21-2026,1508,Funding gap,Owner,Complete,Float available
+1187,359,50% Complete,2022-06-07,,-1255,,Regulator,In Progress,Permit dependent
+1188,359,Final Inspection,,2027-09-07,2793,Supply chain delays,Owner,Complete,
+1189,359,Bid Award,11-03-2023,22/10/2025,719,,Third Party,Delayed,Permit dependent
+1190,79,Project Closeout,2023/03/02,04/04/2027,1494,Environmental review,Third Party,Delayed,
+1191,79,Design Complete,2018/07/03,,,,Contractor,Skipped,Permit dependent
+1192,79,Bid Award,27/01/2019,,,,Third Party,In Progress,Permit dependent
+1193,79,Environmental Review,18/05/2019,,,,Owner,Skipped,
+1194,79,50% Complete,2022/05/26,2019-01-13,-1229,,Engineer,Delayed,Float available
+1195,79,Final Inspection,05-25-2021,,,,Owner,Skipped,On critical path
+1196,79,Substantial Completion,2026-02-16,,,,Utility,In progress,Float available
+1197,79,Ground Breaking,2022-08-26,,,,Engineer,In Progress,Permit dependent
+1198,1,Bid Award,29/08/2023,,,,Utility,COMPLETE,Float available
+1199,1,Environmental Review,07/11/2027,,,,Utility,COMPLETE,On critical path
+1200,1,Final Inspection,2027-07-25,,,,Third Party,Delayed,Permit dependent
+1201,458,Bid Award,10/19/2019,,,,Contractor,Delayed,
+1202,458,Project Closeout,09/07/2018,04-30-2021,,Right-of-way,Regulator,Delayed,Permit dependent
+1203,458,Final Inspection,10/05/2019,,,,Regulator,In Progress,
+1204,458,Design Complete,25/08/2027,03-24-2020,,,Utility,Not Started,
+1205,458,Environmental Review,2027-08-06,,,,Third Party,Complete,Permit dependent
+1206,216,Environmental Review,03/16/2020,,,,Regulator,Delayed,
+1207,216,Design Complete,2019/04/11,2022/07/08,1184,Supply chain delays,Owner,In Progress,
+1208,216,50% Complete,03-13-2023,2021-07-18,-603,,Regulator,Not Started,On critical path
+1209,397,Final Inspection,2026/02/12,03/05/2021,,,Third Party,Complete,Permit dependent
+1210,397,50% Complete,2027/11/10,,,,Engineer,Not Started,Float available
+1211,397,Bid Award,11-12-2018,,,,Owner,Not Started,Float available
+1212,397,Ground Breaking,2019-09-16,2018-10-28,-323,,Owner,Delayed,
+1213,397,Design Complete,09/05/2025,,,,Third Party,Delayed,Permit dependent
+1214,397,Project Closeout,11-26-2020,,,,Regulator,Skipped,
+1215,377,50% Complete,01/26/2026,21/01/2027,360,Permitting,Utility,Complete,Permit dependent
+1216,377,Project Closeout,2020-10-27,20/06/2024,1332,Design changes,Owner,Delayed,
+1217,377,Design Complete,19/09/2024,,-778,,Utility,Complete,Permit dependent
+1218,377,Bid Award,01/29/2022,2025-04-23,-,Supply chain delays,Regulator,COMPLETE,On critical path
+1219,377,Ground Breaking,17/06/2023,2024-07-24,,Permitting,Contractor,Not Started,
+1220,377,Substantial Completion,04/03/2024,12/19/2023,-106,,Owner,Skipped,
+1221,262,Design Complete,13/01/2019,03-12-2027,2980,Contractor issues,Owner,Not Started,
+1222,262,Substantial Completion,06/29/2025,12-14-2027,898,Labor shortage,Regulator,Not Started,
+1223,262,50% Complete,03/02/2023,08/17/2021,-562,,Owner,COMPLETE,
+1224,262,Ground Breaking,10/12/2019,02-05-2020,57,,Engineer,Delayed,Float available
+1225,262,Bid Award,2020-11-13,2018/09/12,-793,,Utility,Skipped,
+1226,262,Final Inspection,08/27/2021,08/14/2026,1813,,Engineer,In Progress,
+1227,262,Environmental Review,02/11/2024,12-20-2020,N/A,,Contractor,In Progress,Permit dependent
+1228,402,Final Inspection,2024/05/25,05-06-2019,-1846,,Engineer,Not Started,Float available
+1229,402,Ground Breaking,11/28/2020,03-21-2023,843,Environmental review,Owner,In Progress,
+1230,402,Project Closeout,2023-06-07,,,,Regulator,NOT STARTED,On critical path
+1231,341,Design Complete,03-30-2021,2022-09-09,528,,Regulator,complete,
+1232,341,Project Closeout,06/20/2024,12-29-2020,-1269,,Owner,In Progress,
+1233,341,Ground Breaking,2026-12-12,,,,Third Party,In Progress,
+1234,121,Bid Award,12/12/2027,2019/10/30,-2965,,Contractor,NOT STARTED,
+1235,121,Design Complete,2025/06/02,05/24/2025,-9,,Engineer,Delayed,Float available
+1236,121,Environmental Review,09-13-2024,2019-07-09,,,Owner,,Permit dependent
+1237,121,Substantial Completion,04/22/2024,2021/11/02,-902,,Third Party,Skipped,
+1238,121,Ground Breaking,10/09/2022,,893,Design changes,Third Party,Skipped,Float available
+1239,121,50% Complete,2027/10/19,13/01/2022,-2105,,Owner,NOT STARTED,Float available
+1240,121,Project Closeout,18/11/2021,01-25-2026,1529,Permitting,Engineer,Complete,Permit dependent
+1241,348,Substantial Completion,,,TBD,,Utility,complete,Permit dependent
+1242,348,50% Complete,01/25/2024,,,,Engineer,Skipped,Float available
+1243,348,Ground Breaking,2021/03/01,2027/09/07,2381,Supply chain delays,Owner,In progress,
+1244,348,Final Inspection,2024-01-20,,,,Owner,,Permit dependent
+1245,348,Design Complete,2023/12/07,11/05/2027,1429,Environmental review,Third Party,In progress,
+1246,497,Final Inspection,12-18-2027,2026-10-11,-433,,Regulator,NOT STARTED,
+1247,497,Environmental Review,07/20/2023,2027-10-05,,,Regulator,Delayed,
+1248,424,50% Complete,,25/06/2027,266,Labor shortage,Regulator,NOT STARTED,
+1249,424,Design Complete,,12-21-2020,131,Weather,Engineer,In progress,
+1250,424,Final Inspection,2024-12-06,15/12/2027,1104,Labor shortage,Contractor,Delayed,Float available
+1251,424,Substantial Completion,12/02/2020,09-01-2026,2099,Supply chain delays,Owner,Delayed,Permit dependent
+1252,424,Ground Breaking,2019/10/01,2023-05-24,,Supply chain delays,Owner,Complete,Permit dependent
+1253,424,Project Closeout,03/29/2024,11-01-2019,-1610,,Third Party,In Progress,
+1254,325,Ground Breaking,2026-12-15,11-20-2019,-2582,,Regulator,In Progress,Float available
+1255,325,Final Inspection,17/03/2027,03/14/2022,-1829,,Regulator,Delayed,
+1256,325,Bid Award,2018/09/23,06/26/2024,2103,Design changes,Utility,NOT STARTED,On critical path
+1257,387,Final Inspection,2025/11/14,,,,Regulator,Skipped,Float available
+1258,387,50% Complete,08/11/2025,,,,Contractor,Delayed,Permit dependent
+1259,387,Environmental Review,01-26-2022,,,,Regulator,Skipped,
+1260,387,Design Complete,29/07/2025,,,,Utility,In Progress,On critical path
+1261,387,Ground Breaking,06-08-2026,,,,Third Party,Not Started,Permit dependent
+1262,267,Environmental Review,07/24/2020,2023/11/30,,,Utility,Delayed,
+1263,267,Project Closeout,11/09/2026,12-07-2018,-2894,,Regulator,Not Started,Float available
+1264,267,Final Inspection,2019-12-03,2022-08-27,998,Contractor issues,Utility,Delayed,
+1265,169,Project Closeout,2024-09-29,,,,Third Party,Complete,On critical path
+1266,169,Ground Breaking,2019-02-11,,,,Engineer,Skipped,
+1267,293,Final Inspection,2019/03/18,,2150,Environmental review,Engineer,Not Started,Float available
+1268,293,Design Complete,27/12/2019,20/07/2025,2032,Utility conflicts,Third Party,Complete,On critical path
+1269,203,Ground Breaking,03/20/2027,15/09/2025,-551,,Engineer,Complete,
+1270,203,Project Closeout,2018-06-26,2024/10/11,2299,Environmental review,Engineer,Not Started,
+1271,203,Environmental Review,03-10-2024,10/04/2025,573,Permitting,Owner,In Progress,
+1272,203,Bid Award,2018-06-24,2020-09-24,823,Contractor issues,Contractor,Delayed,Permit dependent
+1273,203,Design Complete,25/11/2018,,-,Permitting,Utility,In progress,On critical path
+1274,307,Ground Breaking,10/07/2020,2021/06/26,,Design changes,Third Party,Skipped,
+1275,307,Substantial Completion,09-16-2024,02-14-2020,-1676,,Third Party,Delayed,On critical path
+1276,307,Environmental Review,2026/06/24,,-1533,,Utility,complete,
+1277,307,50% Complete,2026-11-22,09/07/2022,-1537,,Regulator,Complete,Permit dependent
+1278,307,Bid Award,06/10/2018,06-05-2021,973,,Owner,In Progress,On critical path
+1279,307,Project Closeout,29/01/2023,06-28-2019,-1311,,Owner,Not Started,
+1280,13,Environmental Review,,2026/03/14,165,Utility conflicts,Regulator,Complete,Float available
+1281,13,Substantial Completion,10/04/2018,2020/02/27,511,,Utility,Skipped,Float available
+1282,13,Ground Breaking,2023-11-21,2022-05-02,-568,,Regulator,NOT STARTED,Permit dependent
+1283,13,50% Complete,31/05/2023,,1336,,Engineer,In progress,Float available
+1284,13,Bid Award,12/03/2019,01-02-2020,,Design changes,Regulator,COMPLETE,Permit dependent
+1285,13,Final Inspection,2026-07-18,06-23-2025,-390,,Owner,Complete,On critical path
+1286,13,Project Closeout,01-05-2024,08/19/2021,-869,,Utility,Delayed,Permit dependent
+1287,13,Design Complete,08-29-2018,2025-08-10,2538,Design changes,Third Party,Not Started,Float available
+1288,350,Bid Award,,2019/08/22,-101,,Utility,In Progress,
+1289,350,50% Complete,10/18/2022,07/07/2025,993,,Regulator,complete,
+1290,350,Environmental Review,02/22/2024,2020/03/17,-1437,,Engineer,Skipped,Permit dependent
+1291,350,Ground Breaking,11/10/2020,,-395,,Engineer,Complete,
+1292,350,Substantial Completion,2023/06/26,2025/06/24,729,,Engineer,Complete,
+1293,350,Design Complete,2018/08/10,08-30-2022,1481,,Engineer,Complete,
+1294,350,Final Inspection,2019/04/10,11-15-2019,n/a,Utility conflicts,Owner,NOT STARTED,Float available
+1295,350,Project Closeout,2027-10-04,2021-07-26,-2261,,Regulator,In Progress,Float available
+1296,389,Ground Breaking,15/09/2019,2022-08-24,1074,Weather,Contractor,Skipped,
+1297,389,Design Complete,2027-07-22,11/08/2024,,,Engineer,Delayed,
+1298,389,50% Complete,,02-12-2023,-47,,Third Party,Not Started,
+1299,389,Final Inspection,2027-05-13,05/02/2020,-2654,,Third Party,Delayed,Permit dependent
+1300,389,Bid Award,15/02/2022,2021-04-27,-294,,Third Party,In Progress,
+1301,389,Environmental Review,2020/05/06,2025-09-22,1965,Permitting,Engineer,Skipped,
+1302,389,Project Closeout,04/03/2020,09/12/2024,1741,Design changes,Utility,Delayed,
+1303,245,Environmental Review,01/01/2021,2023/05/20,869,Environmental review,Regulator,Delayed,
+1304,245,Project Closeout,05-22-2021,,-803,,Utility,In Progress,
+1305,245,Final Inspection,08/04/2026,2025/09/29,TBD,,Third Party,In Progress,
+1306,245,50% Complete,2020-03-02,,2521,Permitting,Contractor,Not Started,Permit dependent
+1307,245,Design Complete,2020-06-14,07/28/2026,2235,Design changes,Regulator,,Float available
+1308,245,Substantial Completion,2026-02-16,05-17-2019,-2467,,Utility,Complete,Permit dependent
+1309,245,Ground Breaking,06-14-2022,03-31-2025,1021,Right-of-way,Utility,In Progress,
+1310,264,Ground Breaking,10-19-2022,2020-08-14,-796,,Third Party,Delayed,
+1311,264,Final Inspection,21/07/2018,11/08/2026,,Contractor issues,Utility,Delayed,Float available
+1312,264,Substantial Completion,05/18/2021,,2092,Funding gap,Regulator,Not Started,Permit dependent
+1313,264,Environmental Review,30/03/2025,04-26-2026,392,Contractor issues,Owner,Not Started,
+1314,264,50% Complete,2025/05/13,2019/07/06,-2138,,Engineer,,
+1315,264,Project Closeout,30/06/2026,02-27-2022,-1584,,Third Party,Skipped,On critical path
+1316,264,Design Complete,02/15/2022,12/03/2027,2117,Weather,Owner,Skipped,
+1317,264,Bid Award,27/03/2019,12-11-2019,259,Weather,Engineer,Skipped,
+1318,192,50% Complete,15/10/2024,10-22-2021,-1089,,Contractor,Complete,
+1319,192,Environmental Review,2019/12/28,24/09/2021,,Utility conflicts,Contractor,Not Started,Permit dependent
+1320,192,Bid Award,02-17-2019,2019/03/28,39,Right-of-way,Utility,Skipped,On critical path
+1321,192,Design Complete,2026-10-11,12/10/2022,-1460,,Utility,Delayed,Permit dependent
+1322,192,Final Inspection,05/20/2020,2019-03-28,-419,,Third Party,Skipped,Float available
+1323,192,Ground Breaking,09-03-2021,28/05/2020,-463,,Regulator,Skipped,
+1324,301,Ground Breaking,07-08-2022,04-12-2025,1009,Weather,Utility,Not Started,
+1325,301,Environmental Review,10/10/2026,09/29/2022,-1472,,Owner,In progress,Float available
+1326,301,Final Inspection,16/06/2018,,TBD,,Regulator,Not Started,
+1327,301,Substantial Completion,2026/11/30,,,,Regulator,Skipped,
+1328,301,Design Complete,06/23/2024,,,,Contractor,Skipped,
+1329,10,Substantial Completion,11-29-2026,,-1360,,Owner,Complete,
+1330,10,Project Closeout,2020/08/03,04/10/2022,792,Weather,Contractor,complete,
+1331,10,Environmental Review,2018/09/16,27/09/2023,1837,Labor shortage,Regulator,Delayed,Permit dependent
+1332,10,Ground Breaking,01/05/2023,04-17-2024,,Permitting,Owner,Delayed,
+1333,10,Design Complete,,06/29/2022,-1335,,Regulator,Skipped,
+1334,473,Bid Award,21/03/2025,11-16-2027,970,Right-of-way,Regulator,In Progress,Float available
+1335,473,Environmental Review,11-21-2023,,129,Right-of-way,Regulator,complete,Float available
+1336,473,Project Closeout,08/08/2019,2019-11-01,85,,Utility,Delayed,Float available
+1337,473,Final Inspection,2023/11/04,07/20/2019,-1568,,Utility,Not Started,
+1338,473,Ground Breaking,08/05/2026,2020/01/17,-2392,,Utility,Not Started,Permit dependent
+1339,473,Substantial Completion,10-24-2020,,843,Environmental review,Engineer,complete,Permit dependent
+1340,473,50% Complete,16/08/2026,27/02/2019,-2727,,Utility,In Progress,
+1341,99,Project Closeout,06-10-2025,06/16/2025,6,Contractor issues,Owner,In Progress,
+1342,99,Ground Breaking,09/05/2021,11-27-2019,-,,Engineer,In Progress,
+1343,99,Substantial Completion,20/12/2022,01-02-2020,n/a,,Regulator,Delayed,
+1344,97,Design Complete,28/11/2022,12-02-2022,4,Right-of-way,Third Party,Complete,
+1345,97,Substantial Completion,2025/02/25,,-37,,Contractor,Complete,Permit dependent
+1346,97,Environmental Review,,08/10/2026,-360,,Third Party,Not Started,
+1347,158,Substantial Completion,21/02/2020,,,,Contractor,Delayed,On critical path
+1348,158,Environmental Review,2019/01/14,02-18-2026,2592,Environmental review,Regulator,COMPLETE,
+1349,158,Bid Award,05/11/2026,2025-07-28,-465,,Contractor,Complete,Float available
+1350,158,Project Closeout,,11-20-2019,-1963,,Third Party,Not Started,
+1351,158,Design Complete,24/07/2022,,,,Regulator,Complete,Permit dependent
+1352,240,Design Complete,2027-05-12,11/01/2022,-1653,,Owner,Not Started,
+1353,240,Bid Award,,,,,Contractor,Delayed,On critical path
+1354,240,50% Complete,05/25/2026,02-06-2025,-473,,Owner,Skipped,Permit dependent
+1355,330,Design Complete,16/06/2022,,,,Regulator,Skipped,
+1356,330,Final Inspection,12/04/2019,,,,Third Party,In Progress,
+1357,330,Bid Award,,,,,Regulator,NOT STARTED,Permit dependent
+1358,330,50% Complete,,,,,Utility,In Progress,
+1359,330,Environmental Review,05-30-2026,,,,Engineer,COMPLETE,
+1360,330,Substantial Completion,2025/02/03,06/18/2020,-1691,,Owner,Complete,
+1361,330,Project Closeout,2020-04-05,,,,Regulator,Delayed,
+1362,176,Environmental Review,2027-10-07,04/12/2019,-3100,,Third Party,Complete,On critical path
+1363,176,Substantial Completion,2026-06-29,2020-02-10,-2331,,Third Party,Delayed,Permit dependent
+1364,176,Design Complete,2023/09/15,,-268,,Third Party,Not Started,Permit dependent
+1365,176,50% Complete,,2022-01-03,-1528,,Regulator,In Progress,
+1366,176,Bid Award,15/09/2026,2022/09/22,,,Contractor,Not Started,On critical path
+1367,176,Final Inspection,2021/05/09,,1214,Environmental review,Owner,Delayed,Permit dependent
+1368,176,Project Closeout,04/22/2026,10-01-2026,162,,Regulator,,
+1369,176,Ground Breaking,04/19/2022,01/07/2023,?,Weather,Third Party,complete,
+1370,369,Final Inspection,,09/13/2022,768,Permitting,Contractor,Not Started,
+1371,369,Design Complete,2027/05/14,06/02/2020,,,Utility,Complete,
+1372,369,50% Complete,02-03-2022,06/06/2023,488,Permitting,Engineer,Not Started,
+1373,369,Project Closeout,04-30-2025,2019-02-13,-2268,,Engineer,Not Started,
+1374,369,Bid Award,2024-12-28,2021-12-03,-1121,,Utility,Skipped,Float available
+1375,369,Ground Breaking,12/26/2026,08/28/2027,,Weather,Third Party,COMPLETE,
+1376,369,Substantial Completion,05/12/2027,2020/03/26,-2810,,Regulator,Not Started,
+1377,369,Environmental Review,2018/06/22,2023-03-07,,Design changes,Contractor,Complete,Permit dependent
+1378,315,Final Inspection,05/09/2022,09-16-2019,-966,,Third Party,complete,
+1379,315,Ground Breaking,2021-01-11,2025/09/25,1718,,Regulator,Not Started,Permit dependent
+1380,315,Design Complete,2021-07-25,25/02/2021,-150,,Engineer,Delayed,
+1381,315,Substantial Completion,06/23/2020,2024-02-07,1324,Right-of-way,Regulator,In Progress,
+1382,315,Bid Award,09-13-2025,11/22/2022,n/a,,Contractor,Not Started,Permit dependent
+1383,315,Project Closeout,10/03/2023,2022/07/24,-229,,Engineer,Complete,
+1384,315,50% Complete,06/02/2025,03/11/2021,-1544,,Contractor,Complete,On critical path
+1385,188,Ground Breaking,2019-09-05,,,,Owner,Not Started,
+1386,188,Project Closeout,2020/03/13,,TBD,,Owner,Skipped,On critical path
+1387,188,Final Inspection,2019/07/16,2018/09/05,-314,,Third Party,In Progress,
+1388,188,Design Complete,12-29-2019,11/12/2025,2174,Contractor issues,Regulator,Not Started,
+1389,140,Substantial Completion,,,,,Regulator,Complete,On critical path
+1390,140,Ground Breaking,05-20-2021,,-299,,Contractor,Skipped,On critical path
+1391,140,Design Complete,2020/06/19,2022-07-24,765,Utility conflicts,Owner,In Progress,Permit dependent
+1392,249,Bid Award,2019-11-20,,,,Engineer,Not Started,Float available
+1393,249,50% Complete,,,,,Third Party,Not Started,Permit dependent
+1394,249,Substantial Completion,2024-12-19,,,,Utility,Delayed,
+1395,249,Ground Breaking,22/05/2019,,,,Third Party,In progress,On critical path
+1396,249,Design Complete,02/13/2026,,,,Third Party,Complete,
+1397,219,Bid Award,19/10/2018,2020/11/25,768,Environmental review,Owner,Skipped,On critical path
+1398,219,Project Closeout,08/25/2020,31/07/2026,2166,Contractor issues,Third Party,Delayed,On critical path
+1399,219,Substantial Completion,10/13/2019,08-18-2021,675,Funding gap,Third Party,Not Started,Permit dependent
+1400,219,Final Inspection,2024/01/09,2022-03-17,-663,,Utility,Skipped,On critical path
+1401,219,50% Complete,2026/10/08,2025/05/01,-525,,Engineer,Skipped,
+1402,189,Environmental Review,2027-08-12,2020-09-28,-2509,,Third Party,In Progress,
+1403,189,Final Inspection,2023/06/28,2023-02-13,-135,,Engineer,In Progress,
+1404,189,50% Complete,07-22-2027,03/14/2021,-2321,,Contractor,In Progress,On critical path
+1405,247,Project Closeout,,14/03/2027,2086,Labor shortage,Contractor,Skipped,
+1406,247,Environmental Review,05/23/2025,2021/03/13,-1532,,Owner,Delayed,On critical path
+1407,247,Final Inspection,2024/10/11,01/14/2026,,Design changes,Engineer,Delayed,On critical path
+1408,247,Bid Award,2018-12-28,2023/08/28,1704,Labor shortage,Engineer,In Progress,Permit dependent
+1409,247,50% Complete,,02/07/2022,966,Weather,Owner,In Progress,
+1410,247,Ground Breaking,2023-11-16,07-17-2018,,,Owner,Complete,Permit dependent
+1411,247,Design Complete,03-20-2020,2019/11/16,-125,,Regulator,In Progress,Permit dependent
+1412,247,Substantial Completion,09-11-2023,29/01/2024,140,,Owner,Delayed,
+1413,418,Ground Breaking,30/09/2023,2027/08/21,1421,Weather,Contractor,Skipped,
+1414,418,Final Inspection,05/28/2019,2020/07/03,402,Labor shortage,Regulator,Not Started,Permit dependent
+1415,418,Project Closeout,2020/11/18,11/05/2021,352,Supply chain delays,Owner,Delayed,Float available
+1416,418,Design Complete,05-08-2023,2025/07/09,793,Design changes,Utility,Not Started,Permit dependent
+1417,418,Substantial Completion,04/16/2024,,736,,Utility,Complete,
+1418,418,Bid Award,10/01/2023,2027-09-27,1457,Funding gap,Owner,Not Started,On critical path
+1419,418,50% Complete,24/09/2018,21/09/2018,-3,,Contractor,In Progress,Float available
+1420,321,Ground Breaking,20/03/2021,04/16/2027,2218,Permitting,Utility,Not Started,
+1421,321,Final Inspection,03-24-2023,2021/06/16,-646,,Third Party,In Progress,
+1422,496,Design Complete,2026-02-15,2025/01/13,-398,,Third Party,Not Started,
+1423,496,Ground Breaking,04-15-2022,22/03/2019,-1120,,Contractor,,On critical path
+1424,496,Substantial Completion,19/10/2022,2027-05-22,,Environmental review,Third Party,Delayed,
+1425,496,Bid Award,2026/11/28,2019-07-11,-2697,,Regulator,In Progress,Permit dependent
+1426,496,Environmental Review,2024-08-11,02/14/2024,-179,,Owner,In Progress,
+1427,496,Project Closeout,04/07/2024,12/14/2026,,Funding gap,Owner,Delayed,
+1428,496,Final Inspection,2021-01-17,2023/06/27,891,Weather,Third Party,Not Started,
+1429,71,Environmental Review,01/31/2022,07/13/2022,163,Weather,Contractor,Skipped,
+1430,71,Ground Breaking,12/26/2027,2024-08-15,-1228,,Utility,In Progress,
+1431,71,Bid Award,06-10-2025,2023/12/27,-531,,Third Party,Complete,On critical path
+1432,75,Project Closeout,2027-03-07,2027/09/06,183,Permitting,Contractor,Delayed,
+1433,75,50% Complete,04-23-2019,2019-05-24,31,Design changes,Owner,NOT STARTED,Float available
+1434,75,Final Inspection,2019/03/23,08/25/2023,1616,Contractor issues,Contractor,Skipped,
+1435,75,Environmental Review,01/12/2026,2026/08/21,,,Third Party,In Progress,
+1436,75,Design Complete,28/06/2021,2020-03-17,-468,,Regulator,Delayed,Float available
+1437,75,Substantial Completion,2020-11-12,04/12/2021,387,Supply chain delays,Contractor,complete,
+1438,75,Bid Award,10/14/2022,,-437,,Engineer,Not Started,On critical path
+1439,21,Substantial Completion,07/02/2025,,-1185,,Engineer,Delayed,Permit dependent
+1440,21,Environmental Review,08/19/2027,16/01/2021,?,,Third Party,In Progress,On critical path
+1441,21,Ground Breaking,,05-21-2022,850,,Regulator,Complete,On critical path
+1442,21,Final Inspection,2026/12/08,2022-05-05,-1678,,Engineer,complete,Float available
+1443,108,Environmental Review,01/19/2027,2026-11-15,-65,,Contractor,Complete,
+1444,108,Bid Award,06/19/2018,08/03/2023,1723,,Contractor,Complete,Float available
+1445,74,Environmental Review,04-20-2023,05-17-2027,1488,Labor shortage,Owner,,On critical path
+1446,74,Design Complete,2023-05-07,10/10/2021,-574,,Contractor,Delayed,
+1447,74,Bid Award,2026-05-31,2021-05-08,-1849,,Utility,COMPLETE,
+1448,74,50% Complete,08/26/2025,,-58,,Regulator,In Progress,On critical path
+1449,74,Final Inspection,08/21/2018,2019-08-31,,Funding gap,Contractor,In Progress,Float available
+1450,74,Project Closeout,2021-02-01,09/25/2026,2062,Labor shortage,Engineer,In Progress,Permit dependent
+1451,338,Final Inspection,2026/11/19,2023/05/31,-1268,,Utility,In Progress,On critical path
+1452,338,Project Closeout,12/24/2020,2018/08/23,-854,,Engineer,Skipped,Float available
+1453,338,Ground Breaking,2026-05-07,02-03-2026,-93,,Utility,Skipped,Float available
+1454,338,Design Complete,11/10/2018,,,,Engineer,In progress,
+1455,338,Environmental Review,15/01/2021,07-27-2024,1289,Environmental review,Contractor,Skipped,
+1456,338,Substantial Completion,2019-07-25,,,,Regulator,Delayed,On critical path
+1457,338,Bid Award,2026/08/06,12/03/2019,-2704,,Owner,Not Started,
+1458,147,Final Inspection,06-05-2027,2027-01-11,-145,,Regulator,In Progress,On critical path
+1459,147,Substantial Completion,07/03/2022,07-26-2018,-1438,,Contractor,Delayed,
+1460,374,Project Closeout,10-25-2027,12-23-2027,59,Supply chain delays,Engineer,In progress,
+1461,374,Bid Award,12/06/2025,03/02/2025,-129,,Utility,In Progress,Permit dependent
+1462,374,Ground Breaking,09-28-2025,07/15/2027,655,Weather,Owner,NOT STARTED,
+1463,374,Substantial Completion,2018-10-29,2022/11/11,1474,Labor shortage,Utility,Delayed,
+1464,374,Environmental Review,11-15-2027,31/07/2026,-472,,Engineer,Not Started,
+1465,374,50% Complete,2026/11/30,07/02/2024,-1027,,Contractor,Not Started,
+1466,374,Final Inspection,10/11/2024,08/22/2020,-1511,,Utility,Complete,
+1467,53,Ground Breaking,09/14/2018,,,,Third Party,Skipped,
+1468,53,Bid Award,10-08-2020,2024-04-05,1275,Contractor issues,Third Party,In Progress,Permit dependent
+1469,53,Final Inspection,2024-05-14,,,,Utility,,Permit dependent
+1470,26,Design Complete,2023-11-21,,-767,,Owner,,Permit dependent
+1471,26,Bid Award,,2027/10/10,1457,Weather,Third Party,Skipped,
+1472,26,Final Inspection,11/06/2021,2020/10/26,-228,,Third Party,In Progress,
+1473,26,Ground Breaking,2019-09-08,2018/07/07,,,Regulator,In Progress,Permit dependent
+1474,357,Project Closeout,14/07/2019,08/23/2018,-325,,Contractor,Skipped,On critical path
+1475,357,Environmental Review,,04/01/2024,,Design changes,Utility,Complete,Permit dependent
+1476,357,Bid Award,2023-03-14,2025-04-29,777,,Utility,Complete,Float available
+1477,357,Ground Breaking,2020/03/15,01-12-2027,2494,Design changes,Regulator,Complete,Permit dependent
+1478,357,50% Complete,10-29-2025,,-2404,,Engineer,Complete,
+1479,357,Final Inspection,2027-09-02,22/06/2027,-72,,Contractor,In Progress,On critical path
+1480,22,Substantial Completion,10-24-2027,11-24-2025,-699,,Regulator,In Progress,
+1481,22,Environmental Review,2024-11-06,,,,Regulator,Complete,
+1482,22,Design Complete,2023/06/28,2026-04-12,1019,Weather,Regulator,COMPLETE,On critical path
+1483,22,50% Complete,,12-08-2023,-136,,Contractor,Skipped,
+1484,22,Final Inspection,06/01/2024,11-24-2021,-920,,Contractor,In Progress,On critical path
+1485,23,Environmental Review,07/19/2023,12-19-2024,519,Utility conflicts,Utility,complete,
+1486,23,Bid Award,2023-08-23,11/01/2021,,,Engineer,Delayed,
+1487,345,Final Inspection,03-02-2020,12-24-2018,-434,,Owner,Not Started,On critical path
+1488,345,Project Closeout,13/01/2024,12-17-2021,,,Contractor,Complete,
+1489,345,Bid Award,2027/11/26,30/08/2018,-3375,,Engineer,Skipped,Permit dependent
+1490,345,Design Complete,2021-10-02,2021-07-08,-86,,Engineer,,Float available
+1491,345,50% Complete,20/04/2023,26/09/2025,890,Funding gap,Owner,Skipped,Permit dependent
+1492,98,Project Closeout,2023/12/18,,n/a,,Utility,Not Started,
+1493,98,50% Complete,10-02-2019,02-05-2019,,,Regulator,Complete,
+1494,98,Final Inspection,06/11/2027,,,,Contractor,,Permit dependent
+1495,194,Final Inspection,2020/10/09,2024-10-06,1458,Supply chain delays,Third Party,Skipped,On critical path
+1496,194,50% Complete,08-27-2021,11/02/2018,-1029,,Utility,Skipped,
+1497,194,Environmental Review,11-09-2021,2019/06/12,n/a,,Contractor,NOT STARTED,
+1498,194,Substantial Completion,2027-12-21,02/08/2024,-1236,,Owner,Not Started,
+1499,194,Design Complete,11/13/2023,2023/02/18,,,Owner,Skipped,
+1500,194,Project Closeout,04-23-2026,05-01-2020,-2183,,Utility,Skipped,Float available
+1501,194,Bid Award,2022-04-11,16/03/2026,1435,Design changes,Owner,Complete,Float available
+1502,164,Bid Award,2019-10-19,01/28/2027,2658,Weather,Third Party,In Progress,Permit dependent
+1503,164,Substantial Completion,24/03/2025,,482,Contractor issues,Third Party,Complete,
+1504,164,Environmental Review,17/11/2026,19/10/2027,336,Environmental review,Contractor,Not Started,
+1505,164,Design Complete,29/07/2024,27/10/2022,-641,,Third Party,In Progress,
+1506,164,50% Complete,2023-09-13,03-19-2020,-1273,,Utility,In Progress,
+1507,164,Final Inspection,2021/09/20,2027-10-03,2204,Weather,Utility,In Progress,
+1508,182,50% Complete,01-27-2027,2020-08-23,-2348,,Contractor,Delayed,Permit dependent
+1509,182,Bid Award,08/28/2022,2019-04-19,-1227,,Regulator,Complete,
+1510,182,Final Inspection,2020-12-04,,,,Third Party,NOT STARTED,
+1511,182,Design Complete,,,,,Utility,Complete,On critical path
+1512,182,Ground Breaking,2021-06-17,2026/11/29,,Contractor issues,Engineer,In progress,Float available
+1513,139,Environmental Review,17/06/2020,02/23/2021,251,Weather,Engineer,Skipped,
+1514,139,Final Inspection,2018/12/23,2026/04/19,2674,Contractor issues,Regulator,In Progress,
+1515,139,Ground Breaking,09/17/2025,20/07/2019,-2251,,Regulator,Skipped,
+1516,139,50% Complete,,04/07/2021,494,Labor shortage,Utility,Not Started,
+1517,475,Ground Breaking,06-27-2018,2021/03/25,?,Permitting,Engineer,Complete,
+1518,475,Bid Award,05/08/2024,2022/10/13,-662,,Engineer,Delayed,
+1519,475,Final Inspection,08/10/2026,26/07/2023,-1170,,Contractor,,Float available
+1520,475,Substantial Completion,,10-04-2023,709,Weather,Owner,,Float available
+1521,475,Design Complete,03/11/2022,06-07-2022,-149,,Utility,Delayed,
+1522,80,Project Closeout,2026/10/15,04/20/2020,-2369,,Regulator,In Progress,
+1523,80,Final Inspection,30/10/2027,05-04-2021,,,Utility,Not Started,
+1524,80,Ground Breaking,2022-11-08,2027/04/04,1608,,Owner,Skipped,Float available
+1525,80,Substantial Completion,2022/04/07,05/02/2027,1851,Weather,Owner,Skipped,On critical path
+1526,8,Project Closeout,2024-08-25,25/01/2021,-1308,,Engineer,Skipped,Float available
+1527,8,Ground Breaking,09/04/2020,2027-11-26,2639,,Engineer,Complete,On critical path
+1528,8,50% Complete,2019-04-30,,894,Permitting,Contractor,In Progress,Float available
+1529,8,Design Complete,07-09-2024,29/12/2021,-923,,Third Party,In Progress,Permit dependent
+1530,8,Substantial Completion,2025-11-24,,,Contractor issues,Utility,In Progress,
+1531,44,Bid Award,2018/08/25,2025-11-22,2646,Contractor issues,Third Party,Delayed,
+1532,44,Project Closeout,2021-02-22,03-18-2024,TBD,Labor shortage,Owner,Delayed,Float available
+1533,100,Substantial Completion,23/11/2024,04-21-2019,-2043,,Engineer,NOT STARTED,
+1534,100,Design Complete,01-20-2019,,,,Engineer,,Permit dependent
+1535,100,Final Inspection,12/05/2024,2027-09-25,,Funding gap,Engineer,Not Started,Float available
+1536,237,Design Complete,31/03/2027,,-178,,Contractor,Skipped,Permit dependent
+1537,237,Project Closeout,,2019-03-30,-1413,,Contractor,Complete,Float available
+1538,361,Environmental Review,02-14-2024,,,,Utility,In Progress,Permit dependent
+1539,361,Project Closeout,11-29-2021,,n/a,,Engineer,Skipped,
+1540,361,Substantial Completion,05/11/2025,,,,Owner,Skipped,Permit dependent
+1541,361,Bid Award,2021-01-06,2022/08/15,586,Weather,Contractor,Not Started,Float available
+1542,361,Ground Breaking,2024/03/24,08/01/2027,1020,Environmental review,Regulator,Not Started,On critical path
+1543,361,Final Inspection,09-16-2022,,,,Third Party,Complete,
+1544,207,Final Inspection,11/11/2020,,,,Utility,Not Started,
+1545,207,Project Closeout,12/28/2018,20/09/2019,266,,Utility,,
+1546,422,Environmental Review,01/26/2027,12/08/2024,-897,,Contractor,Skipped,
+1547,422,Bid Award,2024-06-16,08/06/2020,,,Regulator,Delayed,Permit dependent
+1548,422,50% Complete,2019-04-26,2025/12/05,2415,Contractor issues,Owner,Skipped,
+1549,422,Design Complete,02/02/2019,03/30/2027,2978,Right-of-way,Utility,Skipped,
+1550,422,Final Inspection,12/04/2021,2026-07-03,,Supply chain delays,Utility,Complete,
+1551,422,Ground Breaking,2023-08-15,2020-04-23,-1209,,Contractor,In Progress,
+1552,422,Substantial Completion,2023-06-19,02-18-2021,-851,,Engineer,In Progress,
+1553,422,Project Closeout,03/09/2027,2019/12/23,-2633,,Regulator,Delayed,
+1554,439,Environmental Review,09/25/2022,2020-10-11,,,Third Party,Skipped,
+1555,439,Final Inspection,07/04/2025,,,,Contractor,Delayed,
+1556,439,Ground Breaking,2021/03/16,2020/03/17,-364,,Utility,In Progress,Permit dependent
+1557,439,Bid Award,2023/05/15,2019/04/29,-1477,,Owner,,Float available
+1558,439,Design Complete,07/16/2023,,,,Owner,complete,
+1559,439,50% Complete,2019-08-03,10/21/2022,1175,Design changes,Owner,Not Started,
+1560,476,Bid Award,2019/09/27,15/05/2020,231,Environmental review,Utility,Complete,
+1561,476,Final Inspection,2018/12/31,12/28/2026,2919,Supply chain delays,Regulator,,
+1562,476,Substantial Completion,05/18/2027,21/09/2018,-3161,,Engineer,Delayed,
+1563,476,Ground Breaking,27/10/2021,08/12/2027,2233,Supply chain delays,Utility,Delayed,Float available
+1564,476,Project Closeout,,07-29-2024,655,Utility conflicts,Third Party,Delayed,
+1565,476,Environmental Review,2026-11-27,2024/02/20,-1011,,Third Party,Skipped,Float available
+1566,476,50% Complete,11-17-2024,2027-01-28,802,Utility conflicts,Owner,,Float available
+1567,491,Substantial Completion,2022/11/09,2023/06/20,223,Funding gap,Engineer,Delayed,
+1568,491,Final Inspection,14/11/2022,2019-09-29,-1142,,Contractor,,
+1569,491,Design Complete,,2024/09/26,1911,,Engineer,Skipped,Float available
+1570,241,Final Inspection,05-08-2022,2027-05-23,1841,Weather,Engineer,Complete,On critical path
+1571,241,Ground Breaking,2020/06/28,2021/03/28,273,Contractor issues,Owner,Not Started,On critical path
+1572,246,Substantial Completion,2023-03-01,2026-01-20,1056,Funding gap,Owner,Delayed,Permit dependent
+1573,246,Environmental Review,2021/04/23,09/12/2025,1691,Environmental review,Regulator,Skipped,Permit dependent
+1574,246,50% Complete,2024/08/04,12/16/2019,,,Contractor,Skipped,
+1575,246,Project Closeout,,2025/11/06,2559,Weather,Owner,Not Started,
+1576,246,Bid Award,2023/01/23,11-06-2024,653,,Contractor,Skipped,Float available
+1577,3,Substantial Completion,2021/03/17,2019/09/26,-538,,Contractor,In Progress,
+1578,3,Project Closeout,10/24/2022,02/25/2023,124,Right-of-way,Utility,Skipped,On critical path
+1579,3,Environmental Review,10-30-2021,11-28-2021,29,Right-of-way,Contractor,Complete,
+1580,3,Ground Breaking,05-12-2023,2027-02-27,1387,Supply chain delays,Utility,Not Started,
+1581,3,Final Inspection,,11/14/2025,,,Owner,NOT STARTED,Float available
+1582,3,Design Complete,06-23-2027,2018-11-10,,,Utility,Not Started,Float available
+1583,3,50% Complete,2019-02-09,08-24-2023,1657,Right-of-way,Third Party,Skipped,On critical path
+1584,312,Environmental Review,08/05/2024,12/27/2026,874,,Engineer,Not Started,
+1585,312,Bid Award,01/06/2024,05-18-2025,351,Environmental review,Contractor,Complete,
+1586,105,Bid Award,01/08/2022,03/04/2026,1546,Environmental review,Utility,Not Started,Permit dependent
+1587,105,Project Closeout,2020/07/06,,,,Utility,In Progress,On critical path
+1588,105,50% Complete,2023/04/07,,,,Third Party,Skipped,Permit dependent
+1589,265,Project Closeout,2022-02-10,09-03-2023,570,,Regulator,Skipped,
+1590,265,Design Complete,2019/07/31,2020/11/06,464,,Contractor,Delayed,Float available
+1591,201,50% Complete,22/11/2025,2025-02-19,-276,,Utility,Skipped,
+1592,201,Bid Award,28/11/2020,2020-10-06,-53,,Utility,Skipped,
+1593,201,Final Inspection,2024-11-22,,,,Regulator,Delayed,
+1594,316,Final Inspection,08/02/2027,11-17-2021,-2084,,Utility,Complete,
+1595,316,Environmental Review,13/02/2025,22/11/2020,-1544,,Owner,In Progress,
+1596,316,Bid Award,02/19/2024,31/03/2023,,,Engineer,In progress,Permit dependent
+1597,316,Project Closeout,09/30/2024,2020/11/26,-1404,,Engineer,,On critical path
+1598,316,Ground Breaking,,2021/05/17,-2138,,Contractor,COMPLETE,Permit dependent
+1599,316,Design Complete,02/04/2023,26/09/2025,965,Weather,Engineer,Complete,Permit dependent
+1600,314,Bid Award,08/20/2018,08-16-2026,,Utility conflicts,Utility,Delayed,Permit dependent
+1601,314,Ground Breaking,12/07/2027,05-10-2024,-1306,,Regulator,Complete,Float available
+1602,314,Environmental Review,11/09/2020,2019/09/07,-429,,Regulator,Delayed,
+1603,314,Design Complete,09-04-2024,2023-09-09,-361,,Engineer,In progress,Permit dependent
+1604,314,50% Complete,2018-07-03,09-13-2027,3359,,Third Party,Skipped,Permit dependent
+1605,314,Final Inspection,23/08/2023,03/17/2022,-524,,Third Party,In Progress,Permit dependent
+1606,314,Substantial Completion,2025/12/21,,-410,,Owner,COMPLETE,
+1607,314,Project Closeout,09/20/2027,2027/10/08,18,Environmental review,Utility,Complete,
+1608,95,Final Inspection,2021/01/04,,514,Environmental review,Engineer,COMPLETE,
+1609,95,Ground Breaking,2026/02/26,25/02/2026,-1,,Third Party,Complete,Permit dependent
+1610,95,50% Complete,09/21/2026,03/18/2021,-2013,,Engineer,In Progress,
+1611,481,Project Closeout,08/06/2020,,1633,Environmental review,Contractor,In progress,Float available
+1612,481,Ground Breaking,2027-03-18,01-03-2021,-2265,,Third Party,Delayed,Permit dependent
+1613,481,Final Inspection,28/11/2027,06/08/2019,,,Third Party,In Progress,
+1614,481,Substantial Completion,04/10/2025,11-19-2024,-319,,Utility,Not Started,Permit dependent
+1615,481,Design Complete,2019-01-14,11/03/2027,,Weather,Owner,Complete,
+1616,481,Environmental Review,2024/10/19,2023-01-08,-650,,Owner,Complete,
+1617,481,50% Complete,,2025-01-30,-513,,Owner,Delayed,
+1618,141,Final Inspection,03-17-2022,08-11-2024,878,Design changes,Regulator,In progress,Float available
+1619,141,Substantial Completion,2024/02/04,07-16-2019,-1664,,Engineer,Not Started,Permit dependent
+1620,84,Bid Award,08/07/2026,01-02-2026,-187,,Third Party,Not Started,On critical path
+1621,84,Design Complete,21/02/2021,09-12-2018,-893,,Regulator,Delayed,
+1622,84,50% Complete,10-11-2021,2023/08/15,673,,Regulator,Delayed,
+1623,84,Final Inspection,07/31/2024,03-26-2021,-1223,,Regulator,Delayed,Permit dependent
+1624,84,Substantial Completion,01-29-2019,07/08/2020,526,,Utility,Skipped,
+1625,282,Bid Award,2018-10-25,,,,Third Party,Complete,
+1626,282,Ground Breaking,,,,,Utility,Delayed,Permit dependent
+1627,282,Environmental Review,24/11/2024,,,,Third Party,Complete,Permit dependent
+1628,282,50% Complete,2021/06/17,2027-11-17,2344,Right-of-way,Owner,In Progress,
+1629,282,Final Inspection,2023/04/19,2020/03/26,-1119,,Owner,Delayed,Float available
+1630,282,Project Closeout,,28/03/2027,,,Utility,In Progress,
+1631,38,Final Inspection,12-24-2022,,,,Contractor,Not Started,Permit dependent
+1632,38,Ground Breaking,05/23/2019,10/29/2025,2351,Labor shortage,Owner,Delayed,
+1633,38,Substantial Completion,2020-10-18,,,,Owner,Delayed,Float available
+1634,38,Project Closeout,04/10/2022,04/03/2019,-1310,,Regulator,Skipped,
+1635,38,Environmental Review,10/23/2023,03/02/2025,469,Permitting,Owner,Not Started,Permit dependent
+1636,38,Bid Award,04/06/2025,09-05-2027,,Right-of-way,Contractor,Complete,Permit dependent
+1637,153,Bid Award,2027-10-03,2020-04-26,-2716,,Third Party,Not Started,
+1638,153,Ground Breaking,2022-11-05,2023/04/23,169,,Utility,In Progress,On critical path
+1639,153,Environmental Review,2026/05/13,03/04/2024,-770,,Regulator,In Progress,
+1640,153,Design Complete,05-07-2019,15/01/2025,2080,Weather,Third Party,Not Started,
+1641,153,50% Complete,2019-03-20,24/02/2025,2168,Labor shortage,Contractor,Not Started,
+1642,153,Project Closeout,29/08/2023,,-1713,,Third Party,In progress,On critical path
+1643,323,50% Complete,01/10/2021,03/26/2020,-554,,Owner,Delayed,Permit dependent
+1644,323,Bid Award,2026/02/19,2026/10/01,224,Weather,Contractor,Complete,
+1645,323,Final Inspection,07-13-2022,,1271,Utility conflicts,Regulator,Skipped,On critical path
+1646,204,Final Inspection,2021/01/30,2022-01-17,352,Funding gap,Utility,Not Started,Float available
+1647,204,Bid Award,2023-10-19,,730,Weather,Owner,Complete,
+1648,204,Environmental Review,08/21/2026,03/08/2023,-1262,,Third Party,In Progress,
+1649,204,Substantial Completion,2018/07/25,2025-03-07,2417,,Third Party,complete,Float available
+1650,204,Project Closeout,,10/06/2019,-979,,Utility,Delayed,
+1651,204,50% Complete,2018-08-23,2025-04-15,n/a,Labor shortage,Utility,Not Started,On critical path
+1652,462,Design Complete,2024-07-05,05/06/2024,-60,,Contractor,Skipped,On critical path
+1653,462,Substantial Completion,11/10/2025,2027-06-01,568,Labor shortage,Engineer,In progress,Permit dependent
+1654,236,Ground Breaking,2021/02/03,,-425,,Regulator,In Progress,On critical path
+1655,236,Design Complete,2021/10/04,2023-12-25,812,,Contractor,In Progress,
+1656,236,Substantial Completion,15/10/2027,09-04-2024,-1136,,Regulator,Delayed,
+1657,236,Environmental Review,17/02/2021,,,,Utility,Delayed,
+1658,236,Final Inspection,12/05/2018,08-24-2020,,Labor shortage,Contractor,,
+1659,236,Project Closeout,2020-11-20,21/02/2021,93,,Contractor,Not Started,
+1660,236,50% Complete,06/22/2023,,713,Labor shortage,Owner,Delayed,
+1661,103,Project Closeout,04/07/2020,2019/11/08,-239,,Utility,Delayed,
+1662,103,Final Inspection,2025-01-01,,526,Contractor issues,Contractor,Not Started,
+1663,103,Design Complete,2024/11/10,02-22-2027,834,Utility conflicts,Engineer,Delayed,
+1664,24,Design Complete,11-27-2020,03/21/2020,,,Owner,Skipped,
+1665,24,Final Inspection,2019-11-06,06-18-2019,-141,,Owner,complete,
+1666,24,Ground Breaking,2025/02/06,08/23/2020,,,Utility,,Float available
+1667,24,Environmental Review,05/27/2022,18/02/2020,-829,,Contractor,COMPLETE,
+1668,24,Project Closeout,26/07/2027,07/26/2025,-730,,Engineer,Complete,Permit dependent
+1669,24,50% Complete,2023-02-14,24/11/2019,-1178,,Regulator,Delayed,
+1670,487,Ground Breaking,2027-01-20,2024-07-24,-910,,Owner,Complete,On critical path
+1671,487,50% Complete,2019-02-12,,,,Contractor,In Progress,
+1672,487,Project Closeout,14/09/2024,2025/04/12,210,Funding gap,Third Party,In Progress,
+1673,487,Substantial Completion,04/19/2027,,,,Utility,Skipped,
+1674,487,Final Inspection,13/02/2020,,,,Engineer,Complete,
+1675,456,Substantial Completion,2020-07-11,,,,Contractor,In Progress,Permit dependent
+1676,456,Bid Award,07-21-2024,,N/A,,Owner,In Progress,
+1677,456,50% Complete,03/10/2023,,,,Engineer,In Progress,
+1678,456,Ground Breaking,2021-08-20,22/06/2020,-424,,Engineer,Delayed,
+1679,456,Final Inspection,2022/04/11,,,,Owner,Delayed,On critical path
+1680,456,Project Closeout,11/27/2024,,,,Regulator,Not Started,On critical path
+1681,456,Design Complete,02/01/2024,,,,Regulator,Complete,
+1682,456,Environmental Review,,,,,Third Party,NOT STARTED,On critical path
+1683,239,Environmental Review,2025/12/18,2026-11-15,332,Environmental review,Utility,In progress,Permit dependent
+1684,239,Final Inspection,07-17-2025,2025-03-10,-129,,Regulator,Not Started,Float available
+1685,239,Design Complete,01/29/2019,2023-03-05,1496,Utility conflicts,Owner,Complete,
+1686,239,Substantial Completion,2026/02/15,04/14/2019,-2499,,Regulator,Skipped,
+1687,239,50% Complete,2023/07/05,13/01/2023,-173,,Utility,Not Started,Permit dependent
+1688,239,Ground Breaking,2026/07/13,05/27/2023,-1143,,Contractor,Complete,
+1689,62,Ground Breaking,07/05/2021,,,,Third Party,In Progress,
+1690,62,Design Complete,2023-02-02,15/10/2025,986,,Owner,Skipped,
+1691,62,Project Closeout,2024/06/15,09-09-2027,1181,,Regulator,Complete,
+1692,62,50% Complete,2021-03-04,,,,Engineer,In Progress,
+1693,62,Substantial Completion,05-10-2019,05-02-2019,-8,,Utility,Not Started,
+1694,295,Bid Award,2025-03-10,2027-01-01,662,Utility conflicts,Contractor,In Progress,
+1695,295,Project Closeout,12-16-2026,12/13/2019,-2560,,Owner,Skipped,
+1696,295,Environmental Review,2023-02-12,15/07/2018,-1673,,Regulator,Delayed,Float available
+1697,295,Substantial Completion,10/17/2027,08/17/2025,-791,,Owner,Complete,Permit dependent
+1698,295,Ground Breaking,2026-06-04,,231,Weather,Third Party,complete,
+1699,295,Final Inspection,2020-03-14,2026/11/09,-,Contractor issues,Regulator,Complete,Permit dependent
+1700,472,Ground Breaking,2019/09/23,04/26/2027,2772,Utility conflicts,Regulator,Skipped,On critical path
+1701,472,Environmental Review,26/12/2022,08-22-2024,605,Environmental review,Engineer,Delayed,
+1702,472,Bid Award,01/01/2027,,,,Utility,In Progress,On critical path
+1703,472,Design Complete,2025-03-12,06/21/2025,101,Permitting,Regulator,Skipped,
+1704,426,Ground Breaking,03-16-2026,25/11/2023,-842,,Regulator,Complete,Permit dependent
+1705,426,Environmental Review,10/10/2026,,,,Engineer,Complete,
+1706,426,Final Inspection,,2025-03-31,-899,,Regulator,Complete,On critical path
+1707,492,Environmental Review,2026-04-15,2026-11-15,214,Funding gap,Regulator,In progress,
+1708,492,50% Complete,09-02-2024,,-589,,Engineer,In Progress,On critical path
+1709,492,Design Complete,2021/09/29,09/01/2021,-28,,Owner,Complete,On critical path
+1710,492,Project Closeout,04/07/2022,2020-01-14,-814,,Owner,Delayed,Permit dependent
+1711,215,Environmental Review,07-13-2018,,398,Supply chain delays,Utility,,On critical path
+1712,215,Bid Award,2024-03-08,08/28/2023,-193,,Third Party,COMPLETE,
+1713,215,Design Complete,2018/12/06,,,,Engineer,Complete,
+1714,215,50% Complete,2024/11/06,,,,Utility,Skipped,On critical path
+1715,215,Project Closeout,2022/10/19,,,,Third Party,Delayed,
+1716,215,Ground Breaking,01/29/2026,,,,Third Party,Skipped,
+1717,131,Environmental Review,24/09/2018,17/09/2025,2550,Permitting,Third Party,Skipped,Float available
+1718,131,Bid Award,2022/12/20,11/16/2023,331,,Utility,Delayed,
+1719,131,50% Complete,05/03/2025,12/25/2023,-436,,Contractor,In Progress,Float available
+1720,131,Design Complete,05/20/2022,2023-05-05,350,Design changes,Utility,Skipped,On critical path
+1721,131,Final Inspection,,06-10-2018,-24,,Utility,In Progress,
+1722,155,Ground Breaking,07/13/2018,,,,Owner,Skipped,
+1723,155,Environmental Review,13/02/2022,03-09-2019,-1072,,Contractor,Not Started,
+1724,155,Bid Award,04/02/2027,,,,Owner,In Progress,Permit dependent
+1725,155,Final Inspection,05/25/2022,,,,Third Party,In Progress,
+1726,494,Environmental Review,2024-11-01,,37,Supply chain delays,Third Party,Not Started,Permit dependent
+1727,494,Bid Award,11-09-2024,02/17/2024,-266,,Third Party,Complete,
+1728,494,Substantial Completion,2021/11/24,2027-09-08,2114,Labor shortage,Third Party,Not Started,
+1729,494,Design Complete,2024/12/19,2026-12-25,736,,Third Party,In Progress,
+1730,494,Final Inspection,01-29-2026,2018-11-23,-2624,,Third Party,Complete,Float available
+1731,70,50% Complete,05-15-2027,2019-05-13,-2924,,Utility,Not Started,On critical path
+1732,70,Bid Award,09/08/2027,01-25-2022,-2052,,Owner,,On critical path
+1733,256,Environmental Review,03-06-2020,,,,Utility,Not Started,On critical path
+1734,256,Design Complete,08/11/2020,,,,Utility,Not Started,Float available
+1735,256,Substantial Completion,2019/02/08,04/16/2026,2624,Contractor issues,Utility,In progress,
+1736,256,Ground Breaking,2020-06-20,11-01-2023,1229,Labor shortage,Engineer,COMPLETE,Permit dependent
+1737,51,50% Complete,12-23-2018,18/10/2024,2126,Supply chain delays,Owner,Complete,
+1738,51,Bid Award,08/31/2018,06-04-2020,643,Weather,Owner,Complete,
+1739,358,50% Complete,2024-07-03,08/25/2026,783,Funding gap,Third Party,Complete,On critical path
+1740,358,Final Inspection,2019-03-18,08-26-2018,-204,,Third Party,In Progress,
+1741,358,Environmental Review,20/09/2020,2020-05-11,-132,,Contractor,complete,Float available
+1742,358,Substantial Completion,10-28-2023,2025-03-01,,Environmental review,Utility,Delayed,On critical path
+1743,358,Ground Breaking,07-19-2027,27/10/2027,100,Supply chain delays,Regulator,COMPLETE,
+1744,358,Design Complete,11-30-2027,22/09/2024,,,Regulator,In Progress,
+1745,358,Bid Award,02-13-2023,04/10/2023,56,Supply chain delays,Regulator,Not Started,
+1746,2,Design Complete,2024-03-12,05/03/2026,782,Utility conflicts,Regulator,NOT STARTED,
+1747,2,Project Closeout,,11-22-2023,1119,Supply chain delays,Engineer,In Progress,
+1748,2,Substantial Completion,2027/05/23,2019/12/21,-2710,,Third Party,Delayed,Float available
+1749,2,Bid Award,2022/05/14,,-307,,Utility,Not Started,Float available
+1750,2,Final Inspection,2025-04-17,03-01-2022,,,Third Party,Skipped,
+1751,2,Environmental Review,20/07/2025,11/17/2025,TBD,,Contractor,In Progress,On critical path
+1752,2,50% Complete,2022/03/11,04-08-2027,1854,Weather,Contractor,Skipped,
+1753,398,Final Inspection,11/10/2018,10-07-2020,727,Environmental review,Contractor,In Progress,On critical path
+1754,398,Ground Breaking,25/02/2019,2021/02/17,723,Supply chain delays,Third Party,Skipped,
+1755,398,Environmental Review,04/14/2025,01/01/2024,-469,,Contractor,Delayed,On critical path
+1756,274,Design Complete,07-27-2019,2024/12/18,1971,Funding gap,Engineer,Delayed,Float available
+1757,274,Ground Breaking,01/10/2022,10-16-2021,,,Utility,Delayed,Float available
+1758,274,50% Complete,08/12/2022,2019-03-30,-1349,,Utility,Complete,
+1759,87,Final Inspection,2024-08-02,09/11/2018,-2093,,Contractor,In Progress,Float available
+1760,87,Environmental Review,08-09-2020,07-15-2022,-,Utility conflicts,Third Party,In Progress,Permit dependent
+1761,490,Design Complete,2024-06-01,,,,Engineer,Delayed,Float available
+1762,490,Final Inspection,,11/03/2020,-2397,,Owner,,
+1763,490,Bid Award,2021/10/19,02-16-2021,-245,,Owner,COMPLETE,
+1764,490,Substantial Completion,,2024/02/23,-252,,Owner,Not Started,On critical path
+1765,490,Project Closeout,08/25/2019,,,,Contractor,Skipped,Float available
+1766,490,50% Complete,2026-09-15,06/02/2027,,Funding gap,Owner,Delayed,
+1767,126,Project Closeout,01/20/2024,2027-12-01,1411,Right-of-way,Utility,Not Started,
+1768,126,Final Inspection,10/29/2020,04-15-2024,,Contractor issues,Engineer,Skipped,On critical path
+1769,126,Ground Breaking,2022/08/04,03/25/2019,-1228,,Third Party,Not Started,
+1770,126,Design Complete,2020/03/29,06/02/2024,?,,Utility,Complete,Float available
+1771,126,50% Complete,10/08/2023,2025/08/30,751,Permitting,Utility,NOT STARTED,Float available
+1772,253,50% Complete,06-14-2022,2023/06/17,368,Design changes,Regulator,In Progress,Permit dependent
+1773,253,Substantial Completion,04/04/2027,09-20-2019,-2753,,Contractor,Skipped,
+1774,253,Bid Award,,04-11-2020,-650,,Engineer,In progress,Float available
+1775,253,Final Inspection,07-17-2026,08-01-2022,-1446,,Regulator,In Progress,
+1776,253,Environmental Review,2021/01/30,05/03/2024,1189,Weather,Engineer,Delayed,
+1777,253,Design Complete,10/03/2025,2018/10/16,-2544,,Engineer,Skipped,
+1778,253,Project Closeout,03-01-2020,05-08-2023,1163,,Contractor,Delayed,Float available
+1779,217,50% Complete,02-07-2024,05/25/2019,-1719,,Owner,In Progress,
+1780,217,Design Complete,02/06/2024,08/09/2027,1193,Environmental review,Engineer,Not Started,Permit dependent
+1781,217,Final Inspection,16/08/2023,10/14/2023,59,,Engineer,Skipped,Permit dependent
+1782,217,Substantial Completion,12-21-2021,17/02/2020,-673,,Contractor,Delayed,
+1783,217,Environmental Review,11/04/2025,08/19/2025,130,Supply chain delays,Utility,complete,On critical path
+1784,217,Bid Award,2018/08/23,,1950,Environmental review,Owner,complete,Float available
+1785,217,Project Closeout,16/02/2021,,,,Contractor,Delayed,Permit dependent
+1786,392,Environmental Review,24/06/2023,10-13-2023,,Permitting,Regulator,Skipped,
+1787,392,Final Inspection,2022/12/16,05-27-2021,-568,,Engineer,Skipped,On critical path
+1788,76,50% Complete,04-30-2025,15/10/2026,533,Environmental review,Regulator,NOT STARTED,On critical path
+1789,76,Substantial Completion,05/28/2020,12-13-2023,1294,Right-of-way,Regulator,Delayed,Permit dependent
+1790,213,Bid Award,02-10-2020,,936,Environmental review,Utility,Complete,
+1791,213,Environmental Review,2022-03-28,,310,,Regulator,Skipped,Permit dependent
+1792,213,Final Inspection,06-21-2020,04-14-2023,1027,,Engineer,In Progress,
+1793,89,Bid Award,02/11/2022,06/15/2020,,,Owner,In progress,
+1794,89,Project Closeout,01-15-2024,08-27-2023,-141,,Owner,Not Started,
+1795,89,Environmental Review,09/17/2023,2022-08-11,-402,,Third Party,Delayed,
+1796,89,Design Complete,16/04/2023,2024/08/15,,Utility conflicts,Owner,Not Started,
+1797,386,Substantial Completion,01-20-2021,,,,Third Party,complete,On critical path
+1798,386,Design Complete,2022-01-29,07-23-2019,-921,,Utility,In Progress,
+1799,386,Final Inspection,09-02-2021,2027/04/20,2056,Weather,Utility,Not Started,
+1800,386,Bid Award,2023/06/09,,,,Third Party,Skipped,
+1801,386,50% Complete,04/13/2024,,,,Third Party,COMPLETE,Float available
+1802,386,Ground Breaking,,,,,Engineer,Complete,Float available
+1803,386,Project Closeout,04/16/2021,2023/12/28,986,Utility conflicts,Contractor,Skipped,On critical path
+1804,386,Environmental Review,2022-06-28,2019-09-12,,,Engineer,Delayed,
+1805,129,Substantial Completion,16/09/2025,06/16/2027,638,,Utility,Not Started,
+1806,129,Bid Award,2024-06-01,2023-04-29,-399,,Utility,Delayed,
+1807,129,Project Closeout,08/14/2020,2026/02/06,2002,Permitting,Third Party,Skipped,
+1808,129,50% Complete,04/29/2021,,,,Regulator,In Progress,
+1809,129,Final Inspection,2022-03-27,01-07-2025,1017,Supply chain delays,Owner,Skipped,Float available
+1810,129,Environmental Review,2023-01-24,,,,Third Party,NOT STARTED,Permit dependent
+1811,129,Ground Breaking,29/07/2023,,,,Third Party,Complete,On critical path
+1812,129,Design Complete,2027/10/19,,,,Engineer,In Progress,On critical path
+1813,54,Final Inspection,27/10/2019,2018-07-31,-453,,Regulator,Skipped,Permit dependent
+1814,54,50% Complete,16/03/2022,,,,Third Party,In Progress,
+1815,54,Environmental Review,11/15/2027,02/03/2026,,,Engineer,In Progress,Permit dependent
+1816,54,Substantial Completion,2027/06/29,,-1782,,Engineer,Delayed,Permit dependent
+1817,25,Ground Breaking,10-21-2022,2027-07-28,1741,Permitting,Owner,In progress,Float available
+1818,25,Design Complete,31/10/2021,,,,Owner,Not Started,
+1819,25,Project Closeout,06/07/2025,,,,Engineer,Skipped,Permit dependent
+1820,227,Ground Breaking,07/22/2024,2024-11-01,102,,Utility,Not Started,Permit dependent
+1821,227,50% Complete,,2018/10/08,-419,,Engineer,Delayed,Permit dependent
+1822,227,Substantial Completion,,2018-07-20,,,Owner,In Progress,
+1823,227,Project Closeout,2021-12-29,14/04/2025,N/A,,Third Party,Not Started,On critical path
+1824,227,Environmental Review,,2023/06/12,838,Environmental review,Engineer,Complete,Float available
+1825,227,Final Inspection,2026-03-29,2021-01-06,,,Contractor,Not Started,On critical path
+1826,227,Design Complete,09/21/2020,2020-07-06,-77,,Utility,Delayed,Permit dependent
+1827,199,Design Complete,08/24/2024,06/18/2019,-1894,,Engineer,Not Started,
+1828,199,Substantial Completion,2020/04/19,15/10/2021,544,Contractor issues,Regulator,Not Started,On critical path
+1829,199,Ground Breaking,,2019/03/20,-2725,,Regulator,In Progress,
+1830,199,Bid Award,2018-08-06,05/09/2024,2222,Contractor issues,Third Party,Skipped,
+1831,199,50% Complete,2023/04/19,02-05-2025,658,Labor shortage,Engineer,Skipped,On critical path
+1832,163,Design Complete,2024/06/22,06/30/2019,-1819,,Engineer,Complete,
+1833,163,Environmental Review,02-23-2021,03/28/2019,-698,,Utility,In Progress,On critical path
+1834,163,Bid Award,2025-03-23,2020-08-15,-1681,,Third Party,Delayed,
+1835,298,Environmental Review,09-13-2025,,557,Permitting,Engineer,Delayed,
+1836,298,Design Complete,,2024/08/24,1804,Supply chain delays,Utility,Delayed,Permit dependent
+1837,360,Design Complete,2021-08-20,17/02/2019,-915,,Engineer,complete,Permit dependent
+1838,360,Project Closeout,04-13-2025,2022-07-17,,,Third Party,Delayed,On critical path
+1839,360,Environmental Review,11-30-2020,2027/10/05,2500,Weather,Owner,Skipped,
+1840,360,Ground Breaking,13/07/2022,04/24/2026,1381,Utility conflicts,Owner,Delayed,
+1841,360,Final Inspection,01-28-2025,12/20/2026,691,,Utility,In Progress,
+1842,360,50% Complete,2018-06-23,07-07-2024,2206,Contractor issues,Third Party,,
+1843,47,Substantial Completion,20/08/2021,2026-05-15,1729,Design changes,Third Party,Delayed,
+1844,47,Final Inspection,03-05-2020,,,,Owner,In Progress,
+1845,47,Project Closeout,2018/06/19,2026-09-03,2998,Funding gap,Contractor,Skipped,
+1846,396,50% Complete,08-29-2020,04-25-2027,2430,,Regulator,Complete,On critical path
+1847,396,Design Complete,2021/11/27,07/20/2022,TBD,Permitting,Regulator,Not Started,On critical path
+1848,396,Ground Breaking,11-23-2024,,,,Utility,In Progress,
+1849,396,Bid Award,2027-07-20,06/05/2025,-805,,Owner,Skipped,
+1850,396,Project Closeout,21/02/2019,02/07/2022,1082,Right-of-way,Utility,Skipped,Permit dependent
+1851,396,Final Inspection,2022/08/21,2019/12/03,-992,,Contractor,In Progress,Permit dependent
+1852,396,Substantial Completion,07-01-2027,07/15/2027,14,Utility conflicts,Engineer,In Progress,
+1853,396,Environmental Review,17/07/2026,2019/11/01,,,Contractor,Delayed,
+1854,167,Design Complete,07/21/2022,11-08-2021,-255,,Regulator,Not Started,Permit dependent
+1855,167,Substantial Completion,08/09/2027,2018/11/03,-3201,,Owner,Complete,Permit dependent
+1856,308,Final Inspection,11-16-2025,01-24-2019,-2488,,Third Party,Skipped,
+1857,308,Substantial Completion,12-05-2019,2022/12/02,1093,Supply chain delays,Regulator,Complete,
+1858,308,Environmental Review,02/03/2019,04/19/2025,2267,Utility conflicts,Owner,Complete,
+1859,308,Ground Breaking,22/04/2026,2024/03/18,-765,,Engineer,Not Started,
+1860,308,Design Complete,30/10/2025,,342,Utility conflicts,Utility,Not Started,
+1861,308,Project Closeout,2025-05-25,02/21/2020,-1920,,Owner,,
+1862,308,Bid Award,22/09/2019,04/25/2023,1311,Utility conflicts,Third Party,Not Started,On critical path
+1863,308,50% Complete,07-05-2025,06-04-2023,-762,,Third Party,Delayed,On critical path
+1864,310,Bid Award,2019/05/12,2023-09-29,1601,Right-of-way,Utility,,
+1865,310,Environmental Review,02-08-2019,08-06-2020,545,Weather,Owner,,
+1866,310,50% Complete,,03-30-2026,TBD,,Regulator,Not Started,Permit dependent
+1867,310,Project Closeout,2023-12-06,2027-06-27,,Labor shortage,Regulator,complete,
+1868,310,Final Inspection,11/22/2026,05/16/2019,-2747,,Third Party,In Progress,
+1869,310,Design Complete,17/02/2026,12-15-2023,-795,,Engineer,Not Started,
+1870,417,Bid Award,07/04/2020,2020/04/17,-78,,Utility,In Progress,
+1871,417,Environmental Review,,02/10/2025,2244,Utility conflicts,Third Party,complete,
+1872,417,Ground Breaking,28/07/2023,03-13-2019,-1598,,Utility,Complete,On critical path
+1873,417,Design Complete,08/12/2026,10/27/2025,,,Engineer,Complete,
+1874,417,50% Complete,2022/08/03,2021-01-29,-551,,Owner,Not Started,
+1875,417,Substantial Completion,2019-01-03,07-27-2026,2762,Right-of-way,Utility,Not Started,
+1876,417,Project Closeout,06-27-2020,06/03/2021,341,Right-of-way,Third Party,Skipped,Permit dependent
+1877,417,Final Inspection,2025-09-14,21/09/2024,-358,,Regulator,In progress,On critical path
+1878,198,Final Inspection,11/09/2021,09-20-2024,,Weather,Contractor,Skipped,
+1879,198,Bid Award,28/01/2025,2025-09-07,222,Environmental review,Regulator,,Float available
+1880,198,Design Complete,20/03/2023,2019-11-11,,,Regulator,Skipped,On critical path
+1881,198,Project Closeout,13/11/2025,,55,Labor shortage,Contractor,Not Started,Float available
+1882,198,50% Complete,11-13-2027,,TBD,,Regulator,Skipped,Float available
+1883,292,Final Inspection,03-17-2021,03/23/2026,1832,Permitting,Owner,In Progress,
+1884,292,Substantial Completion,08/30/2025,,,,Contractor,Not Started,On critical path
+1885,292,Bid Award,2025/05/18,,,,Owner,,
+1886,292,Ground Breaking,2023-12-31,08/24/2020,-1224,,Owner,Skipped,Float available
+1887,292,50% Complete,07/06/2021,09/14/2018,-1026,,Utility,In Progress,
+1888,292,Environmental Review,2027-05-04,07/29/2019,-2836,,Engineer,Delayed,
+1889,292,Design Complete,2025-04-17,,?,,Regulator,Delayed,
+1890,292,Project Closeout,19/04/2025,12-20-2024,,,Third Party,Complete,
+1891,467,Substantial Completion,02-07-2021,2020/11/10,-89,,Utility,Not Started,
+1892,467,50% Complete,02/24/2021,08/04/2027,2352,Labor shortage,Third Party,,Permit dependent
+1893,467,Design Complete,2026/11/01,04/25/2024,-920,,Engineer,Not Started,
+1894,467,Ground Breaking,09-21-2023,05/07/2024,288,Supply chain delays,Regulator,Delayed,Permit dependent
+1895,467,Final Inspection,2020-04-30,2022-11-18,932,,Engineer,Skipped,Float available
+1896,467,Project Closeout,12-14-2020,05-18-2027,2346,,Contractor,Delayed,On critical path
+1897,135,Ground Breaking,,04/08/2019,-1401,,Engineer,Not Started,Permit dependent
+1898,135,Substantial Completion,2019-02-19,2021/05/30,,,Contractor,,On critical path
+1899,135,50% Complete,27/07/2026,11-13-2021,-1717,,Third Party,,
+1900,6,Design Complete,31/05/2022,07-19-2019,-1047,,Regulator,Skipped,Float available
+1901,6,Environmental Review,02-05-2023,08/30/2024,572,Weather,Utility,complete,
+1902,6,Substantial Completion,26/12/2019,19/03/2023,1179,Environmental review,Third Party,Not Started,Float available
+1903,6,Ground Breaking,12-02-2022,11/03/2021,-631,,Regulator,Delayed,Permit dependent
+1904,6,Project Closeout,2020-07-15,12-18-2027,2712,Right-of-way,Regulator,Delayed,Permit dependent
+1905,6,50% Complete,16/11/2022,04/14/2020,-946,,Third Party,Skipped,Permit dependent
+1906,365,Ground Breaking,2019-04-15,02/27/2027,2875,Funding gap,Third Party,Skipped,
+1907,365,Substantial Completion,16/08/2024,03-08-2022,-892,,Third Party,Not Started,
+1908,365,Project Closeout,2022/12/28,10/10/2021,-444,,Third Party,Delayed,Float available
+1909,365,Design Complete,,2027-11-23,352,Design changes,Engineer,Delayed,Float available
+1910,365,Final Inspection,,2022/01/13,1322,Funding gap,Third Party,Delayed,Float available
+1911,365,50% Complete,08-07-2026,2026/10/06,60,Weather,Regulator,Skipped,Permit dependent
+1912,365,Environmental Review,30/11/2024,03/10/2025,307,Utility conflicts,Utility,Complete,Float available
+1913,365,Bid Award,2021-08-02,02-20-2026,1663,Design changes,Utility,complete,On critical path
+1914,59,Ground Breaking,,07/04/2022,,,Contractor,Complete,Float available
+1915,59,Bid Award,2018-09-09,06/03/2021,909,,Engineer,Not Started,
+1916,59,Substantial Completion,02/21/2020,2026/09/19,2402,Permitting,Utility,complete,Permit dependent
+1917,59,50% Complete,2023-12-05,05/04/2026,TBD,Funding gap,Regulator,In Progress,
+1918,391,50% Complete,03-29-2019,2027-08-25,3071,Environmental review,Third Party,Skipped,Permit dependent
+1919,391,Bid Award,11/14/2019,26/11/2025,2204,Supply chain delays,Utility,In Progress,Permit dependent
+1920,391,Substantial Completion,,2027-11-26,2290,Environmental review,Owner,Complete,
+1921,391,Project Closeout,03/03/2025,03-20-2022,-1079,,Regulator,complete,
+1922,391,Ground Breaking,09/27/2020,20/01/2024,1210,Labor shortage,Contractor,Not Started,Permit dependent
+1923,46,Substantial Completion,10/10/2024,2027-09-04,1059,Labor shortage,Utility,Not Started,
+1924,46,Bid Award,10-12-2023,2027-09-09,1428,Design changes,Owner,In Progress,On critical path
+1925,46,Project Closeout,05/02/2022,2024/08/15,836,Environmental review,Contractor,,
+1926,46,Ground Breaking,2019-01-16,2020-04-29,TBD,Right-of-way,Utility,In Progress,Permit dependent
+1927,46,50% Complete,,02/11/2021,238,Supply chain delays,Utility,In Progress,Float available
+1928,46,Environmental Review,05-21-2020,,2602,Utility conflicts,Contractor,Delayed,
+1929,46,Final Inspection,15/11/2025,2018/11/25,-2547,,Engineer,In Progress,Float available
+1930,46,Design Complete,2021/09/02,2020/06/09,-450,,Engineer,In progress,
+1931,185,Bid Award,02/11/2020,2026/06/22,2058,Supply chain delays,Utility,Complete,On critical path
+1932,185,Final Inspection,02/15/2023,07-17-2019,-1309,,Utility,Complete,Permit dependent
+1933,185,Design Complete,2020/02/04,03-09-2021,399,Funding gap,Owner,Not Started,On critical path
+1934,185,Substantial Completion,03-08-2024,22/04/2024,45,Labor shortage,Regulator,Not Started,Float available
+1935,185,50% Complete,2019/05/19,01-24-2019,,,Third Party,COMPLETE,
+1936,185,Environmental Review,2022-07-25,2022-12-06,134,,Contractor,Not Started,On critical path
+1937,136,Ground Breaking,2020/07/23,2023/05/18,1029,Permitting,Owner,complete,Float available
+1938,136,Bid Award,2023/06/02,2024/06/28,392,Funding gap,Engineer,NOT STARTED,Float available
+1939,136,Substantial Completion,10/12/2027,01/01/2025,-1014,,Contractor,Delayed,On critical path
+1940,136,Environmental Review,2023-02-23,,1491,Permitting,Contractor,Delayed,
+1941,65,Environmental Review,,05/02/2026,,Contractor issues,Regulator,Delayed,
+1942,65,Substantial Completion,11/01/2023,10-12-2021,,,Engineer,Delayed,
+1943,65,Ground Breaking,2019/06/19,09-25-2024,-,Environmental review,Third Party,Skipped,Float available
+1944,65,50% Complete,07/02/2019,2023-05-14,1557,Permitting,Utility,COMPLETE,On critical path
+1945,65,Final Inspection,05/29/2020,2024-06-07,1470,Contractor issues,Third Party,Not Started,
+1946,65,Project Closeout,12/02/2027,2020-06-16,?,,Utility,Delayed,On critical path
+1947,65,Bid Award,11/28/2022,2025-03-01,,Permitting,Owner,Complete,On critical path
+1948,65,Design Complete,10-08-2020,01/13/2027,,Utility conflicts,Contractor,In Progress,
+1949,181,Substantial Completion,15/09/2026,24/02/2027,162,Contractor issues,Contractor,Skipped,Float available
+1950,181,Project Closeout,03/21/2025,17/01/2020,-1890,,Contractor,Skipped,
+1951,317,Bid Award,,03/10/2024,-935,,Engineer,COMPLETE,
+1952,317,50% Complete,03/07/2026,07-16-2024,-599,,Utility,In Progress,On critical path
+1953,317,Ground Breaking,07-31-2021,03-14-2021,-139,,Owner,In Progress,On critical path
+1954,317,Environmental Review,09/09/2021,2026-05-10,1704,Labor shortage,Owner,Skipped,Permit dependent
+1955,317,Design Complete,2024-08-30,2026-03-08,555,,Third Party,Skipped,
+1956,317,Final Inspection,2022-12-03,2024/12/21,749,Labor shortage,Contractor,Not Started,
+1957,317,Project Closeout,,2023-03-04,257,Contractor issues,Engineer,Skipped,On critical path
+1958,317,Substantial Completion,2023-01-04,2020-08-09,-878,,Utility,NOT STARTED,
+1959,134,Environmental Review,05/17/2020,,,,Utility,Skipped,Permit dependent
+1960,134,50% Complete,01-12-2027,05/04/2023,-1349,,Regulator,Skipped,Permit dependent
+1961,134,Ground Breaking,05/02/2026,2025-07-09,-297,,Regulator,Not Started,
+1962,134,Project Closeout,2019-08-06,04-15-2020,253,Utility conflicts,Contractor,Complete,Permit dependent
+1963,393,Bid Award,2019/05/10,,,,Contractor,Not Started,On critical path
+1964,393,Environmental Review,12-19-2018,2027-05-29,3083,Funding gap,Third Party,,
+1965,393,Design Complete,,05/05/2022,1034,Weather,Regulator,Skipped,
+1966,297,50% Complete,21/12/2019,05/09/2025,1966,Design changes,Third Party,Skipped,On critical path
+1967,297,Project Closeout,2019-05-04,,,,Third Party,Not Started,
+1968,297,Substantial Completion,27/11/2026,,,,Engineer,In progress,On critical path
+1969,297,Bid Award,2022-10-05,13/04/2022,-175,,Utility,Skipped,
+1970,297,Design Complete,12/27/2021,06-06-2024,892,,Contractor,Not Started,Float available
+1971,466,Substantial Completion,06/29/2018,2024-11-13,2329,Utility conflicts,Third Party,Skipped,
+1972,466,Design Complete,06/28/2025,,,,Regulator,Not Started,Permit dependent
+1973,466,Environmental Review,2023/05/04,,,,Utility,complete,Permit dependent
+1974,466,Bid Award,2024/01/06,,,,Owner,Complete,
+1975,466,Ground Breaking,2026/09/03,,,,Contractor,In Progress,Permit dependent
+1976,466,50% Complete,15/06/2021,,,,Contractor,In Progress,Permit dependent
+1977,466,Final Inspection,2022/10/12,2022-05-19,-146,,Owner,Delayed,
+1978,200,Project Closeout,01-10-2024,11-11-2027,n/a,Contractor issues,Utility,Delayed,Permit dependent
+1979,200,Design Complete,2023-02-02,27/02/2025,756,Environmental review,Regulator,In Progress,Float available
+1980,200,Ground Breaking,2023/09/10,30/05/2020,-1198,,Contractor,Not Started,Permit dependent
+1981,200,Final Inspection,23/01/2026,,,,Utility,Not Started,On critical path
+1982,200,50% Complete,10/20/2019,,,,Contractor,Delayed,Permit dependent
+1983,200,Bid Award,12-14-2019,03-20-2023,1192,Funding gap,Engineer,Not Started,
+1984,420,Substantial Completion,2025/09/01,26/06/2022,-1163,,Contractor,In Progress,
+1985,420,Design Complete,2024-01-22,09/17/2024,239,Supply chain delays,Regulator,Delayed,Float available
+1986,420,Final Inspection,09/10/2026,04/02/2022,-1708,,Regulator,Delayed,
+1987,420,Environmental Review,12/04/2018,2025/04/17,2326,Contractor issues,Utility,Not Started,On critical path
+1988,420,Project Closeout,2027-08-09,11-22-2018,-,,Engineer,,
+1989,420,50% Complete,03/01/2024,02-24-2027,1148,,Utility,Skipped,Permit dependent
+1990,423,Ground Breaking,2025-03-12,,,,Utility,,Permit dependent
+1991,423,Bid Award,2023-09-10,19/10/2025,770,Labor shortage,Contractor,Complete,
+1992,423,Environmental Review,25/05/2026,,,,Utility,In progress,Float available
+1993,423,Final Inspection,,,,,Engineer,,
+1994,423,Project Closeout,12/02/2019,,,,Regulator,In Progress,Float available
+1995,266,Project Closeout,30/03/2020,03-04-2021,339,Weather,Third Party,,
+1996,266,Environmental Review,05/22/2021,2027/02/05,N/A,Supply chain delays,Utility,Delayed,On critical path
+1997,266,Substantial Completion,03-14-2027,11/16/2019,-2675,,Regulator,Complete,
+1998,266,50% Complete,02-17-2024,06/03/2027,1113,Labor shortage,Contractor,Delayed,
+1999,266,Final Inspection,09-23-2019,2021/08/16,693,,Third Party,Not Started,
+2000,266,Bid Award,2023-03-13,08-06-2025,877,,Third Party,Skipped,Permit dependent
+2001,266,Ground Breaking,11-27-2027,2027-01-04,-327,,Engineer,Complete,
+2002,266,Design Complete,07/29/2021,2025/12/23,1608,Supply chain delays,Regulator,Complete,
+2003,93,Ground Breaking,12-16-2026,,,,Owner,,Float available
+2004,93,Environmental Review,05-20-2019,,,,Third Party,Skipped,On critical path
+2005,366,Bid Award,2018/09/26,10-01-2027,3292,,Engineer,Delayed,
+2006,366,Final Inspection,08/12/2026,2024/12/24,-596,,Engineer,Skipped,Permit dependent
+2007,366,Project Closeout,2027/01/31,20/08/2025,-529,,Owner,COMPLETE,
+2008,366,Design Complete,2024/09/13,2025-07-03,293,Utility conflicts,Owner,Not Started,On critical path
+2009,366,Ground Breaking,2025/01/20,2020-11-14,-1528,,Engineer,Not Started,Permit dependent
+2010,366,Environmental Review,2020-04-28,29/02/2020,,,Third Party,In Progress,On critical path
+2011,366,50% Complete,09/11/2023,2021/11/02,-737,,Utility,In Progress,Float available
+2012,366,Substantial Completion,2024-04-18,,-1968,,Utility,Delayed,
+2013,335,Ground Breaking,21/12/2025,06/06/2022,-1294,,Regulator,Skipped,
+2014,335,Design Complete,05-07-2027,,,,Contractor,Complete,Permit dependent
+2015,335,Substantial Completion,30/12/2022,,,,Contractor,Skipped,
+2016,335,50% Complete,2024-04-29,,N/A,,Contractor,Complete,
+2017,335,Project Closeout,27/09/2023,07-07-2019,-1543,,Third Party,Delayed,
+2018,335,Bid Award,2024-01-27,,,,Regulator,In Progress,
+2019,394,Substantial Completion,09/24/2021,07/11/2026,,Right-of-way,Regulator,NOT STARTED,
+2020,394,Project Closeout,08/09/2019,,1520,,Third Party,In Progress,On critical path
+2021,394,Bid Award,2027/03/04,26/03/2021,-2169,,Regulator,Skipped,
+2022,394,50% Complete,16/07/2021,05-07-2026,1756,Environmental review,Regulator,Complete,
+2023,394,Design Complete,01-19-2024,2023-11-25,-55,,Third Party,complete,On critical path
+2024,394,Final Inspection,11-16-2018,09/07/2024,2122,,Third Party,COMPLETE,
+2025,394,Environmental Review,09/20/2022,21/02/2027,1615,Utility conflicts,Engineer,In Progress,Permit dependent
+2026,430,Bid Award,2020-01-06,2019/03/05,-307,,Regulator,In Progress,
+2027,430,Substantial Completion,01-28-2024,06/04/2026,858,Contractor issues,Third Party,NOT STARTED,Permit dependent
+2028,430,Design Complete,02-11-2023,03/25/2023,42,Supply chain delays,Third Party,,Float available
+2029,430,50% Complete,07/27/2019,01/03/2021,,,Third Party,Not Started,On critical path
+2030,430,Ground Breaking,2019-09-22,05/30/2019,-115,,Third Party,Skipped,
+2031,430,Environmental Review,05-18-2022,20/02/2027,1739,Contractor issues,Utility,Not Started,On critical path
+2032,430,Project Closeout,10/12/2025,2019/02/14,-2432,,Engineer,,Permit dependent
+2033,50,Design Complete,04-24-2027,,,,Regulator,Not Started,On critical path
+2034,50,Environmental Review,10/30/2020,2020/05/01,,,Engineer,Not Started,
+2035,50,Bid Award,,,,,Utility,Not Started,Permit dependent
+2036,50,Substantial Completion,06/16/2023,,,,Owner,In Progress,Float available
+2037,234,Design Complete,03-31-2020,2027/08/25,,Environmental review,Regulator,Delayed,Permit dependent
+2038,234,Environmental Review,05/21/2022,2027/08/08,1905,Contractor issues,Contractor,Skipped,On critical path
+2039,234,Final Inspection,,2019/10/08,-918,,Contractor,Not Started,Permit dependent
+2040,234,50% Complete,2027-07-15,06/24/2024,-1116,,Engineer,Complete,On critical path
+2041,234,Ground Breaking,2023-03-30,28/07/2018,-1706,,Contractor,Complete,
+2042,234,Project Closeout,22/08/2026,02/17/2024,-917,,Utility,Not Started,Permit dependent
+2043,234,Substantial Completion,21/07/2019,2020/01/29,192,Design changes,Contractor,In progress,Permit dependent
+2044,234,Bid Award,2019/08/10,2018-09-20,-324,,Engineer,,
+2045,230,Design Complete,2024-09-27,07/21/2025,297,Supply chain delays,Third Party,Delayed,
+2046,230,Final Inspection,10-12-2023,,-1318,,Regulator,Complete,On critical path
+2047,230,Environmental Review,11/08/2020,,,,Engineer,Not Started,Permit dependent
+2048,230,Project Closeout,11-23-2026,,,,Owner,Delayed,Permit dependent
+2049,230,Ground Breaking,2020/09/01,,,,Contractor,Not Started,Float available
+2050,230,50% Complete,21/09/2018,,,,Regulator,In Progress,
+2051,230,Substantial Completion,14/06/2022,,,,Owner,Delayed,Float available
+2052,268,Environmental Review,02/08/2027,2025/10/12,-659,,Regulator,Complete,
+2053,268,Project Closeout,08/08/2024,11-20-2026,834,Design changes,Utility,Delayed,
+2054,268,Bid Award,2020/06/02,2026/05/20,2178,Labor shortage,Owner,Complete,
+2055,268,Design Complete,2026/01/15,02-04-2022,-1441,,Utility,Skipped,
+2056,268,Ground Breaking,2023/07/24,04/15/2026,996,Weather,Engineer,Complete,On critical path
+2057,488,50% Complete,,,,,Regulator,Complete,
+2058,488,Project Closeout,06/02/2021,2019-11-05,,,Owner,Skipped,
+2059,454,Substantial Completion,15/12/2023,2018/09/10,-1922,,Third Party,In Progress,Float available
+2060,454,Design Complete,03/12/2023,07/01/2021,-1060,,Regulator,Complete,
+2061,454,50% Complete,12/07/2027,04/26/2024,-1172,,Owner,Not Started,Permit dependent
+2062,454,Project Closeout,03/30/2019,,n/a,Funding gap,Contractor,Delayed,On critical path
+2063,454,Final Inspection,14/08/2024,2025/01/30,169,Right-of-way,Utility,Skipped,Permit dependent
+2064,454,Ground Breaking,09/05/2026,2020-10-03,-2163,,Contractor,In Progress,Float available
+2065,343,Bid Award,10/04/2020,15/04/2026,2019,Right-of-way,Third Party,Complete,
+2066,343,Environmental Review,2025/01/25,30/01/2024,,,Contractor,In Progress,
+2067,343,50% Complete,2024-08-29,2024/07/28,-32,,Regulator,Not Started,Permit dependent
+2068,468,Substantial Completion,21/12/2027,23/04/2026,-607,,Owner,Complete,Float available
+2069,468,Design Complete,2026/06/27,07/09/2027,437,Labor shortage,Third Party,Skipped,On critical path
+2070,468,Project Closeout,2019-03-03,10-20-2027,3153,Weather,Owner,Skipped,
+2071,468,Ground Breaking,2026-01-27,05-24-2024,-613,,Owner,COMPLETE,On critical path
+2072,468,Final Inspection,2024/11/14,2025-12-16,397,Supply chain delays,Engineer,Delayed,Float available
+2073,19,Bid Award,08/22/2019,06/13/2021,,,Owner,Delayed,
+2074,19,Environmental Review,2018-07-13,04-23-2025,2476,Supply chain delays,Engineer,Complete,
+2075,19,Ground Breaking,08-19-2018,2022/12/25,1589,Environmental review,Regulator,Delayed,Permit dependent
+2076,19,Final Inspection,2024/04/02,2027-01-02,1005,Weather,Owner,Complete,On critical path
+2077,19,50% Complete,03/14/2019,08-10-2023,1610,Design changes,Regulator,Delayed,Float available
+2078,403,50% Complete,2021-02-09,2022-06-07,483,Supply chain delays,Regulator,Not Started,
+2079,403,Substantial Completion,,05-23-2027,721,Right-of-way,Owner,Complete,
+2080,403,Ground Breaking,09/18/2027,11/02/2026,-320,,Third Party,Skipped,On critical path
+2081,403,Bid Award,06/07/2026,07-12-2025,-359,,Third Party,Not Started,
+2082,403,Environmental Review,02/27/2021,21/01/2023,693,Labor shortage,Regulator,Complete,Float available
+2083,403,Final Inspection,2019-10-02,2025-04-18,2025,Environmental review,Utility,Delayed,
+2084,225,Design Complete,12/09/2022,11/18/2023,,,Engineer,In Progress,Permit dependent
+2085,225,Environmental Review,2021-09-23,05-31-2020,-480,,Contractor,Delayed,Float available
+2086,225,Bid Award,2026/10/13,12/19/2026,67,Permitting,Owner,Not Started,Permit dependent
+2087,225,Substantial Completion,2018-07-16,,2005,Environmental review,Third Party,Delayed,Permit dependent
+2088,7,Final Inspection,2020-04-15,2026-11-05,2395,Funding gap,Owner,,
+2089,7,Environmental Review,,12/04/2019,-1754,,Regulator,Complete,Float available
+2090,238,Project Closeout,02/09/2023,2021-02-27,TBD,,Owner,In Progress,
+2091,238,Design Complete,10/05/2019,2020-01-01,88,Design changes,Contractor,NOT STARTED,On critical path

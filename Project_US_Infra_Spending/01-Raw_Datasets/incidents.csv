@@ -1,0 +1,357 @@
+incident_id,project_id,incident_date,incident_type,severity,injuries_reported,fatalities,property_damage_million_usd,cause,reported_by,reported_date,resolution_date,emergency_repair_cost_million,insurance_claim_filed,regulatory_notified,description
+1,5,11/18/2023,,Medium,3,0,1.229,Deferred maintenance,Local Authority,25/06/2024,09-18-2020,1.077,,State DOT,
+2,12,07-13-2023,Sinkhole ,High,12,0,18.113,Contractor error,Local Authority,2023-04-07,2025-04-10,,N,EPA,
+3,12,2018/10/26,Flooding,Medium,0,0,1.356,Extreme weather,Site Supervisor,05-06-2023,05-04-2023,-,Pending,Yes,
+4,32,2020-10-09,Traffic Accident,HIGH,12,0,12.427,Utility conflict,Contractor,01/28/2018,2023/08/05,20.137,0,OSHA,High severity event. Site temporarily shut down.
+5,32,28/08/2021,Sinkhhole,Medium,3,0,1.283,Age/deterioration,Emergency Services,2019-09-02,11/02/2021,,Yes,EPA,Emergency crews responded to sinkhhole on site.
+6,32,,Sinkhhole,Medium,1,0,0.205,Material defect,Site Supervisor,,01/12/2023,0.363,N,EPA,
+7,35,01-19-2022,Structural Failure,Low,2,0,0.464,Extreme weather,Inspector,2019/06/26,,,Yes,No,Incident under investigation. Preliminary cause: extreme weather.
+8,35,,Water Main Break,CRITICAL,0,0,1.065,Unknown,Anonymous Tip,2022/02/19,2018/04/11,0.894,Yes,No,Emergency crews responded to water main break on site.
+9,35,12/10/2024,Collapse,Low,0,0,0.855,Material defect,Engineer of Record,15/07/2018,18/02/2023,0.683,No,OSHA,
+10,36,09-30-2020,Flooding,Medium,0,0,0.462,Soil instability,State DOT,17/02/2021,2018/12/15,0.767,pending,,Medium severity event. Site temporarily shut down.
+11,39,16/11/2020,Traffic Accident,Critical,4,0,9.23,Equipment failure,Local Authority,15/05/2025,2023/04/03,13.675,Y,No,Emergency crews responded to traffic accident on site.
+12,45,11-28-2020,Flooding,Medium,2,0,,Utility conflict,Emergency Services,11-20-2023,2025/02/16,2.188,Y,N,Incident under investigation. Preliminary cause: utility conflict.
+13,45,05/11/2022,Fire,Low,2,0,2.217,Soil instability,Emergency Services,11/05/2022,06-24-2019,2.121,pending,N,
+14,46,,Gas Leak,High,10,0,16.199,Human error,Anonymous Tip,2019/08/31,05-14-2023,25.022,Yes,OSHA,Gas Leak occurred during routine operations.
+15,48,08-29-2024,Environmental Spill,Medium,3,0,1.703,Deferred maintenance,Engineer of Record,05-14-2024,2024/08/25,1.515,1,Y,Environmental Spill occurred during routine operations.
+16,48,06/17/2023,Traffic Accident,Low,0,0,1.352,Under investigation,Local Authority,2022/02/16,01/06/2021,1.324,1,No,
+17,48,04/15/2023,,Low,2,0,0.94,Material defect,Local Authority,2020-06-21,20/04/2022,,Y,State DOT,Collapse occurred during routine operations.
+18,48,2020-01-27,Equipment Malfunction,Medium,1,0,1.446,Material defect,Anonymous Tip,09/02/2018,2019/04/17,2.532,,Y,Incident under investigation. Preliminary cause: material defect.
+19,49,27/07/2018,Sinkhole ,Medium,1,0,0.238,Design flaw,Emergency Services,08-08-2021,17/10/2023,0.3,N,No,
+20,49,2022/11/27,Collapse,Low,3,0,0.624,Human error,State DOT,30/07/2021,2019-01-19,0.605,No,State DOT,
+21,49,2020/05/14,Fire,Medium,3,0,2.174,Contractor error,Engineer of Record,24/05/2024,2023-06-26,3.193,Y,State DOT,Incident under investigation. Preliminary cause: contractor error.
+22,49,17/04/2021,Equipment Malfunction,Medium,,0,1.592,Equipment failure,Public Report,2019-01-23,,1.5,No,OSHA,Medium severity event. Site temporarily shut down.
+23,50,07-14-2023,Water Main Break,High,8,0,11.995,Deferred maintenance,Local Authority,21/11/2022,,17.083,,No,High severity event. Site temporarily shut down.
+24,54,2023/02/13,Gas Leak,Low,0,0,0.284,Under investigation,Local Authority,2023-09-02,29/04/2019,0.174,Y,OSHA,Low severity event. Site temporarily shut down.
+25,54,2021-03-06,Structural Failure,Medium,2,0,1.425,Vandalism,Contractor,2023/04/12,21/04/2025,2.677,N,Yes,Medium severity event. Site temporarily shut down.
+26,56,2023-09-18,Traffic Accident,Medium,1,0,2.48,Age/deterioration,Local Authority,03/05/2019,09-24-2018,4.243,Y,N,
+27,56,,Worker Injury,High,0,0,16.282,Age/deterioration,State DOT,2018/09/01,2024/06/18,22.481,pending,State DOT,
+28,57,2019-11-01,Collapse,Medium,2,0,0.993,Contractor error,Emergency Services,05-25-2024,01/05/2022,0.717,,N/A,Collapse occurred during routine operations.
+29,57,03/31/2021,Fire,Low,3,0,0.363,Contractor error,Engineer of Record,2018/12/25,05-29-2021,0.294,No,OSHA,
+30,57,2019/12/22,Structural Failure,High,4,0,1.707,Design flaw,Site Supervisor,23/01/2022,07/16/2021,2.146,,Y,Incident under investigation. Preliminary cause: design flaw.
+31,57,,Power Outage,Medium,0,0,1.714,Extreme weather,Inspector,2020-03-31,06/02/2025,3.178,Yes,N,
+32,62,2021-04-28,Power Outage,Low,3,0,2.086,Extreme weather,State DOT,,18/07/2018,,pending,No,Incident under investigation. Preliminary cause: extreme weather.
+33,64,2020-08-10,Worker Injury,Medium,1,0,1.943,Unknown,Engineer of Record,2023-10-27,01/08/2022,1.266,0,State DOT,Incident under investigation. Preliminary cause: unknown.
+34,64,12-26-2023,Sinkhhole,Critical,9,0,19.483,Contractor error,Contractor,2018-06-14,2025/11/12,23.001,0,EPA,
+35,68,03/24/2018,Gas Leak,,1,0,0.083,Natural disaster,State DOT,05/21/2018,11/25/2025,0.12,No,OSHA,
+36,68,24/02/2024,WATER MAIN BREAK,Low,2,0,0.557,Equipment failure,Anonymous Tip,02-10-2021,,0.773,Yes,EPA,Emergency crews responded to collapse on site.
+37,68,2025/04/28,Sinkhole ,Medium,0,0,1.825,Natural disaster,Local Authority,,01-20-2025,3.516,Yes,EPA,Medium severity event. Site temporarily shut down.
+38,69,06-27-2018,Worker Injury,Low,0,0,0.04,Utility conflict,Anonymous Tip,07/01/2020,,0.023,Pending,,
+39,69,12-07-2020,Sinkhole ,High,3,0,10.703,Utility conflict,Site Supervisor,25/04/2021,,21.044,Pending,Yes,Incident under investigation. Preliminary cause: utility conflict.
+40,69,,Structural Failure,High,,,23.35,Human error,State DOT,02/16/2025,,45.721,N,,Incident under investigation. Preliminary cause: human error.
+41,69,24/08/2022,Environmental Spill,Medium,N/A,0,0.78,Contractor error,Inspector,2022/07/21,2020/10/12,0.452,0,No,Environmental Spill occurred during routine operations.
+42,71,04-14-2021,structural failure,Low,1,0,-,Equipment failure,Anonymous Tip,12-24-2024,10-04-2018,3.612,1,State DOT,
+43,76,2019/02/04,Power Outage,High,4,0,12.551,Design flaw,Emergency Services,2025/02/13,,6.357,Yes,No,Emergency crews responded to power outage on site.
+44,76,01/28/2019,Sinkhole ,Low,3,0,1.105,Age/deterioration,Emergency Services,12-02-2021,05/15/2023,0.981,N,EPA,Low severity event. Site temporarily shut down.
+45,76,02/11/2019,Fire,Low,1,0,0.189,Under investigation,Inspector,2022-09-30,2021-08-08,0.171,Y,State DOT,Incident under investigation. Preliminary cause: under investigation.
+46,76,06-23-2021,Structural Failure,low,4,?,-,Extreme weather,Inspector,2023-07-17,11-24-2020,6.632,Pending,N,High severity event. Site temporarily shut down.
+47,79,2025-03-27,Flooding,Low,2,0,1.553,Soil instability,Site Supervisor,08/11/2019,01/11/2019,2.29,No,Y,Flooding occurred during routine operations.
+48,79,2019-10-06,structural failure,High,6,0,16.502,Natural disaster,State DOT,2019-12-15,02/05/2021,16.086,Pending,No,Incident under investigation. Preliminary cause: natural disaster.
+49,84,12/08/2021,Environmental Spill,Low,2,0,0.761,Extreme weather,Local Authority,,,0.706,Y,OSHA,Incident under investigation. Preliminary cause: extreme weather.
+50,89,2019/10/24,Environmental Spill,Medium,3,0,0.026,Soil instability,Contractor,,2022/08/17,0.049,1,EPA,
+51,90,03/27/2021,Gas Leak,Low,0,,,Material defect,State DOT,2020-12-04,,n/a,0,No,Low severity event. Site temporarily shut down.
+52,90,2024/09/09,Water Main Break,Low,,0,0.386,Equipment failure,Anonymous Tip,05/06/2025,2021-11-08,0.48,Pending,N/A,Emergency crews responded to water main break on site.
+53,92,2020-10-18,Flooding,High,2,0,2.563,Under investigation,Contractor,06-04-2018,04-29-2024,,pending,No,Incident under investigation. Preliminary cause: under investigation.
+54,92,2024-04-20,Sinkhhole,Low,3,0,2.229,Contractor error,State DOT,2020/03/08,2019/11/07,2.674,1,Y,Emergency crews responded to sinkhhole on site.
+55,93,14/11/2019,Environmental Spill,Medium,3,0,0.317,Age/deterioration,State DOT,04/10/2019,09/26/2025,0.505,0,EPA,Incident under investigation. Preliminary cause: age/deterioration.
+56,94,06/04/2021,WATER MAIN BREAK,Low,0,0,0.768,Age/deterioration,State DOT,2020-06-29,2022/08/24,N/A,No,,Low severity event. Site temporarily shut down.
+57,96,2022-05-27,structural failure,Low,2,0,2.486,Deferred maintenance,Local Authority,2023/11/07,2023/01/07,2.432,pending,State DOT,Incident under investigation. Preliminary cause: deferred maintenance.
+58,105,2023-09-02,Sinkhhole,Low,3,0,,Unknown,Inspector,2018/01/12,2023-03-03,n/a,N,OSHA,Emergency crews responded to sinkhhole on site.
+59,105,03/30/2020,structural failure,Medium,1,0,0.92,Natural disaster,Emergency Services,11/23/2022,04/15/2024,0.84,pending,State DOT,
+60,105,24/06/2019,Collapse,Low,0,0,2.168,Equipment failure,Contractor,04-27-2020,,1.977,,Yes,Incident under investigation. Preliminary cause: equipment failure.
+61,107,04/02/2024,Water Main Break,Medium,n/a,0,1.628,Equipment failure,Engineer of Record,07/21/2020,11-28-2025,2.913,,,Emergency crews responded to water main break on site.
+62,107,25/03/2023,Environmental Spill,Low,2,0,1.837,Under investigation,Contractor,05/08/2019,22/04/2025,1.099,,State DOT,Emergency crews responded to environmental spill on site.
+63,107,2024-05-11,Flooding,High,3,0,16.481,Natural disaster,Public Report,09-26-2023,,29.451,N,EPA,
+64,115,2021-06-28,Environmental Spill,Medium,0,0,1.34,Material defect,Contractor,2025-05-12,07/01/2023,0.631,pending,Yes,Emergency crews responded to environmental spill on site.
+65,119,08-12-2022,WATER MAIN BREAK,Low,0,0,,Human error,Public Report,2024-02-18,09-15-2023,1.475,Pending,,
+66,122,08-27-2022,WATER MAIN BREAK,Medium,,0,2.203,Human error,Contractor,07/30/2024,2020-06-11,1.966,Yes,Y,
+67,122,21/10/2020,Fire,High,6,0,15.269,Vandalism,Anonymous Tip,2022-09-15,,31.631,Pending,,
+68,122,07-29-2018,Fire,Low,3,0,1.863,Vandalism,Contractor,,18/05/2019,2.585,No,N,Incident under investigation. Preliminary cause: vandalism.
+69,127,11-08-2021,Worker Injury,Low,0,0,2.387,Soil instability,Contractor,03/05/2018,2020-05-24,4.062,N,No,
+70,127,10/26/2022,Environmental Spill,Medium,3,0,,Age/deterioration,Local Authority,22/09/2024,2022/04/07,0.431,Yes,Y,Incident under investigation. Preliminary cause: age/deterioration.
+71,128,03/05/2019,Power Outage,High,6,0,17.64,Material defect,Inspector,04-18-2023,2023-07-18,9.428,0,Y,
+72,128,,,High,11,0,17.254,Age/deterioration,Local Authority,12/07/2019,,34.274,,No,
+73,128,2023-08-12,Traffic Accident,Low,2,0,1.245,Design flaw,Inspector,2021/11/08,09-27-2024,?,Y,N/A,
+74,129,12-05-2019,Sinkhhole,High,12,0,17.157,Unknown,Public Report,,17/11/2022,14.184,N,EPA,Emergency crews responded to sinkhhole on site.
+75,129,04-20-2024,Fire,Low,0,,1.317,Deferred maintenance,Local Authority,2019/03/22,2023-02-10,1.769,N,State DOT,
+76,129,2018/11/20,structural failure,Low,1,0,1.155,Under investigation,Anonymous Tip,,08/20/2018,0.826,Y,OSHA,Fire occurred during routine operations.
+77,130,2019-12-07,Structural Failure,Critical,10,0,6.33,Natural disaster,Public Report,2023/11/03,12-19-2019,11.001,pending,State DOT,Incident under investigation. Preliminary cause: natural disaster.
+78,133,12-01-2021,Power Outage,Low,,0,0.926,Design flaw,Local Authority,,06/13/2018,1.52,N,OSHA,Low severity event. Site temporarily shut down.
+79,133,,Sinkhole ,Medium,2,0,2.372,Contractor error,Engineer of Record,28/01/2021,2022-02-13,0.971,Yes,Yes,Emergency crews responded to fire on site.
+80,133,03-15-2022,Gas Leak,,0,0,1.308,Deferred maintenance,Contractor,,28/02/2023,0.673,No,OSHA,
+81,135,17/06/2018,Flooding,Low,2,0,2.477,Under investigation,Site Supervisor,2022/03/24,2019-12-20,N/A,Pending,EPA,Emergency crews responded to flooding on site.
+82,135,2023/04/04,Water Main Break,,0,0,0.945,Material defect,Local Authority,2019-06-20,07-06-2023,1.493,1,,Incident under investigation. Preliminary cause: material defect.
+83,137,07/09/2024,structural failure,Low,1,0,1.935,Design flaw,Local Authority,2020-11-01,,N/A,N,N/A,
+84,138,11-05-2022,WATER MAIN BREAK,Low,1,0,0.223,Deferred maintenance,Engineer of Record,2021/10/16,06/20/2022,,1,Y,
+85,138,06-27-2020,Flooding,Low,1,,0.875,Design flaw,Local Authority,08/03/2021,02-10-2021,1.748,Yes,Yes,Low severity event. Site temporarily shut down.
+86,139,,Gas Leak,High,-,0,14.996,Under investigation,Engineer of Record,12/01/2024,2025-10-30,30.668,Y,Yes,Incident under investigation. Preliminary cause: under investigation.
+87,139,02/11/2024,Flooding,Low,3,0,0.187,Vandalism,Inspector,12-29-2022,11-26-2019,0.379,0,N/A,Low severity event. Site temporarily shut down.
+88,142,12/25/2021,Traffic Accident,,0,0,0.127,Unknown,Local Authority,10-23-2022,,0.099,N,No,
+89,142,05/10/2018,Gas Leak,Medium,2,0,1.462,Extreme weather,Engineer of Record,04/04/2021,,0.828,Pending,N/A,Emergency crews responded to gas leak on site.
+90,142,02-13-2025,WATER MAIN BREAK,High,,0,6.111,Material defect,Anonymous Tip,2018-02-25,22/01/2024,1.92,Y,N,
+91,142,09-05-2018,,Medium,3,0,1.592,Design flaw,Engineer of Record,25/04/2022,2025-04-30,2.929,No,OSHA,Emergency crews responded to worker injury on site.
+92,143,2018/07/28,Environmental Spill,low,0,0,1.012,Utility conflict,Public Report,08/11/2021,25/07/2022,1.112,0,,Emergency crews responded to environmental spill on site.
+93,143,26/04/2023,Flooding,Medium,3,N/A,2.298,Age/deterioration,Local Authority,2022/11/05,2019/05/03,3.868,No,No,Medium severity event. Site temporarily shut down.
+94,144,08-12-2018,Structural Failure,Low,3,0,2.074,Under investigation,Anonymous Tip,2023/07/21,2024-02-27,1.771,1,EPA,
+95,144,2022/02/01,Power Outage,Low,1,0,,Human error,Emergency Services,07/16/2018,2023-03-05,0.0,N,No,Power Outage occurred during routine operations.
+96,144,07-04-2021,Environmental Spill,Medium,3,0,1.458,Deferred maintenance,Local Authority,04-22-2021,2018/03/20,3.045,0,,
+97,154,12-15-2021,Equipment Malfunction,Medium,,0,1.242,Contractor error,State DOT,2021/04/30,,2.233,N,N/A,Emergency crews responded to equipment malfunction on site.
+98,154,2022/09/23,Structural Failure,low,10,0,13.471,Human error,Emergency Services,2023-12-21,02-09-2023,19.06,N,N,Incident under investigation. Preliminary cause: human error.
+99,154,2023-07-17,Sinkhole ,Low,0,0,0.712,Unknown,State DOT,2024-04-14,2023/05/05,0.489,Y,No,Fire occurred during routine operations.
+100,163,2020/07/25,Environmental Spill,medium ,2,0,2.148,Human error,Site Supervisor,02/03/2021,,3.13,0,Yes,Medium severity event. Site temporarily shut down.
+101,163,,Worker Injury,High,3,0,3.519,Age/deterioration,Site Supervisor,04/10/2019,,1.954,pending,Y,Emergency crews responded to worker injury on site.
+102,163,2024-03-14,,Low,1,0,2.016,Soil instability,Site Supervisor,,01-29-2020,1.929,Y,,Fire occurred during routine operations.
+103,169,06-28-2023,Water Main Break,Low,0,0,1.512,Soil instability,Inspector,27/04/2021,,2.963,No,N/A,Water Main Break occurred during routine operations.
+104,169,06-22-2022,Traffic Accident,Low,0,0,0.432,Age/deterioration,Anonymous Tip,2022-12-02,07-10-2024,0.557,,OSHA,Emergency crews responded to traffic accident on site.
+105,169,11/22/2022,Collapse,Low,0,0,0.027,Age/deterioration,Contractor,2022/02/17,2019/01/12,0.029,,Yes,
+106,169,04-15-2020,Fire,High,5,0,18.336,Age/deterioration,Emergency Services,2023/12/09,,23.61,1,OSHA,Emergency crews responded to fire on site.
+107,176,03-21-2021,Sinkhhole,Low,0,0,2.012,Equipment failure,Anonymous Tip,,11-24-2025,4.202,Yes,N,Emergency crews responded to sinkhhole on site.
+108,176,2018/04/08,Environmental Spill,Low,2,0,1.983,Age/deterioration,Public Report,03-15-2022,2018/10/11,2.611,N,N/A,Emergency crews responded to environmental spill on site.
+109,179,2022/03/25,Gas Leak,Low,1,0,1.332,Material defect,State DOT,2024-08-30,02/10/2020,2.503,N,No,Gas Leak occurred during routine operations.
+110,180,23/07/2020,Sinkhole ,,0,0,1.824,Contractor error,Engineer of Record,10/12/2021,,0.748,Y,Yes,
+111,180,15/06/2021,Sinkhhole,Medium,0,0,0.822,Under investigation,Engineer of Record,,2018/11/05,1.327,Yes,No,Incident under investigation. Preliminary cause: under investigation.
+112,180,2024-10-24,Structural Failure,Low,2,0,2.202,Utility conflict,Public Report,2023/05/08,10/12/2020,3.021,pending,No,Structural Failure occurred during routine operations.
+113,182,19/03/2022,Environmental Spill,High,11,0,18.464,Under investigation,State DOT,2022/12/03,2019/01/29,,Yes,OSHA,Emergency crews responded to environmental spill on site.
+114,182,2020/06/27,Traffic Accident,Medium,3,0,TBD,Natural disaster,Engineer of Record,15/12/2019,09/29/2020,0.888,No,N/A,Medium severity event. Site temporarily shut down.
+115,185,11/21/2022,Environmental Spill,High,10,0,11.257,Vandalism,Site Supervisor,19/04/2023,,22.418,0,OSHA,
+116,185,,structural failure,Low,3,0,0.1,Age/deterioration,Contractor,09/19/2018,06-03-2022,0.187,N,OSHA,
+117,186,23/04/2020,Flooding,Low,2,0,,Vandalism,Contractor,2022/10/08,07/06/2023,1.915,N,,Emergency crews responded to flooding on site.
+118,186,02/13/2023,Worker Injury,High,7,N/A,10.393,Age/deterioration,Contractor,12/10/2018,04/06/2018,9.684,N,Y,
+119,186,,Structural Failure,Medium,,0,,Soil instability,Site Supervisor,2018-01-30,,0.689,N,No,Medium severity event. Site temporarily shut down.
+120,189,2020-12-17,Structural Failure,Medium,0,0,1.551,Human error,Inspector,2023-09-01,2025-03-13,1.806,No,OSHA,
+121,189,2018/11/10,WATER MAIN BREAK,Low,1,0,0.339,Design flaw,State DOT,2020-06-10,12/03/2020,n/a,1,Yes,Incident under investigation. Preliminary cause: design flaw.
+122,196,2023/10/13,Worker Injury,Medium,3,0,2.421,Unknown,Contractor,09/27/2024,,2.952,Pending,Yes,Incident under investigation. Preliminary cause: unknown.
+123,196,12/02/2025,Worker Injury,CRITICAL,1,0,0.2,Soil instability,Emergency Services,2023/05/28,,,Y,N,Emergency crews responded to worker injury on site.
+124,196,2024-02-10,Equipment Malfunction,Low,1,0,2.379,Utility conflict,Local Authority,21/08/2023,2022/10/17,4.715,Y,Y,Low severity event. Site temporarily shut down.
+125,201,2020-10-19,Traffic Accident,Low,3,0,2.228,Natural disaster,Inspector,04-29-2025,,4.06,Y,,Emergency crews responded to traffic accident on site.
+126,201,21/04/2025,Traffic Accident,Low,2,0,0.055,Design flaw,Local Authority,05/03/2018,,-,0,OSHA,Traffic Accident occurred during routine operations.
+127,201,2021/05/15,Flooding,medium ,3,0,0.732,Contractor error,Contractor,2020-01-06,08/26/2020,0.405,No,N/A,Medium severity event. Site temporarily shut down.
+128,209,27/11/2024,Power Outage,Low,0,0,1.972,Contractor error,Engineer of Record,2022/02/22,,N/A,N,State DOT,
+129,209,2021-02-05,Gas Leak,Medium,0,0,1.689,Equipment failure,Contractor,2023/08/04,2024-04-06,0.7,Yes,N/A,Incident under investigation. Preliminary cause: equipment failure.
+130,212,04-26-2021,Sinkhhole,Low,,n/a,0.184,Vandalism,Emergency Services,16/08/2019,2018/10/20,0.305,No,No,
+131,212,2018-09-17,Collapse,High,4,0,6.108,Design flaw,Inspector,12/10/2021,07-04-2023,9.325,No,N,Collapse occurred during routine operations.
+132,212,,Fire,Low,3,0,0.286,Under investigation,Inspector,2020/02/09,2021/07/29,0.206,Yes,N,Low severity event. Site temporarily shut down.
+133,218,24/02/2018,Equipment Malfunction,High,12,0,12.459,Vandalism,Engineer of Record,2019/08/20,2022/02/16,13.196,,OSHA,High severity event. Site temporarily shut down.
+134,218,25/01/2024,Environmental Spill,Medium,1,0,2.127,Material defect,Local Authority,09/15/2021,01/11/2019,2.836,1,Y,
+135,218,,Environmental Spill,Critical,3,0,,Design flaw,Anonymous Tip,,01/08/2019,3.332,N,,
+136,218,13/12/2019,Collapse,,0,0,10.117,Unknown,Site Supervisor,,2024/07/31,14.532,Yes,N/A,Emergency crews responded to collapse on site.
+137,221,06/04/2019,Sinkhole ,Low,1,0,2.267,Age/deterioration,Local Authority,12/13/2018,09-18-2019,1.783,Pending,No,Emergency crews responded to structural failure on site.
+138,221,15/04/2023,Collapse,High,1,0,23.027,Extreme weather,Contractor,08/18/2024,2022/06/06,17.557,pending,N/A,Emergency crews responded to collapse on site.
+139,221,2023-05-15,Structural Failure,Critical,9,,6.259,Unknown,Engineer of Record,2021/05/13,2022-03-04,12.118,No,Yes,Incident under investigation. Preliminary cause: unknown.
+140,222,05-05-2018,Sinkhole ,Medium,,,1.231,Utility conflict,Emergency Services,2018-06-19,24/02/2025,2.513,No,N,Sinkhhole occurred during routine operations.
+141,222,2018/07/07,Fire,HIGH,3,0,,Soil instability,Public Report,08-25-2024,06-26-2024,0.721,N,Yes,Low severity event. Site temporarily shut down.
+142,224,08-18-2022,Equipment Malfunction,Medium,3,0,0.551,Under investigation,Emergency Services,2021/10/12,2021-01-13,0.403,Yes,,Medium severity event. Site temporarily shut down.
+143,224,06-03-2021,structural failure,Critical,,0,0.299,Material defect,Site Supervisor,19/11/2019,,0.302,pending,EPA,Critical severity event. Site temporarily shut down.
+144,226,05/27/2025,,Low,0,0,2.107,Deferred maintenance,Anonymous Tip,08-11-2018,,1.821,No,EPA,
+145,226,11/06/2020,structural failure,Critical,8,0,7.308,Soil instability,Emergency Services,2018-09-12,,6.686,1,Y,Critical severity event. Site temporarily shut down.
+146,226,22/11/2023,Water Main Break,Low,,0,0.257,Human error,Local Authority,2024/09/23,06/25/2022,0.492,No,Y,
+147,228,01-13-2024,Traffic Accident,Medium,3,0,1.971,Contractor error,Local Authority,12/17/2018,06/10/2019,1.125,pending,State DOT,
+148,228,07/16/2019,Sinkhhole,low,0,0,2.207,Design flaw,Emergency Services,2022/02/23,03/07/2025,4.479,No,State DOT,
+149,228,13/08/2021,Environmental Spill,HIGH,3,0,,Design flaw,Emergency Services,2025/01/02,11/12/2025,0.219,N,Yes,Incident under investigation. Preliminary cause: design flaw.
+150,229,2024/09/15,Power Outage,Low,0,0,1.245,Contractor error,Anonymous Tip,02-20-2025,,0.695,N,OSHA,
+151,229,05/10/2020,Gas Leak,Low,3,0,0.668,Soil instability,State DOT,2020/10/31,,1.115,N,No,Emergency crews responded to gas leak on site.
+152,229,10-02-2020,Environmental Spill,Medium,1,,0.111,Natural disaster,Public Report,2021/06/15,2023-02-09,,0,EPA,Emergency crews responded to environmental spill on site.
+153,229,03/07/2019,Gas Leak,Medium,1,0,1.981,Age/deterioration,Inspector,14/03/2022,05/21/2021,3.638,pending,N/A,
+154,232,09/15/2020,Equipment Malfunction,Medium,3,0,0.316,Unknown,Inspector,2019-11-27,07-17-2023,0.373,Pending,N,Emergency crews responded to equipment malfunction on site.
+155,232,10/06/2020,structural failure,Low,0,0,1.74,Equipment failure,State DOT,31/05/2020,2019/08/25,2.691,,Y,
+156,232,07/27/2020,Collapse,High,7,0,18.633,Soil instability,Site Supervisor,2022-09-18,,23.154,pending,N,Incident under investigation. Preliminary cause: soil instability.
+157,233,09-17-2019,Equipment Malfunction,Critical,,0,5.514,Equipment failure,Anonymous Tip,2020-11-28,,10.584,1,Y,Emergency crews responded to equipment malfunction on site.
+158,233,2019-02-25,structural failure,High,?,0,8.614,Human error,Anonymous Tip,05/29/2025,24/02/2024,10.304,No,OSHA,
+159,233,05/20/2022,Water Main Break,Medium,0,0,0.357,Unknown,Public Report,01/09/2024,03/06/2018,0.288,Yes,,Emergency crews responded to water main break on site.
+160,241,04/13/2020,Structural Failure,High,1,-,4.167,Contractor error,Public Report,16/12/2019,03-03-2022,,Pending,EPA,Incident under investigation. Preliminary cause: contractor error.
+161,241,04-27-2020,Gas Leak,High,12,0,21.583,Extreme weather,Inspector,04/19/2020,2020/03/31,,N,Y,High severity event. Site temporarily shut down.
+162,241,06-25-2024,Water Main Break,Low,1,0,,Material defect,Local Authority,09/12/2023,13/07/2023,0.126,Yes,State DOT,Incident under investigation. Preliminary cause: material defect.
+163,241,02/08/2024,Water Main Break,CRITICAL,1,0,0.658,Unknown,Contractor,2024/02/02,13/10/2023,0.869,No,EPA,Incident under investigation. Preliminary cause: unknown.
+164,242,09/24/2022,Water Main Break,Medium,3,0,,Equipment failure,Engineer of Record,01-08-2021,08-15-2024,?,N,N,Emergency crews responded to water main break on site.
+165,242,09/10/2019,Sinkhhole,High,1,0,17.384,Material defect,Local Authority,11/06/2022,2019-05-16,16.527,N,N/A,Incident under investigation. Preliminary cause: material defect.
+166,243,07/03/2019,Fire,Medium,1,0,0.766,Unknown,Public Report,,,,0,Yes,Medium severity event. Site temporarily shut down.
+167,243,06/04/2019,Sinkhhole,Medium,0,0,2.27,Equipment failure,State DOT,10/02/2025,11/12/2020,,Pending,EPA,Sinkhhole occurred during routine operations.
+168,247,2022-10-25,Power Outage,High,11,0,13.824,Design flaw,Emergency Services,2020-07-17,14/03/2025,5.114,1,EPA,Power Outage occurred during routine operations.
+169,247,29/02/2020,structural failure,Low,0,0,1.026,Under investigation,Anonymous Tip,,2023-04-25,0.586,1,State DOT,Emergency crews responded to collapse on site.
+170,250,2020/08/20,Gas Leak,Low,3,0,2.309,Design flaw,Public Report,2023-12-23,2025/01/21,3.389,pending,Yes,
+171,250,15/12/2019,Equipment Malfunction,Low,2,0,0.109,Deferred maintenance,Site Supervisor,2018-11-12,2023/11/07,0.059,N,OSHA,Low severity event. Site temporarily shut down.
+172,254,11-09-2019,Environmental Spill,Low,2,0,0.937,Human error,Anonymous Tip,06/25/2023,03/09/2020,1.817,1,N,
+173,254,,Flooding,Medium,3,0,1.868,Extreme weather,Inspector,,03-10-2024,0.643,,EPA,Emergency crews responded to flooding on site.
+174,259,08/09/2020,Power Outage,Low,2,0,,Human error,Contractor,,12-08-2020,4.814,pending,OSHA,Incident under investigation. Preliminary cause: human error.
+175,259,06-03-2018,Environmental Spill,Medium,1,,,Soil instability,Anonymous Tip,15/11/2018,,1.528,Y,State DOT,Emergency crews responded to environmental spill on site.
+176,262,04/02/2020,Worker Injury,Low,0,,0.832,Under investigation,State DOT,27/01/2020,2021-06-27,1.129,0,N,Low severity event. Site temporarily shut down.
+177,262,2018/03/04,Collapse,,6,0,0.732,Vandalism,Local Authority,18/08/2024,01/03/2020,1.099,pending,Yes,
+178,262,17/08/2023,Traffic Accident,Low,2,0,0.874,Equipment failure,State DOT,08/31/2023,2025-09-23,,,State DOT,Traffic Accident occurred during routine operations.
+179,270,2022/06/25,Flooding,Medium,2,0,TBD,Vandalism,Site Supervisor,2019/02/28,09-26-2025,0.262,N,N,Incident under investigation. Preliminary cause: vandalism.
+180,270,04/29/2019,,Low,2,0,2.018,Deferred maintenance,Engineer of Record,05-29-2021,2025/01/08,2.984,0,EPA,Environmental Spill occurred during routine operations.
+181,279,02/28/2022,Sinkhole ,Critical,5,0,N/A,Extreme weather,Public Report,,2023-07-28,21.853,Y,OSHA,
+182,279,28/01/2020,Traffic Accident,Critical,2,0,19.516,Unknown,Contractor,2019-12-12,2022/03/18,16.21,N,EPA,Emergency crews responded to traffic accident on site.
+183,279,10/19/2024,Sinkhole ,Low,,0,,Vandalism,Contractor,10/05/2022,06/05/2021,0.374,N,State DOT,Traffic Accident occurred during routine operations.
+184,283,2018/07/13,Fire,Medium,1,0,0.231,Design flaw,Site Supervisor,2024-04-23,,0.147,No,N/A,
+185,283,06/19/2019,Sinkhole ,Medium,2,0,1.882,Extreme weather,Inspector,2019/03/17,07/25/2024,3.065,N,Yes,
+186,283,26/01/2024,Power Outage,Low,2,0,1.687,Deferred maintenance,Anonymous Tip,07-08-2021,,1.274,N,N/A,
+187,283,26/12/2018,,Medium,1,0,1.413,Extreme weather,Inspector,2025/05/07,28/02/2025,1.968,1,Y,
+188,286,01-02-2018,Water Main Break,Medium,3,0,1.601,Contractor error,State DOT,2024-02-04,12/05/2024,n/a,N,EPA,Water Main Break occurred during routine operations.
+189,291,,structural failure,Low,0,0,2.009,Deferred maintenance,Site Supervisor,2019/09/03,02/01/2024,0.829,Pending,OSHA,Low severity event. Site temporarily shut down.
+190,291,08/04/2019,Collapse,Low,3,0,0.523,Natural disaster,State DOT,2025-06-03,03/21/2022,,No,OSHA,Collapse occurred during routine operations.
+191,291,24/01/2020,Traffic Accident,Critical,,0,11.893,Unknown,Engineer of Record,04-13-2018,02/17/2020,22.841,No,OSHA,
+192,291,08/13/2022,Collapse,low,0,0,0.41,Extreme weather,Engineer of Record,05/24/2023,,0.834,N,No,Low severity event. Site temporarily shut down.
+193,292,2022/12/28,Structural Failure,Critical,,0,13.68,Equipment failure,Emergency Services,06/30/2022,05/09/2019,5.696,N,Yes,Incident under investigation. Preliminary cause: equipment failure.
+194,292,,Power Outage,Critical,,0,17.308,Equipment failure,Public Report,,2023-03-19,5.273,Yes,N,Emergency crews responded to power outage on site.
+195,293,,Fire,medium ,3,0,1.242,Under investigation,Anonymous Tip,03-31-2023,07-18-2024,2.478,No,OSHA,Low severity event. Site temporarily shut down.
+196,293,07/01/2024,Traffic Accident,Medium,0,0,0.406,Unknown,Emergency Services,01/24/2018,2023-05-06,TBD,Y,Y,
+197,293,06/09/2020,Traffic Accident,Medium,1,0,1.632,Extreme weather,Site Supervisor,11/01/2024,10/06/2020,1.717,Y,EPA,Emergency crews responded to traffic accident on site.
+198,294,2024-05-25,Sinkhhole,Low,0,,2.188,Design flaw,Anonymous Tip,2018-01-30,04/07/2021,1.317,N,Y,Sinkhhole occurred during routine operations.
+199,294,10/10/2022,Sinkhhole,Medium,2,0,0.139,Deferred maintenance,Anonymous Tip,2025-03-06,,,,Yes,
+200,294,08/22/2019,Power Outage,High,0,TBD,24.226,Age/deterioration,Site Supervisor,10/07/2019,,29.798,,Yes,
+201,295,2024-01-30,Traffic Accident,Low,2,0,2.484,Under investigation,Public Report,2019-02-28,13/06/2021,2.895,N,OSHA,Incident under investigation. Preliminary cause: under investigation.
+202,300,22/11/2020,Equipment Malfunction,Medium,2,0,1.803,Equipment failure,Inspector,2022-01-02,2020/12/13,1.422,pending,OSHA,Incident under investigation. Preliminary cause: equipment failure.
+203,300,2019-07-30,Flooding,Medium,1,0,0.999,Deferred maintenance,Public Report,2024/03/11,10/15/2024,2.001,No,No,
+204,300,2024/05/22,Flooding,medium ,1,n/a,0.641,Vandalism,Site Supervisor,09/06/2018,08/11/2021,0.492,1,N/A,
+205,303,01/28/2022,Water Main Break,High,11,0,5.612,Age/deterioration,Emergency Services,04/03/2021,,,N,EPA,Emergency crews responded to water main break on site.
+206,303,10/24/2021,Gas Leak,Low,3,0,1.275,Utility conflict,State DOT,2024-10-13,05/11/2022,0.449,N,Yes,Gas Leak occurred during routine operations.
+207,303,,structural failure,Low,2,0,,Natural disaster,Contractor,23/08/2020,,0.751,1,Y,
+208,303,2020/12/08,Sinkhole ,medium ,3,0,1.626,Vandalism,Inspector,2019-03-25,2025-08-13,2.886,,Yes,Worker Injury occurred during routine operations.
+209,309,01-17-2023,Fire,Critical,3,0,4.541,Equipment failure,Emergency Services,2019-05-05,2020/12/21,1.585,Pending,Y,Incident under investigation. Preliminary cause: equipment failure.
+210,309,2021-09-19,Equipment Malfunction,Medium,2,0,0.628,Vandalism,Inspector,2025-01-04,02-07-2019,0.687,Pending,N,Emergency crews responded to equipment malfunction on site.
+211,309,02/12/2024,Flooding,High,8,0,12.838,Natural disaster,Anonymous Tip,13/08/2021,04/20/2022,4.332,,,Incident under investigation. Preliminary cause: natural disaster.
+212,310,2018-02-09,Equipment Malfunction,Critical,9,2,20.199,Utility conflict,Inspector,24/04/2019,,17.026,Y,N/A,Critical severity event. Site temporarily shut down.
+213,310,31/01/2021,Structural Failure,Low,2,0,1.611,Soil instability,Emergency Services,2020/04/28,01/11/2023,2.875,No,EPA,
+214,314,14/09/2022,Sinkhhole,Low,0,0,1.075,Contractor error,Site Supervisor,2023-07-28,2021/07/13,1.825,pending,OSHA,Emergency crews responded to sinkhhole on site.
+215,314,2019/05/12,Equipment Malfunction,HIGH,0,0,0.066,Age/deterioration,Contractor,08-19-2023,,,pending,Yes,
+216,314,2025-04-05,Worker Injury,Medium,0,0,0.689,Deferred maintenance,Emergency Services,2022/07/01,2025/07/12,0.598,N,Yes,Medium severity event. Site temporarily shut down.
+217,316,2023-09-10,Water Main Break,HIGH,3,0,0.237,Design flaw,Public Report,01-09-2022,,0.096,N,,
+218,316,06/02/2018,WATER MAIN BREAK,,3,0,1.017,Deferred maintenance,Site Supervisor,04/21/2024,04-15-2023,1.079,N,N,
+219,316,2020/05/05,Fire,High,10,,8.857,Design flaw,Local Authority,2020/03/09,,12.685,N,No,High severity event. Site temporarily shut down.
+220,316,,Water Main Break,Low,1,0,2.474,Vandalism,Emergency Services,2024-05-26,2022/12/05,1.025,Pending,Y,Emergency crews responded to water main break on site.
+221,320,12/03/2025,Gas Leak,Medium,0,0,1.787,Equipment failure,State DOT,02/10/2019,,2.936,N,,Incident under investigation. Preliminary cause: equipment failure.
+222,320,2024-10-31,,Low,1,0,1.626,Utility conflict,Site Supervisor,05-21-2018,09-09-2020,0.709,0,State DOT,Incident under investigation. Preliminary cause: utility conflict.
+223,320,2023/06/24,Equipment Malfunction,Low,0,0,0.27,Age/deterioration,State DOT,06/01/2025,2024-10-01,0.539,No,EPA,
+224,320,08/25/2024,Traffic Accident,Low,3,0,2.16,Human error,Site Supervisor,08-11-2019,2024-01-24,1.227,Yes,Y,Emergency crews responded to traffic accident on site.
+225,321,,Power Outage,High,1,0,10.667,Soil instability,Inspector,2020/08/09,01-01-2023,21.861,0,OSHA,Power Outage occurred during routine operations.
+226,321,11/25/2021,,Medium,2,0,1.252,Extreme weather,Local Authority,,28/07/2023,1.492,,N,Medium severity event. Site temporarily shut down.
+227,321,21/06/2022,Traffic Accident,Medium,1,0,0.733,Unknown,Emergency Services,24/05/2024,04/14/2022,0.887,No,EPA,Emergency crews responded to traffic accident on site.
+228,321,2022-08-08,,Medium,3,0,1.347,Equipment failure,Public Report,20/05/2024,,0.758,Pending,,Emergency crews responded to collapse on site.
+229,325,05-21-2020,Sinkhole ,High,10,0,20.808,Extreme weather,Local Authority,01/03/2022,04/09/2020,,pending,Y,Incident under investigation. Preliminary cause: extreme weather.
+230,326,01-24-2021,Sinkhole ,Medium,3,0,2.274,Unknown,Local Authority,06-05-2021,2023-03-08,,,State DOT,Flooding occurred during routine operations.
+231,336,2019-04-28,WATER MAIN BREAK,Low,2,0,1.596,Age/deterioration,Local Authority,01-26-2021,2020-09-09,1.28,pending,Yes,
+232,336,03/21/2018,Traffic Accident,High,9,,21.607,Human error,Contractor,03-23-2018,,16.199,1,OSHA,Emergency crews responded to traffic accident on site.
+233,336,04-26-2019,Flooding,low,0,0,1.462,Under investigation,Anonymous Tip,04/24/2020,2023/11/04,3.009,No,No,Emergency crews responded to flooding on site.
+234,337,17/04/2022,Traffic Accident,Low,2,0,0.452,Equipment failure,Inspector,06/06/2018,02/01/2025,0.172,N,N/A,Incident under investigation. Preliminary cause: equipment failure.
+235,339,2022/02/11,Flooding,Low,0,0,2.419,Equipment failure,State DOT,2019-04-12,,4.181,N,EPA,Incident under investigation. Preliminary cause: equipment failure.
+236,339,,Water Main Break,Low,0,0,0.48,Extreme weather,Engineer of Record,04/24/2019,09/28/2019,0.671,N,N/A,Emergency crews responded to water main break on site.
+237,339,10-02-2024,Sinkhhole,Medium,2,0,1.517,Natural disaster,Local Authority,11/03/2023,2024-11-06,2.173,0,OSHA,Sinkhhole occurred during routine operations.
+238,340,22/02/2022,Sinkhole ,Medium,n/a,0,1.522,Equipment failure,Contractor,2023-05-22,,1.17,0,State DOT,Emergency crews responded to flooding on site.
+239,340,2018-12-21,Water Main Break,Low,3,0,1.513,Utility conflict,Site Supervisor,02-16-2020,2021-02-07,0.938,,Y,Incident under investigation. Preliminary cause: utility conflict.
+240,340,03/07/2023,Fire,High,10,0,4.707,Human error,Inspector,07/01/2023,2020-11-30,4.314,N,OSHA,
+241,340,2024-06-23,Structural Failure,medium ,6,0,15.454,Natural disaster,Emergency Services,10/13/2022,10-08-2021,23.347,0,Yes,Incident under investigation. Preliminary cause: natural disaster.
+242,342,25/04/2020,Traffic Accident,Low,,0,TBD,Age/deterioration,Emergency Services,2024-10-11,2021/02/10,0.905,,State DOT,
+243,343,22/10/2024,Collapse,Medium,2,0,0.789,Contractor error,Public Report,20/02/2025,10/05/2019,1.6,Y,State DOT,
+244,343,24/03/2021,Fire,High,6,0,12.347,Utility conflict,State DOT,2024-01-23,2018/08/30,20.083,Y,OSHA,Emergency crews responded to fire on site.
+245,343,28/02/2023,Collapse,Low,2,0,1.069,Deferred maintenance,State DOT,08-23-2024,2020-09-11,1.821,Pending,N,Low severity event. Site temporarily shut down.
+246,348,2024/11/02,Fire,Medium,,0,1.402,Extreme weather,Engineer of Record,18/04/2025,10/23/2025,1.415,1,No,Emergency crews responded to fire on site.
+247,348,2019-01-27,Flooding,High,7,0,1.069,Deferred maintenance,Contractor,09-29-2024,03-10-2024,,Yes,EPA,
+248,348,01-29-2020,Sinkhhole,Medium,0,0,2.056,Equipment failure,Contractor,07/27/2020,,2.239,Yes,N/A,Sinkhhole occurred during routine operations.
+249,348,,Water Main Break,Medium,0,0,0.516,Equipment failure,Anonymous Tip,2025-06-04,11/05/2023,0.94,0,Yes,Incident under investigation. Preliminary cause: equipment failure.
+250,353,19/09/2022,Sinkhhole,Medium,0,,1.878,Utility conflict,Local Authority,09/29/2023,01-16-2025,3.113,0,No,
+251,353,09/05/2019,,CRITICAL,,0,2.205,Material defect,Site Supervisor,30/03/2024,,2.37,N,EPA,
+252,355,11/03/2022,Flooding,Critical,10,0,23.929,Contractor error,Emergency Services,2023/08/08,2024/04/13,9.596,1,,
+253,355,2020-05-03,Fire,High,n/a,0,5.765,Extreme weather,Site Supervisor,2019-05-19,05-24-2019,11.291,pending,Yes,High severity event. Site temporarily shut down.
+254,356,06-07-2024,Water Main Break,High,6,0,21.865,Design flaw,Contractor,2018/01/05,18/12/2022,39.299,No,Y,High severity event. Site temporarily shut down.
+255,359,2019-06-27,Sinkhhole,Low,1,0,0.956,Natural disaster,Inspector,06/04/2021,12/10/2019,1.682,N,,
+256,359,12/28/2021,Flooding,Low,2,0,1.239,Unknown,Anonymous Tip,12/19/2022,01-25-2025,0.982,0,Yes,
+257,359,2024/03/02,Environmental Spill,medium ,3,0,1.181,Equipment failure,Contractor,04-14-2019,11/10/2019,,pending,N/A,
+258,361,09-28-2023,Structural Failure,Low,0,0,1.025,Material defect,Local Authority,14/11/2021,11-24-2023,0.579,No,OSHA,Incident under investigation. Preliminary cause: material defect.
+259,361,04-14-2018,Equipment Malfunction,Medium,n/a,0,1.026,Soil instability,Contractor,08-22-2022,2019-04-12,1.417,1,Y,Incident under investigation. Preliminary cause: soil instability.
+260,361,06/06/2021,Flooding,Critical,11,0,13.491,Under investigation,Site Supervisor,03/08/2024,,22.86,pending,N,
+261,361,2021-11-20,Sinkhhole,CRITICAL,3,0,1.039,Unknown,Site Supervisor,02/09/2023,2022/01/06,0.967,No,,Medium severity event. Site temporarily shut down.
+262,362,06/26/2019,Sinkhole ,Low,n/a,0,,Human error,Inspector,2024-02-29,2025/01/28,3.285,,Y,Incident under investigation. Preliminary cause: human error.
+263,366,07/13/2018,Traffic Accident,Low,1,0,1.827,Soil instability,State DOT,10/03/2020,21/04/2025,3.693,N,Y,Incident under investigation. Preliminary cause: soil instability.
+264,371,2024/10/13,,Low,3,0,0.974,Natural disaster,Anonymous Tip,11/21/2021,,0.649,,State DOT,Incident under investigation. Preliminary cause: natural disaster.
+265,376,23/05/2025,Fire,Medium,0,0,0.537,Natural disaster,Anonymous Tip,12/15/2021,,0.204,Yes,N/A,Emergency crews responded to fire on site.
+266,376,02-20-2023,Power Outage,medium ,2,,1.815,Deferred maintenance,Public Report,09/12/2020,04-27-2019,3.278,1,State DOT,Medium severity event. Site temporarily shut down.
+267,376,2019-04-29,Structural Failure,Medium,0,0,2.298,Unknown,Contractor,11-04-2023,05-08-2025,,Pending,EPA,
+268,377,2025-05-12,Sinkhole ,Low,2,0,1.306,Material defect,Site Supervisor,10/13/2018,28/06/2019,1.316,pending,EPA,
+269,377,09/16/2020,,Low,,0,1.793,Under investigation,Public Report,06/03/2021,2024-09-26,,0,EPA,Low severity event. Site temporarily shut down.
+270,377,07-12-2018,Sinkhole ,Low,0,0,TBD,Human error,Inspector,2024/02/15,08-26-2023,1.588,pending,,Incident under investigation. Preliminary cause: human error.
+271,384,2019-10-04,Sinkhole ,Medium,2,0,1.821,Human error,Engineer of Record,07/05/2022,19/02/2024,2.016,N,OSHA,Medium severity event. Site temporarily shut down.
+272,384,16/10/2019,Traffic Accident,Low,1,0,,Human error,Anonymous Tip,02/09/2021,10-28-2019,4.996,N,OSHA,
+273,384,11-19-2022,Power Outage,Low,1,0,0.279,Extreme weather,Anonymous Tip,04/05/2018,27/01/2021,0.215,Y,Yes,
+274,387,,Collapse,Low,2,0,,Human error,Contractor,04/08/2024,10/05/2022,-,Y,Yes,Low severity event. Site temporarily shut down.
+275,387,,Flooding,Low,3,0,0.474,Equipment failure,Public Report,07-29-2024,,0.701,0,N/A,
+276,387,24/05/2025,Traffic Accident,Low,1,0,0.713,Vandalism,Emergency Services,2020/11/24,09-06-2024,0.475,N,N,Traffic Accident occurred during routine operations.
+277,387,01/08/2024,Traffic Accident,,4,0,22.942,Extreme weather,Anonymous Tip,10/04/2022,11/06/2020,28.255,Yes,Y,Emergency crews responded to traffic accident on site.
+278,391,,Gas Leak,Low,3,0,1.664,Human error,Engineer of Record,,2021/03/06,2.218,N,N,
+279,391,04/12/2024,Gas Leak,High,10,0,14.412,Under investigation,Anonymous Tip,03/26/2021,25/01/2025,18.01,,EPA,
+280,398,05/08/2019,Power Outage,Low,1,0,0.412,Soil instability,Public Report,2024-01-05,,0.827,N,N,Incident under investigation. Preliminary cause: soil instability.
+281,400,05-14-2021,Collapse,Low,3,0,0.103,Extreme weather,Site Supervisor,2021/07/29,2022/07/06,0.064,N,State DOT,Incident under investigation. Preliminary cause: extreme weather.
+282,401,12-03-2021,Flooding,Low,0,0,1.593,Age/deterioration,Public Report,2021-06-23,2023-11-17,1.835,,N/A,Incident under investigation. Preliminary cause: age/deterioration.
+283,401,16/05/2023,Sinkhole ,medium ,2,0,1.085,Contractor error,State DOT,2021/09/28,07-12-2018,0.445,No,N/A,Emergency crews responded to fire on site.
+284,402,2018/04/30,Environmental Spill,Critical,6,0,16.358,Deferred maintenance,Local Authority,13/02/2020,08-02-2025,22.151,Pending,State DOT,Emergency crews responded to environmental spill on site.
+285,402,07/28/2023,Traffic Accident,High,6,0,4.045,Soil instability,Anonymous Tip,2023-04-09,,6.717,N,N/A,
+286,402,07/04/2019,Equipment Malfunction,Low,1,0,0.941,Human error,Emergency Services,2023/03/02,05/21/2019,1.028,1,No,Low severity event. Site temporarily shut down.
+287,402,2021/10/18,Flooding,Low,2,,0.685,Equipment failure,Site Supervisor,11-10-2020,2020/05/04,,N,No,
+288,403,08/02/2020,Power Outage,Medium,2,0,0.643,Design flaw,Local Authority,2021/02/03,09/07/2018,1.337,Y,OSHA,
+289,408,2019-03-04,Environmental Spill,Medium,1,0,1.65,Extreme weather,Local Authority,2024-04-02,22/04/2019,2.283,1,Y,Environmental Spill occurred during routine operations.
+290,408,2024-10-30,WATER MAIN BREAK,High,5,0,7.053,Utility conflict,Local Authority,21/12/2022,22/06/2018,10.781,,No,
+291,408,29/01/2018,Collapse,Low,2,0,0.939,Under investigation,State DOT,2019-10-12,,0.318,N,Y,Incident under investigation. Preliminary cause: under investigation.
+292,408,20/08/2023,Worker Injury,medium ,1,0,0.487,Deferred maintenance,Anonymous Tip,2018/06/01,,0.992,Y,Y,Incident under investigation. Preliminary cause: deferred maintenance.
+293,413,2022/02/24,,Medium,1,0,1.104,Unknown,Site Supervisor,10/10/2024,,2.244,,State DOT,Traffic Accident occurred during routine operations.
+294,415,07-27-2022,Fire,,5,0,5.415,Natural disaster,Contractor,2023/03/03,,6.762,Yes,N/A,Fire occurred during routine operations.
+295,419,2021-05-20,Flooding,Low,2,0,0.138,Contractor error,Engineer of Record,03-31-2023,28/09/2024,n/a,0,EPA,Emergency crews responded to flooding on site.
+296,419,06/11/2018,Gas Leak,Medium,2,,1.812,Unknown,State DOT,02-09-2025,13/01/2022,1.923,N,N/A,Medium severity event. Site temporarily shut down.
+297,419,21/10/2024,Collapse,CRITICAL,,0,1.782,Vandalism,Engineer of Record,2018-03-30,2023/12/31,1.072,pending,EPA,
+298,427,11-14-2018,Sinkhole ,High,9,0,6.248,Deferred maintenance,Site Supervisor,2019-12-09,03/03/2019,11.893,No,,High severity event. Site temporarily shut down.
+299,428,07-15-2018,Structural Failure,Medium,1,0,1.661,Extreme weather,Local Authority,2021-11-03,2023/10/20,,,State DOT,
+300,429,09/14/2019,Environmental Spill,Low,1,,2.284,Equipment failure,Public Report,2025/01/24,08/03/2025,1.321,N,EPA,Low severity event. Site temporarily shut down.
+301,429,02/02/2018,Worker Injury,High,5,0,16.579,Natural disaster,Engineer of Record,06-04-2022,,25.858,0,,Incident under investigation. Preliminary cause: natural disaster.
+302,429,21/11/2018,Fire,Medium,,0,2.168,Utility conflict,Engineer of Record,01-15-2019,2025-03-21,1.337,Y,OSHA,
+303,431,29/04/2019,Fire,High,5,0,14.353,Contractor error,Site Supervisor,2025/03/31,2018/12/22,,N,State DOT,
+304,431,,Worker Injury,Low,0,0,0.008,Deferred maintenance,Inspector,01-20-2022,2025/10/10,,0,OSHA,Incident under investigation. Preliminary cause: deferred maintenance.
+305,432,2022-01-12,Power Outage,Low,2,0,,Contractor error,Inspector,2025/03/08,03/28/2019,,No,No,Emergency crews responded to power outage on site.
+306,432,04/02/2018,WATER MAIN BREAK,Low,,0,,Design flaw,Site Supervisor,04/29/2020,2018/12/14,,pending,N,Incident under investigation. Preliminary cause: design flaw.
+307,432,28/04/2022,Collapse,Medium,0,0,2.059,Under investigation,Engineer of Record,2025-05-26,07/15/2024,3.798,No,Yes,Medium severity event. Site temporarily shut down.
+308,432,2019/01/06,Fire,CRITICAL,0,0,1.941,Contractor error,Contractor,05-28-2018,12-02-2018,n/a,pending,N,Low severity event. Site temporarily shut down.
+309,437,2023/07/18,Fire,Medium,,0,1.269,Contractor error,Inspector,11/03/2019,19/03/2024,2.173,Y,N,Fire occurred during routine operations.
+310,437,2018-10-09,Traffic Accident,Medium,3,0,1.607,Material defect,Emergency Services,2018-04-18,,2.867,pending,Y,Emergency crews responded to traffic accident on site.
+311,437,03-16-2018,Water Main Break,Low,0,0,2.175,Utility conflict,Public Report,03-21-2022,16/09/2020,4.268,Pending,N/A,Emergency crews responded to water main break on site.
+312,440,10/22/2020,Environmental Spill,Low,1,0,1.961,Equipment failure,Local Authority,05-28-2025,08-02-2023,TBD,Y,State DOT,Low severity event. Site temporarily shut down.
+313,440,2022-06-21,Gas Leak,Medium,3,,1.744,Equipment failure,Site Supervisor,2024-02-23,2024-04-30,,N,N,Incident under investigation. Preliminary cause: equipment failure.
+314,440,2018/08/23,Sinkhole ,Medium,3,0,0.954,Human error,Site Supervisor,2023/12/12,2021/10/13,1.382,N,N,Water Main Break occurred during routine operations.
+315,440,2019-07-02,Gas Leak,Medium,2,0,?,Vandalism,Anonymous Tip,03/21/2023,2024/09/19,1.267,0,Yes,Incident under investigation. Preliminary cause: vandalism.
+316,447,10/20/2018,Equipment Malfunction,Medium,2,0,1.497,Deferred maintenance,Inspector,,2020/11/03,2.722,No,N,Emergency crews responded to equipment malfunction on site.
+317,447,2020/04/11,Power Outage,,1,0,12.866,Material defect,State DOT,,2019/08/07,,1,EPA,Incident under investigation. Preliminary cause: material defect.
+318,447,01/04/2021,Sinkhhole,Medium,2,0,,Soil instability,Anonymous Tip,04/14/2019,13/03/2020,0.53,Pending,State DOT,Emergency crews responded to sinkhhole on site.
+319,447,2022-05-31,Fire,,1,0,1.378,Human error,Inspector,2024/08/24,08/03/2019,2.456,pending,Y,
+320,449,01/18/2024,Sinkhole ,Low,1,0,n/a,Human error,Local Authority,07-31-2021,2020-05-17,0.111,Yes,Y,Emergency crews responded to power outage on site.
+321,449,05/14/2021,,High,7,0,5.141,Extreme weather,Inspector,31/10/2024,,9.433,N,State DOT,
+322,449,,Equipment Malfunction,low,0,0,1.065,Vandalism,Inspector,23/05/2021,12-25-2023,0.36,Y,State DOT,Equipment Malfunction occurred during routine operations.
+323,450,2021-10-30,Equipment Malfunction,medium ,7,0,2.652,Human error,Emergency Services,01/28/2023,,4.237,pending,,Incident under investigation. Preliminary cause: human error.
+324,450,17/08/2020,structural failure,Low,3,0,0.958,Equipment failure,Inspector,2021/01/30,02/14/2025,1.124,N,OSHA,Low severity event. Site temporarily shut down.
+325,450,2018-10-26,Flooding,,3,0,1.034,Equipment failure,Anonymous Tip,2019-06-28,,1.163,pending,No,Flooding occurred during routine operations.
+326,450,03-05-2023,Equipment Malfunction,CRITICAL,3,0,1.589,Natural disaster,Contractor,03/18/2025,26/12/2021,1.032,Y,No,
+327,454,2022-11-03,structural failure,Low,1,0,2.38,Equipment failure,Public Report,2019/11/06,,1.095,0,Yes,Low severity event. Site temporarily shut down.
+328,456,04/18/2019,Worker Injury,Low,3,0,0.584,Material defect,Local Authority,05-25-2020,,1.098,N,OSHA,Low severity event. Site temporarily shut down.
+329,456,02-19-2021,Structural Failure,Medium,2,0,0.333,Equipment failure,Emergency Services,2019/10/10,,0.149,Pending,State DOT,Emergency crews responded to structural failure on site.
+330,456,07-02-2023,Sinkhhole,Medium,2,?,1.493,Vandalism,Emergency Services,11/10/2024,08-23-2024,3.001,0,OSHA,Incident under investigation. Preliminary cause: vandalism.
+331,456,2023/04/26,Water Main Break,Critical,1,0,21.877,Deferred maintenance,Engineer of Record,2024/12/10,2020/04/12,21.856,N,,
+332,458,01/04/2018,Traffic Accident,Low,1,0,N/A,Material defect,Local Authority,2020-04-05,27/01/2021,-,Yes,Yes,
+333,458,02-22-2023,Fire,Low,2,0,1.375,Design flaw,Contractor,09/07/2022,08-15-2023,,Y,OSHA,Incident under investigation. Preliminary cause: design flaw.
+334,458,2022/12/08,Equipment Malfunction,Medium,3,0,2.024,Under investigation,Engineer of Record,,24/04/2024,?,pending,N/A,
+335,458,2024/03/01,Structural Failure,Low,3,0,1.677,Human error,Emergency Services,09-24-2021,2020/08/10,2.909,1,OSHA,Incident under investigation. Preliminary cause: human error.
+336,468,2024-02-05,Equipment Malfunction,HIGH,,0,,Deferred maintenance,Site Supervisor,2023-09-17,,0.201,1,State DOT,
+337,468,2018-01-08,Collapse,low,3,0,2.399,Equipment failure,Inspector,,19/09/2018,3.192,pending,EPA,Collapse occurred during routine operations.
+338,468,2025-04-21,Fire,,3,0,2.158,Human error,Inspector,07/14/2024,06-07-2023,3.624,No,,Emergency crews responded to fire on site.
+339,472,10/22/2018,Worker Injury,Medium,0,0,2.396,Unknown,Inspector,07-05-2022,12/05/2023,3.074,0,Y,Incident under investigation. Preliminary cause: unknown.
+340,472,09-22-2020,Gas Leak,Low,,0,1.871,Soil instability,Emergency Services,04-15-2019,2020/03/31,2.681,No,Y,Incident under investigation. Preliminary cause: soil instability.
+341,472,,Equipment Malfunction,Medium,0,0,2.234,Design flaw,Inspector,2021-08-18,,2.898,No,EPA,Emergency crews responded to equipment malfunction on site.
+342,472,2024/10/06,Structural Failure,Medium,1,0,1.529,Under investigation,Contractor,,2018/04/15,0.824,Y,Y,
+343,480,04/22/2025,Fire,Low,3,TBD,1.566,Vandalism,Anonymous Tip,12/12/2020,2023/09/28,0.942,N,OSHA,
+344,482,12/01/2025,Sinkhole ,Medium,,0,1.142,Equipment failure,Local Authority,,02/11/2020,2.176,Pending,No,Incident under investigation. Preliminary cause: equipment failure.
+345,482,13/02/2021,Collapse,Low,0,0,2.211,Vandalism,Engineer of Record,24/12/2019,06-30-2019,1.893,N,Yes,
+346,482,2024-04-02,Power Outage,Low,3,0,0.628,Utility conflict,Emergency Services,,09/09/2020,0.345,Pending,Y,
+347,482,2019-04-13,Worker Injury,Medium,2,0,0.048,Unknown,Emergency Services,2021-03-18,05-22-2024,0.096,,EPA,Worker Injury occurred during routine operations.
+348,486,2024-08-28,Equipment Malfunction,,2,0,1.262,Human error,State DOT,2020-11-14,2022-08-09,2.264,N,N/A,Medium severity event. Site temporarily shut down.
+349,493,11/12/2022,Flooding,CRITICAL,11,0,6.413,Soil instability,Public Report,09-17-2022,03/03/2020,8.787,N,State DOT,Flooding occurred during routine operations.
+350,493,06-05-2020,WATER MAIN BREAK,Critical,1,0,7.316,Vandalism,Contractor,05/29/2024,2023-11-19,13.869,N,State DOT,Traffic Accident occurred during routine operations.
+351,493,2021-05-25,Sinkhhole,Medium,0,0,0.101,Age/deterioration,Contractor,16/02/2024,,0.108,0,EPA,Incident under investigation. Preliminary cause: age/deterioration.
+352,493,,,Medium,1,0,1.869,Natural disaster,Contractor,31/12/2020,06/21/2022,,N,N/A,Emergency crews responded to water main break on site.
+353,497,07-27-2018,Collapse,High,12,0,,Under investigation,Site Supervisor,2021/06/16,,10.243,No,Y,
+354,498,24/02/2024,Equipment Malfunction,Low,3,?,0.531,Extreme weather,Public Report,2019-06-24,2022/06/09,0.55,0,EPA,
+355,498,2019/02/23,Structural Failure,Medium,,0,0.026,Design flaw,Local Authority,04/15/2023,,0.044,Y,Yes,
+356,499,2020-08-16,WATER MAIN BREAK,Low,1,0,0.52,Material defect,Local Authority,2022/12/21,11-03-2023,,Pending,OSHA,Structural Failure occurred during routine operations.

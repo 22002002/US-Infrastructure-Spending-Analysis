@@ -1,0 +1,31 @@
+contractor_id,company_name,city,state_abbr,company_size,annual_revenue_million,employees,years_in_business,specialty,certified_minority_owned,certified_woman_owned,active_flag
+1,Bechtel Group,San Francisco,CA,Large,10269.1,37717,34,Bridges,1,Y,1
+2,Fluor Corporation,Irving,TX,Large,1193.7,50190,84,Transit,,Yes,1
+3,Kiewit Corporation,Omaha,NE,Large,4494.3,55665,93,Rail,0,,TRUE
+4,AECOM,Los Angeles,CA,Large,10290.1,6478,82,Environmental,Yes,,0
+5,Jacobs Engineering,Dallas,TX,Large,6617.9,76015,51,Water,N,N,FALSE
+6,Turner Construction,New York,NY,Large,11200.9,44446,107,Bridges,0,Y,1
+7,Walsh Group,Chicago,IL,Large,11237.7,34412,79,General Civil,No,Y,0
+8,Skanska USA,New York,NY,Large,567.8,64619,19,Bridges,N,Yes,1
+9,Black & Veatch,Overland Park,KS,Large,4203.3,48616,32,Environmental,0,N,FALSE
+10,Parsons Corporation,Centreville,VA,Large,8961.2,2849,11,Electrical,,N,0
+11,HDR Inc,Omaha,NE,Medium,1958.6,,107,Water,N,,1
+12,Burns & McDonnell,Kansas City,MO,MEDIUM,6729.6,,70,Telecom,N,N,0
+13,Granite Construction,Watsonville,CA,Medium,13490.0,42269,82,Water,N,N,TRUE
+14,Peter Kiewit Sons,Omaha,NE,Large,8274.5,28233,60,Environmental,N,,FALSE
+15,Mortenson Construction,Minneapolis,MN,Medium,6483.8,48893,108,Water,,Y,FALSE
+16,DPR Construction,Redwood City,CA,Medium,7238.0,14234,n/a,Marine,,Y,TRUE
+17,McCarthy Holdings,St. Louis,MO,Medium,13823.8,46059,5,Water,N,Yes,1
+18,Hensel Phelps,Greeley,CO,Medium,13251.3,20442,25,Telecom,Y,No,1
+19,Sundt Construction,Tempe,AZ,Medium,690.8,51857,81,Roads,Y,N,TRUE
+20,Barton Malow,Southfield,MI,Medium,5319.0,52094,n/a,Roads,1,Y,0
+21,Brasfield & Gorrie,Birmingham,AL,Medium,5434.2,57290,113,Bridges,N,N,1
+22,Archer Western,Atlanta,GA,Medium,12286.0,19408,35,Bridges,N,N,0
+23,Lane Construction,Cheshire,CT,Medium,14798.1,42413,n/a,Electrical,N,N,1
+24,Kratos Defense,San Diego,CA,Small,9229.0,66512,54,Environmental,,,1
+25,Triton Construction,Nashville,TN,Small,2596.7,32522,95,Environmental,0,Yes,1
+26,BlueStar Infrastructure,Phoenix,AZ,Small,12775.0,79047,116,Water,No,Y,1
+27,RiverBend Builders,Louisville,KY,Small,14207.2,69045,16,General Civil,,N,1
+28,GreatPlains Civil,Wichita,KS,Small,13256.4,4997,,Electrical,N,Yes,1
+29,Northeast Utility Contractors,Hartford,CT,Small,11288.3,58891,34,Marine,N,N,0
+30,Pacific Rim Engineers,Seattle,WA,Small,13096.3,6889,87,Environmental,,Yes,1

@@ -1,0 +1,1663 @@
+inspection_id,project_id,inspection_date,inspector_name,inspector_id,inspection_type,result,score_out_of_100,deficiencies_found,reinspection_required,reinspection_date,regulatory_body,notes
+1,1,09/28/2024,G. Martinez,,Environmental Compliance,Pass,n/a,2,Y,06/12/2019,FAA,
+2,1,2024/02/16,S. Williams,INS-53437,Electrical,Pass,98,3,,,State DEP,Closed
+3,1,09/02/2023,M. Chen,INS-91623,Quality Control,Pass with Conditions,64,0,Y,11-18-2022,Army Corps,
+4,1,01/09/2021,M. Chen,INS-27783,Environmental Compliance,Pass with Conditions,90,2,Y,08-06-2021,Local Building Dept,Closed
+5,1,2020-08-16,A. Nguyen,INS-46731,Quality Control,Pass,-,2,N,,State DEP,
+6,2,2023-04-21,I. Jackson,INS-32437,Plumbing,Fail,51,4,Y,08/06/2019,OSHA,
+7,2,,H. Lee,,Routine Safety,Pass With Conditions,,1,N,,OSHA,Follow-up required
+8,2,02-05-2025,M. Chen,INS-53810,Environmental Compliance,Pass,,3,N,,FHWA,Closed
+9,2,2023/02/10,M. Chen,INS-84774,Environmental Compliance,Pass,,3,N,,FTA,
+10,2,16/03/2023,S. Williams,INS-43355,Fire Safety,Pass,,2,N,,OSHA,
+11,2,01/03/2019,H. Lee,,Final Walkthrough,Pass,73,n/a,N,,State DOT,Closed
+12,3,08-24-2024,C. Richardson,INS-32934,Interim Progress,Pass,55,2,N,,EPA,Closed
+13,4,2022/02/18,G. Martinez,INS-39311,Electrical,Pass,70,0,YES,,State DEP,
+14,5,04-16-2020,H. Lee,INS-44128,Quality Control,Pass,67,3,N,,Army Corps,Closed
+15,5,02/01/2022,B. Torres,,Plumbing,Pass,79,1,yes,,Local Building Dept,
+16,5,09/12/2023,E. Hoffman,INS-83772,Quality Control,Fail,61,7,Y,01/26/2025,Army Corps,
+17,5,06-10-2022,E. Hoffman,,Quality Control,Pass,80,1,yes,,FHWA,
+18,6,2024-09-04,G. Martinez,INS-68990,Plumbing,Deferred,85,2,N,,Army Corps,Cited violation
+19,6,02-02-2021,D. Freeman,INS-25379,Plumbing,,n/a,3,Y,13/03/2019,EPA,Closed
+20,6,,H. Lee,INS-22108,Routine Safety,Pass,78,2,N,,FTA,
+21,7,05/03/2024,M. Chen,,Quality Control,Pass,62,0,N,,State DEP,
+22,7,12-10-2022,A. Nguyen,INS-61681,Structural,Pass,100,2,,2019-11-07,Army Corps,Follow-up required
+23,8,05/22/2023,B. Torres,,Electrical,Pass with Conditions,69,0,Y,2021/08/22,State DEP,Follow-up required
+24,8,01/10/2019,E. Hoffman,INS-76688,Fire Safety,Pass,92,3,N,,FHWA,
+25,8,08/08/2024,R. Patel,,Quality Control,Pass With Conditions,92,2,N,,State DEP,
+26,8,03-27-2020,R. Patel,INS-34446,Routine Safety,Pass,57,2,YES,2020-02-15,Army Corps,Closed
+27,8,2022/06/08,D. Freeman,INS-59399,Routine Safety,Pass,67,2,,,OSHA,
+28,8,11/10/2021,D. Freeman,INS-64418,Environmental Compliance,Pass,85,2,N,,Local Building Dept,
+29,9,06-29-2020,J. Kowalski,INS-35310,Structural,Pass,55,2,N,,FAA,
+30,9,06/06/2023,C. Richardson,INS-28679,Routine Safety,Pass,,1,yes,2023/11/08,Local Building Dept,Follow-up required
+31,9,24/08/2019,K. O'Brien,INS-89385,Structural,Pass,73,N/A,N,,Army Corps,
+32,9,07-28-2019,R. Patel,INS-49627,Routine Safety,Pass,81,1,N,,Local Building Dept,
+33,10,04-13-2025,I. Jackson,INS-83834,Environmental Compliance,Pass,59,1,Y,08-15-2022,Army Corps,
+34,10,06-03-2023,K. O'Brien,INS-56699,Routine Safety,Pass,65,3,N,,Army Corps,
+35,10,11/12/2022,J. Kowalski,INS-94232,Electrical,pass,46,4,Y,02/18/2020,Army Corps,
+36,10,2019/04/11,S. Williams,INS-21732,Electrical,Pass,55,1,N,,EPA,
+37,10,2019/06/22,G. Martinez,INS-31015,Structural,Pass,87,0,Y,,EPA,
+38,10,16/06/2024,E. Hoffman,,Final Walkthrough,Pass with Conditions,78,0,Y,2023/03/27,Army Corps,
+39,11,2025-01-24,C. Richardson,,Electrical,Pass,59,0,N,,FTA,Follow-up required
+40,11,09-19-2024,R. Patel,INS-39624,Fire Safety,Pass,,2,,,FHWA,
+41,11,2022/03/14,G. Martinez,INS-24996,Fire Safety,,70,0,Y,2023/01/28,FTA,Follow-up required
+42,11,2021/05/19,A. Nguyen,INS-13036,Environmental Compliance,Pass,65,0,N,,FHWA,Follow-up required
+43,11,,C. Richardson,INS-62183,Environmental Compliance,Pass,95,3,No,,FHWA,
+44,11,,K. O'Brien,INS-92505,Interim Progress,Pass,91,2,N,,FAA,
+45,12,08/19/2019,G. Martinez,INS-14081,Final Walkthrough,,81,2,No,,State DEP,
+46,12,2023-05-31,G. Martinez,INS-88619,Quality Control,Pass,93,1,Y,07-20-2020,Local Building Dept,
+47,12,,S. Williams,INS-85969,Environmental Compliance,Pass,90,0,N,,Army Corps,
+48,13,2024-02-08,H. Lee,,Plumbing,Pass,93,1,Y,05/15/2019,State DOT,
+49,13,2024/09/07,I. Jackson,INS-54319,Structural,Pass,98,0,,,State DOT,
+50,14,2019/03/07,E. Hoffman,INS-18282,Quality Control,Pass with Conditions,59,1,Y,2023-04-28,EPA,
+51,14,2024/12/29,M. Chen,INS-81518,Structural,Pass,90,N/A,Y,,State DOT,Follow-up required
+52,14,,A. Nguyen,INS-70211,Environmental Compliance,Pass,82,0,No,,FAA,
+53,14,07-20-2023,S. Williams,INS-72891,Plumbing,Pass,98,2,N,,OSHA,Cited violation
+54,15,2024-01-16,B. Torres,INS-41088,Plumbing,,78,1,N,,FTA,
+55,16,09/16/2023,D. Freeman,INS-19750,Environmental Compliance,pass,94,3,N,,EPA,Follow-up required
+56,18,,S. Williams,INS-81294,Structural,,86,1,N,,FTA,
+57,19,2023-11-11,I. Jackson,INS-41771,Electrical,Pass,93,2,N,,OSHA,Closed
+58,19,2024-01-09,K. O'Brien,INS-85506,Routine Safety,Pass,65,1,Y,,FHWA,Closed
+59,20,10/06/2024,A. Nguyen,INS-61363,Environmental Compliance,Pass,99,,No,,FHWA,
+60,20,31/01/2020,G. Martinez,INS-40399,Interim Progress,FAIL,60,3,N,,OSHA,
+61,20,11-22-2020,K. O'Brien,INS-80702,Quality Control,Pass,61,1,N,,FAA,
+62,20,10/06/2020,I. Jackson,INS-58964,Quality Control,Pass,57,0,N,,Army Corps,
+63,21,2019/09/07,R. Patel,INS-91417,Fire Safety,Pass,80,0,N,,Local Building Dept,Follow-up required
+64,22,02-23-2019,C. Richardson,INS-89055,Electrical,Deferred,60,1,Y,04/17/2020,Local Building Dept,
+65,22,,G. Martinez,INS-50038,Quality Control,Pass,86,0,N,,Army Corps,Closed
+66,22,2024-02-04,R. Patel,INS-54009,Final Walkthrough,Pass,68,2,no,,FHWA,Closed
+67,23,04/12/2019,K. O'Brien,TBD,Quality Control,Pass with Conditions,,1,Y,,State DOT,
+68,23,13/05/2023,E. Hoffman,INS-87594,Fire Safety,Pass,70,3,N,,EPA,
+69,23,2021-11-06,J. Kowalski,INS-51511,Fire Safety,Pass,97,3,N,,EPA,
+70,23,2019-02-27,S. Williams,INS-37363,Structural,Pass With Conditions,N/A,0,N,,FAA,Follow-up required
+71,23,2024-12-16,J. Kowalski,INS-77810,Final Walkthrough,Pass,92,1,yes,,EPA,Escalated to state
+72,24,2020/03/04,R. Patel,INS-10217,Routine Safety,fail,100,1,Y,2019-08-04,FTA,
+73,24,04-05-2021,K. O'Brien,INS-87641,Interim Progress,Pass,,0,N,,Local Building Dept,Cited violation
+74,25,08/16/2022,G. Martinez,,Structural,Pass,59,0,N,,OSHA,Escalated to state
+75,25,2024/08/07,M. Chen,INS-52507,Structural,Pass,80,3,Y,2021-03-28,OSHA,Closed
+76,25,2020-06-11,E. Hoffman,INS-65572,Environmental Compliance,Pass,73,0,,05-07-2025,EPA,
+77,25,2023-10-01,H. Lee,INS-56896,Fire Safety,Pass,79,0,N,,FTA,Escalated to state
+78,25,2024/10/15,K. O'Brien,INS-71257,Routine Safety,Pass,91,0,N,,FTA,
+79,26,,A. Nguyen,INS-23217,Final Walkthrough,Fail,,0,Y,,State DEP,
+80,26,2021-10-23,M. Chen,INS-40285,Environmental Compliance,Fail,54,0,Y,05/30/2022,State DOT,Cited violation
+81,27,06-14-2024,H. Lee,INS-24584,Quality Control,Pass,84,0,N,,FTA,Escalated to state
+82,27,2023/08/07,S. Williams,INS-63070,Final Walkthrough,Pass with Conditions,60,?,Y,05/28/2022,FAA,
+83,27,11/14/2023,I. Jackson,INS-89576,Electrical,Fail,44,0,Y,,FAA,Follow-up required
+84,28,07-27-2022,H. Lee,INS-60322,Environmental Compliance,Pass,82,0,N,,FAA,
+85,29,07/09/2020,H. Lee,INS-29068,Interim Progress,Pass With Conditions,49,,Y,2022-09-18,State DEP,
+86,29,11-27-2019,A. Nguyen,INS-22965,Plumbing,Pass,,0,YES,,FAA,Follow-up required
+87,29,18/01/2023,R. Patel,INS-63067,Interim Progress,Pass,93,0,N,,Army Corps,Follow-up required
+88,30,2021/10/26,J. Kowalski,INS-22408,Final Walkthrough,Pass,71,1,N,,Local Building Dept,Follow-up required
+89,30,,B. Torres,INS-21721,Fire Safety,Pass,73,2,N,,EPA,Cited violation
+90,30,2023-08-18,R. Patel,INS-49487,Environmental Compliance,Pass,99,0,Y,,State DOT,
+91,31,01/30/2023,B. Torres,INS-56637,Environmental Compliance,Deferred,97,3,,,FHWA,
+92,31,2025/03/07,I. Jackson,INS-87423,Structural,Deferred,76,0,Y,,Local Building Dept,
+93,31,2023/05/02,B. Torres,,Interim Progress,Pass,76,3,No,,State DOT,Escalated to state
+94,31,,S. Williams,INS-53079,Quality Control,Pass,89,1,yes,,Local Building Dept,Cited violation
+95,32,03/10/2020,H. Lee,INS-50333,Final Walkthrough,PASS,32,4,Y,,FHWA,Follow-up required
+96,32,01/31/2025,G. Martinez,,Environmental Compliance,Pass,72,1,N,,FTA,Follow-up required
+97,32,2021/02/16,I. Jackson,INS-71318,Electrical,Pass,59,-,Y,02/02/2024,EPA,
+98,32,14/07/2020,K. O'Brien,,Environmental Compliance,Deferred,78,1,Y,01-19-2021,FAA,Follow-up required
+99,33,2022-05-29,S. Williams,,Final Walkthrough,Pass,,1,yes,,State DOT,Cited violation
+100,33,,R. Patel,INS-75570,Quality Control,Pass with Conditions,?,1,Y,08/28/2020,State DEP,
+101,33,10/10/2022,A. Nguyen,INS-83253,Interim Progress,Pass,91,2,YES,,OSHA,
+102,34,2023-12-02,D. Freeman,INS-54011,Interim Progress,Pass,82,1,N,,Army Corps,Escalated to state
+103,34,,D. Freeman,INS-97066,Electrical,Pass,76,3,Y,,State DEP,Closed
+104,34,05-23-2024,I. Jackson,INS-19797,Fire Safety,Pass,97,2,N,,Army Corps,
+105,34,2022/06/12,A. Nguyen,,Interim Progress,Pass with Conditions,62,2,Y,,State DEP,
+106,34,2022/06/24,K. O'Brien,INS-58650,Interim Progress,Pass,88,TBD,Y,06/24/2020,Local Building Dept,
+107,35,08-30-2021,R. Patel,INS-76061,Electrical,Pass with Conditions,86,2,Y,03/15/2024,OSHA,Cited violation
+108,35,04/26/2021,I. Jackson,INS-28249,Final Walkthrough,Pass,80,0,N,,Army Corps,
+109,35,2023/08/10,C. Richardson,INS-71625,Environmental Compliance,Fail,53,0,Y,2022/10/10,Local Building Dept,Escalated to state
+110,35,01-06-2023,E. Hoffman,INS-57298,Plumbing,Pass,92,0,,,Local Building Dept,Cited violation
+111,35,30/05/2020,R. Patel,INS-75951,Plumbing,Pass,60,3,N,,FHWA,Follow-up required
+112,35,2022-08-21,B. Torres,INS-13320,Plumbing,Pass,56,2,yes,,State DEP,Escalated to state
+113,36,2019-06-30,G. Martinez,INS-94226,Structural,Pass with Conditions,96,3,Y,,OSHA,
+114,36,24/03/2023,B. Torres,INS-67669,Structural,Pass,N/A,,N,,Army Corps,
+115,36,2022-11-02,K. O'Brien,INS-57768,Quality Control,Pass,57,0,N,,FHWA,Escalated to state
+116,36,10/17/2019,R. Patel,INS-61016,Structural,Pass,96,0,Y,01-21-2022,State DEP,Cited violation
+117,36,09-04-2024,J. Kowalski,INS-39220,Electrical,fail,60,3,Y,2023-12-10,Local Building Dept,
+118,36,12-30-2020,A. Nguyen,-,Fire Safety,PASS,88,,N,,FHWA,
+119,37,05/05/2024,M. Chen,INS-60444,Final Walkthrough,Pass,55,2,N,,Army Corps,
+120,37,04/30/2021,I. Jackson,INS-24419,Interim Progress,Pass,61,1,N,,State DEP,
+121,37,02/16/2019,G. Martinez,,Quality Control,Pass,62,N/A,N,,OSHA,
+122,37,10/03/2024,A. Nguyen,INS-12577,Routine Safety,Pass,72,?,N,,FHWA,
+123,37,2021-09-25,E. Hoffman,INS-99695,Environmental Compliance,Pass,67,2,No,,State DOT,
+124,37,2020-04-11,I. Jackson,INS-49847,Interim Progress,Pass,79,2,N,,FAA,Cited violation
+125,38,12-08-2020,I. Jackson,INS-17044,Fire Safety,Pass,83,,N,,FTA,
+126,39,27/11/2021,R. Patel,INS-74667,Final Walkthrough,Pass,69,0,Y,2020-08-11,OSHA,Follow-up required
+127,39,11/19/2019,D. Freeman,INS-77254,Plumbing,Pass,68,2,,,EPA,Closed
+128,39,10/10/2022,M. Chen,INS-87665,Structural,Pass,66,1,N,,FHWA,
+129,40,02-19-2020,B. Torres,,Routine Safety,Pass,90,0,Y,,OSHA,Escalated to state
+130,40,2019-04-30,C. Richardson,INS-62684,Routine Safety,Pass,86,2,no,01/19/2021,State DOT,
+131,40,2021-09-14,B. Torres,INS-45136,Structural,Pass,95,0,N,,State DOT,
+132,40,2022-06-18,M. Chen,INS-53016,Quality Control,,91,3,N,,FHWA,
+133,40,08-23-2019,H. Lee,INS-56445,Plumbing,Pass,70,2,N,,FAA,Cited violation
+134,41,04/06/2022,A. Nguyen,INS-90670,Fire Safety,Pass,72,2,,,FAA,
+135,41,2021-01-01,M. Chen,INS-26977,Routine Safety,Fail,39,4,Y,,EPA,Cited violation
+136,42,2024-03-17,A. Nguyen,INS-51234,Structural,Fail,43,0,Y,,EPA,
+137,42,01/28/2022,R. Patel,INS-28528,Routine Safety,Pass,,0,N,,FTA,Escalated to state
+138,42,2024-04-24,S. Williams,INS-39968,Environmental Compliance,Pass,63,3,,,Army Corps,Closed
+139,42,,M. Chen,INS-90330,Plumbing,Pass,97,1,Y,2020/11/11,FHWA,
+140,43,17/09/2022,J. Kowalski,INS-44844,Final Walkthrough,Pass,64,0,Y,2019-05-16,FAA,
+141,43,2021/10/31,D. Freeman,INS-70248,Final Walkthrough,Fail,39,1,Y,03-08-2021,FTA,Closed
+142,43,03-22-2023,J. Kowalski,INS-71376,Plumbing,Pass,93,0,No,,State DEP,Escalated to state
+143,43,05/27/2020,H. Lee,INS-33543,Interim Progress,Fail,45,5,Y,,State DOT,Cited violation
+144,44,2023/01/01,B. Torres,INS-44110,Fire Safety,Pass,94,1,N,,Local Building Dept,Cited violation
+145,44,08/05/2025,R. Patel,INS-42740,Routine Safety,Pass,75,0,,,State DEP,Closed
+146,44,23/05/2025,R. Patel,INS-18768,Plumbing,Pass,81,2,N,,State DOT,
+147,44,12/13/2023,I. Jackson,INS-57414,Environmental Compliance,Pass,55,n/a,Y,2019-10-29,EPA,
+148,45,2019/02/26,M. Chen,TBD,Structural,Pass,,1,No,,State DOT,Follow-up required
+149,45,2021/08/08,S. Williams,INS-48298,Quality Control,Pass,92,3,N,,FTA,Closed
+150,45,15/07/2020,G. Martinez,INS-63187,Final Walkthrough,Pass with Conditions,82,3,Y,2021/03/10,Local Building Dept,Closed
+151,45,05-18-2025,H. Lee,INS-50671,Routine Safety,Pass,65,3,N,,OSHA,Cited violation
+152,45,,E. Hoffman,INS-11356,Final Walkthrough,Pass,?,2,N,,FHWA,Escalated to state
+153,45,16/04/2023,I. Jackson,,Fire Safety,Pass,92,2,N,,FTA,
+154,46,2022/12/07,D. Freeman,INS-17517,Plumbing,Pass,91,3,Y,2019/11/01,State DEP,
+155,46,10/18/2022,K. O'Brien,INS-34256,Interim Progress,Pass,98,3,N,,FAA,Cited violation
+156,46,2024/08/05,M. Chen,INS-43412,Final Walkthrough,Pass,57,3,N,,State DOT,
+157,46,02-13-2019,G. Martinez,-,Electrical,Pass,56,0,N,,Local Building Dept,Follow-up required
+158,47,12-22-2023,R. Patel,INS-30636,Plumbing,Pass,98,3,N,,State DEP,
+159,47,11-06-2023,J. Kowalski,INS-21040,Quality Control,Pass with Conditions,97,0,Y,2021-12-21,State DEP,Cited violation
+160,47,,J. Kowalski,INS-98134,Plumbing,Pass,82,3,Y,09/09/2024,OSHA,
+161,48,13/09/2024,G. Martinez,INS-50713,Structural,Pass,75,1,Y,02/26/2022,FAA,
+162,48,2021/04/16,A. Nguyen,INS-15992,Routine Safety,Pass,96,,N,,OSHA,Closed
+163,49,2024/01/13,A. Nguyen,INS-32958,Routine Safety,Fail,47,1,Y,11/02/2019,State DEP,Cited violation
+164,49,2021-03-02,E. Hoffman,INS-77029,Structural,Pass,63,0,N,,Local Building Dept,Escalated to state
+165,49,2025/01/14,I. Jackson,INS-19287,Plumbing,Pass,64,0,N,,Local Building Dept,Closed
+166,49,2023/09/15,C. Richardson,N/A,Structural,Pass,95,3,N,,EPA,
+167,50,2023-05-29,C. Richardson,,Final Walkthrough,Pass With Conditions,88,0,Y,2025-03-15,FHWA,
+168,50,2022-12-06,G. Martinez,INS-26004,Environmental Compliance,Pass,67,2,N,,FTA,
+169,50,2021-07-11,J. Kowalski,INS-72856,Final Walkthrough,,68,3,N,,FAA,
+170,51,2021/05/29,R. Patel,INS-98395,Environmental Compliance,Pass,73,N/A,No,,FTA,
+171,51,01-18-2023,D. Freeman,INS-60408,Structural,,97,3,N,,FHWA,
+172,51,09/02/2022,S. Williams,,Plumbing,Pass,78,3,,,EPA,Cited violation
+173,51,2022-06-27,H. Lee,?,Plumbing,Pass,96,-,N,,FHWA,
+174,52,2024/02/14,R. Patel,INS-99881,Interim Progress,Deferred,73,2,N,,Army Corps,Follow-up required
+175,52,2024/05/06,A. Nguyen,INS-70850,Interim Progress,Pass,61,0,Y,2020/02/16,Army Corps,
+176,52,03-26-2020,A. Nguyen,INS-17602,Fire Safety,Pass with Conditions,62,0,Y,2020/01/22,State DEP,Follow-up required
+177,52,20/03/2023,B. Torres,INS-56833,Structural,Pass with Conditions,94,2,Y,04-09-2022,FTA,
+178,52,,S. Williams,INS-32545,Plumbing,Pass,93,2,,,EPA,
+179,53,09/07/2023,C. Richardson,INS-82547,Routine Safety,Pass,62,3,N,,FHWA,Escalated to state
+180,54,13/06/2019,K. O'Brien,INS-59156,Plumbing,Pass,86,1,Y,,Local Building Dept,
+181,54,08/01/2023,S. Williams,INS-81470,Fire Safety,Pass,89,1,N,,EPA,Cited violation
+182,54,03/18/2024,E. Hoffman,INS-71730,Plumbing,Pass,74,0,Y,,Local Building Dept,
+183,54,09-24-2020,A. Nguyen,INS-99650,Environmental Compliance,Deferred,70,3,N,,OSHA,Escalated to state
+184,54,2025/01/30,A. Nguyen,,Fire Safety,Fail,N/A,1,Y,2021/03/17,FAA,
+185,56,2019-06-08,M. Chen,INS-32903,Interim Progress,Pass,85,0,N,,FHWA,
+186,56,2021/08/17,R. Patel,INS-86529,Interim Progress,Pass with Conditions,78,TBD,Y,2025-04-25,FTA,Follow-up required
+187,56,04/30/2021,I. Jackson,INS-19477,Final Walkthrough,Deferred,92,2,Y,01-16-2023,FHWA,
+188,56,01/05/2024,S. Williams,INS-92109,Routine Safety,Pass,96,0,N,,FHWA,Follow-up required
+189,57,2019/05/15,S. Williams,INS-35038,Fire Safety,Pass,86,TBD,N,,State DOT,Escalated to state
+190,57,2023/10/29,R. Patel,INS-89387,Quality Control,Pass,100,0,N,,Local Building Dept,
+191,58,2021-06-05,B. Torres,INS-19072,Electrical,Pass,61,2,N,,FHWA,Cited violation
+192,58,01-17-2022,D. Freeman,INS-35331,Final Walkthrough,Pass,76,3,y,,FHWA,Cited violation
+193,59,01-21-2019,H. Lee,INS-27990,Final Walkthrough,Pass with Conditions,57,0,Y,,State DEP,Closed
+194,59,08/21/2023,R. Patel,,Interim Progress,Pass,84,2,Y,2024-03-21,OSHA,Cited violation
+195,59,,M. Chen,INS-90134,Environmental Compliance,Pass,80,2,YES,,EPA,
+196,59,06/19/2021,S. Williams,INS-43559,Environmental Compliance,FAIL,83,1,N,,OSHA,
+197,59,04-06-2024,J. Kowalski,INS-93840,Structural,Fail,44,2,Y,2025-04-17,Army Corps,
+198,59,2021/01/06,I. Jackson,INS-90720,Quality Control,Pass,64,2,N,,FHWA,Follow-up required
+199,60,09-14-2020,A. Nguyen,INS-59165,Interim Progress,Pass,60,3,N,,FTA,
+200,60,2022-06-11,I. Jackson,INS-91187,Environmental Compliance,Pass,65,3,N,,Army Corps,
+201,61,23/08/2021,B. Torres,INS-69093,Plumbing,PASS,57,-,N,,FHWA,Follow-up required
+202,61,02-20-2020,R. Patel,INS-12149,Environmental Compliance,Pass,76,0,N,,Local Building Dept,Cited violation
+203,61,2024/04/28,M. Chen,INS-78091,Interim Progress,Pass,69,2,YES,,State DEP,
+204,61,,B. Torres,INS-70905,Quality Control,Pass with Conditions,-,3,Y,2024/06/07,Army Corps,Escalated to state
+205,61,09/08/2020,K. O'Brien,,Structural,,,0,Y,2019/12/09,FHWA,
+206,61,2021/07/29,G. Martinez,INS-19234,Final Walkthrough,Fail,59,7,Y,06-14-2021,State DOT,Follow-up required
+207,62,03/31/2024,G. Martinez,INS-23476,Structural,Pass,64,1,N,,EPA,Follow-up required
+208,62,27/06/2024,H. Lee,INS-59433,Environmental Compliance,PASS,82,2,y,2019-07-17,State DOT,
+209,62,14/02/2020,I. Jackson,INS-92856,Final Walkthrough,Pass,91,1,N,,State DOT,Follow-up required
+210,62,2020-10-13,D. Freeman,INS-89654,Interim Progress,pass,69,1,N,,OSHA,Follow-up required
+211,62,06/09/2022,H. Lee,,Fire Safety,Pass,63,0,N,,FHWA,Closed
+212,63,10-21-2022,K. O'Brien,INS-63660,Electrical,Pass,91,2,N,,Army Corps,
+213,63,11/06/2022,S. Williams,INS-93339,Plumbing,Fail,59,7,Y,06-18-2022,State DOT,
+214,63,09/21/2023,J. Kowalski,INS-34784,Final Walkthrough,FAIL,56,2,N,,FAA,Cited violation
+215,63,2020-08-17,H. Lee,INS-71407,Final Walkthrough,Pass,86,,N,,State DEP,
+216,64,12/27/2023,M. Chen,INS-69514,Final Walkthrough,FAIL,91,3,Y,09/04/2024,State DEP,
+217,64,16/11/2023,E. Hoffman,?,Fire Safety,Pass,84,2,N,,Army Corps,Closed
+218,64,2023/02/16,A. Nguyen,INS-55724,Environmental Compliance,Pass,91,1,N,,Local Building Dept,Follow-up required
+219,64,13/08/2023,G. Martinez,,Interim Progress,Pass,74,2,N,,Local Building Dept,
+220,64,2023/10/24,J. Kowalski,INS-28906,Quality Control,Pass,62,2,Y,12/08/2023,FTA,
+221,65,2021-04-20,R. Patel,INS-69878,Structural,Pass,N/A,3,No,04-15-2024,Local Building Dept,
+222,65,04/20/2019,J. Kowalski,INS-27039,Routine Safety,Pass,69,3,N,,State DOT,
+223,65,04-29-2019,A. Nguyen,INS-61479,Environmental Compliance,Pass With Conditions,91,1,y,,EPA,
+224,65,2024-08-31,A. Nguyen,INS-86104,Fire Safety,Pass,72,3,N,,OSHA,
+225,65,2024/03/28,G. Martinez,INS-46236,Plumbing,Pass,87,0,N,,FTA,Cited violation
+226,66,06/22/2020,S. Williams,INS-89099,Plumbing,Pass,81,3,Y,,FTA,
+227,66,08/01/2024,G. Martinez,INS-17068,Electrical,Pass,74,3,N,,State DEP,Cited violation
+228,66,2021/02/09,I. Jackson,INS-90153,Routine Safety,Pass,65,N/A,N,,Army Corps,Escalated to state
+229,66,2021-10-22,G. Martinez,INS-33172,Fire Safety,Pass,59,3,N,,OSHA,
+230,66,01-08-2025,C. Richardson,INS-31822,Environmental Compliance,Pass,81,1,N,,EPA,Escalated to state
+231,66,08-02-2019,M. Chen,INS-96220,Quality Control,,59,2,N,,State DEP,Follow-up required
+232,67,12/16/2019,S. Williams,INS-62518,Electrical,Pass,TBD,2,N,,State DEP,Escalated to state
+233,67,12/12/2021,E. Hoffman,INS-97104,Final Walkthrough,Pass,73,0,N,,Army Corps,Closed
+234,67,,H. Lee,,Final Walkthrough,Pass,72,0,Y,2022-03-22,EPA,Escalated to state
+235,67,08-22-2020,M. Chen,INS-58657,Routine Safety,Pass,66,0,,,FTA,
+236,67,05/09/2022,M. Chen,INS-53079,Final Walkthrough,Pass,66,0,N,,Local Building Dept,Cited violation
+237,67,2024-02-05,E. Hoffman,INS-25862,Electrical,Pass,N/A,0,,,State DEP,Cited violation
+238,68,12/11/2019,D. Freeman,INS-51743,Environmental Compliance,Pass,,2,N,,State DEP,
+239,68,2024-02-20,R. Patel,INS-99646,Electrical,Pass,61,3,y,,FAA,
+240,68,10/02/2019,E. Hoffman,INS-79687,Electrical,,82,3,No,,FAA,Cited violation
+241,68,22/06/2019,M. Chen,INS-13427,Quality Control,Pass,96,0,Y,,State DEP,
+242,69,07-15-2021,D. Freeman,INS-28258,Final Walkthrough,Fail,46,7,No,,FHWA,
+243,69,08/03/2021,G. Martinez,INS-32475,Interim Progress,Pass,88,1,N,,FHWA,
+244,69,2021-11-09,H. Lee,INS-23683,Structural,fail,41,8,Y,11-19-2021,FAA,Cited violation
+245,69,2023/10/27,A. Nguyen,INS-39714,Plumbing,Pass,93,2,Y,2022-07-27,State DOT,Follow-up required
+246,70,04-05-2021,E. Hoffman,INS-94239,Structural,PASS,73,1,N,,EPA,Escalated to state
+247,70,2019-02-16,M. Chen,INS-14409,Electrical,Pass with Conditions,79,1,Y,,State DOT,Escalated to state
+248,70,10-14-2021,G. Martinez,INS-53260,Structural,Pass,71,1,YES,,FTA,
+249,70,02/09/2022,I. Jackson,,Routine Safety,Pass,86,0,N,,State DEP,
+250,70,2021-11-08,R. Patel,INS-23396,Fire Safety,Pass,79,1,y,,FAA,Closed
+251,70,11-01-2024,D. Freeman,INS-10841,Structural,Pass,64,1,N,,State DEP,
+252,71,05/24/2025,I. Jackson,INS-32463,Environmental Compliance,Pass,90,1,N,,Army Corps,Escalated to state
+253,71,04-18-2023,E. Hoffman,INS-87645,Final Walkthrough,Deferred,71,1,N,,OSHA,
+254,71,2023-09-07,D. Freeman,INS-90725,Fire Safety,Pass,97,2,N,,FTA,Follow-up required
+255,72,,S. Williams,INS-38250,Fire Safety,Pass,87,,N,,Local Building Dept,
+256,72,2020-10-30,C. Richardson,INS-30936,Final Walkthrough,Pass,90,2,N,,FTA,Cited violation
+257,72,05-20-2025,G. Martinez,INS-74613,Routine Safety,Pass,58,1,yes,,State DEP,
+258,72,11/18/2021,K. O'Brien,INS-77141,Interim Progress,Pass,96,0,N,,FHWA,Cited violation
+259,72,2024/10/15,D. Freeman,INS-42256,Routine Safety,Pass,?,1,N,,State DOT,
+260,72,2021/02/06,J. Kowalski,INS-77499,Electrical,Pass,,3,no,11/09/2020,Army Corps,
+261,73,03-26-2021,R. Patel,INS-63886,Quality Control,Pass,92,,N,,FHWA,
+262,74,2022/09/13,E. Hoffman,,Routine Safety,Pass,96,3,N,,FTA,
+263,74,08-06-2022,G. Martinez,INS-93077,Final Walkthrough,Pass,95,1,N,,OSHA,
+264,75,2021-05-01,R. Patel,INS-65000,Electrical,Pass,61,1,Y,,EPA,
+265,75,05/09/2019,H. Lee,INS-47338,Environmental Compliance,Pass,68,,Y,08/23/2025,FAA,
+266,75,2020/03/09,D. Freeman,INS-20866,Fire Safety,Pass,61,3,Y,2024-05-09,FTA,Closed
+267,75,2020-12-19,J. Kowalski,INS-93613,Final Walkthrough,Pass,87,3,No,,OSHA,
+268,76,05/13/2020,C. Richardson,INS-56066,Structural,Pass,,3,N,,State DEP,Follow-up required
+269,76,17/06/2022,C. Richardson,INS-24323,Interim Progress,,98,3,Y,03/17/2022,State DOT,Cited violation
+270,76,2023-05-02,H. Lee,INS-74402,Final Walkthrough,Pass,59,3,N,,State DOT,Escalated to state
+271,76,2024/10/12,E. Hoffman,INS-31127,Interim Progress,Pass with Conditions,86,3,YES,2025/05/28,EPA,Closed
+272,76,2019-01-04,I. Jackson,INS-87807,Plumbing,Pass with Conditions,67,3,Y,09/25/2020,OSHA,
+273,77,30/07/2024,R. Patel,INS-89587,Quality Control,Pass,,0,No,,EPA,
+274,77,2021/08/23,C. Richardson,INS-89054,Final Walkthrough,Pass,90,0,N,,State DOT,Escalated to state
+275,77,26/03/2024,M. Chen,,Interim Progress,Pass,63,1,N,,OSHA,Closed
+276,77,,I. Jackson,INS-37526,Final Walkthrough,Pass with Conditions,59,2,Y,03/02/2023,State DEP,Cited violation
+277,77,10/03/2024,S. Williams,INS-57671,Environmental Compliance,Fail,60,4,yes,,FTA,
+278,77,09/02/2019,S. Williams,INS-76811,Final Walkthrough,Pass,60,0,N,,FAA,Escalated to state
+279,78,21/01/2021,S. Williams,INS-36518,Quality Control,FAIL,74,1,N,,Local Building Dept,Follow-up required
+280,78,04-02-2021,I. Jackson,INS-97314,Quality Control,Pass,100,3,N,,FTA,
+281,78,04-22-2019,G. Martinez,,Fire Safety,fail,65,3,N,,FHWA,Closed
+282,78,09-18-2024,B. Torres,INS-18392,Structural,Pass,87,2,N,,EPA,Follow-up required
+283,78,04/07/2021,H. Lee,INS-10477,Quality Control,Pass,64,2,N,12/05/2025,FHWA,
+284,78,18/09/2024,S. Williams,INS-54266,Structural,Pass,68,3,YES,,OSHA,
+285,79,2019-12-06,R. Patel,,Structural,,91,3,N,,Army Corps,
+286,79,2025-04-14,K. O'Brien,INS-86901,Interim Progress,Deferred,66,0,N,,FTA,Escalated to state
+287,80,2023/05/06,H. Lee,N/A,Routine Safety,,58,1,N,,EPA,Closed
+288,80,2019-08-13,I. Jackson,INS-36405,Electrical,Pass,77,1,YES,,FTA,
+289,80,01/21/2020,G. Martinez,INS-10159,Final Walkthrough,Pass,99,3,N,,FHWA,
+290,80,05/11/2022,A. Nguyen,INS-97962,Final Walkthrough,Pass,64,1,N,,State DOT,Escalated to state
+291,81,07/03/2020,G. Martinez,INS-27942,Structural,Pass,,0,N,,Army Corps,
+292,81,,S. Williams,INS-47969,Interim Progress,Pass,72,0,no,,FHWA,
+293,81,02/05/2019,S. Williams,INS-78418,Quality Control,Pass,95,2,N,,FTA,
+294,81,2021-09-01,I. Jackson,INS-87452,Final Walkthrough,Pass,79,1,N,,OSHA,
+295,82,2024-08-01,D. Freeman,INS-23618,Plumbing,Fail,44,0,Y,,FAA,Cited violation
+296,82,2023/08/14,H. Lee,INS-54255,Environmental Compliance,Pass with Conditions,,3,Y,06/23/2019,State DOT,Closed
+297,82,30/11/2021,G. Martinez,INS-95802,Interim Progress,Pass,60,,N,,State DEP,Closed
+298,82,04/16/2019,S. Williams,INS-80173,Structural,Pass,79,3,N,,Local Building Dept,Closed
+299,83,2023-09-10,R. Patel,INS-35255,Final Walkthrough,Pass With Conditions,75,3,N,,FAA,
+300,84,07/02/2024,H. Lee,INS-71125,Routine Safety,Pass,96,1,N,,EPA,Escalated to state
+301,84,03/08/2024,B. Torres,INS-82003,Quality Control,Pass with Conditions,84,2,Y,03-04-2023,OSHA,Escalated to state
+302,84,03-04-2020,B. Torres,?,Interim Progress,Pass,83,3,N,,State DOT,
+303,85,12/08/2019,I. Jackson,INS-90277,Interim Progress,Pass,91,1,N,,FHWA,
+304,85,2024-07-26,S. Williams,INS-58807,Interim Progress,Pass,85,0,N,,OSHA,Closed
+305,85,2021-03-31,B. Torres,INS-42967,Interim Progress,Pass with Conditions,93,3,Y,2024-01-31,EPA,Escalated to state
+306,85,,B. Torres,INS-63259,Final Walkthrough,Pass,77,3,N,,Local Building Dept,Escalated to state
+307,85,04/07/2024,G. Martinez,INS-45224,Electrical,Pass,,2,N,,Local Building Dept,Cited violation
+308,85,04/19/2023,H. Lee,INS-27593,Quality Control,Deferred,78,0,Y,16/06/2024,State DEP,
+309,86,18/04/2024,S. Williams,INS-90224,Structural,Pass with Conditions,96,1,Y,2022/09/10,Local Building Dept,
+310,86,2023/10/11,E. Hoffman,INS-71025,Environmental Compliance,Pass,95,1,Y,,State DOT,Escalated to state
+311,86,03/12/2019,E. Hoffman,INS-38560,Environmental Compliance,Pass with Conditions,65,3,Y,04-28-2023,Local Building Dept,
+312,86,2019/03/26,G. Martinez,INS-62450,Interim Progress,fail,42,1,Y,2021/03/28,FHWA,
+313,86,2020-03-14,B. Torres,,Environmental Compliance,Pass,91,3,N,,FAA,
+314,87,03/30/2019,H. Lee,INS-62898,Fire Safety,Fail,53,0,Y,05/03/2022,EPA,Cited violation
+315,87,07/19/2023,G. Martinez,?,Interim Progress,Pass,62,0,Y,2023-06-06,State DOT,
+316,87,01-11-2022,S. Williams,INS-27973,Quality Control,Pass,55,2,Y,2022/03/31,EPA,
+317,88,2020/03/05,I. Jackson,INS-89359,Structural,,76,2,N,,Army Corps,Closed
+318,88,02/05/2020,B. Torres,INS-95812,Environmental Compliance,Pass,65,2,N,,FHWA,Cited violation
+319,88,13/12/2020,M. Chen,INS-77139,Environmental Compliance,Pass,67,0,N,,State DEP,Closed
+320,88,13/04/2025,D. Freeman,INS-77896,Final Walkthrough,Pass,?,1,N,,State DEP,
+321,89,03/02/2019,H. Lee,INS-94705,Interim Progress,Pass,85,0,no,,OSHA,Follow-up required
+322,89,01/12/2024,D. Freeman,INS-14707,Final Walkthrough,Pass,76,0,N,,OSHA,
+323,89,2023-07-08,D. Freeman,,Environmental Compliance,Pass,81,1,N,,Local Building Dept,Closed
+324,89,11-13-2020,H. Lee,INS-30966,Environmental Compliance,Pass,63,2,Y,08/25/2022,FHWA,
+325,89,12/11/2020,E. Hoffman,,Structural,Pass,60,2,,,FAA,Escalated to state
+326,90,2022-07-21,A. Nguyen,INS-96091,Quality Control,Pass with Conditions,85,0,Y,,Army Corps,
+327,90,06/04/2025,A. Nguyen,INS-55729,Structural,Fail,34,6,Y,04-27-2022,OSHA,
+328,90,2019/05/12,M. Chen,,Plumbing,Pass,62,1,no,06/11/2024,FAA,Closed
+329,90,03/02/2024,C. Richardson,INS-93853,Routine Safety,Deferred,n/a,1,N,,EPA,
+330,91,2019/04/29,J. Kowalski,TBD,Final Walkthrough,PASS,63,6,Y,10/08/2020,FHWA,Escalated to state
+331,91,2025-03-14,G. Martinez,INS-63623,Structural,Pass,60,2,N,,State DOT,Escalated to state
+332,91,09/28/2019,J. Kowalski,INS-18806,Quality Control,Pass,56,3,N,,EPA,Follow-up required
+333,91,03/02/2021,J. Kowalski,INS-38025,Electrical,Pass,55,2,N,,FAA,Follow-up required
+334,92,2019-01-17,G. Martinez,,Electrical,Pass,62,2,Y,,State DOT,
+335,92,09-16-2023,S. Williams,INS-54940,Electrical,FAIL,63,2,Y,05-14-2019,OSHA,Cited violation
+336,92,,E. Hoffman,INS-18813,Routine Safety,Pass,65,3,N,,FAA,Closed
+337,92,2023/10/20,B. Torres,INS-97294,Environmental Compliance,Pass,TBD,2,Y,13/07/2022,State DOT,Escalated to state
+338,92,2019-04-28,C. Richardson,INS-55600,Fire Safety,Pass,55,1,N,,State DEP,Escalated to state
+339,93,03-04-2020,S. Williams,INS-26418,Electrical,Fail,32,5,Y,,FAA,Follow-up required
+340,94,01-07-2021,D. Freeman,INS-28933,Structural,Pass,100,0,N,,Local Building Dept,
+341,94,2024/10/12,C. Richardson,INS-29845,Fire Safety,Pass,,3,yes,2022-08-09,State DEP,
+342,95,,H. Lee,INS-59799,Plumbing,Pass,96,3,N,,FTA,Follow-up required
+343,95,2023-10-05,B. Torres,INS-67818,Fire Safety,Pass,82,3,no,,FHWA,Follow-up required
+344,95,2019/11/11,B. Torres,,Structural,Pass,72,,N,,State DOT,
+345,95,07/11/2020,K. O'Brien,INS-64628,Electrical,Pass,55,2,N,,EPA,
+346,95,02/18/2025,J. Kowalski,INS-44785,Quality Control,Pass,75,,y,,State DEP,Cited violation
+347,96,2020/12/21,B. Torres,INS-80958,Environmental Compliance,Pass,99,3,Y,,OSHA,Cited violation
+348,96,2024/09/28,S. Williams,INS-88588,Environmental Compliance,Pass,73,2,N,,FTA,Follow-up required
+349,96,2019-03-14,H. Lee,INS-93448,Routine Safety,Pass,90,2,N,,Army Corps,
+350,97,2020-09-28,E. Hoffman,INS-77210,Electrical,Pass,86,N/A,N,,FAA,Closed
+351,97,2020-09-30,A. Nguyen,INS-19036,Environmental Compliance,Pass,86,0,Y,04/19/2024,Local Building Dept,Escalated to state
+352,97,2024/03/09,M. Chen,INS-76418,Environmental Compliance,pass,94,3,N,,OSHA,Closed
+353,97,08-05-2020,B. Torres,INS-45694,Interim Progress,Pass,67,2,Y,,FHWA,
+354,98,2023/11/17,S. Williams,INS-71918,Electrical,Pass,70,0,N,,State DEP,
+355,98,2019/02/02,C. Richardson,INS-89597,Plumbing,Pass,71,2,N,,FTA,
+356,98,09/11/2022,H. Lee,INS-61950,Final Walkthrough,pass,62,0,Y,10/03/2024,OSHA,
+357,98,04/01/2020,S. Williams,INS-11331,Quality Control,Pass,95,2,Y,,FAA,Closed
+358,99,2020-08-20,C. Richardson,,Quality Control,Pass,,3,Y,,OSHA,
+359,99,06-12-2023,E. Hoffman,INS-52612,Plumbing,Pass,74,1,Y,09/08/2021,Local Building Dept,Escalated to state
+360,99,23/01/2021,B. Torres,INS-18783,Quality Control,Pass,83,0,N,,EPA,
+361,100,01-09-2021,M. Chen,INS-31206,Structural,Pass,63,0,Y,2024-11-08,EPA,Closed
+362,100,07-21-2020,R. Patel,INS-67537,Structural,Fail,56,1,Y,,State DOT,Follow-up required
+363,100,,H. Lee,INS-99859,Interim Progress,Pass,78,1,N,,Local Building Dept,
+364,100,2021-10-28,I. Jackson,INS-35848,Structural,pass,46,,Y,,OSHA,Cited violation
+365,100,2025-05-31,D. Freeman,,Plumbing,Pass,,1,N,,FAA,
+366,101,2022-03-11,M. Chen,INS-66918,Electrical,Pass,68,1,N,,Local Building Dept,Follow-up required
+367,101,03/08/2021,B. Torres,?,Quality Control,Pass,65,2,y,,FHWA,Closed
+368,101,03/11/2019,A. Nguyen,,Environmental Compliance,Pass,89,2,N,,State DEP,
+369,101,2021/11/09,D. Freeman,INS-84415,Final Walkthrough,Pass,79,3,Y,2022/07/05,Local Building Dept,Escalated to state
+370,101,02-15-2023,G. Martinez,INS-94572,Fire Safety,Fail,61,6,Y,,FTA,Cited violation
+371,101,,R. Patel,INS-38693,Interim Progress,Pass,92,0,N,,EPA,Cited violation
+372,102,2024/05/19,K. O'Brien,INS-27406,Environmental Compliance,Pass,58,1,N,,State DEP,Escalated to state
+373,102,2021-03-10,H. Lee,INS-19302,Final Walkthrough,Pass,66,1,No,,Local Building Dept,
+374,102,03/31/2025,R. Patel,INS-58149,Plumbing,Pass,83,3,N,,FTA,Escalated to state
+375,102,18/07/2020,K. O'Brien,INS-85438,Routine Safety,Pass,60,2,Y,25/04/2020,State DEP,
+376,103,11-29-2021,M. Chen,INS-83722,Final Walkthrough,Pass With Conditions,97,3,N,,State DOT,Closed
+377,103,2023-07-12,A. Nguyen,INS-55321,Environmental Compliance,Pass,82,0,N,,FTA,Follow-up required
+378,103,,D. Freeman,INS-32778,Plumbing,Pass with Conditions,69,0,Y,22/07/2019,FHWA,Cited violation
+379,105,,A. Nguyen,,Fire Safety,Pass With Conditions,,1,No,,FTA,
+380,105,02-24-2022,J. Kowalski,INS-97051,Routine Safety,Fail,,7,Y,12/08/2020,State DEP,
+381,105,12-18-2021,G. Martinez,INS-32532,Interim Progress,Pass,82,3,N,,FAA,Follow-up required
+382,105,10-13-2020,H. Lee,INS-84857,Fire Safety,Pass,88,3,Y,02/02/2021,FTA,
+383,105,01-22-2023,E. Hoffman,INS-73582,Routine Safety,Fail,38,1,Y,2020-10-01,FHWA,
+384,105,12-12-2021,I. Jackson,INS-14496,Quality Control,Pass,71,2,N,,Army Corps,Cited violation
+385,106,23/12/2019,B. Torres,INS-60678,Interim Progress,Pass,82,3,N,,OSHA,
+386,106,2022-08-11,D. Freeman,INS-56014,Routine Safety,Pass,69,0,N,,FAA,Escalated to state
+387,107,09/18/2023,C. Richardson,INS-59320,Plumbing,Pass,,2,N,,State DEP,
+388,107,2024-08-27,S. Williams,INS-80763,Environmental Compliance,Pass,83,3,Y,2023/02/09,FAA,
+389,107,2020-04-11,D. Freeman,INS-17478,Electrical,Fail,52,5,Y,2022/05/18,FAA,
+390,107,,M. Chen,TBD,Electrical,Pass,64,3,N,,OSHA,
+391,107,10/05/2025,S. Williams,INS-85074,Plumbing,Pass,60,0,YES,,State DEP,
+392,107,02-15-2019,H. Lee,INS-26348,Interim Progress,Pass,99,2,Y,,EPA,Closed
+393,108,10-14-2022,G. Martinez,INS-83170,Structural,Pass,65,N/A,N,,State DEP,Escalated to state
+394,109,27/02/2020,H. Lee,INS-52014,Routine Safety,Fail,64,3,Y,10/06/2024,State DOT,
+395,110,2019-04-10,I. Jackson,INS-88575,Structural,,57,0,Y,,FAA,
+396,110,2021-04-09,A. Nguyen,INS-19774,Routine Safety,Pass,94,0,Y,06/15/2023,State DOT,Escalated to state
+397,111,03-05-2020,S. Williams,INS-60923,Environmental Compliance,Pass,67,3,N,,State DOT,Cited violation
+398,111,08/31/2022,A. Nguyen,INS-36806,Environmental Compliance,Fail,54,2,Y,,FAA,Closed
+399,112,12-24-2022,I. Jackson,INS-44944,Plumbing,Pass,95,1,N,,FTA,Escalated to state
+400,112,01/11/2019,B. Torres,INS-80512,Routine Safety,Pass,58,2,N,,State DEP,
+401,112,09-15-2020,D. Freeman,INS-96431,Environmental Compliance,Pass,55,1,,,EPA,Closed
+402,113,2019-02-02,H. Lee,INS-82136,Plumbing,Pass with Conditions,94,1,Y,2025-02-20,FTA,
+403,113,2021/02/06,K. O'Brien,INS-84258,Interim Progress,Pass,65,3,N,,Local Building Dept,Closed
+404,113,2019/10/22,D. Freeman,,Electrical,Pass,78,1,Y,23/08/2022,FTA,Cited violation
+405,113,,G. Martinez,INS-79823,Interim Progress,Pass,78,0,N,,FTA,
+406,113,07/08/2022,I. Jackson,INS-97697,Structural,Fail,58,3,YES,,EPA,Escalated to state
+407,114,01/10/2020,A. Nguyen,INS-79660,Fire Safety,Pass,68,1,N,,OSHA,Escalated to state
+408,115,2022/09/16,K. O'Brien,INS-49169,Fire Safety,Fail,64,4,Y,12/24/2020,FHWA,Follow-up required
+409,115,02-24-2020,J. Kowalski,INS-22889,Interim Progress,Pass,77,0,N,,OSHA,
+410,115,04/06/2023,M. Chen,TBD,Quality Control,Pass,72,,N,,Local Building Dept,Escalated to state
+411,116,01-03-2020,C. Richardson,INS-53915,Structural,Pass,74,0,Y,,FTA,Closed
+412,116,08-04-2024,C. Richardson,INS-49759,Quality Control,Pass,59,3,N,,Local Building Dept,Closed
+413,116,2021-03-30,S. Williams,,Quality Control,Pass,58,3,N,,FTA,Follow-up required
+414,116,2019-06-04,K. O'Brien,INS-67843,Structural,Pass,78,0,N,,Army Corps,Closed
+415,116,10-11-2021,M. Chen,INS-88081,Final Walkthrough,Pass,90,2,Y,2019-12-24,OSHA,
+416,116,12-07-2021,I. Jackson,INS-15797,Structural,Pass,77,2,N,,FTA,
+417,117,08/11/2023,R. Patel,INS-92254,Fire Safety,Pass,69,,N,,FTA,
+418,117,04-17-2021,M. Chen,INS-26808,Routine Safety,FAIL,82,2,N,,FAA,Closed
+419,117,22/02/2020,J. Kowalski,n/a,Plumbing,FAIL,68,2,N,,Army Corps,
+420,117,,K. O'Brien,INS-61256,Interim Progress,Pass,,1,N,,Army Corps,Closed
+421,117,08/07/2021,H. Lee,INS-28030,Plumbing,Pass,76,3,Y,,Local Building Dept,Closed
+422,118,2024-09-04,I. Jackson,INS-86517,Environmental Compliance,Fail,31,7,Y,,FTA,
+423,119,08/30/2021,I. Jackson,INS-18963,Fire Safety,Pass,57,1,N,,OSHA,Closed
+424,119,11-22-2023,D. Freeman,INS-70352,Environmental Compliance,Pass,79,1,N,,FAA,
+425,119,2024/07/29,J. Kowalski,INS-10339,Fire Safety,Pass With Conditions,67,3,N,,EPA,
+426,119,03/13/2022,R. Patel,INS-86474,Fire Safety,Pass,72,1,N,,FHWA,
+427,119,26/05/2024,D. Freeman,INS-47700,Plumbing,Pass,69,2,N,,State DEP,
+428,119,2025-02-23,C. Richardson,INS-30788,Plumbing,Pass,67,0,yes,,Local Building Dept,Escalated to state
+429,120,07/07/2024,G. Martinez,INS-16555,Environmental Compliance,Pass,78,2,N,,State DEP,
+430,120,2025-04-30,C. Richardson,INS-76343,Environmental Compliance,Pass,64,0,,,FHWA,Escalated to state
+431,120,07/24/2021,M. Chen,INS-96360,Environmental Compliance,Pass with Conditions,61,2,Y,27/01/2020,OSHA,
+432,120,09-12-2019,D. Freeman,INS-83136,Final Walkthrough,Pass,78,0,yes,2023/03/12,EPA,
+433,120,,J. Kowalski,INS-93360,Interim Progress,Pass With Conditions,90,,,,Army Corps,Escalated to state
+434,121,2025-04-25,C. Richardson,INS-95575,Structural,Pass with Conditions,71,2,Y,,FAA,Follow-up required
+435,121,15/12/2019,I. Jackson,INS-96100,Final Walkthrough,Pass With Conditions,81,2,N,,Army Corps,
+436,122,23/08/2020,E. Hoffman,INS-67670,Electrical,FAIL,71,2,y,,OSHA,
+437,122,20/01/2020,R. Patel,,Routine Safety,Pass,88,,,01/14/2023,State DEP,Escalated to state
+438,122,,K. O'Brien,INS-45891,Final Walkthrough,Pass,82,0,N,,State DEP,Escalated to state
+439,123,2019/07/13,M. Chen,INS-96487,Interim Progress,Pass with Conditions,95,3,Y,2020-03-04,FTA,
+440,123,03-23-2021,E. Hoffman,INS-93136,Electrical,Pass,71,2,N,,Local Building Dept,Escalated to state
+441,124,03-21-2022,E. Hoffman,,Environmental Compliance,Pass,78,1,N,,FAA,
+442,124,2021-01-31,M. Chen,INS-19233,Fire Safety,Pass,83,3,Y,2022-04-01,State DEP,
+443,125,04-30-2021,R. Patel,INS-89988,Fire Safety,Pass,94,2,N,,OSHA,Follow-up required
+444,125,2020-08-27,B. Torres,,Electrical,Pass,99,2,N,,State DOT,
+445,125,21/06/2019,D. Freeman,INS-51392,Quality Control,Pass,90,1,Y,01/11/2022,OSHA,Follow-up required
+446,126,05/08/2024,G. Martinez,INS-71087,Structural,Pass,80,1,N,,FAA,Follow-up required
+447,126,2020-07-30,G. Martinez,INS-47277,Environmental Compliance,Deferred,?,1,Y,,Army Corps,
+448,126,2021/10/17,C. Richardson,INS-29208,Environmental Compliance,Fail,48,7,Y,04/07/2020,OSHA,Cited violation
+449,126,2022-04-23,S. Williams,INS-57164,Electrical,Fail,49,2,Y,02/19/2022,FAA,
+450,126,08/05/2022,E. Hoffman,INS-79770,Electrical,Pass With Conditions,91,2,N,,OSHA,
+451,127,2022-02-27,A. Nguyen,INS-35426,Interim Progress,,59,0,N,,FTA,Cited violation
+452,127,05/02/2022,E. Hoffman,INS-62633,Routine Safety,Pass,77,0,N,,FHWA,
+453,127,2025-01-27,I. Jackson,INS-93595,Final Walkthrough,Fail,40,4,Y,03/26/2021,FTA,Cited violation
+454,128,2019-12-14,M. Chen,INS-84283,Fire Safety,Pass,66,0,N,,Army Corps,Cited violation
+455,129,06/12/2020,C. Richardson,INS-53471,Final Walkthrough,Fail,44,4,Y,2024-02-22,Army Corps,Closed
+456,129,2023-01-10,I. Jackson,INS-56281,Plumbing,Pass With Conditions,68,0,N,,Army Corps,Escalated to state
+457,129,2025/01/16,M. Chen,INS-23986,Fire Safety,Pass,59,0,N,,Local Building Dept,Escalated to state
+458,130,2019/03/08,C. Richardson,INS-23142,Plumbing,Fail,30,0,N,,FHWA,
+459,130,2020/04/08,H. Lee,INS-71751,Interim Progress,Pass,60,-,Y,,Army Corps,Closed
+460,130,2024/10/07,G. Martinez,INS-21140,Fire Safety,,59,0,Y,,State DEP,
+461,130,27/01/2019,D. Freeman,INS-86130,Routine Safety,Fail,37,8,Y,2019-11-09,OSHA,Cited violation
+462,131,17/05/2025,G. Martinez,INS-22381,Electrical,Fail,53,6,Y,03-15-2023,Army Corps,
+463,131,10/06/2024,E. Hoffman,INS-23662,Final Walkthrough,Pass With Conditions,80,3,no,,FAA,Cited violation
+464,132,2024-10-11,D. Freeman,INS-95626,Electrical,Pass,87,2,N,,State DEP,
+465,133,07/12/2024,I. Jackson,,Electrical,Pass,96,1,N,,EPA,
+466,133,2021/01/23,M. Chen,INS-38499,Interim Progress,PASS,76,3,y,,FTA,
+467,133,2021-03-20,I. Jackson,INS-14204,Quality Control,Pass,65,,YES,,State DEP,
+468,133,01-10-2021,H. Lee,INS-62920,Routine Safety,Pass,89,2,y,11-11-2022,State DEP,
+469,133,2023-07-24,M. Chen,INS-64488,Quality Control,Pass,77,2,N,,State DEP,Escalated to state
+470,135,2024-05-31,G. Martinez,INS-34495,Routine Safety,Pass,99,0,N,,EPA,Cited violation
+471,135,08-18-2022,E. Hoffman,INS-57713,Quality Control,Fail,,7,Y,,FHWA,
+472,135,12/09/2020,E. Hoffman,INS-33693,Electrical,Pass with Conditions,68,1,Y,10-30-2021,State DEP,Escalated to state
+473,135,2020-12-25,D. Freeman,INS-37640,Plumbing,PASS,90,2,Y,2021/05/07,State DEP,
+474,135,2019/01/23,G. Martinez,INS-39211,Interim Progress,FAIL,58,2,N,,State DEP,Follow-up required
+475,136,14/04/2020,D. Freeman,INS-64145,Quality Control,Pass,61,3,N,,FTA,
+476,137,05-05-2020,A. Nguyen,INS-76583,Interim Progress,Pass,60,3,N,,FHWA,Escalated to state
+477,137,2024/01/27,G. Martinez,INS-55219,Quality Control,Pass,57,1,N,,State DEP,
+478,137,05/27/2023,J. Kowalski,INS-33443,Interim Progress,Pass,57,2,N,,OSHA,
+479,137,2021/11/29,R. Patel,INS-73422,Plumbing,Fail,37,8,Y,2025-03-14,EPA,Closed
+480,137,03-29-2025,H. Lee,INS-93257,Plumbing,Pass,61,0,N,,Army Corps,Closed
+481,137,08-30-2020,H. Lee,INS-16741,Final Walkthrough,Pass,73,3,N,,FHWA,
+482,138,01-16-2025,H. Lee,INS-79721,Structural,Pass,78,3,N,,FTA,Closed
+483,138,04/09/2019,M. Chen,INS-60513,Final Walkthrough,Pass,73,1,N,,OSHA,Escalated to state
+484,138,2020-05-07,H. Lee,INS-43451,Routine Safety,Pass,86,2,yes,,State DEP,Cited violation
+485,139,06-28-2019,R. Patel,INS-82469,Fire Safety,Pass,59,1,N,,Local Building Dept,
+486,139,,G. Martinez,INS-75569,Quality Control,Pass,98,0,Y,2025/02/08,Local Building Dept,
+487,140,2019-10-12,D. Freeman,INS-17924,Interim Progress,Pass with Conditions,66,0,Y,01/04/2019,Army Corps,Escalated to state
+488,141,30/10/2021,B. Torres,,Quality Control,Pass,67,2,N,,FAA,
+489,142,2020/10/25,C. Richardson,INS-70964,Quality Control,FAIL,,1,N,,FTA,
+490,143,08/27/2019,E. Hoffman,INS-54971,Quality Control,FAIL,50,2,Y,17/07/2023,Army Corps,
+491,144,01-24-2022,B. Torres,INS-18350,Environmental Compliance,Pass,79,1,No,,Army Corps,
+492,144,15/09/2021,I. Jackson,INS-15446,Quality Control,Fail,53,4,Y,25/03/2021,FAA,Follow-up required
+493,144,08/06/2022,C. Richardson,INS-45713,Interim Progress,pass,88,2,N,,FAA,Escalated to state
+494,144,2019/10/29,E. Hoffman,INS-76752,Final Walkthrough,Pass,59,1,N,,State DEP,
+495,144,2019/09/10,A. Nguyen,INS-13801,Quality Control,PASS,59,0,N,,FTA,
+496,145,2024/08/09,S. Williams,,Quality Control,Pass with Conditions,81,1,Y,11/01/2021,EPA,
+497,145,2025-03-17,H. Lee,,Interim Progress,Pass,97,1,Y,12/24/2019,State DOT,Follow-up required
+498,145,2022-03-17,K. O'Brien,INS-28585,Fire Safety,Pass,66,3,N,,State DOT,Escalated to state
+499,145,,K. O'Brien,INS-77839,Electrical,PASS,83,n/a,N,,EPA,
+500,145,2019-06-01,M. Chen,INS-98569,Environmental Compliance,Pass,76,3,Y,24/07/2024,FAA,Follow-up required
+501,146,01-03-2024,C. Richardson,INS-71016,Interim Progress,Pass,89,3,N,,OSHA,
+502,147,10/06/2020,R. Patel,INS-30849,Quality Control,Pass,86,2,Y,15/09/2020,FAA,Follow-up required
+503,147,03-14-2021,G. Martinez,INS-91356,Fire Safety,Pass,73,0,N,,Local Building Dept,Closed
+504,147,2023/10/12,G. Martinez,INS-87871,Electrical,Pass with Conditions,90,1,Y,19/05/2019,Local Building Dept,
+505,147,2024/12/21,A. Nguyen,INS-21865,Environmental Compliance,Deferred,,2,N,,FAA,
+506,147,22/11/2019,I. Jackson,INS-88137,Structural,fail,92,3,N,12/15/2019,OSHA,Escalated to state
+507,148,2019/09/16,K. O'Brien,,Quality Control,Pass with Conditions,63,0,Y,,State DOT,Escalated to state
+508,148,2020-09-22,G. Martinez,INS-46890,Structural,pass,98,3,N,,FAA,Cited violation
+509,148,09/11/2021,J. Kowalski,INS-61912,Routine Safety,Pass,99,3,N,,State DOT,
+510,149,2020/12/13,B. Torres,,Plumbing,Pass With Conditions,62,7,Y,2020/11/07,EPA,
+511,149,17/02/2021,K. O'Brien,,Structural,Pass,57,0,Y,31/07/2024,FAA,
+512,149,11/05/2025,S. Williams,INS-92673,Quality Control,Pass,85,1,N,,State DEP,Cited violation
+513,149,2025/05/10,R. Patel,INS-67827,Interim Progress,Pass,95,0,Y,2021/08/16,Local Building Dept,Escalated to state
+514,149,2023-11-21,R. Patel,INS-63397,Environmental Compliance,Pass,62,0,N,02-29-2020,FTA,Closed
+515,149,2020-11-08,A. Nguyen,INS-48728,Environmental Compliance,pass,66,2,N,,OSHA,Closed
+516,150,15/11/2019,S. Williams,INS-17635,Final Walkthrough,,73,3,,10-04-2019,FAA,Follow-up required
+517,150,2022/07/29,I. Jackson,INS-16839,Final Walkthrough,Pass,63,0,N,,State DOT,Closed
+518,150,,R. Patel,INS-61130,Interim Progress,Pass,67,1,N,,State DEP,Cited violation
+519,151,2021/01/07,C. Richardson,INS-70106,Quality Control,FAIL,60,,Y,03-14-2021,Army Corps,
+520,151,20/04/2021,A. Nguyen,INS-28216,Plumbing,Pass,,3,Y,2020/10/25,FHWA,
+521,151,2023/10/01,E. Hoffman,INS-47126,Quality Control,Pass,91,3,N,,State DEP,Follow-up required
+522,151,2021/12/08,G. Martinez,INS-61910,Fire Safety,Pass,72,TBD,N,,State DEP,
+523,152,2020/01/05,H. Lee,INS-38684,Environmental Compliance,Pass,89,2,N,,Army Corps,
+524,152,2022-07-31,S. Williams,INS-16469,Routine Safety,Pass,68,0,YES,,EPA,
+525,153,10/07/2019,J. Kowalski,INS-95517,Environmental Compliance,Pass,-,1,No,,State DOT,Cited violation
+526,153,2022/10/04,B. Torres,N/A,Environmental Compliance,Pass,75,2,Y,,EPA,Closed
+527,153,08/17/2024,I. Jackson,INS-51987,Quality Control,Pass,69,N/A,N,,Local Building Dept,Follow-up required
+528,153,11-18-2019,K. O'Brien,,Structural,Pass,58,0,N,,Army Corps,
+529,153,2023/06/17,M. Chen,INS-62890,Environmental Compliance,Pass,92,0,N,,EPA,
+530,154,15/01/2019,B. Torres,INS-85296,Fire Safety,Pass,62,2,No,,State DOT,
+531,154,03/07/2022,B. Torres,INS-94062,Fire Safety,Pass,55,2,Y,08/21/2022,Local Building Dept,
+532,154,08-01-2019,E. Hoffman,INS-30082,Quality Control,Pass,91,0,,,FTA,
+533,154,29/09/2020,E. Hoffman,INS-34656,Fire Safety,Pass with Conditions,,,Y,2021/08/24,Army Corps,
+534,155,06-23-2024,B. Torres,INS-76067,Plumbing,Fail,47,2,Y,01/07/2025,OSHA,
+535,156,2022-04-05,C. Richardson,INS-55594,Interim Progress,PASS,78,0,N,,FAA,
+536,156,06/01/2023,K. O'Brien,INS-90396,Environmental Compliance,Pass,-,0,N,,EPA,Escalated to state
+537,156,04/01/2025,S. Williams,INS-42107,Electrical,Pass,93,3,N,,State DOT,
+538,156,,G. Martinez,INS-24720,Fire Safety,Pass,73,3,N,,State DOT,
+539,156,13/09/2019,K. O'Brien,INS-50731,Structural,,61,3,N,,FAA,Follow-up required
+540,156,03-07-2020,R. Patel,INS-93069,Electrical,Pass with Conditions,,1,Y,05/10/2020,OSHA,Escalated to state
+541,157,2023-02-19,G. Martinez,INS-39223,Final Walkthrough,Pass,68,0,N,,State DEP,Closed
+542,157,19/06/2020,R. Patel,INS-11089,Routine Safety,Pass,74,1,N,,State DOT,Cited violation
+543,157,2023/10/03,S. Williams,INS-91140,Structural,Pass,64,3,Y,31/08/2022,FTA,
+544,157,18/03/2022,B. Torres,INS-37531,Fire Safety,Pass with Conditions,,2,Y,31/01/2023,State DEP,
+545,158,2023/05/31,H. Lee,INS-60071,Quality Control,Pass,99,2,N,,EPA,
+546,158,2021/03/28,C. Richardson,INS-59583,Final Walkthrough,Pass,89,1,N,,State DOT,
+547,159,06-15-2020,B. Torres,INS-53312,Fire Safety,,36,1,Y,2021/02/25,FAA,Escalated to state
+548,160,2022-12-16,G. Martinez,INS-56039,Quality Control,Pass,62,1,N,,FTA,Escalated to state
+549,160,02/21/2020,J. Kowalski,INS-43645,Structural,,81,,y,,State DOT,Escalated to state
+550,160,2023-07-25,M. Chen,INS-10920,Electrical,Pass,57,3,Y,,EPA,
+551,160,08/05/2019,S. Williams,INS-79619,Environmental Compliance,Pass,55,1,N,,FHWA,
+552,161,2023-11-07,H. Lee,INS-13397,Fire Safety,Fail,51,0,Y,2025-03-24,FHWA,
+553,161,2019/07/11,J. Kowalski,INS-51396,Plumbing,Pass with Conditions,100,2,Y,07/20/2020,FTA,
+554,161,11/16/2019,B. Torres,?,Quality Control,Pass,74,2,Y,,EPA,Follow-up required
+555,161,2020-11-23,E. Hoffman,INS-72596,Quality Control,Pass,98,3,N,,Army Corps,Cited violation
+556,162,2023/03/20,K. O'Brien,INS-20733,Quality Control,Pass,72,2,N,,FTA,Cited violation
+557,163,07/06/2022,D. Freeman,INS-30500,Fire Safety,Pass,,0,Y,,State DOT,Escalated to state
+558,164,06-03-2024,R. Patel,INS-29814,Final Walkthrough,Pass,79,1,N,,State DEP,
+559,164,,M. Chen,INS-67275,Routine Safety,Pass,TBD,0,N,,Army Corps,Cited violation
+560,165,2025-04-19,H. Lee,INS-78433,Structural,Pass,100,2,N,,Army Corps,Escalated to state
+561,165,2020-12-21,J. Kowalski,INS-80517,Interim Progress,pass,77,0,N,,FHWA,
+562,165,2025-01-05,R. Patel,INS-74267,Plumbing,Pass,91,1,Y,2019/08/10,State DOT,Cited violation
+563,165,05/30/2020,M. Chen,INS-52011,Fire Safety,Pass,86,0,N,,Army Corps,
+564,165,12/01/2023,A. Nguyen,INS-45065,Environmental Compliance,Pass with Conditions,64,2,Y,,FHWA,
+565,166,05-20-2020,R. Patel,INS-45214,Quality Control,Pass,65,3,N,,FAA,
+566,166,,J. Kowalski,,Plumbing,Pass,65,,Y,03/10/2022,Army Corps,Closed
+567,166,2021/07/24,E. Hoffman,INS-31737,Structural,Fail,46,1,Y,01/17/2024,State DEP,Cited violation
+568,166,16/03/2024,M. Chen,INS-74732,Structural,Fail,54,5,Y,2021-01-30,Local Building Dept,
+569,166,2019-08-23,M. Chen,,Plumbing,Pass,90,3,YES,,OSHA,
+570,167,2023/12/17,B. Torres,INS-83059,Quality Control,Fail,64,,Y,2022-10-30,State DOT,
+571,167,04/28/2024,S. Williams,INS-94289,Fire Safety,Fail,44,0,Y,14/12/2022,OSHA,
+572,167,09/02/2021,I. Jackson,,Structural,Pass,80,2,N,,State DOT,Closed
+573,167,10-23-2024,S. Williams,,Electrical,Pass,n/a,2,Y,,Army Corps,Cited violation
+574,167,01/14/2019,A. Nguyen,INS-90396,Environmental Compliance,Pass,83,3,yes,,Army Corps,
+575,168,08/24/2023,E. Hoffman,INS-83482,Electrical,Pass,72,0,N,,Local Building Dept,Follow-up required
+576,168,2019/05/04,C. Richardson,INS-15278,Plumbing,Pass,67,3,N,,State DEP,Cited violation
+577,169,01/05/2020,J. Kowalski,INS-46101,Structural,pass,79,0,N,,OSHA,
+578,169,06/07/2021,B. Torres,INS-62783,Plumbing,Pass with Conditions,66,2,Y,,Local Building Dept,
+579,169,08/14/2019,K. O'Brien,INS-19784,Structural,Pass,,,Y,2021-06-30,FAA,Follow-up required
+580,169,2021-05-15,B. Torres,INS-49127,Structural,Pass,71,2,N,,FTA,
+581,169,2021-04-09,C. Richardson,INS-49385,Electrical,Pass with Conditions,59,2,Y,19/10/2019,Local Building Dept,Cited violation
+582,170,08/12/2020,M. Chen,INS-72246,Fire Safety,FAIL,80,2,N,,Army Corps,Follow-up required
+583,170,09/27/2019,S. Williams,INS-30977,Environmental Compliance,Fail,30,N/A,yes,,FTA,Follow-up required
+584,170,2022-07-28,I. Jackson,INS-72232,Final Walkthrough,Pass,,0,N,,FAA,Escalated to state
+585,171,10-02-2020,S. Williams,INS-55333,Final Walkthrough,Pass,?,3,N,,FTA,
+586,172,12/10/2024,J. Kowalski,INS-63370,Environmental Compliance,Pass,92,,N,,FHWA,Closed
+587,172,2023-04-25,A. Nguyen,INS-58334,Electrical,Pass With Conditions,60,,YES,,State DEP,
+588,172,,M. Chen,INS-74838,Electrical,Pass,81,1,N,,State DOT,
+589,172,2024-04-26,M. Chen,INS-24616,Fire Safety,Pass,n/a,0,Y,,Army Corps,Escalated to state
+590,172,2021-11-28,J. Kowalski,INS-80412,Structural,Pass,93,0,Y,27/06/2020,State DOT,Escalated to state
+591,173,2024/07/21,K. O'Brien,INS-86154,Final Walkthrough,Fail,64,4,Y,2025-02-19,FAA,Cited violation
+592,174,2024-03-12,M. Chen,INS-12419,Structural,Pass,73,3,N,,FAA,Follow-up required
+593,174,10/04/2019,A. Nguyen,INS-56159,Quality Control,Deferred,N/A,3,N,,Army Corps,
+594,174,08/05/2025,B. Torres,INS-93129,Final Walkthrough,Pass,95,3,Y,08/16/2022,State DEP,
+595,174,18/05/2023,J. Kowalski,INS-63964,Final Walkthrough,Pass,91,0,yes,,FTA,Escalated to state
+596,174,2019/07/06,B. Torres,,Fire Safety,Pass,97,,N,,Army Corps,Follow-up required
+597,175,03/07/2022,R. Patel,INS-83690,Electrical,Fail,51,4,Y,03-01-2021,FTA,Cited violation
+598,175,05/16/2022,S. Williams,INS-16220,Plumbing,Pass With Conditions,88,1,N,,FTA,
+599,176,10/11/2024,K. O'Brien,INS-54389,Plumbing,Pass,87,3,N,,FHWA,Closed
+600,176,26/11/2024,B. Torres,INS-10087,Final Walkthrough,Fail,,1,Y,2022/08/01,OSHA,
+601,178,2024-11-16,J. Kowalski,,Final Walkthrough,Pass,86,1,N,,State DOT,Follow-up required
+602,178,07-22-2021,E. Hoffman,INS-43447,Final Walkthrough,Pass,97,,Y,03-10-2024,State DOT,
+603,178,10/07/2021,E. Hoffman,INS-61196,Quality Control,Pass,78,0,N,,Army Corps,
+604,178,10-05-2021,H. Lee,INS-23007,Electrical,Pass,55,N/A,Y,,FTA,
+605,178,08-29-2023,G. Martinez,INS-61787,Structural,Pass,,1,N,,FTA,Follow-up required
+606,179,07/19/2020,G. Martinez,INS-37556,Structural,Pass,76,2,No,,Army Corps,
+607,179,04/05/2021,J. Kowalski,INS-59429,Interim Progress,Pass,69,0,N,,State DOT,
+608,179,2022-04-19,J. Kowalski,INS-41475,Electrical,Pass With Conditions,,3,N,,Army Corps,Follow-up required
+609,179,,J. Kowalski,INS-78928,Final Walkthrough,Fail,31,4,Y,13/05/2022,State DEP,
+610,179,27/01/2025,I. Jackson,INS-35934,Environmental Compliance,Pass,66,2,Y,2023/03/04,State DEP,
+611,180,2022/10/13,I. Jackson,INS-25433,Interim Progress,Pass,78,3,N,,FAA,
+612,180,27/07/2019,K. O'Brien,INS-69046,Final Walkthrough,Pass With Conditions,64,3,Y,11-08-2024,EPA,
+613,180,,K. O'Brien,?,Quality Control,Pass,,0,N,,FAA,Cited violation
+614,180,2019-12-17,B. Torres,INS-96058,Environmental Compliance,Pass,,2,,,FAA,
+615,180,04-09-2022,M. Chen,INS-55502,Fire Safety,pass,72,TBD,N,,State DOT,
+616,180,07/01/2021,M. Chen,INS-21309,Final Walkthrough,FAIL,87,3,,,FTA,
+617,181,04/15/2025,J. Kowalski,INS-21623,Quality Control,Pass with Conditions,80,2,Y,05-29-2023,State DEP,
+618,181,2024/11/09,H. Lee,INS-37980,Final Walkthrough,Pass,?,-,N,,OSHA,Follow-up required
+619,182,10-28-2020,H. Lee,INS-23449,Final Walkthrough,Pass,98,3,N,,State DEP,Closed
+620,182,08/18/2019,K. O'Brien,INS-15608,Structural,Pass,71,1,N,,OSHA,
+621,183,11-30-2021,E. Hoffman,INS-86413,Electrical,fail,78,1,Y,,State DEP,Closed
+622,183,,S. Williams,INS-26355,Interim Progress,Pass with Conditions,91,1,Y,,State DOT,Cited violation
+623,183,26/04/2022,B. Torres,INS-41230,Final Walkthrough,Pass,87,0,YES,,State DEP,
+624,183,04-06-2022,I. Jackson,INS-92505,Fire Safety,Pass with Conditions,55,3,Y,,Local Building Dept,
+625,183,,B. Torres,INS-91111,Routine Safety,Pass,100,2,Y,2023/05/08,EPA,Cited violation
+626,183,,B. Torres,INS-90447,Environmental Compliance,Pass,N/A,1,N,,EPA,
+627,185,26/09/2024,I. Jackson,INS-55719,Fire Safety,Pass,84,3,,,OSHA,Cited violation
+628,185,18/04/2019,D. Freeman,INS-57562,Fire Safety,Fail,61,5,Y,,Army Corps,
+629,185,2022-03-23,K. O'Brien,INS-70007,Electrical,Pass,75,,N,,Local Building Dept,Escalated to state
+630,186,2022/03/31,J. Kowalski,INS-43399,Structural,Pass,63,2,N,,Local Building Dept,
+631,187,23/01/2023,R. Patel,INS-32833,Electrical,Pass,98,3,N,,OSHA,
+632,187,2023-12-29,J. Kowalski,INS-48548,Final Walkthrough,Pass,71,1,N,,State DEP,Closed
+633,187,2021/03/13,C. Richardson,INS-32653,Fire Safety,Pass,79,1,N,,FTA,Cited violation
+634,187,04/21/2023,K. O'Brien,TBD,Routine Safety,Pass,67,?,N,,Army Corps,
+635,187,12-10-2022,R. Patel,INS-44215,Plumbing,Pass,78,1,N,,OSHA,Escalated to state
+636,188,04-14-2022,K. O'Brien,INS-34048,Environmental Compliance,Pass,99,1,N,,FTA,Cited violation
+637,188,,I. Jackson,,Routine Safety,Pass,58,3,Y,2020/06/11,FHWA,Follow-up required
+638,188,21/06/2023,S. Williams,,Quality Control,Pass,96,,Y,01/28/2022,Army Corps,Closed
+639,188,2025-05-25,R. Patel,INS-95686,Quality Control,pass,64,3,Y,,FHWA,Follow-up required
+640,188,01-31-2024,D. Freeman,INS-29605,Electrical,Pass,84,2,y,,FAA,
+641,188,12-29-2022,I. Jackson,INS-59852,Structural,Pass,88,1,N,,Local Building Dept,
+642,189,07-24-2019,C. Richardson,INS-97734,Fire Safety,Pass with Conditions,,,Y,12-03-2023,State DOT,Cited violation
+643,189,08/17/2021,K. O'Brien,INS-46301,Environmental Compliance,Pass,n/a,,Y,,State DEP,Cited violation
+644,189,2023/10/20,G. Martinez,?,Plumbing,Pass With Conditions,90,1,N,,FAA,Escalated to state
+645,190,2025-05-17,R. Patel,INS-78475,Environmental Compliance,Pass,78,1,N,,FTA,Follow-up required
+646,190,08/08/2021,H. Lee,INS-89819,Plumbing,Pass,78,,N,,State DOT,
+647,190,04/27/2020,H. Lee,INS-51182,Final Walkthrough,Pass With Conditions,57,1,N,,FHWA,
+648,191,11-14-2023,R. Patel,INS-93639,Final Walkthrough,Pass with Conditions,,2,Y,2019/04/16,State DOT,Escalated to state
+649,191,,D. Freeman,-,Environmental Compliance,Pass,63,3,Y,2025/06/02,EPA,
+650,191,02-04-2025,H. Lee,INS-27835,Fire Safety,Pass,90,3,N,,State DEP,
+651,191,2024-06-19,G. Martinez,INS-83420,Electrical,Pass,99,3,Y,,FTA,
+652,192,2019-05-23,S. Williams,INS-65731,Structural,Pass,94,3,Y,2020-05-13,Army Corps,
+653,192,2021-10-08,E. Hoffman,INS-97745,Environmental Compliance,Deferred,88,1,yes,,Army Corps,Escalated to state
+654,193,2020-11-15,K. O'Brien,INS-40916,Environmental Compliance,Pass with Conditions,88,0,Y,2020/12/15,Local Building Dept,Cited violation
+655,193,2022-07-21,S. Williams,INS-48318,Electrical,Pass,73,0,N,,Army Corps,
+656,193,02/18/2025,D. Freeman,INS-50752,Quality Control,Pass,n/a,0,N,,Local Building Dept,Follow-up required
+657,194,16/02/2020,K. O'Brien,INS-58407,Routine Safety,fail,68,1,N,,State DEP,
+658,194,2023-07-10,E. Hoffman,INS-63752,Structural,Fail,43,2,Y,05-25-2025,State DOT,
+659,194,2020-08-18,I. Jackson,INS-17290,Environmental Compliance,FAIL,57,1,Y,05/13/2022,Local Building Dept,
+660,194,08/27/2023,S. Williams,N/A,Environmental Compliance,Pass with Conditions,55,2,Y,2025-05-27,EPA,Follow-up required
+661,194,10-06-2023,D. Freeman,INS-62772,Quality Control,Pass,60,2,N,,Local Building Dept,
+662,196,05-12-2019,I. Jackson,INS-14610,Interim Progress,Pass,82,0,N,,EPA,Cited violation
+663,196,02/07/2023,C. Richardson,INS-13082,Structural,Pass,55,1,N,,Local Building Dept,Escalated to state
+664,196,17/07/2021,H. Lee,INS-81609,Routine Safety,Pass,89,1,N,,Army Corps,
+665,197,2022-01-03,S. Williams,INS-39737,Fire Safety,Fail,-,5,Y,07-07-2020,Local Building Dept,
+666,197,04/24/2021,J. Kowalski,INS-69350,Plumbing,Fail,35,,Y,,State DEP,Cited violation
+667,197,2023/02/02,E. Hoffman,INS-85123,Fire Safety,Pass,63,0,YES,,OSHA,
+668,197,11/02/2024,D. Freeman,INS-85014,Interim Progress,Pass,66,0,N,,FTA,
+669,197,07-18-2020,I. Jackson,INS-82845,Structural,Pass,64,2,,,FTA,
+670,198,2020-12-03,G. Martinez,INS-56428,Interim Progress,Pass,89,2,N,,Local Building Dept,
+671,198,2022/09/15,G. Martinez,INS-15706,Routine Safety,Pass with Conditions,74,0,Y,,EPA,
+672,198,03-14-2022,M. Chen,INS-72398,Routine Safety,Pass,92,2,N,,State DEP,Cited violation
+673,198,04-18-2021,M. Chen,,Interim Progress,Pass,94,3,,,EPA,
+674,198,2023-03-12,E. Hoffman,INS-33408,Fire Safety,Pass,98,2,N,,Local Building Dept,
+675,199,2023/03/24,J. Kowalski,,Electrical,Pass,75,,Y,2021-12-19,OSHA,Follow-up required
+676,199,,J. Kowalski,,Interim Progress,Pass,75,1,N,,Local Building Dept,Closed
+677,199,12/03/2019,J. Kowalski,INS-69590,Interim Progress,Fail,43,1,Y,26/11/2021,Local Building Dept,
+678,200,10/06/2020,E. Hoffman,INS-21464,Routine Safety,Pass With Conditions,,2,y,,FAA,Closed
+679,200,03-14-2023,M. Chen,INS-73333,Routine Safety,PASS,46,,Y,01/28/2023,FTA,
+680,200,2020/08/24,J. Kowalski,INS-87399,Interim Progress,Pass,?,3,,,Local Building Dept,Escalated to state
+681,201,2024/02/13,D. Freeman,INS-99822,Plumbing,Pass,68,2,N,,EPA,
+682,201,23/01/2024,C. Richardson,INS-23945,Quality Control,Pass,71,1,N,,Local Building Dept,Escalated to state
+683,201,18/05/2024,D. Freeman,INS-32743,Electrical,Pass,68,2,N,,Army Corps,
+684,201,09/08/2019,D. Freeman,N/A,Structural,Pass,64,2,Y,,FTA,Escalated to state
+685,201,2020-05-02,I. Jackson,TBD,Final Walkthrough,Pass,N/A,2,N,,FHWA,Follow-up required
+686,202,21/11/2021,M. Chen,INS-20596,Electrical,Pass,93,3,N,,EPA,Cited violation
+687,202,2020/12/17,S. Williams,INS-57157,Quality Control,Pass,79,-,N,,OSHA,Cited violation
+688,202,2024-11-15,I. Jackson,INS-37312,Routine Safety,Pass,87,3,N,,Local Building Dept,
+689,202,01/02/2025,I. Jackson,INS-38456,Final Walkthrough,Pass,85,2,N,,Local Building Dept,
+690,203,2021-06-09,J. Kowalski,INS-19903,Final Walkthrough,Fail,57,6,Y,,EPA,
+691,203,01/07/2024,I. Jackson,INS-97133,Environmental Compliance,pass,83,0,N,,Local Building Dept,
+692,204,2020/12/20,S. Williams,INS-97326,Environmental Compliance,Pass,99,1,N,,FTA,
+693,204,2022/06/25,D. Freeman,INS-67908,Final Walkthrough,Pass,64,0,y,2019/11/14,FAA,
+694,204,01/07/2025,J. Kowalski,n/a,Final Walkthrough,Pass With Conditions,56,0,N,,OSHA,
+695,204,11-15-2022,G. Martinez,INS-32247,Electrical,Pass with Conditions,56,2,Y,2023-08-18,Army Corps,Escalated to state
+696,205,2020/03/04,B. Torres,INS-54743,Fire Safety,Pass With Conditions,91,0,N,,State DEP,
+697,205,2020-06-06,R. Patel,INS-25540,Routine Safety,Pass,81,,N,,FTA,
+698,206,02-23-2024,I. Jackson,-,Environmental Compliance,Pass,70,0,Y,2019-06-25,Local Building Dept,
+699,206,24/10/2024,J. Kowalski,INS-52841,Quality Control,Pass,74,2,y,,Local Building Dept,
+700,206,10/28/2019,S. Williams,INS-24642,Structural,Pass,91,2,N,,State DOT,
+701,206,03-28-2024,I. Jackson,INS-11798,Fire Safety,Pass,78,1,,09/12/2021,FAA,Escalated to state
+702,207,02/17/2022,M. Chen,INS-76361,Environmental Compliance,Pass,57,1,Y,,FAA,Follow-up required
+703,207,01/16/2020,M. Chen,INS-61055,Environmental Compliance,Pass with Conditions,91,0,Y,01/02/2020,EPA,
+704,207,08/08/2022,G. Martinez,INS-56831,Environmental Compliance,Pass,71,?,Y,2022/05/06,Army Corps,
+705,207,03/16/2021,E. Hoffman,INS-67842,Electrical,Fail,31,7,Y,,FHWA,
+706,207,2024/03/22,S. Williams,INS-16555,Final Walkthrough,Pass,68,2,N,,Army Corps,
+707,207,,E. Hoffman,INS-44865,Routine Safety,Pass,99,3,N,,FHWA,
+708,208,05-16-2021,S. Williams,INS-96862,Routine Safety,Pass,78,2,Y,,OSHA,
+709,208,23/02/2021,A. Nguyen,TBD,Interim Progress,Pass,99,3,N,,State DEP,Closed
+710,208,2019-12-07,E. Hoffman,INS-74476,Structural,Pass,82,1,N,,State DEP,
+711,208,19/10/2019,H. Lee,INS-46312,Structural,Pass,62,2,N,,FTA,
+712,209,11-15-2020,J. Kowalski,INS-67267,Environmental Compliance,Pass,80,0,N,,FAA,
+713,209,12/06/2024,B. Torres,INS-98786,Routine Safety,Pass,83,1,N,,OSHA,Closed
+714,209,21/10/2019,J. Kowalski,INS-76829,Environmental Compliance,Pass,96,,N,,State DOT,
+715,210,02/14/2020,R. Patel,INS-64426,Routine Safety,Pass,98,3,N,,State DEP,Escalated to state
+716,210,2022/09/29,A. Nguyen,INS-17026,Interim Progress,Pass with Conditions,100,,Y,,FTA,
+717,210,2021-09-24,B. Torres,INS-17502,Final Walkthrough,fail,38,2,Y,04/25/2025,Local Building Dept,Closed
+718,210,02/12/2021,E. Hoffman,N/A,Electrical,Pass,69,2,Y,,State DOT,
+719,210,2021/10/03,J. Kowalski,INS-90425,Fire Safety,Pass,57,0,Y,09-01-2021,FHWA,Closed
+720,211,2023/12/04,E. Hoffman,INS-62219,Structural,Pass,78,3,N,,Army Corps,
+721,212,,H. Lee,INS-67488,Final Walkthrough,Pass,93,2,N,,FHWA,Escalated to state
+722,212,19/09/2022,S. Williams,-,Routine Safety,Pass,92,3,Y,,FHWA,Follow-up required
+723,212,04/09/2021,C. Richardson,INS-67246,Interim Progress,Pass,98,1,No,,State DEP,
+724,213,10/09/2019,A. Nguyen,INS-81269,Interim Progress,Pass,60,1,N,,Army Corps,
+725,213,,B. Torres,INS-72427,Electrical,Pass with Conditions,100,3,Y,,FTA,Follow-up required
+726,214,11/30/2024,M. Chen,INS-24492,Quality Control,Pass,65,3,Y,2020-03-21,FAA,Cited violation
+727,214,2022-12-28,M. Chen,INS-24225,Environmental Compliance,Fail,55,6,Y,,Army Corps,Cited violation
+728,215,07-24-2019,R. Patel,,Plumbing,fail,94,3,N,,State DEP,Escalated to state
+729,216,05-30-2025,R. Patel,INS-85298,Structural,Pass,71,1,N,,State DEP,
+730,217,2024-06-22,S. Williams,INS-39555,Quality Control,Pass,86,1,N,,FTA,Escalated to state
+731,217,16/07/2021,D. Freeman,INS-75619,Interim Progress,Pass,71,0,Y,22/10/2024,OSHA,
+732,217,,E. Hoffman,INS-83306,Quality Control,Pass With Conditions,TBD,3,Y,,FAA,
+733,217,2021-01-28,E. Hoffman,TBD,Plumbing,PASS,55,,N,,FAA,Escalated to state
+734,218,01/09/2020,A. Nguyen,INS-33375,Interim Progress,Pass,91,0,N,,State DOT,Cited violation
+735,218,06-20-2023,K. O'Brien,INS-82348,Fire Safety,Pass,94,1,N,,OSHA,Follow-up required
+736,219,02-20-2023,G. Martinez,INS-77803,Environmental Compliance,Pass,71,3,N,,State DEP,
+737,219,2022-04-18,E. Hoffman,INS-30398,Structural,Pass,,0,N,,State DEP,Follow-up required
+738,219,28/09/2019,S. Williams,INS-99774,Quality Control,Pass,55,0,no,03/15/2023,FHWA,
+739,219,2021-03-23,S. Williams,INS-15023,Final Walkthrough,Pass,78,2,N,,FAA,Closed
+740,219,03-02-2020,S. Williams,INS-37357,Quality Control,Pass,70,0,Y,01/26/2020,FTA,Closed
+741,220,08/02/2019,E. Hoffman,INS-17353,Interim Progress,Pass,86,3,Y,2021/01/26,FAA,Cited violation
+742,221,2021-02-19,B. Torres,INS-20661,Structural,Pass,62,1,N,,FHWA,Escalated to state
+743,221,2021-11-09,M. Chen,INS-16700,Final Walkthrough,Pass,79,3,N,,FAA,
+744,221,27/12/2023,J. Kowalski,INS-17435,Final Walkthrough,Pass,93,0,N,,State DOT,Cited violation
+745,221,2023-11-11,C. Richardson,INS-70526,Interim Progress,Pass,93,0,N,,State DOT,
+746,221,,J. Kowalski,INS-54490,Routine Safety,Pass,82,0,Y,2023-06-24,FHWA,
+747,221,2019-06-01,D. Freeman,,Plumbing,Pass,79,2,N,,Local Building Dept,
+748,222,2024-06-13,G. Martinez,INS-73420,Environmental Compliance,Pass,87,0,Y,01-28-2020,Local Building Dept,Cited violation
+749,222,2021-09-27,D. Freeman,INS-27971,Plumbing,Pass,55,3,N,,Army Corps,
+750,222,,D. Freeman,,Quality Control,FAIL,69,3,N,,State DEP,
+751,223,04/09/2025,I. Jackson,N/A,Structural,Pass,70,2,N,,FHWA,Follow-up required
+752,223,27/11/2021,I. Jackson,INS-52752,Electrical,Pass,58,0,y,12/01/2023,FHWA,Closed
+753,223,2019-07-03,R. Patel,INS-92698,Plumbing,Pass,90,0,N,,OSHA,
+754,223,09/11/2021,E. Hoffman,,Final Walkthrough,Pass,,2,N,,State DOT,Escalated to state
+755,224,04-18-2020,A. Nguyen,INS-57505,Plumbing,Pass with Conditions,72,3,Y,2020-02-13,OSHA,
+756,224,2019/02/05,D. Freeman,INS-37594,Interim Progress,Pass,63,0,N,,Army Corps,
+757,225,2023/04/01,M. Chen,INS-63573,Interim Progress,Fail,47,5,N,10/11/2020,State DOT,Closed
+758,225,06/08/2021,R. Patel,INS-32595,Plumbing,Pass,96,2,Y,10/27/2023,Army Corps,Escalated to state
+759,225,01-04-2023,G. Martinez,INS-86686,Plumbing,Pass,99,0,N,,State DOT,Follow-up required
+760,225,08/20/2019,H. Lee,INS-72637,Quality Control,Pass,58,3,N,,FAA,Closed
+761,226,2024/04/10,K. O'Brien,?,Quality Control,Pass,,0,N,,OSHA,Escalated to state
+762,227,10-10-2020,D. Freeman,INS-18070,Electrical,Pass,89,,N,,EPA,Escalated to state
+763,228,07/07/2024,C. Richardson,INS-10446,Structural,Pass,69,3,N,,OSHA,Cited violation
+764,228,,A. Nguyen,INS-87392,Electrical,Pass,95,3,yes,,FTA,
+765,228,2023-06-01,M. Chen,INS-12247,Final Walkthrough,Pass,70,0,no,,FHWA,
+766,229,,E. Hoffman,INS-77762,Environmental Compliance,Pass,78,2,N,,OSHA,Follow-up required
+767,229,2022/09/26,A. Nguyen,INS-93757,Electrical,Pass,74,1,N,,State DEP,Cited violation
+768,229,2024-05-23,R. Patel,INS-37748,Electrical,Pass,85,2,Y,2023-03-12,EPA,
+769,229,20/07/2021,I. Jackson,INS-22277,Quality Control,Pass,,,Y,,FTA,Follow-up required
+770,229,2021/06/12,C. Richardson,INS-51522,Quality Control,Pass,60,2,N,,FHWA,Closed
+771,229,01/29/2025,R. Patel,INS-85181,Electrical,Pass,75,1,yes,,Local Building Dept,Follow-up required
+772,230,,S. Williams,INS-98349,Interim Progress,Pass,77,2,Y,12/12/2024,Local Building Dept,Escalated to state
+773,230,2019-09-08,K. O'Brien,INS-48305,Interim Progress,Pass,78,3,N,,FHWA,Escalated to state
+774,231,2019-01-05,K. O'Brien,INS-92561,Plumbing,Pass,63,,Y,2021-11-19,FTA,
+775,231,04/10/2024,M. Chen,,Environmental Compliance,Deferred,60,3,Y,12/22/2022,State DEP,
+776,232,2024-05-22,K. O'Brien,INS-24648,Electrical,PASS,64,1,Y,05/11/2023,OSHA,
+777,233,2022-03-08,K. O'Brien,INS-42294,Routine Safety,,56,1,Y,31/03/2021,State DEP,
+778,233,03/06/2022,D. Freeman,INS-88761,Structural,Pass,76,3,N,,FHWA,
+779,233,21/01/2020,M. Chen,INS-35454,Structural,Pass,100,0,N,,Army Corps,Cited violation
+780,233,2023-05-20,I. Jackson,INS-11041,Electrical,FAIL,64,1,N,,EPA,Closed
+781,234,03-22-2021,I. Jackson,INS-48080,Routine Safety,Pass,62,n/a,Y,,FAA,Escalated to state
+782,234,2019/11/19,S. Williams,INS-92740,Routine Safety,fail,93,0,Y,05/07/2022,FAA,Closed
+783,234,06/18/2021,B. Torres,INS-84244,Fire Safety,Fail,51,6,Y,2023-12-29,Army Corps,Escalated to state
+784,236,2024/01/31,E. Hoffman,INS-13725,Structural,Pass,76,n/a,N,,EPA,Follow-up required
+785,236,12-13-2019,E. Hoffman,INS-50820,Environmental Compliance,Pass,73,2,,,FTA,
+786,236,16/02/2023,R. Patel,INS-94447,Structural,Pass,77,1,N,,OSHA,
+787,236,09/27/2020,M. Chen,INS-22357,Quality Control,Pass with Conditions,n/a,2,Y,16/10/2020,Army Corps,Escalated to state
+788,236,2020/10/23,R. Patel,?,Final Walkthrough,Pass,62,2,N,,EPA,
+789,236,02-26-2021,M. Chen,INS-61084,Plumbing,Pass with Conditions,89,1,Y,07-27-2021,FAA,Escalated to state
+790,237,03/24/2020,M. Chen,INS-60196,Plumbing,Fail,42,0,y,01/20/2023,EPA,Follow-up required
+791,237,06-30-2021,G. Martinez,INS-57212,Environmental Compliance,Pass,76,3,N,,State DEP,
+792,237,02/26/2021,S. Williams,n/a,Quality Control,Pass,TBD,1,N,,OSHA,Follow-up required
+793,237,2024-05-31,C. Richardson,INS-35751,Environmental Compliance,,TBD,0,y,,OSHA,Follow-up required
+794,237,03-07-2024,C. Richardson,INS-65507,Routine Safety,Pass with Conditions,N/A,,Y,2022-05-26,FAA,
+795,237,10/05/2023,E. Hoffman,,Electrical,Pass,99,1,N,,FHWA,
+796,238,2023-10-14,H. Lee,INS-28425,Environmental Compliance,Pass,95,0,N,,State DEP,Cited violation
+797,239,04/13/2025,C. Richardson,INS-12819,Final Walkthrough,Pass,TBD,1,N,,EPA,
+798,239,04-13-2020,D. Freeman,INS-93683,Plumbing,,64,1,N,,EPA,
+799,241,06/01/2024,I. Jackson,INS-35712,Routine Safety,pass,56,0,N,,Local Building Dept,Follow-up required
+800,241,14/09/2019,A. Nguyen,INS-74667,Interim Progress,Pass,78,2,No,,FAA,Follow-up required
+801,241,10/19/2023,B. Torres,INS-95974,Fire Safety,Pass,93,2,N,,FAA,Cited violation
+802,242,2020-02-16,S. Williams,INS-90366,Routine Safety,Pass,96,,N,,EPA,
+803,243,2025-01-15,R. Patel,INS-63473,Quality Control,Fail,58,0,yes,,Local Building Dept,
+804,243,2021-06-15,R. Patel,INS-16114,Environmental Compliance,Pass,79,2,Y,11/09/2020,FAA,Follow-up required
+805,243,02/11/2019,R. Patel,INS-71759,Environmental Compliance,Pass,78,3,Y,,OSHA,
+806,243,07/20/2023,J. Kowalski,INS-92104,Plumbing,Pass,97,2,Y,,FTA,Cited violation
+807,243,10/26/2021,D. Freeman,INS-82845,Structural,Fail,52,7,Y,,State DEP,Follow-up required
+808,243,2022/01/27,K. O'Brien,INS-37694,Quality Control,Pass With Conditions,66,2,Y,,State DOT,Closed
+809,244,2022/05/09,S. Williams,,Electrical,Pass,85,2,N,,FAA,
+810,244,11/01/2020,R. Patel,INS-69627,Quality Control,Pass with Conditions,n/a,2,Y,2025/03/08,State DOT,Closed
+811,244,03-24-2019,R. Patel,INS-16526,Environmental Compliance,,77,1,Y,2022/05/14,State DEP,Follow-up required
+812,244,,E. Hoffman,INS-29628,Structural,Pass with Conditions,99,1,Y,,OSHA,
+813,245,2020-02-05,B. Torres,N/A,Final Walkthrough,Pass,86,,N,,FHWA,
+814,245,16/08/2021,C. Richardson,INS-44148,Plumbing,Pass,76,2,No,11-01-2024,Local Building Dept,
+815,245,07-20-2019,K. O'Brien,,Environmental Compliance,PASS,62,1,N,,FHWA,
+816,245,2024/09/15,R. Patel,INS-41803,Structural,Pass with Conditions,,0,Y,,Local Building Dept,
+817,245,2020/11/08,H. Lee,INS-23839,Final Walkthrough,Pass,66,3,Y,08/08/2021,State DEP,
+818,245,2020/03/07,J. Kowalski,INS-54522,Structural,Pass,,3,N,,EPA,Follow-up required
+819,246,10-23-2024,J. Kowalski,INS-77475,Quality Control,Pass,92,0,N,,Local Building Dept,Closed
+820,246,05/17/2021,S. Williams,INS-44381,Fire Safety,Fail,59,1,Y,2024/06/06,FAA,Cited violation
+821,246,04/23/2019,H. Lee,INS-17756,Interim Progress,Pass,65,2,N,,FAA,
+822,246,27/04/2020,M. Chen,INS-83455,Routine Safety,Fail,37,8,Y,01/21/2020,Local Building Dept,
+823,246,09-27-2022,D. Freeman,INS-67550,Fire Safety,Pass,67,3,N,,Local Building Dept,Follow-up required
+824,247,2024-10-24,E. Hoffman,INS-44615,Structural,Fail,40,0,Y,01-13-2025,OSHA,
+825,247,02-25-2021,G. Martinez,INS-43533,Electrical,Deferred,75,1,N,,OSHA,
+826,247,29/05/2021,I. Jackson,INS-46054,Structural,Pass with Conditions,65,1,y,08-14-2020,Local Building Dept,
+827,249,2023-04-17,H. Lee,INS-10333,Quality Control,Pass,83,3,N,,OSHA,Closed
+828,250,09-13-2022,E. Hoffman,INS-37161,Final Walkthrough,Pass,87,-,Y,2019/09/04,EPA,
+829,250,2020-05-07,K. O'Brien,INS-80118,Routine Safety,fail,99,2,no,2024/10/22,State DEP,Escalated to state
+830,250,2022/08/26,E. Hoffman,INS-95194,Final Walkthrough,Pass,67,1,N,,Army Corps,
+831,250,09-10-2020,R. Patel,INS-62171,Fire Safety,Pass,75,1,y,,FHWA,
+832,250,2020/01/13,E. Hoffman,,Final Walkthrough,Pass with Conditions,74,0,Y,02/08/2021,State DOT,
+833,250,03/22/2019,C. Richardson,INS-26435,Routine Safety,,,2,N,,State DOT,
+834,251,,E. Hoffman,INS-75839,Fire Safety,Fail,39,4,Y,,Army Corps,
+835,251,,I. Jackson,INS-35945,Interim Progress,FAIL,90,1,N,,EPA,
+836,251,17/02/2021,R. Patel,INS-55808,Environmental Compliance,FAIL,40,7,Y,09-24-2021,Local Building Dept,Cited violation
+837,251,06/22/2020,G. Martinez,INS-25427,Fire Safety,Pass,86,N/A,Y,,FTA,
+838,252,15/06/2021,R. Patel,INS-65744,Structural,Pass,78,0,N,,FHWA,Follow-up required
+839,253,03/01/2024,K. O'Brien,INS-60612,Environmental Compliance,Pass,58,0,N,,State DOT,
+840,254,19/08/2019,H. Lee,INS-34647,Environmental Compliance,Pass,82,n/a,N,,FTA,
+841,254,11-02-2022,S. Williams,INS-40607,Final Walkthrough,PASS,62,,Y,05-02-2022,Local Building Dept,Follow-up required
+842,254,05-16-2023,A. Nguyen,INS-81376,Structural,Pass,85,1,N,,EPA,
+843,254,2019-09-12,J. Kowalski,INS-55538,Environmental Compliance,Pass,69,,N,,Local Building Dept,
+844,255,2019/10/30,A. Nguyen,INS-18296,Quality Control,Pass,96,3,N,,OSHA,
+845,256,22/04/2024,K. O'Brien,INS-72046,Fire Safety,Pass with Conditions,99,1,YES,2021-08-18,Army Corps,Escalated to state
+846,256,09/01/2021,A. Nguyen,INS-83071,Electrical,Pass with Conditions,72,1,Y,2020/11/18,OSHA,Cited violation
+847,256,2024/08/30,I. Jackson,INS-46712,Quality Control,Pass,79,,Y,2021-03-03,State DEP,Cited violation
+848,256,09/01/2019,G. Martinez,INS-91610,Interim Progress,Pass,67,2,,22/08/2024,EPA,Cited violation
+849,257,2020/12/17,I. Jackson,INS-44816,Electrical,Pass,70,1,N,,FTA,Follow-up required
+850,257,2020-12-13,J. Kowalski,INS-44486,Interim Progress,Pass,96,2,N,,Local Building Dept,Follow-up required
+851,257,2021-11-15,C. Richardson,INS-59323,Plumbing,Pass,95,0,N,,OSHA,
+852,257,07-09-2021,J. Kowalski,N/A,Structural,Fail,44,6,,2023/06/23,Local Building Dept,
+853,259,,H. Lee,?,Plumbing,Pass,,3,N,,Army Corps,
+854,259,11/23/2024,G. Martinez,INS-84022,Quality Control,Pass,73,3,Y,2020/02/14,OSHA,Cited violation
+855,259,03/26/2020,R. Patel,INS-10592,Final Walkthrough,Pass,94,1,Y,2024-02-13,Local Building Dept,
+856,260,03/07/2024,C. Richardson,INS-49515,Interim Progress,Pass,64,1,N,,FAA,
+857,260,05/09/2021,K. O'Brien,INS-19898,Structural,Pass,95,0,N,,FHWA,
+858,260,22/01/2021,K. O'Brien,INS-31270,Electrical,Pass,71,1,no,,OSHA,
+859,260,2019/06/01,G. Martinez,,Routine Safety,Pass With Conditions,73,,N,,OSHA,Cited violation
+860,260,07/05/2019,A. Nguyen,INS-59086,Plumbing,Pass,78,2,N,,FAA,Escalated to state
+861,260,11/09/2021,H. Lee,INS-95976,Final Walkthrough,Pass,75,,Y,29/09/2019,EPA,
+862,261,18/09/2022,D. Freeman,INS-75636,Plumbing,Pass,81,1,N,,FTA,
+863,262,11-09-2021,R. Patel,INS-33181,Routine Safety,Pass,62,0,Y,,Local Building Dept,Closed
+864,262,25/12/2019,S. Williams,INS-65131,Structural,Pass with Conditions,86,2,Y,01-11-2023,State DOT,
+865,262,17/07/2020,S. Williams,INS-99407,Fire Safety,Pass,95,,N,,OSHA,
+866,262,08-15-2024,C. Richardson,INS-99732,Final Walkthrough,Pass with Conditions,71,3,Y,,EPA,
+867,262,17/08/2022,I. Jackson,INS-61862,Plumbing,Pass,61,n/a,N,,Army Corps,
+868,262,2023-07-27,B. Torres,INS-51517,Electrical,Pass,73,0,Y,21/06/2019,Army Corps,Escalated to state
+869,263,09/06/2023,S. Williams,INS-53490,Plumbing,Fail,32,8,Y,,FAA,
+870,263,06/06/2023,K. O'Brien,INS-45209,Final Walkthrough,Pass,75,0,N,,FTA,Follow-up required
+871,263,23/01/2019,R. Patel,INS-92032,Electrical,Pass,n/a,0,N,,FTA,Escalated to state
+872,263,11/25/2022,A. Nguyen,INS-81817,Structural,Pass,87,3,N,,Local Building Dept,
+873,264,21/03/2025,S. Williams,INS-99467,Routine Safety,Pass with Conditions,80,,Y,2024/07/31,OSHA,Follow-up required
+874,264,2020/01/23,R. Patel,INS-58219,Environmental Compliance,Pass with Conditions,60,1,Y,05/24/2024,EPA,Closed
+875,264,2019-09-01,R. Patel,,Quality Control,Pass,85,1,YES,2021-01-22,Army Corps,Follow-up required
+876,264,2022-05-17,I. Jackson,INS-50389,Final Walkthrough,Pass,83,0,N,,Army Corps,
+877,265,08-29-2022,R. Patel,INS-46419,Fire Safety,Pass With Conditions,57,3,N,,State DOT,
+878,265,12-15-2019,K. O'Brien,INS-87530,Structural,Pass,,2,N,,State DEP,
+879,265,20/03/2022,R. Patel,INS-63978,Structural,Pass,84,0,N,,EPA,
+880,265,2024-05-10,R. Patel,INS-13705,Quality Control,Pass,62,0,N,,OSHA,Closed
+881,266,2024-09-18,M. Chen,,Environmental Compliance,Pass,,2,N,,FTA,Cited violation
+882,266,15/05/2020,G. Martinez,INS-26148,Structural,Pass,97,1,Y,2021-11-27,FAA,
+883,266,,H. Lee,INS-47011,Plumbing,FAIL,63,3,N,,FTA,
+884,266,,B. Torres,INS-37882,Electrical,Pass,87,,Y,03/20/2023,Army Corps,Cited violation
+885,266,2020-03-11,J. Kowalski,INS-24775,Quality Control,pass,100,3,No,,Army Corps,Closed
+886,266,19/09/2023,M. Chen,TBD,Fire Safety,Pass,66,,No,,EPA,
+887,267,12-10-2019,E. Hoffman,INS-21996,Fire Safety,Pass,N/A,0,Y,11/30/2023,OSHA,
+888,267,04/07/2024,C. Richardson,INS-79310,Interim Progress,Pass,61,0,YES,04/08/2021,Local Building Dept,Cited violation
+889,267,13/02/2022,C. Richardson,INS-87399,Interim Progress,Pass,99,3,N,,FHWA,
+890,267,30/01/2023,C. Richardson,INS-31877,Environmental Compliance,Pass,,0,N,,State DEP,
+891,268,04-28-2025,C. Richardson,N/A,Environmental Compliance,Pass,62,3,N,,FAA,
+892,268,2020/01/27,M. Chen,INS-98512,Interim Progress,Pass,70,2,N,,FTA,
+893,269,2023-02-08,M. Chen,INS-15008,Final Walkthrough,Pass,57,N/A,Y,,FHWA,Follow-up required
+894,269,08-22-2023,J. Kowalski,,Structural,Pass,78,3,N,,State DOT,
+895,270,02-16-2020,K. O'Brien,INS-80968,Environmental Compliance,,59,0,Y,2023-07-12,Local Building Dept,Escalated to state
+896,270,,I. Jackson,INS-67293,Fire Safety,Pass,76,0,yes,,FAA,
+897,271,2022/08/19,E. Hoffman,INS-32379,Structural,Pass,96,1,N,,EPA,Closed
+898,271,05-14-2020,M. Chen,INS-41197,Final Walkthrough,Pass,82,3,N,,FTA,
+899,272,2019/09/15,A. Nguyen,INS-97942,Plumbing,Pass,97,2,N,,FTA,Cited violation
+900,273,,J. Kowalski,INS-39875,Structural,Pass,96,2,Y,2020/09/27,FAA,
+901,273,2021/05/24,J. Kowalski,INS-71133,Plumbing,Pass,,2,Y,,FAA,
+902,274,04/25/2024,H. Lee,INS-28441,Interim Progress,,72,,N,,EPA,Escalated to state
+903,274,,J. Kowalski,INS-37576,Interim Progress,Pass,95,3,,,State DOT,
+904,275,27/01/2024,G. Martinez,INS-20239,Final Walkthrough,Pass,60,2,N,,Local Building Dept,
+905,276,03-27-2024,E. Hoffman,INS-35400,Electrical,Pass with Conditions,89,0,Y,2023-06-16,FAA,Cited violation
+906,276,,A. Nguyen,INS-17389,Plumbing,Deferred,80,0,N,,Local Building Dept,
+907,276,2023/05/24,H. Lee,INS-72667,Quality Control,Pass,60,0,N,,FTA,
+908,277,2019/08/24,A. Nguyen,INS-70820,Electrical,Pass,64,2,N,,FHWA,
+909,277,2025/03/06,D. Freeman,INS-77609,Environmental Compliance,Pass,TBD,0,N,,FHWA,Cited violation
+910,277,28/09/2024,M. Chen,INS-90877,Fire Safety,Pass,75,2,,,FHWA,Escalated to state
+911,277,,A. Nguyen,INS-86426,Routine Safety,Fail,35,8,y,2020-12-21,FAA,Cited violation
+912,277,2023/05/13,B. Torres,INS-98035,Electrical,Pass,99,0,Y,03-24-2020,EPA,Cited violation
+913,277,30/10/2022,S. Williams,INS-64048,Structural,Pass,,2,N,,Army Corps,Follow-up required
+914,278,23/09/2021,H. Lee,INS-67607,Plumbing,Pass,96,2,YES,,Army Corps,
+915,278,06/20/2020,K. O'Brien,INS-95261,Structural,PASS,n/a,3,Y,03-20-2025,EPA,Follow-up required
+916,278,06-19-2020,R. Patel,INS-15133,Environmental Compliance,Pass,58,3,N,,EPA,
+917,278,09-27-2020,I. Jackson,INS-62067,Fire Safety,Pass,59,2,N,,State DEP,Follow-up required
+918,278,06-09-2022,H. Lee,INS-33990,Fire Safety,Pass,-,2,N,,FTA,
+919,279,22/01/2022,A. Nguyen,INS-33615,Plumbing,Pass,,2,yes,,Army Corps,
+920,280,04-28-2020,D. Freeman,INS-56521,Structural,Pass,58,1,N,,State DOT,
+921,280,2025-01-14,H. Lee,INS-33576,Routine Safety,Pass,87,3,YES,,FHWA,
+922,280,2022-06-05,A. Nguyen,INS-13078,Quality Control,Pass,59,3,N,,EPA,
+923,280,,G. Martinez,INS-33872,Final Walkthrough,PASS,N/A,2,N,,FHWA,Escalated to state
+924,281,03-01-2022,M. Chen,INS-99842,Structural,Pass,79,0,Y,,FAA,
+925,281,12/21/2022,C. Richardson,INS-31295,Plumbing,Fail,32,8,Y,,FHWA,Follow-up required
+926,282,2024-01-16,C. Richardson,,Quality Control,Fail,37,,yes,08/13/2021,State DEP,Closed
+927,282,01/12/2021,I. Jackson,INS-24580,Fire Safety,Pass,92,TBD,N,,EPA,
+928,282,07-16-2019,D. Freeman,INS-33708,Quality Control,Pass,87,3,N,,State DEP,
+929,282,2024/06/01,J. Kowalski,INS-93425,Plumbing,Pass,76,3,Y,2019/12/22,Local Building Dept,Follow-up required
+930,282,2021-12-13,C. Richardson,INS-45097,Quality Control,Fail,44,3,Y,05/01/2019,Army Corps,Escalated to state
+931,282,2021/09/24,B. Torres,INS-65463,Quality Control,Pass with Conditions,67,-,Y,,FHWA,
+932,283,10/03/2019,R. Patel,INS-53559,Environmental Compliance,fail,85,3,N,,FAA,Follow-up required
+933,284,04/20/2021,S. Williams,INS-88070,Fire Safety,Pass With Conditions,67,1,N,,FHWA,
+934,284,2020-04-13,M. Chen,INS-95200,Routine Safety,Pass with Conditions,77,0,Y,16/02/2023,OSHA,Escalated to state
+935,284,2022/10/30,H. Lee,INS-49788,Structural,Pass,85,1,N,,FTA,
+936,284,07-19-2019,A. Nguyen,INS-97098,Environmental Compliance,Pass,56,2,N,,FHWA,Cited violation
+937,285,,B. Torres,INS-14023,Electrical,Fail,54,6,Y,24/10/2023,EPA,Closed
+938,285,10/04/2024,I. Jackson,INS-10700,Final Walkthrough,Pass,99,3,N,,Local Building Dept,Follow-up required
+939,285,09-21-2020,B. Torres,INS-26222,Electrical,Pass With Conditions,96,1,Y,2025-02-24,FTA,
+940,285,08-09-2024,E. Hoffman,INS-77721,Electrical,,N/A,6,Y,2020/09/30,OSHA,
+941,285,03/23/2019,A. Nguyen,INS-70412,Fire Safety,Pass,67,3,N,,EPA,
+942,286,09-18-2024,I. Jackson,INS-32924,Routine Safety,Pass,89,2,N,,State DOT,Escalated to state
+943,286,26/03/2025,S. Williams,INS-32853,Routine Safety,fail,,3,N,,FAA,Escalated to state
+944,287,17/04/2024,E. Hoffman,INS-90658,Structural,Pass,91,,N,,FHWA,Escalated to state
+945,288,08/03/2019,J. Kowalski,INS-59788,Structural,fail,94,0,N,,FTA,Cited violation
+946,288,2023/04/19,I. Jackson,INS-30287,Electrical,fail,,1,N,,EPA,
+947,288,10/10/2021,J. Kowalski,INS-85165,Fire Safety,Deferred,84,1,N,,OSHA,Closed
+948,289,12-05-2022,M. Chen,INS-96531,Interim Progress,fail,74,0,Y,27/06/2022,State DEP,
+949,289,2021-10-28,A. Nguyen,INS-60051,Plumbing,Pass,72,1,Y,23/05/2022,FHWA,Closed
+950,289,06-07-2021,M. Chen,INS-89989,Final Walkthrough,Pass With Conditions,40,1,Y,01/15/2024,FTA,Cited violation
+951,289,2019-06-20,H. Lee,INS-79772,Quality Control,Pass,78,2,N,,State DOT,Follow-up required
+952,289,07/08/2022,S. Williams,INS-66091,Plumbing,Pass,80,0,YES,2025/01/04,FHWA,Follow-up required
+953,289,29/01/2021,C. Richardson,INS-31187,Environmental Compliance,Pass,100,3,Y,2021/02/09,Army Corps,Closed
+954,290,2023-12-31,M. Chen,INS-23208,Structural,,71,3,Y,2023-10-18,OSHA,Cited violation
+955,290,06/07/2023,K. O'Brien,INS-67015,Environmental Compliance,Pass,,0,N,,Local Building Dept,Follow-up required
+956,290,,K. O'Brien,INS-61412,Electrical,Pass,58,3,N,,State DOT,
+957,290,10-09-2024,B. Torres,INS-22182,Plumbing,Pass,82,3,yes,,Army Corps,
+958,291,06-23-2022,S. Williams,N/A,Routine Safety,Pass,72,0,N,,Army Corps,
+959,291,03-20-2025,E. Hoffman,INS-16394,Environmental Compliance,Pass,100,3,YES,,State DEP,
+960,292,,B. Torres,INS-88335,Interim Progress,Pass,94,3,N,,State DOT,
+961,292,03-20-2019,J. Kowalski,INS-92119,Plumbing,Pass with Conditions,85,3,Y,03-27-2024,FHWA,Closed
+962,292,08-28-2021,B. Torres,INS-58935,Electrical,Fail,61,6,Y,2024/07/14,FHWA,
+963,292,2022/08/31,K. O'Brien,INS-65704,Fire Safety,FAIL,56,3,N,,Local Building Dept,
+964,293,2022/09/12,H. Lee,INS-86795,Interim Progress,,,3,Y,,OSHA,Cited violation
+965,293,2020/11/12,I. Jackson,INS-92441,Electrical,Deferred,98,2,N,,Army Corps,Escalated to state
+966,293,2021/08/28,I. Jackson,INS-41497,Electrical,Pass,77,3,N,,FHWA,Follow-up required
+967,293,2023-07-02,J. Kowalski,INS-41831,Quality Control,Pass,70,0,N,,Local Building Dept,
+968,293,06/23/2019,I. Jackson,INS-92809,Plumbing,Pass,55,3,N,,Local Building Dept,Closed
+969,294,10-22-2023,I. Jackson,INS-23417,Electrical,Pass With Conditions,66,1,N,,FTA,Closed
+970,294,01/01/2020,A. Nguyen,INS-77715,Environmental Compliance,Pass,100,,Y,20/04/2025,State DEP,Follow-up required
+971,294,2019/08/13,B. Torres,INS-17558,Fire Safety,Pass,68,2,N,,FTA,
+972,294,2020/05/31,E. Hoffman,INS-38950,Structural,Fail,52,3,Y,2021/09/03,State DOT,
+973,295,15/05/2021,G. Martinez,INS-48587,Electrical,PASS,75,3,N,,FAA,
+974,295,05-25-2020,E. Hoffman,INS-25055,Routine Safety,Fail,36,4,Y,29/05/2022,Army Corps,Follow-up required
+975,295,2024-02-04,B. Torres,INS-37876,Structural,Pass,69,0,N,,FAA,Escalated to state
+976,295,04/19/2024,K. O'Brien,INS-78060,Fire Safety,FAIL,89,2,Y,16/11/2022,EPA,Follow-up required
+977,295,2019-02-24,M. Chen,INS-81019,Quality Control,Pass,94,3,Y,,State DOT,
+978,296,06/10/2024,I. Jackson,INS-67033,Routine Safety,,98,2,Y,30/06/2022,FTA,
+979,296,2020-06-27,D. Freeman,INS-47258,Routine Safety,Pass,90,0,N,,Local Building Dept,Closed
+980,296,06/24/2024,C. Richardson,INS-79164,Quality Control,Deferred,88,1,N,,State DEP,
+981,296,20/01/2019,H. Lee,INS-83071,Fire Safety,Pass,61,0,N,,State DOT,Closed
+982,296,07-15-2021,B. Torres,INS-56681,Quality Control,Pass with Conditions,55,1,,2022/01/24,OSHA,
+983,296,12-11-2023,J. Kowalski,INS-58920,Plumbing,Pass,85,3,N,,Army Corps,Follow-up required
+984,297,,E. Hoffman,INS-93105,Quality Control,Pass,66,0,N,,FHWA,
+985,297,17/09/2021,E. Hoffman,INS-52977,Quality Control,Pass,89,0,N,,FAA,
+986,297,2019/05/15,B. Torres,INS-70175,Interim Progress,Pass,92,0,Y,,FAA,Cited violation
+987,297,11-21-2023,G. Martinez,INS-46327,Environmental Compliance,Pass,66,2,N,,EPA,Escalated to state
+988,297,2024/06/27,C. Richardson,INS-14064,Final Walkthrough,Pass,99,1,N,,FAA,Escalated to state
+989,298,07/06/2023,D. Freeman,INS-63304,Plumbing,PASS,99,0,N,,EPA,
+990,298,2021-04-01,M. Chen,INS-99081,Electrical,pass,67,0,N,,FAA,Escalated to state
+991,298,2022/01/15,K. O'Brien,INS-89091,Plumbing,Pass,85,2,N,,FAA,Cited violation
+992,298,08/26/2021,R. Patel,INS-31872,Structural,Pass,95,2,Y,,Local Building Dept,Follow-up required
+993,298,01/08/2022,M. Chen,INS-61775,Plumbing,Fail,42,8,Y,,Army Corps,
+994,299,,S. Williams,INS-65739,Interim Progress,Pass,TBD,2,N,,Local Building Dept,
+995,299,18/01/2021,M. Chen,INS-35717,Interim Progress,Pass,92,0,N,,FHWA,Follow-up required
+996,299,12/11/2020,M. Chen,INS-71445,Fire Safety,Pass,57,0,N,,OSHA,
+997,299,2023-02-03,K. O'Brien,INS-76773,Environmental Compliance,Fail,58,0,Y,29/06/2025,EPA,
+998,299,25/11/2020,M. Chen,INS-19536,Plumbing,Pass,58,3,N,,FAA,Follow-up required
+999,300,01-22-2024,B. Torres,,Structural,Fail,42,5,Y,17/05/2024,EPA,Closed
+1000,300,2023/02/26,R. Patel,INS-41092,Plumbing,Pass,67,2,N,,FTA,Closed
+1001,300,05/04/2025,K. O'Brien,INS-49823,Final Walkthrough,Pass,98,3,,2021-05-16,EPA,Follow-up required
+1002,300,2022/05/26,H. Lee,INS-22345,Environmental Compliance,Pass,74,1,Y,2021/07/15,FAA,
+1003,300,2020-10-10,S. Williams,INS-12787,Routine Safety,Pass,55,2,Y,06-07-2020,FTA,
+1004,300,,G. Martinez,INS-57338,Quality Control,PASS,99,1,Y,,State DOT,
+1005,302,04-02-2019,K. O'Brien,INS-21647,Plumbing,Pass,92,3,N,,State DOT,Escalated to state
+1006,302,30/10/2022,A. Nguyen,INS-31150,Environmental Compliance,PASS,57,2,Y,06-07-2020,Local Building Dept,
+1007,302,,D. Freeman,INS-54860,Quality Control,Pass,71,,N,,FAA,
+1008,302,15/10/2019,E. Hoffman,INS-66817,Final Walkthrough,Pass,97,,Y,,Local Building Dept,
+1009,303,07/15/2020,S. Williams,INS-87617,Plumbing,Pass,61,0,N,,FHWA,
+1010,303,04-29-2021,S. Williams,INS-37363,Plumbing,Pass,N/A,1,N,,State DEP,Escalated to state
+1011,303,2019-11-10,J. Kowalski,INS-54766,Structural,Deferred,87,2,N,,Army Corps,
+1012,303,06/29/2019,M. Chen,,Routine Safety,Pass,81,1,y,,FTA,
+1013,303,06/23/2023,K. O'Brien,INS-25498,Quality Control,Pass,78,2,YES,,FHWA,
+1014,303,02-08-2025,I. Jackson,INS-29188,Quality Control,Fail,,,Y,,OSHA,
+1015,304,16/03/2020,B. Torres,INS-48248,Fire Safety,Pass,88,3,N,,State DOT,Follow-up required
+1016,304,04-08-2020,R. Patel,INS-69918,Environmental Compliance,Pass,90,1,N,,EPA,Follow-up required
+1017,305,05-08-2025,A. Nguyen,INS-31301,Final Walkthrough,Pass,71,2,YES,,FAA,
+1018,305,2022-03-24,E. Hoffman,INS-46241,Electrical,Pass,58,1,N,,FAA,Follow-up required
+1019,306,2021/01/24,D. Freeman,INS-83697,Environmental Compliance,Pass,66,1,no,,FTA,Cited violation
+1020,306,01-28-2024,C. Richardson,INS-43986,Structural,Pass,75,?,Y,04-12-2025,FAA,
+1021,306,2020/05/22,B. Torres,INS-51345,Plumbing,Pass,,0,N,,State DEP,Escalated to state
+1022,306,2022/03/28,H. Lee,INS-59703,Fire Safety,fail,99,3,N,,OSHA,
+1023,307,2022/02/02,A. Nguyen,INS-58645,Environmental Compliance,Pass,80,0,no,,Army Corps,Closed
+1024,307,05/12/2025,J. Kowalski,INS-35303,Environmental Compliance,Pass,95,1,N,,FTA,Cited violation
+1025,307,2020-04-27,G. Martinez,INS-73051,Routine Safety,Pass,85,0,N,,State DOT,
+1026,307,03/28/2019,D. Freeman,INS-65939,Structural,Pass,63,2,N,,EPA,
+1027,308,2025-02-20,B. Torres,INS-32815,Structural,Fail,50,3,Y,11/06/2020,FTA,
+1028,309,2020-11-20,B. Torres,INS-25414,Interim Progress,,58,0,N,,FAA,Closed
+1029,309,08/30/2023,E. Hoffman,INS-81404,Quality Control,Pass,57,2,N,,Army Corps,
+1030,309,09/03/2020,M. Chen,INS-95982,Quality Control,pass,73,0,,,Army Corps,Cited violation
+1031,309,08-21-2019,J. Kowalski,INS-34325,Fire Safety,Pass,88,2,Y,06/04/2023,State DEP,Escalated to state
+1032,309,08-04-2023,M. Chen,INS-75694,Interim Progress,Pass,,0,N,,EPA,Cited violation
+1033,309,2020/03/12,G. Martinez,INS-98623,Quality Control,Pass,93,2,YES,28/02/2022,State DEP,
+1034,310,10/14/2019,B. Torres,INS-43773,Electrical,Pass,64,0,Y,2023-07-11,State DEP,Cited violation
+1035,311,2024-11-23,H. Lee,INS-74903,Routine Safety,Pass,85,0,Y,,Army Corps,
+1036,311,30/06/2023,E. Hoffman,-,Plumbing,Pass,99,0,N,,EPA,
+1037,311,03/26/2019,H. Lee,INS-46772,Quality Control,Pass,69,2,Y,2019/09/21,EPA,
+1038,311,05-30-2023,J. Kowalski,,Quality Control,Pass with Conditions,64,0,Y,01-17-2025,State DEP,Cited violation
+1039,311,05/08/2023,A. Nguyen,INS-21814,Plumbing,Fail,55,2,Y,29/06/2024,FAA,Escalated to state
+1040,311,25/01/2020,K. O'Brien,INS-31580,Routine Safety,Pass,80,,Y,,OSHA,Follow-up required
+1041,312,07-16-2023,R. Patel,INS-47942,Structural,Pass,76,3,N,,EPA,
+1042,312,07-02-2024,E. Hoffman,INS-20446,Interim Progress,Pass,97,3,,,FHWA,Closed
+1043,312,10/05/2021,E. Hoffman,INS-10824,Plumbing,Fail,44,6,Y,04-26-2022,EPA,Closed
+1044,312,15/02/2023,A. Nguyen,INS-98359,Routine Safety,Pass,88,1,,,EPA,Follow-up required
+1045,312,01-25-2022,J. Kowalski,INS-20493,Quality Control,Fail,45,8,Y,07/08/2024,EPA,Follow-up required
+1046,313,,M. Chen,INS-28838,Quality Control,Pass With Conditions,85,3,N,,FHWA,
+1047,313,2020-09-05,H. Lee,INS-10156,Environmental Compliance,Pass,96,1,N,,EPA,
+1048,314,,M. Chen,INS-35040,Routine Safety,Pass,70,TBD,N,,EPA,Closed
+1049,315,02/25/2021,J. Kowalski,INS-41685,Electrical,PASS,78,0,No,,Local Building Dept,
+1050,316,2023-10-20,R. Patel,INS-93338,Plumbing,Pass,58,0,N,,EPA,
+1051,316,01/09/2020,G. Martinez,INS-58804,Fire Safety,PASS,91,2,N,,FHWA,
+1052,316,2020-12-18,M. Chen,,Final Walkthrough,Pass,72,3,N,,State DOT,Escalated to state
+1053,316,05/10/2020,A. Nguyen,INS-38452,Quality Control,Pass,62,,Y,16/01/2022,FAA,Follow-up required
+1054,316,2022-11-21,D. Freeman,INS-34080,Fire Safety,FAIL,67,2,Y,,State DOT,Cited violation
+1055,317,23/09/2021,J. Kowalski,INS-34694,Structural,Pass,,1,N,,FAA,
+1056,317,06-26-2019,K. O'Brien,INS-89076,Routine Safety,Pass,55,3,N,,FHWA,Follow-up required
+1057,318,01/18/2021,S. Williams,INS-64382,Fire Safety,pass,62,0,N,,EPA,
+1058,318,2022/05/23,R. Patel,n/a,Quality Control,Deferred,90,0,YES,02-09-2020,FTA,Closed
+1059,318,2025-03-03,C. Richardson,INS-65271,Plumbing,Pass,55,0,N,,FTA,Cited violation
+1060,318,07-26-2019,E. Hoffman,INS-99925,Plumbing,Pass,80,3,N,,State DEP,
+1061,318,2019-11-04,R. Patel,INS-87226,Environmental Compliance,Pass,64,,Y,06/12/2022,OSHA,
+1062,318,06/16/2023,S. Williams,INS-80958,Structural,Pass,58,3,N,,State DEP,Follow-up required
+1063,320,2022-03-18,G. Martinez,INS-89352,Electrical,Pass,60,3,Y,01/19/2025,FTA,
+1064,320,11/21/2020,B. Torres,,Fire Safety,Pass,82,1,N,,Local Building Dept,Follow-up required
+1065,320,2021-07-20,K. O'Brien,INS-49433,Electrical,,75,2,N,,State DEP,
+1066,320,02/08/2020,K. O'Brien,INS-80549,Fire Safety,Pass,71,3,N,,Army Corps,Cited violation
+1067,320,06-09-2021,B. Torres,INS-65110,Plumbing,Pass,89,0,N,,FHWA,
+1068,321,2021/07/10,E. Hoffman,INS-31084,Plumbing,Pass,87,1,N,,EPA,Follow-up required
+1069,322,2020-06-07,H. Lee,INS-68617,Quality Control,Pass With Conditions,58,6,Y,2021/01/27,OSHA,Closed
+1070,322,01-06-2019,C. Richardson,INS-22289,Electrical,Pass,59,2,N,,FAA,
+1071,322,05-04-2021,M. Chen,INS-61598,Quality Control,Pass,55,0,Y,,EPA,
+1072,322,11/05/2025,S. Williams,INS-41929,Final Walkthrough,pass,57,0,y,,FHWA,
+1073,323,08-08-2020,B. Torres,INS-15153,Structural,Pass,99,1,YES,,FHWA,
+1074,323,17/11/2023,S. Williams,-,Structural,Pass,66,0,N,,FAA,Escalated to state
+1075,323,19/09/2022,E. Hoffman,,Quality Control,Pass,58,2,,,State DEP,
+1076,323,2020/12/03,B. Torres,INS-72296,Quality Control,Pass,68,2,N,,FAA,Cited violation
+1077,323,2020/05/31,D. Freeman,INS-46736,Interim Progress,Deferred,64,3,N,,EPA,
+1078,324,2021/08/09,S. Williams,INS-34052,Electrical,Pass with Conditions,85,1,Y,,FAA,
+1079,324,06-23-2020,D. Freeman,INS-20413,Interim Progress,Pass,83,0,N,,Army Corps,Escalated to state
+1080,324,09/23/2021,S. Williams,INS-51832,Plumbing,Pass,55,0,N,,Local Building Dept,
+1081,324,03-05-2024,H. Lee,INS-37182,Plumbing,fail,70,3,N,,State DOT,
+1082,324,2022/03/25,E. Hoffman,INS-88261,Electrical,Pass,83,,Y,03/11/2024,FTA,
+1083,324,29/04/2019,S. Williams,INS-90861,Structural,Pass with Conditions,90,,Y,08/12/2024,Army Corps,Closed
+1084,325,03/21/2025,I. Jackson,INS-26132,Plumbing,Pass,,2,N,,FHWA,Cited violation
+1085,325,07-14-2021,M. Chen,INS-58800,Electrical,Pass,87,n/a,Y,06-04-2020,FAA,Escalated to state
+1086,325,02/18/2023,D. Freeman,INS-56430,Plumbing,Pass,64,n/a,N,,State DEP,
+1087,325,09/02/2019,J. Kowalski,INS-18375,Routine Safety,Pass with Conditions,92,1,Y,08-04-2023,State DEP,Closed
+1088,325,14/11/2021,J. Kowalski,INS-18861,Fire Safety,Pass,77,0,Y,2024-12-01,OSHA,Escalated to state
+1089,326,2022-11-09,H. Lee,INS-62883,Interim Progress,pass,72,?,N,,State DEP,
+1090,327,03/17/2020,A. Nguyen,INS-34249,Electrical,Pass,73,3,N,,State DOT,
+1091,327,17/07/2024,D. Freeman,INS-98715,Interim Progress,Pass,86,1,N,,State DOT,Follow-up required
+1092,327,04-01-2021,K. O'Brien,INS-26790,Quality Control,Pass,76,3,N,,State DOT,Escalated to state
+1093,328,2019-01-15,R. Patel,INS-21419,Environmental Compliance,Pass,64,0,N,,FTA,Cited violation
+1094,328,,I. Jackson,INS-21253,Environmental Compliance,Pass,83,3,Y,,State DEP,Follow-up required
+1095,328,01/06/2023,E. Hoffman,INS-80564,Electrical,fail,82,2,,,FAA,
+1096,328,,H. Lee,INS-20083,Environmental Compliance,Pass,90,2,N,,State DOT,Follow-up required
+1097,328,2025/02/06,E. Hoffman,INS-55916,Environmental Compliance,pass,58,2,N,,EPA,Cited violation
+1098,328,2023-04-29,A. Nguyen,INS-24251,Electrical,,99,,,2022-11-15,FHWA,Escalated to state
+1099,330,2021-03-22,I. Jackson,INS-63697,Plumbing,Pass With Conditions,82,3,Y,07-07-2021,FHWA,
+1100,330,20/08/2021,S. Williams,INS-31052,Plumbing,Pass,,2,N,,OSHA,
+1101,331,03/05/2021,A. Nguyen,INS-74195,Routine Safety,Pass,61,,N,,OSHA,
+1102,331,2020/03/23,B. Torres,,Environmental Compliance,Pass,88,?,No,,OSHA,
+1103,331,2020/07/01,I. Jackson,INS-81413,Routine Safety,Pass,87,3,N,,OSHA,
+1104,331,2020-01-12,R. Patel,INS-17811,Final Walkthrough,Pass,90,3,N,,OSHA,Follow-up required
+1105,331,02-07-2020,C. Richardson,INS-99635,Structural,Pass,93,0,,,FHWA,
+1106,331,22/07/2020,S. Williams,INS-38788,Interim Progress,FAIL,70,0,N,,Army Corps,Closed
+1107,332,2021-03-06,I. Jackson,INS-80262,Structural,Pass with Conditions,57,3,yes,2022/10/24,Local Building Dept,
+1108,332,2020/03/19,C. Richardson,INS-38865,Routine Safety,Pass,82,0,Y,06/17/2021,EPA,
+1109,332,04-18-2021,H. Lee,INS-10876,Fire Safety,Pass with Conditions,76,,Y,2022-12-20,FHWA,Follow-up required
+1110,332,12/09/2020,J. Kowalski,INS-85256,Quality Control,Pass,83,2,N,,Army Corps,
+1111,333,2022/08/12,M. Chen,INS-14197,Environmental Compliance,Fail,,6,Y,2021-09-18,FAA,
+1112,334,09/11/2023,G. Martinez,INS-83895,Quality Control,,69,3,N,,EPA,Cited violation
+1113,334,04/06/2023,R. Patel,INS-85315,Interim Progress,Fail,37,3,Y,,Army Corps,Cited violation
+1114,335,,K. O'Brien,INS-60046,Quality Control,Pass,63,2,no,,Local Building Dept,
+1115,335,2021-08-21,D. Freeman,INS-37407,Environmental Compliance,Pass,98,3,Y,06/09/2021,FHWA,
+1116,335,04/08/2021,I. Jackson,INS-42187,Structural,Fail,44,3,No,,State DOT,Follow-up required
+1117,336,2024/12/31,K. O'Brien,INS-17013,Interim Progress,Pass,65,2,No,,FAA,
+1118,336,02-05-2020,G. Martinez,-,Routine Safety,Fail,56,8,Y,09/05/2020,EPA,
+1119,336,2022-10-07,C. Richardson,INS-36041,Environmental Compliance,Pass,95,2,N,,State DOT,Follow-up required
+1120,336,05-30-2023,S. Williams,INS-69673,Structural,Pass,,1,N,,State DOT,Follow-up required
+1121,336,2022-02-12,S. Williams,,Routine Safety,Pass,96,3,N,,FHWA,Cited violation
+1122,337,2024-11-23,G. Martinez,INS-99793,Interim Progress,Pass,99,0,N,,EPA,Follow-up required
+1123,337,03/01/2019,R. Patel,INS-23890,Interim Progress,fail,79,3,N,,EPA,
+1124,338,05-29-2021,I. Jackson,INS-35020,Structural,Pass,99,0,N,,EPA,Escalated to state
+1125,338,04-22-2019,H. Lee,INS-11840,Quality Control,Fail,59,3,Y,2020/05/20,Army Corps,Closed
+1126,339,2022-06-09,H. Lee,INS-21024,Electrical,Deferred,78,0,N,,State DEP,Follow-up required
+1127,339,09/28/2020,E. Hoffman,INS-89493,Routine Safety,Pass,89,0,N,,State DOT,
+1128,339,2020-11-30,B. Torres,,Structural,Deferred,68,0,,,State DEP,Escalated to state
+1129,340,29/04/2023,R. Patel,,Structural,Pass with Conditions,99,1,Y,10/14/2020,State DEP,Escalated to state
+1130,341,2022/10/03,A. Nguyen,INS-95018,Interim Progress,Pass,65,3,no,06-13-2020,State DOT,
+1131,341,2021-03-15,C. Richardson,INS-92138,Electrical,Fail,39,1,y,12/01/2020,Local Building Dept,
+1132,341,01-04-2020,E. Hoffman,INS-28320,Environmental Compliance,Pass,93,3,N,,FHWA,
+1133,342,30/09/2020,D. Freeman,INS-96873,Electrical,Pass,57,1,yes,,EPA,Cited violation
+1134,342,29/12/2022,J. Kowalski,,Plumbing,Pass,80,1,N,,Local Building Dept,Escalated to state
+1135,342,,S. Williams,INS-21444,Plumbing,Pass,83,1,N,,FHWA,
+1136,342,23/11/2021,B. Torres,INS-41464,Routine Safety,Pass,,3,N,,State DOT,Escalated to state
+1137,342,13/03/2021,C. Richardson,INS-11855,Routine Safety,Pass,98,2,N,,FTA,
+1138,342,01-02-2024,R. Patel,INS-47158,Electrical,Pass,90,0,N,,Local Building Dept,Cited violation
+1139,343,02/16/2025,C. Richardson,INS-71775,Structural,fail,89,2,Y,,State DEP,Closed
+1140,343,07/28/2023,K. O'Brien,INS-64569,Electrical,Deferred,89,2,N,,State DEP,
+1141,344,03/13/2019,H. Lee,TBD,Structural,Pass,72,,N,,FTA,Escalated to state
+1142,344,,B. Torres,INS-97484,Structural,PASS,93,1,N,,FAA,
+1143,345,11-19-2021,R. Patel,INS-91489,Fire Safety,Pass,94,2,yes,,FHWA,Closed
+1144,345,03/17/2023,M. Chen,,Environmental Compliance,Pass,70,3,N,,FAA,Escalated to state
+1145,345,2020-11-02,M. Chen,INS-49327,Plumbing,Pass,92,0,Y,,State DOT,
+1146,345,12/11/2023,H. Lee,INS-40115,Electrical,Pass,69,1,Y,2021-11-07,State DEP,Escalated to state
+1147,346,2025/03/19,G. Martinez,,Electrical,Pass With Conditions,64,5,Y,13/04/2023,FHWA,Closed
+1148,346,19/05/2025,S. Williams,INS-62298,Interim Progress,Pass,68,2,N,,OSHA,
+1149,346,09-26-2024,I. Jackson,INS-78376,Routine Safety,fail,49,3,Y,2021-05-22,State DOT,
+1150,346,2022-02-14,E. Hoffman,INS-27406,Fire Safety,Fail,33,2,Y,2025-03-31,EPA,
+1151,346,29/03/2024,E. Hoffman,INS-80841,Electrical,Pass,99,3,Y,2025-02-03,State DEP,
+1152,346,02/09/2020,I. Jackson,INS-84190,Routine Safety,Fail,50,1,Y,,EPA,
+1153,347,11-20-2020,M. Chen,INS-71775,Final Walkthrough,FAIL,-,1,N,2025/06/22,Local Building Dept,Closed
+1154,347,07-01-2020,B. Torres,,Environmental Compliance,Pass,65,2,N,,FAA,
+1155,348,2023-06-13,D. Freeman,INS-64797,Electrical,Pass,58,2,N,,OSHA,
+1156,348,16/01/2022,I. Jackson,INS-97355,Electrical,Pass,77,0,N,,Army Corps,Follow-up required
+1157,348,2020-04-27,S. Williams,INS-19818,Interim Progress,PASS,68,0,N,,FHWA,Escalated to state
+1158,348,2024-07-04,G. Martinez,INS-21340,Routine Safety,Pass,98,0,YES,,State DEP,
+1159,349,2025/02/24,B. Torres,INS-46811,Interim Progress,Pass,89,3,N,,FTA,Follow-up required
+1160,349,2025-02-26,E. Hoffman,INS-49911,Final Walkthrough,Pass,58,1,N,,FTA,
+1161,350,11-02-2021,H. Lee,INS-91117,Routine Safety,Pass,72,0,N,,State DEP,
+1162,350,2021-07-24,I. Jackson,INS-74477,Final Walkthrough,Fail,37,3,Y,08-09-2019,Local Building Dept,
+1163,350,2020-06-12,I. Jackson,INS-76772,Structural,Pass,63,1,,,FTA,
+1164,350,2025/01/19,A. Nguyen,INS-50483,Plumbing,Pass,,1,Y,11-13-2023,FHWA,
+1165,350,2019/11/28,B. Torres,INS-13704,Routine Safety,Pass,62,2,N,,Local Building Dept,
+1166,351,2019/07/30,G. Martinez,INS-63798,Quality Control,Pass with Conditions,89,3,Y,10-30-2021,FTA,
+1167,351,2022/04/28,R. Patel,INS-86822,Plumbing,Pass,58,3,N,,Local Building Dept,Cited violation
+1168,351,2022/08/26,D. Freeman,INS-27654,Plumbing,Pass,90,,N,,State DOT,
+1169,351,2023-04-23,R. Patel,INS-40728,Fire Safety,Pass,95,3,N,,EPA,Follow-up required
+1170,352,06/09/2024,J. Kowalski,INS-57482,Quality Control,Pass,92,0,N,,FTA,Escalated to state
+1171,352,01/25/2025,H. Lee,INS-59877,Fire Safety,Pass,,0,N,,EPA,Follow-up required
+1172,352,2022/09/28,M. Chen,INS-29480,Fire Safety,Pass,65,3,N,,OSHA,
+1173,352,2023-07-14,C. Richardson,INS-48627,Plumbing,Pass,97,2,N,,Local Building Dept,Follow-up required
+1174,353,2023-04-24,H. Lee,INS-76690,Environmental Compliance,Pass,64,3,Y,,Local Building Dept,
+1175,353,21/03/2020,A. Nguyen,INS-54598,Fire Safety,,62,3,Y,,Army Corps,Follow-up required
+1176,353,2019-09-08,E. Hoffman,INS-78376,Environmental Compliance,Pass,93,,Y,2021-07-21,State DOT,
+1177,353,03/02/2020,H. Lee,INS-71216,Interim Progress,Pass,65,2,N,,State DEP,
+1178,354,05/24/2024,H. Lee,INS-66911,Fire Safety,Pass,55,?,yes,,State DOT,Closed
+1179,355,02/07/2023,E. Hoffman,,Quality Control,Fail,53,5,Y,,Army Corps,Cited violation
+1180,355,2020/12/09,I. Jackson,INS-39222,Plumbing,Pass,84,2,N,,OSHA,Cited violation
+1181,355,2019/12/03,J. Kowalski,INS-63272,Environmental Compliance,Pass,60,2,N,,Local Building Dept,
+1182,356,07-25-2023,H. Lee,INS-64236,Environmental Compliance,Pass,91,0,Y,,Local Building Dept,
+1183,356,05/15/2024,C. Richardson,INS-17216,Final Walkthrough,Fail,62,4,,15/09/2024,Army Corps,Closed
+1184,357,11-18-2024,R. Patel,INS-60274,Structural,pass,100,,N,,FAA,
+1185,357,04-22-2022,B. Torres,INS-12259,Environmental Compliance,Pass,,3,N,,Local Building Dept,Cited violation
+1186,357,05-11-2024,S. Williams,INS-36296,Interim Progress,pass,66,1,N,,State DOT,Escalated to state
+1187,357,2024-12-14,R. Patel,INS-14846,Structural,,85,0,Y,05-26-2022,FHWA,Closed
+1188,357,03/28/2020,H. Lee,TBD,Quality Control,Deferred,78,3,N,,FHWA,
+1189,358,2025-02-06,I. Jackson,INS-93854,Routine Safety,Pass,61,0,N,,OSHA,
+1190,359,11-23-2024,K. O'Brien,,Electrical,Pass,92,3,Y,07/26/2024,Army Corps,Follow-up required
+1191,359,17/01/2021,S. Williams,INS-22463,Quality Control,Pass with Conditions,90,2,Y,21/06/2020,FTA,
+1192,359,2024-12-16,J. Kowalski,INS-36791,Plumbing,Pass,,1,,,FAA,Escalated to state
+1193,359,2021-08-22,J. Kowalski,INS-12700,Structural,Pass,59,3,N,06-27-2024,FAA,
+1194,359,2020-08-19,D. Freeman,,Fire Safety,Pass,92,1,N,,FHWA,
+1195,359,2025/04/20,H. Lee,INS-42774,Plumbing,,96,-,N,,Local Building Dept,
+1196,360,10/16/2020,I. Jackson,?,Final Walkthrough,Fail,30,6,Y,01-18-2022,EPA,
+1197,360,14/07/2022,R. Patel,INS-15947,Final Walkthrough,Pass,57,3,N,,State DOT,
+1198,360,2019/07/30,D. Freeman,INS-23154,Plumbing,PASS,95,0,Y,30/09/2024,FTA,Escalated to state
+1199,361,09-08-2024,E. Hoffman,INS-43881,Environmental Compliance,Pass,84,2,N,,State DEP,
+1200,361,2021-12-24,M. Chen,INS-36639,Structural,Pass,88,3,no,,FTA,Escalated to state
+1201,361,04-21-2025,C. Richardson,,Electrical,Pass,82,,N,,OSHA,
+1202,362,26/08/2021,H. Lee,INS-13347,Quality Control,Pass,90,1,N,,FHWA,
+1203,362,07/20/2023,R. Patel,INS-56275,Structural,Pass,86,0,N,,Local Building Dept,Closed
+1204,362,09/13/2020,H. Lee,INS-44449,Electrical,Pass,TBD,3,No,,FHWA,
+1205,362,2021/07/13,A. Nguyen,INS-64396,Plumbing,Pass,79,1,N,,Army Corps,
+1206,362,28/01/2022,G. Martinez,INS-74241,Final Walkthrough,fail,56,2,Y,2023-03-10,FTA,
+1207,363,2023-02-11,K. O'Brien,INS-71423,Plumbing,Pass,81,3,,2023/03/15,State DOT,Closed
+1208,363,08-29-2019,C. Richardson,INS-23987,Plumbing,Pass,95,1,Y,05-03-2020,Local Building Dept,Cited violation
+1209,365,04/18/2024,A. Nguyen,INS-61182,Environmental Compliance,Pass,86,2,N,,FHWA,
+1210,365,05/02/2022,E. Hoffman,INS-47518,Structural,Pass,,3,N,,Army Corps,
+1211,365,20/09/2024,C. Richardson,INS-24732,Environmental Compliance,Pass,74,0,N,,State DEP,
+1212,365,2022-12-18,K. O'Brien,INS-90615,Environmental Compliance,Pass,,3,N,,State DEP,Follow-up required
+1213,365,08/13/2022,A. Nguyen,INS-62872,Electrical,Fail,50,7,Y,2019-04-11,FTA,Cited violation
+1214,366,07/08/2020,I. Jackson,INS-23532,Interim Progress,Pass,86,1,N,,EPA,Cited violation
+1215,366,07/20/2024,C. Richardson,INS-73358,Routine Safety,Pass,75,N/A,YES,,EPA,
+1216,366,03/18/2021,S. Williams,INS-19555,Routine Safety,Deferred,,3,Y,12/11/2019,FAA,
+1217,366,2019/03/16,D. Freeman,INS-26655,Quality Control,Pass,78,3,no,,FAA,Escalated to state
+1218,366,04/12/2020,G. Martinez,INS-99459,Interim Progress,Pass,63,2,N,,Army Corps,
+1219,366,06-08-2022,S. Williams,INS-44868,Electrical,Pass,71,3,N,,OSHA,
+1220,367,21/12/2019,M. Chen,INS-66773,Electrical,Pass,80,1,N,,State DEP,Closed
+1221,367,,E. Hoffman,INS-12966,Final Walkthrough,Pass,98,1,y,,EPA,
+1222,367,2024/03/13,C. Richardson,INS-35241,Electrical,Fail,47,3,Y,2021-02-15,EPA,
+1223,367,18/04/2019,M. Chen,INS-42591,Final Walkthrough,Pass,55,2,N,,State DOT,Escalated to state
+1224,367,19/12/2023,D. Freeman,INS-25169,Electrical,Pass,60,0,No,2023/11/07,State DOT,
+1225,367,2022-10-10,H. Lee,INS-87434,Final Walkthrough,Pass,75,2,no,,Army Corps,
+1226,368,2023/04/20,S. Williams,INS-90994,Final Walkthrough,Fail,40,1,Y,,Local Building Dept,Cited violation
+1227,368,07/23/2019,C. Richardson,INS-32168,Quality Control,Pass,68,,Y,2019-08-13,OSHA,Follow-up required
+1228,369,2021-08-25,B. Torres,,Routine Safety,Fail,62,,Y,10-31-2021,State DEP,Closed
+1229,369,03-18-2020,M. Chen,INS-49414,Interim Progress,Pass,82,3,Y,2024/08/17,State DOT,
+1230,369,07-21-2023,D. Freeman,INS-85433,Plumbing,Pass,80,1,N,,FAA,
+1231,369,04/19/2024,K. O'Brien,INS-64059,Electrical,Pass with Conditions,81,2,Y,2025/06/28,FTA,
+1232,369,05/01/2024,I. Jackson,INS-39132,Environmental Compliance,Pass,78,0,N,,OSHA,Closed
+1233,369,16/09/2023,A. Nguyen,INS-94072,Routine Safety,Pass,62,2,N,,Local Building Dept,Follow-up required
+1234,370,2024/06/04,G. Martinez,,Structural,Pass,78,,,,FHWA,Closed
+1235,371,09/05/2019,I. Jackson,INS-95038,Electrical,Pass,67,2,Y,,Army Corps,
+1236,371,2025/03/09,G. Martinez,,Environmental Compliance,Fail,30,6,Y,18/03/2025,FAA,Follow-up required
+1237,372,10-14-2024,A. Nguyen,,Final Walkthrough,,88,1,N,,State DOT,
+1238,372,,H. Lee,INS-95521,Structural,Pass,77,0,Y,2019-09-30,FHWA,
+1239,372,2019-04-10,E. Hoffman,INS-39900,Plumbing,Pass,60,2,N,,FHWA,Closed
+1240,372,2019/07/01,M. Chen,INS-11286,Quality Control,Pass,,1,N,,Local Building Dept,Escalated to state
+1241,372,09/11/2022,G. Martinez,,Routine Safety,Fail,,5,Y,,State DOT,
+1242,373,,R. Patel,INS-27248,Interim Progress,Pass,,2,N,,Army Corps,
+1243,373,07-22-2024,H. Lee,INS-62106,Interim Progress,Pass,,0,N,,FHWA,
+1244,373,06/07/2024,A. Nguyen,INS-80759,Quality Control,Pass With Conditions,35,0,Y,12-07-2023,Local Building Dept,Closed
+1245,374,12-20-2019,I. Jackson,INS-54388,Environmental Compliance,Pass,93,0,N,,Army Corps,Closed
+1246,374,04/03/2020,D. Freeman,INS-46466,Final Walkthrough,Pass,60,3,Y,,Army Corps,Closed
+1247,374,2019-02-07,C. Richardson,-,Plumbing,Pass,100,1,Y,06-07-2023,State DOT,
+1248,375,03/11/2019,I. Jackson,,Quality Control,Fail,61,7,,2025/04/30,Army Corps,Cited violation
+1249,375,01/14/2022,G. Martinez,INS-96185,Routine Safety,Pass,91,1,N,,State DOT,Follow-up required
+1250,375,10-10-2023,H. Lee,INS-28332,Final Walkthrough,Pass,99,0,N,,Local Building Dept,Follow-up required
+1251,375,,M. Chen,INS-44204,Quality Control,Pass,81,0,N,,Local Building Dept,
+1252,375,2022-05-19,C. Richardson,INS-74252,Electrical,Pass,75,3,N,,State DEP,Closed
+1253,376,25/04/2022,D. Freeman,INS-33302,Structural,Pass,,0,N,,State DOT,Escalated to state
+1254,377,16/02/2021,E. Hoffman,INS-11039,Structural,Pass,88,1,N,,FAA,
+1255,378,,G. Martinez,INS-30867,Plumbing,Pass,93,0,N,,FHWA,
+1256,378,2024/08/22,I. Jackson,INS-23033,Plumbing,Pass,,0,N,,FAA,
+1257,379,05/24/2022,A. Nguyen,,Quality Control,Pass,57,,N,,Local Building Dept,
+1258,379,2025/01/27,J. Kowalski,INS-53718,Electrical,Pass,76,3,no,,Army Corps,Follow-up required
+1259,379,19/06/2022,H. Lee,INS-13443,Structural,Pass with Conditions,73,2,Y,11/06/2019,Local Building Dept,
+1260,379,,S. Williams,INS-87198,Routine Safety,Pass,64,2,Y,2023/03/06,FHWA,
+1261,380,2021-07-30,R. Patel,INS-93446,Quality Control,Pass,82,1,N,,Army Corps,Escalated to state
+1262,380,2019/11/02,J. Kowalski,INS-14848,Quality Control,,57,0,N,,EPA,
+1263,380,09-11-2021,D. Freeman,INS-69139,Routine Safety,Pass,72,3,N,,OSHA,
+1264,381,2023-12-01,D. Freeman,INS-88620,Final Walkthrough,Pass,69,2,no,2025/02/02,EPA,
+1265,382,2024-01-12,R. Patel,INS-88683,Environmental Compliance,Pass With Conditions,30,,no,2024-02-05,EPA,
+1266,382,06/25/2023,B. Torres,INS-74866,Routine Safety,,N/A,2,N,,FTA,
+1267,382,06/08/2020,I. Jackson,INS-12549,Fire Safety,Pass,100,TBD,N,,State DOT,
+1268,383,,I. Jackson,INS-48566,Environmental Compliance,Deferred,58,3,N,,FHWA,
+1269,383,2020/07/21,C. Richardson,INS-91788,Plumbing,FAIL,78,2,N,,Army Corps,
+1270,384,02/14/2025,K. O'Brien,INS-47511,Fire Safety,fail,62,3,N,,Local Building Dept,Follow-up required
+1271,384,2021-04-28,A. Nguyen,INS-83248,Routine Safety,,57,6,Y,09-25-2021,State DEP,
+1272,384,,D. Freeman,INS-99793,Structural,Pass,77,,N,,State DOT,
+1273,384,2020-03-20,I. Jackson,INS-80288,Electrical,Pass,93,2,Y,07-26-2022,FHWA,Closed
+1274,384,2020/05/26,C. Richardson,INS-88727,Quality Control,Pass,75,3,N,,EPA,
+1275,384,2019-04-13,S. Williams,INS-94022,Routine Safety,Pass with Conditions,68,0,Y,13/05/2024,Local Building Dept,
+1276,385,04-04-2019,G. Martinez,INS-38479,Environmental Compliance,Pass With Conditions,84,,Y,2023/05/31,FTA,
+1277,385,,K. O'Brien,N/A,Fire Safety,Pass,97,2,N,,FHWA,
+1278,386,21/06/2019,J. Kowalski,INS-22787,Fire Safety,Pass,96,2,N,,FHWA,
+1279,386,2022/04/17,J. Kowalski,INS-69759,Electrical,,85,1,Y,,State DEP,Follow-up required
+1280,387,21/09/2019,A. Nguyen,INS-41717,Structural,Pass,69,1,Y,,Local Building Dept,
+1281,388,02/02/2019,J. Kowalski,,Interim Progress,Pass,58,3,N,,OSHA,Closed
+1282,388,,K. O'Brien,INS-99611,Environmental Compliance,Pass,64,3,no,,FHWA,
+1283,388,2023/08/20,B. Torres,INS-30949,Structural,Pass,-,1,N,,State DOT,Follow-up required
+1284,388,2020/09/11,B. Torres,INS-69043,Fire Safety,Pass,n/a,3,y,,State DOT,Cited violation
+1285,389,10/20/2021,M. Chen,INS-60312,Environmental Compliance,PASS,70,,Y,,EPA,Follow-up required
+1286,389,2023-09-25,I. Jackson,INS-59902,Environmental Compliance,Pass with Conditions,62,1,Y,04/27/2021,FAA,
+1287,389,28/08/2022,E. Hoffman,INS-50386,Plumbing,Pass,70,3,No,,State DOT,Closed
+1288,389,2022/12/26,G. Martinez,INS-97144,Structural,Pass with Conditions,56,0,Y,,State DOT,
+1289,389,08/31/2022,K. O'Brien,INS-45124,Structural,Fail,57,1,Y,,FAA,
+1290,390,2024-01-15,J. Kowalski,INS-51308,Environmental Compliance,Fail,,TBD,Y,,EPA,Cited violation
+1291,390,2022/11/29,G. Martinez,,Environmental Compliance,Pass,71,3,Y,2023/12/30,State DEP,
+1292,390,11/19/2021,D. Freeman,INS-81032,Plumbing,Pass,59,0,Y,08/28/2020,Local Building Dept,Follow-up required
+1293,391,06-15-2022,M. Chen,,Structural,Pass,89,TBD,Y,2020/02/16,EPA,
+1294,392,,M. Chen,INS-10412,Plumbing,Pass,78,1,N,,FTA,
+1295,394,09/12/2023,E. Hoffman,INS-14098,Final Walkthrough,Pass,84,1,Y,,OSHA,
+1296,394,08/02/2023,I. Jackson,,Final Walkthrough,Pass,85,3,N,,EPA,Follow-up required
+1297,394,2021/12/07,B. Torres,INS-49901,Plumbing,Pass,95,1,N,,State DEP,Closed
+1298,394,06/05/2019,B. Torres,INS-11622,Plumbing,Pass,?,0,N,,OSHA,Escalated to state
+1299,395,2023/07/09,J. Kowalski,INS-74774,Final Walkthrough,Pass,89,1,Y,06/13/2021,FTA,Cited violation
+1300,395,10/04/2019,D. Freeman,INS-79445,Fire Safety,Pass,78,3,N,,Local Building Dept,
+1301,395,28/05/2022,S. Williams,,Routine Safety,Pass,94,1,N,,FHWA,Escalated to state
+1302,396,19/05/2022,I. Jackson,INS-39214,Structural,fail,71,3,N,,FTA,
+1303,396,07-08-2024,B. Torres,INS-51296,Final Walkthrough,Pass,59,0,N,,State DOT,Cited violation
+1304,396,2019/09/25,G. Martinez,,Structural,Pass,80,1,Y,25/03/2021,Local Building Dept,
+1305,396,04/09/2019,D. Freeman,,Plumbing,Pass,95,2,N,,State DEP,
+1306,396,05-10-2023,H. Lee,INS-12862,Interim Progress,Pass,70,3,N,,FHWA,Closed
+1307,396,02-22-2020,A. Nguyen,INS-22471,Quality Control,Pass,62,1,N,,State DEP,
+1308,397,2021/05/04,B. Torres,INS-88669,Structural,fail,32,3,Y,,State DOT,
+1309,397,2020/10/17,A. Nguyen,INS-78043,Plumbing,,96,2,N,,FTA,Closed
+1310,398,2020-10-19,S. Williams,INS-67694,Final Walkthrough,Pass,78,0,N,,FAA,Follow-up required
+1311,398,06/04/2021,K. O'Brien,,Fire Safety,Pass,89,1,N,,OSHA,
+1312,398,2022-08-23,E. Hoffman,INS-84516,Fire Safety,Pass with Conditions,61,2,Y,,OSHA,Follow-up required
+1313,399,04/14/2020,E. Hoffman,INS-26223,Final Walkthrough,Pass,57,0,Y,07/08/2019,FAA,
+1314,399,2021-10-02,R. Patel,INS-38284,Structural,Pass,98,2,N,,State DOT,Closed
+1315,399,10/16/2023,E. Hoffman,INS-48030,Structural,Pass,80,0,N,,Army Corps,
+1316,399,02/17/2020,H. Lee,INS-20721,Final Walkthrough,Pass,94,2,Y,09-10-2019,FAA,
+1317,400,20/04/2024,S. Williams,,Structural,Pass,86,0,N,,FAA,
+1318,400,2019-04-26,D. Freeman,INS-53901,Electrical,PASS,67,0,Y,,FHWA,
+1319,400,,J. Kowalski,INS-54874,Final Walkthrough,Pass,59,3,N,,State DEP,
+1320,400,2025-05-24,C. Richardson,INS-29618,Routine Safety,Pass,70,0,N,,EPA,Closed
+1321,400,2022-09-09,I. Jackson,INS-47857,Quality Control,FAIL,58,1,No,,Local Building Dept,
+1322,401,2022/01/06,H. Lee,INS-42428,Electrical,,,,,,FAA,Follow-up required
+1323,401,2023/08/06,H. Lee,INS-95496,Routine Safety,Pass,60,2,N,,FHWA,
+1324,402,2022-07-30,B. Torres,INS-98329,Plumbing,Pass,67,1,N,,Army Corps,Escalated to state
+1325,402,09/27/2024,M. Chen,INS-56927,Environmental Compliance,Pass,81,3,N,,EPA,Closed
+1326,402,2021-03-12,R. Patel,INS-61322,Final Walkthrough,PASS,62,0,N,,FAA,Closed
+1327,402,2024/04/22,S. Williams,INS-20937,Quality Control,Pass,56,1,N,,State DEP,
+1328,402,10-11-2019,E. Hoffman,INS-12983,Final Walkthrough,Pass,94,3,N,,Local Building Dept,
+1329,402,11-16-2023,S. Williams,INS-91132,Environmental Compliance,Pass,63,0,N,,State DEP,
+1330,403,2022/08/03,K. O'Brien,INS-86260,Plumbing,pass,?,2,N,,Local Building Dept,Escalated to state
+1331,403,07-18-2022,H. Lee,INS-59753,Final Walkthrough,Pass,55,1,N,,FAA,Follow-up required
+1332,403,11/17/2019,M. Chen,INS-44800,Structural,Pass,62,3,no,2020-02-29,FTA,Cited violation
+1333,404,22/03/2023,E. Hoffman,INS-49924,Fire Safety,Pass,TBD,3,no,,Army Corps,Follow-up required
+1334,404,09/20/2020,A. Nguyen,TBD,Plumbing,Pass,84,3,Y,12/04/2024,State DEP,
+1335,404,08/06/2023,D. Freeman,INS-80756,Environmental Compliance,Pass,91,1,N,,Army Corps,Closed
+1336,405,12/06/2024,S. Williams,INS-62758,Structural,Pass,80,1,N,,State DEP,
+1337,405,07/01/2021,H. Lee,INS-29270,Interim Progress,Pass,90,,N,,Local Building Dept,Cited violation
+1338,405,2024/06/15,R. Patel,INS-82528,Final Walkthrough,Pass with Conditions,89,3,Y,11-26-2023,Local Building Dept,
+1339,405,23/05/2021,C. Richardson,,Routine Safety,Pass with Conditions,65,1,Y,28/07/2021,State DEP,Cited violation
+1340,405,2021/11/23,R. Patel,INS-42805,Routine Safety,Pass,-,1,no,,EPA,Cited violation
+1341,406,,G. Martinez,INS-99082,Final Walkthrough,Pass,77,1,N,,FHWA,
+1342,408,26/05/2019,S. Williams,INS-12306,Interim Progress,Pass,68,1,y,,Army Corps,Escalated to state
+1343,408,2024/02/14,M. Chen,INS-51139,Quality Control,Pass,58,TBD,y,,FTA,Escalated to state
+1344,408,14/12/2023,B. Torres,INS-85131,Environmental Compliance,Pass,100,3,N,,FAA,Escalated to state
+1345,408,2020-09-04,B. Torres,INS-34840,Electrical,Pass,93,0,Y,05/18/2023,FTA,Escalated to state
+1346,409,2023-05-22,D. Freeman,INS-28515,Plumbing,Pass,61,,N,,EPA,Follow-up required
+1347,409,11/05/2020,B. Torres,INS-75728,Routine Safety,Pass,100,3,N,,OSHA,Cited violation
+1348,409,02/08/2022,B. Torres,TBD,Routine Safety,Pass,81,2,N,,Local Building Dept,Follow-up required
+1349,410,16/05/2025,J. Kowalski,INS-68829,Final Walkthrough,Pass,87,3,yes,,FTA,
+1350,411,,K. O'Brien,INS-21693,Interim Progress,Pass,74,1,,,FAA,Closed
+1351,411,,S. Williams,INS-99616,Environmental Compliance,pass,86,3,N,,State DOT,
+1352,411,12-24-2022,J. Kowalski,INS-17466,Routine Safety,Pass,78,0,N,,FTA,
+1353,411,10/03/2024,C. Richardson,INS-42434,Quality Control,Pass,93,0,Y,2019-03-09,FHWA,
+1354,411,2023/09/26,A. Nguyen,INS-24269,Electrical,fail,84,1,Y,,OSHA,
+1355,411,20/11/2024,S. Williams,INS-17237,Quality Control,Fail,63,6,Y,30/06/2025,FHWA,Follow-up required
+1356,412,03-01-2025,H. Lee,INS-15913,Plumbing,Pass,55,0,N,,OSHA,
+1357,412,02-04-2024,D. Freeman,INS-30026,Environmental Compliance,Pass,71,0,Y,,OSHA,Closed
+1358,412,2024-05-21,A. Nguyen,INS-45148,Interim Progress,FAIL,56,2,N,,Army Corps,
+1359,412,01-21-2019,R. Patel,,Environmental Compliance,Pass,79,1,Y,08/17/2020,State DOT,
+1360,412,2020-06-30,J. Kowalski,INS-31056,Fire Safety,Pass,67,2,N,,FTA,
+1361,413,06-13-2020,D. Freeman,INS-75517,Final Walkthrough,Deferred,91,N/A,Y,,State DEP,
+1362,413,04/02/2022,A. Nguyen,INS-72810,Interim Progress,Pass,61,2,N,,FAA,
+1363,413,02/26/2024,G. Martinez,INS-56845,Final Walkthrough,Pass,67,1,No,,FAA,Cited violation
+1364,413,12/04/2019,B. Torres,INS-49737,Electrical,Fail,60,1,Y,30/08/2022,Army Corps,Follow-up required
+1365,414,03-21-2021,A. Nguyen,INS-32829,Environmental Compliance,Pass,91,3,N,,State DEP,
+1366,414,2019/11/03,S. Williams,INS-38619,Environmental Compliance,Pass,75,1,N,,Local Building Dept,Escalated to state
+1367,414,2022-03-31,B. Torres,INS-66009,Interim Progress,Pass,68,1,N,,Army Corps,
+1368,415,2020-03-06,E. Hoffman,INS-59007,Environmental Compliance,Pass,98,0,N,,FTA,
+1369,415,2024/06/03,K. O'Brien,INS-15387,Fire Safety,Pass,92,0,Y,,Local Building Dept,Follow-up required
+1370,415,,H. Lee,INS-85089,Structural,Pass,67,,N,,FAA,Cited violation
+1371,415,02/11/2019,A. Nguyen,INS-18365,Environmental Compliance,Pass,73,0,N,,FAA,
+1372,416,2021/01/15,S. Williams,INS-92837,Structural,Pass,97,3,y,,State DEP,Follow-up required
+1373,416,03/09/2024,K. O'Brien,INS-76915,Routine Safety,Fail,45,3,N,,Local Building Dept,
+1374,416,2024/03/25,R. Patel,INS-33604,Routine Safety,Pass,70,1,no,2023-02-05,FTA,
+1375,416,01-05-2020,J. Kowalski,INS-56898,Electrical,Pass With Conditions,77,1,N,,OSHA,
+1376,417,2024/12/17,K. O'Brien,INS-90928,Structural,Pass,81,3,N,,FHWA,
+1377,418,04/13/2019,I. Jackson,INS-71290,Final Walkthrough,Pass,82,2,N,,FAA,Cited violation
+1378,418,06/11/2024,E. Hoffman,INS-89007,Plumbing,Fail,37,1,Y,2022/09/19,FHWA,
+1379,418,07-31-2024,I. Jackson,INS-11741,Quality Control,fail,92,,N,,FHWA,
+1380,418,2023/07/05,J. Kowalski,INS-70734,Structural,Pass,89,0,N,,State DEP,
+1381,419,2020-02-29,C. Richardson,INS-70319,Electrical,Pass,98,0,N,,State DEP,Follow-up required
+1382,419,2022-04-17,B. Torres,INS-57812,Structural,PASS,79,0,N,,FAA,
+1383,419,15/11/2019,J. Kowalski,INS-77488,Routine Safety,Fail,,4,Y,05-05-2022,FTA,Escalated to state
+1384,419,2022/11/17,S. Williams,INS-52780,Fire Safety,Deferred,99,1,N,,OSHA,Cited violation
+1385,419,12/17/2021,M. Chen,INS-61092,Plumbing,Pass,90,1,,,Local Building Dept,Escalated to state
+1386,420,08/03/2022,K. O'Brien,,Interim Progress,,63,5,Y,2024-03-04,FHWA,Cited violation
+1387,420,18/07/2023,R. Patel,INS-86697,Environmental Compliance,Pass,75,3,N,,EPA,
+1388,420,07-05-2021,J. Kowalski,INS-32382,Fire Safety,Pass,58,0,N,,FAA,
+1389,420,2022/04/29,C. Richardson,INS-49700,Fire Safety,Pass,88,2,Y,2021-11-13,Army Corps,
+1390,420,07-20-2020,R. Patel,INS-49392,Quality Control,Pass,76,,yes,,OSHA,Follow-up required
+1391,421,26/10/2021,E. Hoffman,INS-36183,Environmental Compliance,Pass,66,0,No,2023/04/02,State DEP,
+1392,421,2021/05/21,K. O'Brien,INS-73252,Routine Safety,Pass,66,2,,,FTA,
+1393,421,06-25-2021,M. Chen,INS-99790,Fire Safety,Pass,55,2,N,,OSHA,Escalated to state
+1394,421,2025-04-21,S. Williams,,Structural,Pass,80,1,Y,12-05-2020,FHWA,Escalated to state
+1395,421,04-29-2025,M. Chen,INS-57298,Final Walkthrough,Fail,32,1,Y,08-19-2024,FAA,
+1396,422,08-01-2019,D. Freeman,INS-92359,Structural,Pass,,3,N,,FAA,
+1397,422,2023/11/29,C. Richardson,INS-70163,Interim Progress,Pass,81,2,Y,24/09/2020,FHWA,
+1398,422,02/07/2024,G. Martinez,INS-83678,Environmental Compliance,Pass,95,1,N,,FTA,Escalated to state
+1399,422,2025/05/20,C. Richardson,INS-62803,Electrical,Pass,83,0,Y,02/08/2022,FAA,
+1400,422,23/11/2019,H. Lee,INS-44620,Environmental Compliance,Pass,69,2,N,,Local Building Dept,
+1401,422,01/19/2021,A. Nguyen,INS-81608,Fire Safety,,57,3,Y,2021-12-05,FAA,
+1402,424,2021-08-31,R. Patel,INS-25224,Quality Control,Pass,73,2,N,,FHWA,
+1403,424,,A. Nguyen,INS-34561,Final Walkthrough,Fail,56,2,Y,11-16-2019,FAA,Escalated to state
+1404,424,02/24/2021,R. Patel,,Environmental Compliance,Pass,74,1,N,,EPA,
+1405,424,08/18/2021,J. Kowalski,INS-40106,Electrical,Pass,71,0,N,,FHWA,Closed
+1406,425,02/26/2022,R. Patel,,Structural,Pass,80,,N,,FAA,Cited violation
+1407,425,2023/10/17,K. O'Brien,INS-21613,Quality Control,Pass,85,1,N,12-23-2023,Local Building Dept,Follow-up required
+1408,426,,S. Williams,INS-87564,Routine Safety,Fail,33,,Y,09-04-2023,State DOT,Follow-up required
+1409,426,2020-09-06,J. Kowalski,INS-82034,Final Walkthrough,Fail,52,0,Y,08-17-2019,FAA,Follow-up required
+1410,427,21/12/2022,M. Chen,INS-20173,Plumbing,Pass with Conditions,95,1,Y,,State DEP,Follow-up required
+1411,428,2019/10/13,M. Chen,INS-44819,Environmental Compliance,Pass,64,0,Y,,Local Building Dept,Cited violation
+1412,428,05/17/2022,K. O'Brien,INS-44311,Plumbing,Fail,44,,Y,10-19-2022,OSHA,Follow-up required
+1413,428,07/16/2019,M. Chen,-,Fire Safety,Pass,,2,N,,FAA,Closed
+1414,428,2020-09-24,J. Kowalski,INS-40033,Fire Safety,Pass,64,0,N,,State DOT,
+1415,429,27/02/2023,A. Nguyen,INS-12077,Routine Safety,Fail,36,6,Y,2021-01-14,EPA,
+1416,429,20/12/2019,E. Hoffman,INS-36446,Structural,Pass,63,1,N,,FAA,
+1417,429,05-15-2021,S. Williams,?,Fire Safety,Deferred,58,3,Y,2024/01/17,State DEP,
+1418,429,16/07/2019,M. Chen,INS-12899,Interim Progress,Pass,59,1,y,,OSHA,
+1419,429,2023-08-30,D. Freeman,INS-88198,Structural,Fail,50,4,Y,10-19-2021,FHWA,
+1420,429,03/24/2021,I. Jackson,INS-72277,Final Walkthrough,Pass,59,0,Y,2022-07-16,Local Building Dept,
+1421,430,03/06/2020,R. Patel,INS-63631,Interim Progress,Pass,,3,N,,FAA,
+1422,430,02-09-2020,K. O'Brien,INS-14442,Quality Control,Pass,77,2,N,,FAA,Follow-up required
+1423,430,,K. O'Brien,INS-88940,Environmental Compliance,Pass,,1,N,,Local Building Dept,
+1424,430,02/12/2021,K. O'Brien,INS-67181,Structural,Pass,84,2,N,,State DEP,Closed
+1425,431,13/03/2022,G. Martinez,INS-18832,Routine Safety,Pass,80,0,N,,Local Building Dept,Escalated to state
+1426,431,,B. Torres,INS-48620,Interim Progress,Pass,60,3,YES,,State DEP,Follow-up required
+1427,431,31/08/2020,J. Kowalski,,Structural,Pass,100,1,no,,OSHA,Cited violation
+1428,431,09/09/2022,C. Richardson,INS-90510,Plumbing,Pass,79,3,Y,2020-11-16,FTA,Follow-up required
+1429,431,09/02/2019,S. Williams,?,Routine Safety,,97,0,N,03-07-2023,Army Corps,Closed
+1430,432,09/07/2023,M. Chen,INS-34694,Routine Safety,,96,2,N,,OSHA,
+1431,432,2019/01/14,R. Patel,,Environmental Compliance,Pass,81,3,,,FTA,
+1432,432,06-21-2019,D. Freeman,INS-57273,Environmental Compliance,,98,1,N,,FAA,Closed
+1433,432,2024/05/27,C. Richardson,INS-96985,Structural,Pass,57,2,N,,FHWA,Cited violation
+1434,432,08-26-2022,B. Torres,INS-18312,Fire Safety,Pass,58,2,Y,2022-06-12,OSHA,Escalated to state
+1435,433,,A. Nguyen,INS-49411,Interim Progress,Pass,80,3,N,,Army Corps,
+1436,433,03/07/2024,M. Chen,INS-34191,Environmental Compliance,Pass,75,1,N,,OSHA,
+1437,433,05/08/2021,D. Freeman,INS-32650,Environmental Compliance,Pass,63,0,Y,2020/02/18,State DEP,Follow-up required
+1438,433,2022/03/25,G. Martinez,INS-41194,Routine Safety,Pass,100,1,Y,16/10/2019,FAA,Closed
+1439,433,02/26/2023,S. Williams,INS-29438,Electrical,Pass,TBD,0,N,,Local Building Dept,
+1440,434,2025/01/27,I. Jackson,INS-95114,Quality Control,Pass With Conditions,80,0,N,,FTA,Escalated to state
+1441,434,12/25/2023,K. O'Brien,,Plumbing,Pass,,0,N,,FTA,
+1442,434,2024/02/25,C. Richardson,INS-83328,Electrical,Pass,,2,Y,01-20-2022,Army Corps,Cited violation
+1443,434,15/07/2023,J. Kowalski,INS-79316,Electrical,Pass,55,3,N,,FTA,Closed
+1444,434,03-08-2021,K. O'Brien,INS-99405,Fire Safety,PASS,70,1,N,,EPA,
+1445,434,05-25-2019,I. Jackson,INS-81487,Fire Safety,Deferred,84,3,No,,FHWA,
+1446,435,02/22/2021,M. Chen,INS-88451,Structural,PASS,81,1,N,,Army Corps,Follow-up required
+1447,435,2021/04/14,A. Nguyen,,Plumbing,Pass with Conditions,57,2,Y,24/03/2020,EPA,
+1448,435,01/07/2025,C. Richardson,INS-41154,Interim Progress,Pass,56,,N,,Army Corps,Cited violation
+1449,436,10/05/2022,J. Kowalski,INS-86702,Environmental Compliance,Pass,75,3,N,,Local Building Dept,
+1450,436,2022-07-19,J. Kowalski,,Electrical,Pass,57,1,y,,FHWA,
+1451,436,01-20-2020,K. O'Brien,INS-51347,Interim Progress,Pass,77,0,N,,Local Building Dept,Escalated to state
+1452,436,,R. Patel,INS-76111,Environmental Compliance,fail,59,2,N,,FTA,Closed
+1453,436,08/30/2023,E. Hoffman,INS-69372,Plumbing,Pass,55,1,,,Army Corps,Closed
+1454,437,2020/09/23,D. Freeman,INS-11407,Quality Control,Fail,60,2,Y,11/06/2024,Local Building Dept,
+1455,437,03/27/2020,D. Freeman,INS-46018,Structural,Pass with Conditions,87,1,Y,12/02/2023,OSHA,
+1456,437,,J. Kowalski,INS-55970,Plumbing,Pass,71,0,N,,OSHA,
+1457,438,,R. Patel,INS-53437,Plumbing,Pass,60,3,N,,FHWA,
+1458,438,02-29-2024,E. Hoffman,INS-85786,Fire Safety,Pass,72,0,N,,EPA,
+1459,438,2024-10-11,B. Torres,INS-60524,Quality Control,Pass,98,2,yes,2020/03/14,Army Corps,Follow-up required
+1460,439,,I. Jackson,INS-90832,Final Walkthrough,Pass with Conditions,?,0,Y,2024/08/15,EPA,
+1461,439,2024-12-15,S. Williams,INS-41871,Final Walkthrough,Fail,,6,Y,2022-08-29,FAA,
+1462,439,,D. Freeman,INS-33914,Interim Progress,Deferred,98,1,Y,2020/12/02,FAA,Cited violation
+1463,439,2023-10-24,I. Jackson,INS-13771,Plumbing,Pass,66,0,Y,2021-03-08,State DOT,
+1464,439,2021/06/22,M. Chen,INS-46330,Fire Safety,Fail,37,n/a,Y,,State DEP,
+1465,439,07/06/2024,H. Lee,INS-81910,Electrical,Pass,81,0,N,,Local Building Dept,Follow-up required
+1466,440,04/18/2025,J. Kowalski,-,Fire Safety,Pass,96,0,No,,FTA,Closed
+1467,440,2019-05-28,C. Richardson,INS-43691,Plumbing,Pass,64,0,N,,State DOT,Follow-up required
+1468,441,2020-02-18,H. Lee,INS-58418,Quality Control,Fail,33,0,Y,2019-08-19,FAA,
+1469,442,2022/08/18,I. Jackson,INS-53170,Routine Safety,Pass,64,2,Y,2024-06-24,OSHA,
+1470,442,12-04-2023,A. Nguyen,INS-86451,Fire Safety,pass,?,0,Y,05-05-2019,FTA,Follow-up required
+1471,442,11-26-2019,D. Freeman,INS-37434,Final Walkthrough,Pass,88,3,N,,State DOT,
+1472,442,19/12/2019,J. Kowalski,INS-14515,Fire Safety,Pass,95,0,N,,Local Building Dept,
+1473,442,,R. Patel,INS-24839,Electrical,Pass,81,0,N,,Army Corps,Follow-up required
+1474,443,,R. Patel,INS-41936,Interim Progress,Fail,,0,Y,2022/04/27,FHWA,
+1475,443,,I. Jackson,INS-16856,Routine Safety,fail,55,0,N,,FTA,Cited violation
+1476,443,10-12-2023,A. Nguyen,INS-42275,Environmental Compliance,,78,3,N,,OSHA,Follow-up required
+1477,443,2019-03-06,E. Hoffman,INS-68442,Environmental Compliance,Pass,96,1,,20/02/2022,Local Building Dept,Cited violation
+1478,444,04/05/2019,M. Chen,,Quality Control,Pass,72,2,N,,EPA,
+1479,444,2021-04-20,D. Freeman,INS-79315,Electrical,Pass,67,,N,,State DOT,Closed
+1480,445,2022-10-01,J. Kowalski,,Plumbing,Pass,100,1,Y,05/01/2021,OSHA,
+1481,445,03/18/2023,D. Freeman,INS-43700,Interim Progress,Fail,43,5,Y,,State DOT,Closed
+1482,445,04-15-2021,J. Kowalski,INS-19456,Environmental Compliance,Pass,75,2,Y,2023-03-31,FTA,Closed
+1483,445,,J. Kowalski,INS-77849,Quality Control,Pass with Conditions,57,,Y,10-13-2020,FHWA,Escalated to state
+1484,445,04/05/2021,S. Williams,INS-53593,Electrical,Pass,58,1,N,,FAA,
+1485,447,2021-04-16,J. Kowalski,INS-23708,Quality Control,Pass,92,1,N,,FHWA,Follow-up required
+1486,447,2020-10-10,K. O'Brien,INS-24942,Electrical,Pass,56,0,Y,,Local Building Dept,Escalated to state
+1487,448,2020-01-02,I. Jackson,INS-17781,Structural,Pass,96,1,Y,01/07/2020,FAA,Follow-up required
+1488,448,2022/09/15,G. Martinez,INS-34382,Environmental Compliance,Pass with Conditions,97,0,Y,,OSHA,
+1489,448,09-13-2024,K. O'Brien,INS-13394,Interim Progress,Pass,64,2,N,,State DEP,Closed
+1490,448,10/13/2023,J. Kowalski,INS-99272,Interim Progress,Pass,93,3,N,,FHWA,Escalated to state
+1491,448,13/04/2020,B. Torres,INS-34427,Routine Safety,Pass,60,2,N,,Army Corps,
+1492,448,2022-05-15,K. O'Brien,N/A,Quality Control,Pass with Conditions,71,1,Y,,FTA,
+1493,449,04/12/2019,E. Hoffman,INS-92252,Environmental Compliance,Pass with Conditions,56,2,No,10/08/2022,FTA,
+1494,449,2024-06-26,K. O'Brien,INS-11847,Plumbing,Pass,92,0,N,,EPA,Cited violation
+1495,449,2019/03/16,E. Hoffman,INS-24414,Environmental Compliance,Pass,67,3,N,,Local Building Dept,
+1496,449,11-21-2024,D. Freeman,INS-88943,Plumbing,Pass,73,0,N,,State DOT,Escalated to state
+1497,449,2024-06-14,M. Chen,INS-26163,Quality Control,Pass,86,3,N,,EPA,
+1498,449,02/05/2021,K. O'Brien,INS-46812,Electrical,PASS,93,3,Y,,Local Building Dept,Escalated to state
+1499,450,26/01/2020,J. Kowalski,INS-57416,Environmental Compliance,Pass,89,0,No,,FTA,Cited violation
+1500,450,03-24-2023,D. Freeman,INS-72294,Quality Control,Pass,58,1,N,,FAA,
+1501,450,23/05/2022,E. Hoffman,,Electrical,Pass,60,3,N,,FAA,Escalated to state
+1502,451,2019-05-18,S. Williams,INS-22706,Electrical,fail,92,3,Y,2023/06/24,OSHA,
+1503,451,14/10/2024,M. Chen,INS-70148,Interim Progress,Fail,39,4,No,2025-02-24,EPA,
+1504,452,10/20/2022,J. Kowalski,INS-80170,Routine Safety,Pass,56,1,N,,EPA,
+1505,452,,M. Chen,TBD,Plumbing,Pass,93,1,N,,EPA,
+1506,452,,C. Richardson,INS-59595,Environmental Compliance,Pass,88,3,no,,FAA,
+1507,452,,A. Nguyen,INS-82962,Interim Progress,,74,,Y,07-28-2024,OSHA,Follow-up required
+1508,453,09-22-2022,H. Lee,INS-17538,Fire Safety,Pass with Conditions,58,2,Y,06/09/2025,FTA,
+1509,453,30/08/2020,D. Freeman,n/a,Quality Control,Pass,73,2,N,,State DOT,Follow-up required
+1510,453,2023-06-19,K. O'Brien,INS-20483,Final Walkthrough,Pass,63,2,N,,EPA,Follow-up required
+1511,453,27/08/2024,J. Kowalski,INS-83524,Structural,Pass,74,0,N,,FTA,
+1512,454,2024-03-17,M. Chen,,Routine Safety,Pass with Conditions,79,1,Y,06/23/2023,FHWA,
+1513,454,27/04/2023,I. Jackson,INS-50147,Routine Safety,FAIL,96,0,N,,FTA,
+1514,454,2020-11-26,M. Chen,INS-16522,Plumbing,Pass,83,1,N,,FAA,
+1515,454,12-10-2019,C. Richardson,INS-15613,Electrical,Pass,90,2,Y,2024/11/23,Local Building Dept,
+1516,455,04-02-2023,H. Lee,INS-99362,Quality Control,Pass,93,2,N,,EPA,Cited violation
+1517,455,01/18/2024,D. Freeman,INS-49950,Fire Safety,Pass,92,1,N,,EPA,Cited violation
+1518,455,11/17/2019,H. Lee,INS-47808,Electrical,fail,,2,Y,01/03/2024,FTA,Follow-up required
+1519,455,31/07/2024,G. Martinez,INS-31267,Interim Progress,Pass,60,2,N,,FAA,
+1520,456,2024-07-19,D. Freeman,INS-86646,Environmental Compliance,Pass,81,N/A,N,,FHWA,
+1521,456,01-08-2025,E. Hoffman,INS-45408,Electrical,Pass,98,,N,,OSHA,Closed
+1522,457,2022/06/19,J. Kowalski,INS-66521,Environmental Compliance,Pass,77,0,N,,Army Corps,Escalated to state
+1523,457,2020-02-16,I. Jackson,INS-31778,Routine Safety,Pass,81,2,Y,2020-11-24,FAA,
+1524,457,2020-04-06,I. Jackson,INS-27800,Plumbing,Pass,55,1,N,,EPA,
+1525,457,01/12/2021,S. Williams,INS-80872,Plumbing,Pass,100,2,N,,State DOT,Escalated to state
+1526,458,2023-12-30,A. Nguyen,INS-67217,Interim Progress,Pass,,2,Y,2020/08/22,FHWA,Cited violation
+1527,458,2020-09-19,G. Martinez,INS-68747,Routine Safety,Deferred,88,,Y,,EPA,
+1528,458,2019/11/23,M. Chen,INS-19222,Quality Control,Pass,64,2,N,,State DEP,
+1529,458,2024/03/08,H. Lee,,Final Walkthrough,Fail,32,1,Y,20/01/2021,Army Corps,
+1530,460,,M. Chen,INS-57815,Plumbing,Pass,84,2,Y,,FHWA,Closed
+1531,460,2019-10-17,A. Nguyen,INS-27588,Fire Safety,Pass,58,2,no,,State DEP,
+1532,460,2020/07/19,B. Torres,INS-73374,Plumbing,,72,0,Y,04-22-2024,State DEP,
+1533,461,2021/09/22,J. Kowalski,INS-99069,Fire Safety,Fail,42,5,Y,2022/09/23,Local Building Dept,Follow-up required
+1534,461,2022-07-11,I. Jackson,INS-95023,Structural,Pass,64,1,N,,FAA,Cited violation
+1535,461,04/20/2019,G. Martinez,INS-81604,Interim Progress,Pass,81,,N,,Local Building Dept,
+1536,462,04-21-2021,A. Nguyen,INS-56222,Environmental Compliance,Pass,77,1,N,,FAA,
+1537,462,08-19-2021,A. Nguyen,INS-76856,Plumbing,fail,100,3,N,,FTA,
+1538,462,03-19-2020,A. Nguyen,INS-88920,Structural,Pass,60,1,Y,,OSHA,
+1539,463,2022-11-10,A. Nguyen,INS-48550,Environmental Compliance,Pass with Conditions,97,1,Y,,FAA,Follow-up required
+1540,463,2021/03/20,K. O'Brien,,Quality Control,Fail,64,7,Y,21/10/2019,EPA,
+1541,463,03-20-2022,C. Richardson,INS-91335,Final Walkthrough,Pass,60,?,N,,EPA,
+1542,463,27/06/2022,K. O'Brien,INS-32414,Final Walkthrough,Pass,97,1,N,,EPA,
+1543,464,2023-11-24,K. O'Brien,INS-46845,Quality Control,Pass,84,1,N,,Army Corps,Follow-up required
+1544,464,09/19/2023,I. Jackson,INS-47671,Routine Safety,Pass,97,2,Y,04/11/2025,FHWA,
+1545,464,2025/04/15,A. Nguyen,,Quality Control,Pass,69,1,N,,FTA,Cited violation
+1546,464,07-24-2022,I. Jackson,INS-76294,Structural,Pass with Conditions,,1,Y,06/24/2022,EPA,
+1547,465,07/10/2023,A. Nguyen,INS-10972,Electrical,Pass,88,2,N,,FAA,
+1548,465,2021/10/29,D. Freeman,INS-34461,Plumbing,Pass,96,0,N,,FHWA,Escalated to state
+1549,466,06/05/2024,K. O'Brien,INS-11892,Plumbing,Pass,92,1,N,,Local Building Dept,
+1550,467,2021-11-06,E. Hoffman,INS-63550,Interim Progress,Pass,100,0,N,,FHWA,
+1551,467,2021-07-15,H. Lee,-,Environmental Compliance,Pass,82,1,N,,OSHA,Escalated to state
+1552,467,05-12-2019,C. Richardson,INS-33717,Fire Safety,Pass with Conditions,N/A,1,Y,2024-08-03,State DOT,Escalated to state
+1553,467,2023-09-28,C. Richardson,INS-94647,Environmental Compliance,Pass,81,0,N,,FHWA,
+1554,467,12/04/2021,E. Hoffman,INS-34048,Electrical,Fail,58,5,Y,06-05-2022,Army Corps,
+1555,467,01/22/2021,C. Richardson,INS-75804,Electrical,Pass,92,3,Y,,Local Building Dept,
+1556,468,01-16-2024,D. Freeman,INS-61428,Electrical,Pass,92,0,N,,FHWA,
+1557,468,,J. Kowalski,INS-77414,Fire Safety,FAIL,69,,Y,11/16/2020,EPA,
+1558,469,12-06-2023,J. Kowalski,INS-47895,Plumbing,Pass with Conditions,76,3,yes,,EPA,Closed
+1559,469,11-23-2020,D. Freeman,INS-43159,Routine Safety,Pass,92,3,N,,OSHA,
+1560,470,2020-02-12,K. O'Brien,INS-73791,Interim Progress,Pass,71,-,N,,FAA,
+1561,471,11-13-2022,J. Kowalski,INS-11182,Quality Control,FAIL,70,1,N,,FAA,Follow-up required
+1562,471,07/24/2023,H. Lee,INS-16565,Environmental Compliance,,82,1,YES,2023/08/23,Local Building Dept,Cited violation
+1563,471,10/17/2022,K. O'Brien,INS-86571,Interim Progress,,65,1,Y,04/18/2021,State DEP,
+1564,471,02/03/2023,C. Richardson,INS-46263,Structural,Pass,63,1,N,,Local Building Dept,
+1565,471,2019/09/01,M. Chen,INS-21561,Routine Safety,Pass,63,1,,01/14/2022,OSHA,Closed
+1566,472,2019-10-31,E. Hoffman,INS-36810,Final Walkthrough,Pass with Conditions,79,0,Y,2024-11-26,Local Building Dept,Follow-up required
+1567,473,03/10/2022,D. Freeman,INS-55264,Quality Control,Fail,32,N/A,Y,02/03/2022,FTA,Closed
+1568,475,,C. Richardson,INS-21633,Electrical,Pass,64,2,yes,,Army Corps,
+1569,475,08/11/2023,R. Patel,,Plumbing,Fail,58,2,Y,,State DEP,Cited violation
+1570,475,11/06/2023,E. Hoffman,INS-56102,Fire Safety,Pass with Conditions,76,2,Y,,FTA,Cited violation
+1571,475,,I. Jackson,INS-12137,Quality Control,Pass,94,1,N,,Local Building Dept,Cited violation
+1572,476,02-21-2022,S. Williams,,Environmental Compliance,,93,0,y,,Local Building Dept,Escalated to state
+1573,476,11-15-2021,I. Jackson,INS-11357,Structural,Pass,63,0,N,,EPA,Escalated to state
+1574,476,2022-08-08,C. Richardson,INS-88894,Plumbing,Pass,56,0,N,,OSHA,Escalated to state
+1575,476,2023/06/05,D. Freeman,INS-95006,Plumbing,Pass with Conditions,56,0,Y,,OSHA,Escalated to state
+1576,476,06-30-2021,G. Martinez,INS-95252,Electrical,Pass,71,0,Y,24/05/2024,FHWA,
+1577,476,10/11/2022,R. Patel,INS-98853,Environmental Compliance,Pass,88,3,YES,,EPA,
+1578,477,06/20/2024,M. Chen,INS-74482,Interim Progress,Pass with Conditions,,2,y,2024/05/05,Local Building Dept,
+1579,477,08/06/2022,S. Williams,INS-15222,Environmental Compliance,Pass,63,0,N,,State DOT,
+1580,477,11/11/2022,J. Kowalski,INS-18891,Routine Safety,Pass,,2,N,,Local Building Dept,Follow-up required
+1581,477,04-21-2024,I. Jackson,INS-69301,Plumbing,Pass,,2,y,28/08/2021,FAA,
+1582,478,07/13/2019,I. Jackson,INS-28557,Routine Safety,Pass With Conditions,56,3,N,,Army Corps,Cited violation
+1583,478,2021/08/20,G. Martinez,INS-63025,Interim Progress,Pass,95,2,N,,FAA,
+1584,479,01/09/2021,B. Torres,INS-17293,Electrical,Pass with Conditions,71,0,Y,,FAA,Closed
+1585,479,08-22-2021,M. Chen,INS-28422,Quality Control,FAIL,81,2,N,,EPA,Cited violation
+1586,479,06-05-2021,R. Patel,n/a,Final Walkthrough,Pass with Conditions,,1,Y,23/04/2025,OSHA,Follow-up required
+1587,479,2024-02-26,R. Patel,INS-42713,Structural,Pass,92,0,,2024-10-21,OSHA,
+1588,479,02-13-2023,K. O'Brien,INS-71850,Electrical,Pass,63,2,Y,11/04/2025,Local Building Dept,Closed
+1589,480,01/10/2024,B. Torres,INS-58652,Routine Safety,pass,64,1,N,,FAA,Follow-up required
+1590,480,15/07/2021,I. Jackson,INS-41646,Plumbing,Pass,86,,N,,State DEP,Follow-up required
+1591,480,07/26/2019,S. Williams,,Electrical,Pass,100,0,N,,State DOT,Cited violation
+1592,480,01-21-2025,A. Nguyen,INS-85662,Routine Safety,Pass,87,0,Y,2024-09-04,State DEP,
+1593,481,24/04/2020,G. Martinez,INS-93133,Fire Safety,Pass,71,3,N,,State DEP,
+1594,481,04/13/2021,C. Richardson,INS-27161,Environmental Compliance,Pass,75,2,N,,OSHA,
+1595,481,,S. Williams,INS-91666,Plumbing,Pass,100,2,N,,State DEP,
+1596,481,03/01/2020,R. Patel,INS-72089,Fire Safety,Pass,83,1,Y,01-19-2021,Local Building Dept,
+1597,481,12-13-2019,R. Patel,INS-14006,Quality Control,Pass,87,2,Y,2021/11/08,EPA,Cited violation
+1598,481,26/12/2019,E. Hoffman,INS-56844,Final Walkthrough,Pass,86,3,N,,FHWA,Cited violation
+1599,482,2020/05/25,M. Chen,INS-36825,Electrical,Pass,90,1,Y,,Local Building Dept,
+1600,482,2025-05-12,I. Jackson,INS-54668,Structural,Pass,63,3,N,,OSHA,Escalated to state
+1601,482,07-12-2019,A. Nguyen,INS-45058,Fire Safety,Pass,58,0,N,,FHWA,Closed
+1602,483,30/07/2021,J. Kowalski,INS-86032,Plumbing,Pass,70,1,,,Army Corps,Cited violation
+1603,483,11/18/2020,S. Williams,?,Environmental Compliance,Pass,64,0,N,,FTA,Follow-up required
+1604,483,2020/03/29,I. Jackson,INS-32754,Routine Safety,Pass,79,3,N,,State DEP,Cited violation
+1605,483,08/07/2021,K. O'Brien,INS-88854,Interim Progress,Pass,62,0,N,,OSHA,Escalated to state
+1606,483,10-12-2023,K. O'Brien,INS-10061,Final Walkthrough,Pass,58,2,yes,,FHWA,
+1607,483,25/08/2022,J. Kowalski,INS-74246,Interim Progress,Pass,90,1,Y,05-15-2024,Army Corps,
+1608,484,03/11/2020,I. Jackson,INS-50972,Electrical,Fail,36,1,Y,31/07/2019,FTA,
+1609,484,04/16/2023,S. Williams,INS-36531,Environmental Compliance,Pass,81,2,Y,,EPA,Cited violation
+1610,484,2021/10/31,J. Kowalski,,Structural,Pass,77,1,,,State DOT,Escalated to state
+1611,485,2025/01/08,A. Nguyen,INS-25939,Fire Safety,Pass,74,1,YES,,Local Building Dept,Escalated to state
+1612,486,02/15/2025,H. Lee,INS-19748,Quality Control,Pass,72,2,Y,2021/06/26,EPA,
+1613,486,2022/10/25,G. Martinez,INS-21943,Plumbing,Pass,70,2,N,,Army Corps,Follow-up required
+1614,487,2019-07-01,E. Hoffman,INS-54822,Environmental Compliance,Pass,66,1,Y,,FHWA,Cited violation
+1615,488,24/12/2019,H. Lee,INS-66515,Plumbing,Pass,71,3,No,,State DEP,Escalated to state
+1616,488,04/24/2022,E. Hoffman,INS-71493,Electrical,Pass,68,2,N,,FHWA,Follow-up required
+1617,488,02/23/2019,R. Patel,INS-82953,Quality Control,Pass,68,3,YES,04/03/2023,Army Corps,
+1618,488,12-15-2020,G. Martinez,INS-49551,Environmental Compliance,Fail,43,5,,,State DEP,Escalated to state
+1619,488,2025-05-22,R. Patel,INS-60585,Final Walkthrough,Pass,,1,N,,State DOT,Follow-up required
+1620,488,2019/11/22,H. Lee,INS-38260,Routine Safety,Fail,41,1,yes,,FAA,Escalated to state
+1621,489,2020/12/16,B. Torres,INS-10006,Quality Control,Pass,86,2,N,,OSHA,Closed
+1622,489,02-28-2021,G. Martinez,INS-89103,Interim Progress,Pass,72,0,y,03/19/2022,OSHA,
+1623,489,08-06-2022,J. Kowalski,INS-22325,Plumbing,Pass,,3,N,,Army Corps,
+1624,489,03/16/2020,S. Williams,INS-79229,Routine Safety,Pass,,3,N,,Army Corps,Escalated to state
+1625,489,2024/04/29,G. Martinez,INS-91562,Structural,Pass,73,1,no,,FAA,Closed
+1626,489,15/12/2021,C. Richardson,INS-15303,Routine Safety,Pass,TBD,2,yes,,OSHA,
+1627,491,2023/10/06,R. Patel,,Plumbing,Pass,79,2,N,,FHWA,
+1628,491,01/05/2022,A. Nguyen,INS-17469,Interim Progress,Pass,68,3,Y,09/08/2020,Local Building Dept,Cited violation
+1629,492,07/11/2022,R. Patel,INS-71776,Quality Control,Fail,60,6,Y,,State DEP,
+1630,492,,K. O'Brien,INS-31596,Environmental Compliance,Pass,74,0,N,,FAA,
+1631,492,04/11/2020,G. Martinez,INS-19356,Structural,Fail,40,1,Y,11/18/2020,State DOT,
+1632,492,2023-01-09,H. Lee,n/a,Final Walkthrough,PASS,80,0,N,,Local Building Dept,Escalated to state
+1633,492,2019-11-27,R. Patel,INS-16958,Fire Safety,Pass,92,2,N,,EPA,
+1634,492,09-11-2020,H. Lee,INS-81615,Quality Control,Fail,54,7,Y,,Local Building Dept,Cited violation
+1635,493,29/03/2022,G. Martinez,INS-27431,Final Walkthrough,Fail,38,3,Y,2019-06-12,State DOT,Cited violation
+1636,493,2019/05/13,J. Kowalski,INS-28649,Final Walkthrough,Fail,42,,Y,2025/04/14,State DEP,Follow-up required
+1637,493,2021/11/14,A. Nguyen,INS-83475,Quality Control,Pass,92,3,,,FTA,
+1638,493,2021/02/08,G. Martinez,INS-88624,Routine Safety,Pass,74,3,N,,EPA,
+1639,493,2021/10/21,B. Torres,INS-17870,Interim Progress,Fail,62,1,Y,,State DOT,
+1640,494,29/02/2024,I. Jackson,INS-85847,Fire Safety,Pass,,0,N,,Local Building Dept,
+1641,495,2020/11/27,G. Martinez,INS-44017,Quality Control,Pass with Conditions,71,0,Y,12-27-2020,EPA,
+1642,495,16/05/2024,S. Williams,INS-78500,Final Walkthrough,Pass with Conditions,N/A,,Y,,EPA,Cited violation
+1643,495,05-20-2024,G. Martinez,,Electrical,Pass,97,2,N,,Local Building Dept,Cited violation
+1644,495,11/23/2021,R. Patel,INS-21805,Fire Safety,Deferred,68,3,N,,Army Corps,Cited violation
+1645,496,2022-02-13,H. Lee,INS-96708,Environmental Compliance,Pass,74,3,y,,FHWA,
+1646,496,2024-06-10,J. Kowalski,INS-69493,Interim Progress,Pass,85,0,N,,FAA,
+1647,496,,H. Lee,INS-18416,Quality Control,Pass,98,2,N,,OSHA,
+1648,496,2024-07-08,C. Richardson,,Final Walkthrough,Pass,97,2,N,,FTA,
+1649,497,2023/01/25,S. Williams,INS-14290,Environmental Compliance,Pass with Conditions,99,0,Y,08/17/2021,Army Corps,Closed
+1650,497,2023/10/29,R. Patel,TBD,Routine Safety,Pass,97,1,N,,FAA,
+1651,497,12-12-2019,J. Kowalski,INS-55049,Routine Safety,Pass,76,2,Y,2020/03/18,EPA,Follow-up required
+1652,497,09/25/2022,R. Patel,INS-63564,Routine Safety,FAIL,75,,N,,EPA,
+1653,498,,R. Patel,INS-71441,Electrical,Pass,96,2,N,,Army Corps,
+1654,498,2023/09/02,R. Patel,INS-18534,Environmental Compliance,Pass,93,2,Y,,Local Building Dept,
+1655,498,23/09/2021,S. Williams,INS-11738,Plumbing,Pass,100,2,no,,Army Corps,
+1656,498,11/26/2021,G. Martinez,INS-18940,Routine Safety,Pass,65,2,Y,10/09/2024,FHWA,
+1657,498,16/11/2020,E. Hoffman,INS-90723,Interim Progress,FAIL,N/A,3,N,,State DOT,
+1658,498,2022-04-11,R. Patel,INS-77149,Interim Progress,Pass,92,1,N,,FAA,Follow-up required
+1659,499,04/08/2021,B. Torres,INS-95197,Electrical,Pass,72,3,N,,State DOT,
+1660,499,2019/10/24,B. Torres,INS-21912,Final Walkthrough,Pass with Conditions,93,1,Y,,FTA,
+1661,500,2024-04-22,R. Patel,INS-82853,Final Walkthrough,Pass,55,3,Y,2025-07-09,State DEP,
+1662,500,01-18-2024,E. Hoffman,INS-98091,Interim Progress,pass,89,3,N,,Local Building Dept,Follow-up required
